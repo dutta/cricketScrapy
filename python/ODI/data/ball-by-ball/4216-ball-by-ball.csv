@@ -1,0 +1,554 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,0.1,no run,0,0,0/0,"Theron to Chirag Suri, no run",,,0
+1,2,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, 1 run ",1st innings,0.2,run,1,1,1/0,"Theron to Chirag Suri, 1 run",,,0
+2,3,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,0.3,no run,1,0,1/0,"Theron to Aravind, no run",,,0
+3,4,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,0.4,no run,1,0,1/0,"Theron to Aravind, no run",,,0
+4,5,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,0.5,no run,1,0,1/0,"Theron to Aravind, no run",,,0
+5,6,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,1.0,no run,1,0,1/0,"Theron to Aravind, no run",,,0
+6,7,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,1.1,no run,1,0,1/0,"Netravalkar to Chirag Suri, no run",,,0
+7,8,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,1.2,no run,1,0,1/0,"Netravalkar to Chirag Suri, no run",,,0
+8,9,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, 1 run ",1st innings,1.3,run,2,1,2/0,"Netravalkar to Chirag Suri, 1 run",,,0
+9,10,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,1.4,no run,2,0,2/0,"Netravalkar to Aravind, no run",,,0
+10,11,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, 1 run ",1st innings,1.5,run,3,1,3/0,"Netravalkar to Aravind, 1 run",,,0
+11,12,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,2.0,no run,3,0,3/0,"Netravalkar to Chirag Suri, no run",,,0
+12,13,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,2.1,no run,3,0,3/0,"Theron to Aravind, no run",,,0
+13,14,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, 1 run ",1st innings,2.2,run,4,1,4/0,"Theron to Aravind, 1 run",,,0
+14,15,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,2.3,no run,4,0,4/0,"Theron to Chirag Suri, no run",,,0
+15,16,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, 1 run ",1st innings,2.4,run,5,1,5/0,"Theron to Chirag Suri, 1 run",,,0
+16,17,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,2.5,no run,5,0,5/0,"Theron to Aravind, no run",,,0
+17,18,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,3.0,no run,5,0,5/0,"Theron to Aravind, no run",,,0
+18,19,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,3.1,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+19,20,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,3.2,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+20,21,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,3.3,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+21,22,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,3.4,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+22,23,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,3.5,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+23,24,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,4.0,no run,5,0,5/0,"Netravalkar to Chirag Suri, no run",,,0
+24,25,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,4.1,no run,5,0,5/0,"Theron to Aravind, no run",,,0
+25,26,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, FOUR runs ",1st innings,4.2,four,9,4,9/0,"Theron to Aravind, FOUR runs",,,0
+26,27,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, FOUR runs ",1st innings,4.3,four,13,4,13/0,"Theron to Aravind, FOUR runs",,,0
+27,28,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, no run ",1st innings,4.4,no run,13,0,13/0,"Theron to Aravind, no run",,,0
+28,29,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, 1 leg bye ",1st innings,4.5,leg bye,14,1,14/0,"Theron to Aravind, 1 leg bye",,,0
+29,29,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, 1 wide ",1st innings,4.5,wide,15,1,15/0,"Theron to Chirag Suri, 1 wide",,,0
+30,30,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,5.0,no run,15,0,15/0,"Theron to Chirag Suri, no run",,,0
+31,31,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,5.1,no run,15,0,15/0,"Netravalkar to Aravind, no run",,,0
+32,32,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,5.2,no run,15,0,15/0,"Netravalkar to Aravind, no run",,,0
+33,33,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,5.3,no run,15,0,15/0,"Netravalkar to Aravind, no run",,,0
+34,34,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, FOUR runs ",1st innings,5.4,four,19,4,19/0,"Netravalkar to Aravind, FOUR runs",,,0
+35,35,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, 1 run ",1st innings,5.5,run,20,1,20/0,"Netravalkar to Aravind, 1 run",,,0
+36,36,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,6.0,no run,20,0,20/0,"Netravalkar to Chirag Suri, no run",,,0
+37,37,Vriitya Aravind,1178586,Rusty Theron,223642,"Theron to Aravind, 1 run ",1st innings,6.1,run,21,1,21/0,"Theron to Aravind, 1 run",,,0
+38,38,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,6.2,no run,21,0,21/0,"Theron to Chirag Suri, no run",,,0
+39,39,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, SIX runs ",1st innings,6.3,six,27,6,27/0,"Theron to Chirag Suri, SIX runs",,,0
+40,40,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,6.4,no run,27,0,27/0,"Theron to Chirag Suri, no run",,,0
+41,41,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,6.5,no run,27,0,27/0,"Theron to Chirag Suri, no run",,,0
+42,42,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,7.0,no run,27,0,27/0,"Theron to Chirag Suri, no run",,,0
+43,43,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,7.1,no run,27,0,27/0,"Netravalkar to Aravind, no run",,,0
+44,44,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,7.2,no run,27,0,27/0,"Netravalkar to Aravind, no run",,,0
+45,45,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, no run ",1st innings,7.3,no run,27,0,27/0,"Netravalkar to Aravind, no run",,,0
+46,46,Vriitya Aravind,1178586,Saurabh Netravalkar,398513,"Netravalkar to Aravind, OUT ",1st innings,7.4,out,27,0,27/1,"Netravalkar to Aravind, OUT",,,1
+47,47,Darius D'Silva,1126694,Saurabh Netravalkar,398513,"Netravalkar to D'Silva, FOUR runs ",1st innings,7.5,four,31,4,31/1,"Netravalkar to D'Silva, FOUR runs",,,1
+48,48,Darius D'Silva,1126694,Saurabh Netravalkar,398513,"Netravalkar to D'Silva, no run ",1st innings,8.0,no run,31,0,31/1,"Netravalkar to D'Silva, no run",,,1
+49,49,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,8.1,no run,31,0,31/1,"Stevenson to Chirag Suri, no run",,,1
+50,50,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,8.2,no run,31,0,31/1,"Stevenson to Chirag Suri, no run",,,1
+51,51,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,8.3,no run,31,0,31/1,"Stevenson to Chirag Suri, no run",,,1
+52,52,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,8.4,no run,31,0,31/1,"Stevenson to Chirag Suri, no run",,,1
+53,53,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, FOUR runs ",1st innings,8.5,four,35,4,35/1,"Stevenson to Chirag Suri, FOUR runs",,,1
+54,54,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 2 runs ",1st innings,9.0,run,37,2,37/1,"Stevenson to Chirag Suri, 2 runs",,,1
+55,55,Darius D'Silva,1126694,Saurabh Netravalkar,398513,"Netravalkar to D'Silva, OUT ",1st innings,9.1,out,37,0,37/2,"Netravalkar to D'Silva, OUT",,,2
+56,56,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,9.2,no run,37,0,37/2,"Netravalkar to Chirag Suri, no run",,,2
+57,57,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, 1 run ",1st innings,9.3,run,38,1,38/2,"Netravalkar to Chirag Suri, 1 run",,,2
+58,58,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, no run ",1st innings,9.4,no run,38,0,38/2,"Netravalkar to Basil Hameed, no run",,,2
+59,59,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, no run ",1st innings,9.5,no run,38,0,38/2,"Netravalkar to Basil Hameed, no run",,,2
+60,60,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, no run ",1st innings,10.0,no run,38,0,38/2,"Netravalkar to Basil Hameed, no run",,,2
+61,61,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,10.1,no run,38,0,38/2,"Stevenson to Chirag Suri, no run",,,2
+62,62,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 1 leg bye ",1st innings,10.2,leg bye,39,1,39/2,"Stevenson to Chirag Suri, 1 leg bye",,,2
+63,63,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,10.3,no run,39,0,39/2,"Stevenson to Basil Hameed, no run",,,2
+64,64,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,10.4,no run,39,0,39/2,"Stevenson to Basil Hameed, no run",,,2
+65,64,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, 1 wide ",1st innings,10.4,wide,40,1,40/2,"Stevenson to Basil Hameed, 1 wide",,,2
+66,65,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,10.5,no run,40,0,40/2,"Stevenson to Basil Hameed, no run",,,2
+67,66,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,11.0,no run,40,0,40/2,"Stevenson to Basil Hameed, no run",,,2
+68,67,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,11.1,no run,40,0,40/2,"Netravalkar to Chirag Suri, no run",,,2
+69,68,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, 1 run ",1st innings,11.2,run,41,1,41/2,"Netravalkar to Chirag Suri, 1 run",,,2
+70,69,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, no run ",1st innings,11.3,no run,41,0,41/2,"Netravalkar to Basil Hameed, no run",,,2
+71,70,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, no run ",1st innings,11.4,no run,41,0,41/2,"Netravalkar to Basil Hameed, no run",,,2
+72,71,Basil Hameed,1209110,Saurabh Netravalkar,398513,"Netravalkar to Basil Hameed, 1 run ",1st innings,11.5,run,42,1,42/2,"Netravalkar to Basil Hameed, 1 run",,,2
+73,72,Chirag Suri,534734,Saurabh Netravalkar,398513,"Netravalkar to Chirag Suri, no run ",1st innings,12.0,no run,42,0,42/2,"Netravalkar to Chirag Suri, no run",,,2
+74,73,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,12.1,no run,42,0,42/2,"Stevenson to Basil Hameed, no run",,,2
+75,74,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, 1 run ",1st innings,12.2,run,43,1,43/2,"Stevenson to Basil Hameed, 1 run",,,2
+76,75,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,12.3,no run,43,0,43/2,"Stevenson to Chirag Suri, no run",,,2
+77,76,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 4 leg byes ",1st innings,12.4,leg bye,47,4,47/2,"Stevenson to Chirag Suri, 4 leg byes",,,2
+78,77,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,12.5,no run,47,0,47/2,"Stevenson to Chirag Suri, no run",,,2
+79,78,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,13.0,no run,47,0,47/2,"Stevenson to Chirag Suri, no run",,,2
+80,79,Basil Hameed,1209110,Ian Holland,334340,"Holland to Basil Hameed, FOUR runs ",1st innings,13.1,four,51,4,51/2,"Holland to Basil Hameed, FOUR runs",,,2
+81,80,Basil Hameed,1209110,Ian Holland,334340,"Holland to Basil Hameed, no run ",1st innings,13.2,no run,51,0,51/2,"Holland to Basil Hameed, no run",,,2
+82,81,Basil Hameed,1209110,Ian Holland,334340,"Holland to Basil Hameed, no run ",1st innings,13.3,no run,51,0,51/2,"Holland to Basil Hameed, no run",,,2
+83,82,Basil Hameed,1209110,Ian Holland,334340,"Holland to Basil Hameed, FOUR runs ",1st innings,13.4,four,55,4,55/2,"Holland to Basil Hameed, FOUR runs",,,2
+84,83,Basil Hameed,1209110,Ian Holland,334340,"Holland to Basil Hameed, 1 run ",1st innings,13.5,run,56,1,56/2,"Holland to Basil Hameed, 1 run",,,2
+85,84,Chirag Suri,534734,Ian Holland,334340,"Holland to Chirag Suri, no run ",1st innings,14.0,no run,56,0,56/2,"Holland to Chirag Suri, no run",,,2
+86,85,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,14.1,no run,56,0,56/2,"Stevenson to Basil Hameed, no run",,,2
+87,86,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,14.2,no run,56,0,56/2,"Stevenson to Basil Hameed, no run",,,2
+88,87,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, 1 run ",1st innings,14.3,run,57,1,57/2,"Stevenson to Basil Hameed, 1 run",,,2
+89,88,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,14.4,no run,57,0,57/2,"Stevenson to Chirag Suri, no run",,,2
+90,89,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 1 run ",1st innings,14.5,run,58,1,58/2,"Stevenson to Chirag Suri, 1 run",,,2
+91,90,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, no run ",1st innings,15.0,no run,58,0,58/2,"Stevenson to Basil Hameed, no run",,,2
+92,91,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,15.1,no run,58,0,58/2,"Gore to Chirag Suri, no run",,,2
+93,92,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, 1 run ",1st innings,15.2,run,59,1,59/2,"Gore to Chirag Suri, 1 run",,,2
+94,93,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, no run ",1st innings,15.3,no run,59,0,59/2,"Gore to Basil Hameed, no run",,,2
+95,94,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, FOUR runs ",1st innings,15.4,four,63,4,63/2,"Gore to Basil Hameed, FOUR runs",,,2
+96,95,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, 1 run ",1st innings,15.5,run,64,1,64/2,"Gore to Basil Hameed, 1 run",,,2
+97,96,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, 1 run ",1st innings,16.0,run,65,1,65/2,"Gore to Chirag Suri, 1 run",,,2
+98,97,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 1 run ",1st innings,16.1,run,66,1,66/2,"Stevenson to Chirag Suri, 1 run",,,2
+99,98,Basil Hameed,1209110,Cameron Stevenson,953793,"Stevenson to Basil Hameed, 1 run ",1st innings,16.2,run,67,1,67/2,"Stevenson to Basil Hameed, 1 run",,,2
+100,99,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, FOUR runs ",1st innings,16.3,four,71,4,71/2,"Stevenson to Chirag Suri, FOUR runs",,,2
+101,100,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,16.4,no run,71,0,71/2,"Stevenson to Chirag Suri, no run",,,2
+102,101,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,16.5,no run,71,0,71/2,"Stevenson to Chirag Suri, no run",,,2
+103,101,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, 1 wide ",1st innings,16.5,wide,72,1,72/2,"Stevenson to Chirag Suri, 1 wide",,,2
+104,102,Chirag Suri,534734,Cameron Stevenson,953793,"Stevenson to Chirag Suri, no run ",1st innings,17.0,no run,72,0,72/2,"Stevenson to Chirag Suri, no run",,,2
+105,103,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, no run ",1st innings,17.1,no run,72,0,72/2,"Gore to Basil Hameed, no run",,,2
+106,104,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, no run ",1st innings,17.2,no run,72,0,72/2,"Gore to Basil Hameed, no run",,,2
+107,105,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, 1 run ",1st innings,17.3,run,73,1,73/2,"Gore to Basil Hameed, 1 run",,,2
+108,106,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,17.4,no run,73,0,73/2,"Gore to Chirag Suri, no run",,,2
+109,107,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, FOUR runs ",1st innings,17.5,four,77,4,77/2,"Gore to Chirag Suri, FOUR runs",,,2
+110,108,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,18.0,no run,77,0,77/2,"Gore to Chirag Suri, no run",,,2
+111,109,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, no run ",1st innings,18.1,no run,77,0,77/2,"Theron to Basil Hameed, no run",,,2
+112,110,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, FOUR runs ",1st innings,18.2,four,81,4,81/2,"Theron to Basil Hameed, FOUR runs",,,2
+113,111,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, no run ",1st innings,18.3,no run,81,0,81/2,"Theron to Basil Hameed, no run",,,2
+114,112,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, no run ",1st innings,18.4,no run,81,0,81/2,"Theron to Basil Hameed, no run",,,2
+115,113,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, 1 run ",1st innings,18.5,run,82,1,82/2,"Theron to Basil Hameed, 1 run",,,2
+116,114,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,19.0,no run,82,0,82/2,"Theron to Chirag Suri, no run",,,2
+117,115,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, no run ",1st innings,19.1,no run,82,0,82/2,"Gore to Basil Hameed, no run",,,2
+118,116,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, 1 run ",1st innings,19.2,run,83,1,83/2,"Gore to Basil Hameed, 1 run",,,2
+119,117,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,19.3,no run,83,0,83/2,"Gore to Chirag Suri, no run",,,2
+120,118,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,19.4,no run,83,0,83/2,"Gore to Chirag Suri, no run",,,2
+121,119,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, 1 run ",1st innings,19.5,run,84,1,84/2,"Gore to Chirag Suri, 1 run",,,2
+122,120,Basil Hameed,1209110,Karima Gore,1139028,"Gore to Basil Hameed, no run ",1st innings,20.0,no run,84,0,84/2,"Gore to Basil Hameed, no run",,,2
+123,121,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,20.1,no run,84,0,84/2,"Theron to Chirag Suri, no run",,,2
+124,122,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,20.2,no run,84,0,84/2,"Theron to Chirag Suri, no run",,,2
+125,122,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, (no ball) FOUR runs ",1st innings,20.2,four,89,5,89/2,"Theron to Chirag Suri, (no ball) FOUR runs",,,2
+126,123,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, 1 run ",1st innings,20.3,run,90,1,90/2,"Theron to Chirag Suri, 1 run",,,2
+127,124,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, no run ",1st innings,20.4,no run,90,0,90/2,"Theron to Basil Hameed, no run",,,2
+128,125,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, no run ",1st innings,20.5,no run,90,0,90/2,"Theron to Basil Hameed, no run",,,2
+129,126,Basil Hameed,1209110,Rusty Theron,223642,"Theron to Basil Hameed, OUT ",1st innings,21.0,out,90,0,90/3,"Theron to Basil Hameed, OUT",,,3
+130,127,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,21.1,no run,90,0,90/3,"Gore to Chirag Suri, no run",,,3
+131,128,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, 1 run ",1st innings,21.2,run,91,1,91/3,"Gore to Chirag Suri, 1 run",,,3
+132,129,Muhammad Usman,974719,Karima Gore,1139028,"Gore to Muhammad Usman, no run ",1st innings,21.3,no run,91,0,91/3,"Gore to Muhammad Usman, no run",,,3
+133,130,Muhammad Usman,974719,Karima Gore,1139028,"Gore to Muhammad Usman, 1 run ",1st innings,21.4,run,92,1,92/3,"Gore to Muhammad Usman, 1 run",,,3
+134,131,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,21.5,no run,92,0,92/3,"Gore to Chirag Suri, no run",,,3
+135,132,Chirag Suri,534734,Karima Gore,1139028,"Gore to Chirag Suri, no run ",1st innings,22.0,no run,92,0,92/3,"Gore to Chirag Suri, no run",,,3
+136,133,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,22.1,no run,92,0,92/3,"Theron to Muhammad Usman, no run",,,3
+137,134,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,22.2,no run,92,0,92/3,"Theron to Muhammad Usman, no run",,,3
+138,135,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,22.3,no run,92,0,92/3,"Theron to Muhammad Usman, no run",,,3
+139,135,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 wide ",1st innings,22.3,wide,93,1,93/3,"Theron to Muhammad Usman, 1 wide",,,3
+140,135,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 wide ",1st innings,22.3,wide,94,1,94/3,"Theron to Muhammad Usman, 1 wide",,,3
+141,136,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,22.4,no run,94,0,94/3,"Theron to Muhammad Usman, no run",,,3
+142,137,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 run ",1st innings,22.5,run,95,1,95/3,"Theron to Muhammad Usman, 1 run",,,3
+143,138,Chirag Suri,534734,Rusty Theron,223642,"Theron to Chirag Suri, no run ",1st innings,23.0,no run,95,0,95/3,"Theron to Chirag Suri, no run",,,3
+144,139,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,23.1,no run,95,0,95/3,"Taylor to Muhammad Usman, no run",,,3
+145,140,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,23.2,no run,95,0,95/3,"Taylor to Muhammad Usman, no run",,,3
+146,141,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,23.3,run,96,1,96/3,"Taylor to Muhammad Usman, 1 run",,,3
+147,142,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, 2 runs ",1st innings,23.4,run,98,2,98/3,"Taylor to Chirag Suri, 2 runs",,,3
+148,143,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, 2 runs ",1st innings,23.5,run,100,2,100/3,"Taylor to Chirag Suri, 2 runs",,,3
+149,144,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, 1 run ",1st innings,24.0,run,101,1,101/3,"Taylor to Chirag Suri, 1 run",,,3
+150,145,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,24.1,no run,101,0,101/3,"Kenjige to Chirag Suri, no run",,,3
+151,146,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,24.2,no run,101,0,101/3,"Kenjige to Chirag Suri, no run",,,3
+152,147,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, 1 run ",1st innings,24.3,run,102,1,102/3,"Kenjige to Chirag Suri, 1 run",,,3
+153,148,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,24.4,no run,102,0,102/3,"Kenjige to Muhammad Usman, no run",,,3
+154,149,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,24.5,run,103,1,103/3,"Kenjige to Muhammad Usman, 1 run",,,3
+155,150,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,25.0,no run,103,0,103/3,"Kenjige to Chirag Suri, no run",,,3
+156,151,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,25.1,no run,103,0,103/3,"Taylor to Muhammad Usman, no run",,,3
+157,152,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,25.2,no run,103,0,103/3,"Taylor to Muhammad Usman, no run",,,3
+158,153,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,25.3,run,104,1,104/3,"Taylor to Muhammad Usman, 1 run",,,3
+159,154,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, no run ",1st innings,25.4,no run,104,0,104/3,"Taylor to Chirag Suri, no run",,,3
+160,155,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, no run ",1st innings,25.5,no run,104,0,104/3,"Taylor to Chirag Suri, no run",,,3
+161,156,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, 1 run ",1st innings,26.0,run,105,1,105/3,"Taylor to Chirag Suri, 1 run",,,3
+162,157,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,26.1,no run,105,0,105/3,"Kenjige to Chirag Suri, no run",,,3
+163,158,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,26.2,no run,105,0,105/3,"Kenjige to Chirag Suri, no run",,,3
+164,159,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, 1 run ",1st innings,26.3,run,106,1,106/3,"Kenjige to Chirag Suri, 1 run",,,3
+165,160,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, FOUR runs ",1st innings,26.4,four,110,4,110/3,"Kenjige to Muhammad Usman, FOUR runs",,,3
+166,161,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,26.5,run,111,1,111/3,"Kenjige to Muhammad Usman, 1 run",,,3
+167,162,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,27.0,no run,111,0,111/3,"Kenjige to Chirag Suri, no run",,,3
+168,163,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,27.1,run,112,1,112/3,"Taylor to Muhammad Usman, 1 run",,,3
+169,164,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, 1 run ",1st innings,27.2,run,113,1,113/3,"Taylor to Chirag Suri, 1 run",,,3
+170,165,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,27.3,no run,113,0,113/3,"Taylor to Muhammad Usman, no run",,,3
+171,166,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,27.4,no run,113,0,113/3,"Taylor to Muhammad Usman, no run",,,3
+172,167,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, FOUR runs ",1st innings,27.5,four,117,4,117/3,"Taylor to Muhammad Usman, FOUR runs",,,3
+173,168,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,28.0,no run,117,0,117/3,"Taylor to Muhammad Usman, no run",,,3
+174,169,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,28.1,no run,117,0,117/3,"Kenjige to Chirag Suri, no run",,,3
+175,170,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,28.2,no run,117,0,117/3,"Kenjige to Chirag Suri, no run",,,3
+176,171,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, no run ",1st innings,28.3,no run,117,0,117/3,"Kenjige to Chirag Suri, no run",,,3
+177,172,Chirag Suri,534734,Nosthush Kenjige,1041679,"Kenjige to Chirag Suri, 1 run ",1st innings,28.4,run,118,1,118/3,"Kenjige to Chirag Suri, 1 run",,,3
+178,173,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,28.5,no run,118,0,118/3,"Kenjige to Muhammad Usman, no run",,,3
+179,174,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,29.0,no run,118,0,118/3,"Kenjige to Muhammad Usman, no run",,,3
+180,175,Chirag Suri,534734,Steven Taylor,348133,"Taylor to Chirag Suri, OUT ",1st innings,29.1,out,118,0,118/4,"Taylor to Chirag Suri, OUT",,,4
+181,176,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,29.2,no run,118,0,118/4,"Taylor to Muhammad Usman, no run",,,4
+182,177,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,29.3,no run,118,0,118/4,"Taylor to Muhammad Usman, no run",,,4
+183,178,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,29.4,run,119,1,119/4,"Taylor to Muhammad Usman, 1 run",,,4
+184,179,Rohan Mustafa,307808,Steven Taylor,348133,"Taylor to Rohan Mustafa, 1 run ",1st innings,29.5,run,120,1,120/4,"Taylor to Rohan Mustafa, 1 run",,,4
+185,180,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,30.0,run,121,1,121/4,"Taylor to Muhammad Usman, 1 run",,,4
+186,181,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,30.1,run,122,1,122/4,"Kenjige to Muhammad Usman, 1 run",,,4
+187,182,Rohan Mustafa,307808,Nosthush Kenjige,1041679,"Kenjige to Rohan Mustafa, no run ",1st innings,30.2,no run,122,0,122/4,"Kenjige to Rohan Mustafa, no run",,,4
+188,183,Rohan Mustafa,307808,Nosthush Kenjige,1041679,"Kenjige to Rohan Mustafa, FOUR runs ",1st innings,30.3,four,126,4,126/4,"Kenjige to Rohan Mustafa, FOUR runs",,,4
+189,184,Rohan Mustafa,307808,Nosthush Kenjige,1041679,"Kenjige to Rohan Mustafa, no run ",1st innings,30.4,no run,126,0,126/4,"Kenjige to Rohan Mustafa, no run",,,4
+190,185,Rohan Mustafa,307808,Nosthush Kenjige,1041679,"Kenjige to Rohan Mustafa, no run ",1st innings,30.5,no run,126,0,126/4,"Kenjige to Rohan Mustafa, no run",,,4
+191,186,Rohan Mustafa,307808,Nosthush Kenjige,1041679,"Kenjige to Rohan Mustafa, no run ",1st innings,31.0,no run,126,0,126/4,"Kenjige to Rohan Mustafa, no run",,,4
+192,187,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,31.1,no run,126,0,126/4,"Taylor to Muhammad Usman, no run",,,4
+193,188,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,31.2,run,127,1,127/4,"Taylor to Muhammad Usman, 1 run",,,4
+194,189,Rohan Mustafa,307808,Steven Taylor,348133,"Taylor to Rohan Mustafa, FOUR runs ",1st innings,31.3,four,131,4,131/4,"Taylor to Rohan Mustafa, FOUR runs",,,4
+195,190,Rohan Mustafa,307808,Steven Taylor,348133,"Taylor to Rohan Mustafa, no run ",1st innings,31.4,no run,131,0,131/4,"Taylor to Rohan Mustafa, no run",,,4
+196,191,Rohan Mustafa,307808,Steven Taylor,348133,"Taylor to Rohan Mustafa, no run ",1st innings,31.5,no run,131,0,131/4,"Taylor to Rohan Mustafa, no run",,,4
+197,192,Rohan Mustafa,307808,Steven Taylor,348133,"Taylor to Rohan Mustafa, OUT ",1st innings,32.0,out,131,0,131/5,"Taylor to Rohan Mustafa, OUT",,,5
+198,193,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,32.1,no run,131,0,131/5,"Kenjige to Muhammad Usman, no run",,,5
+199,194,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,32.2,run,132,1,132/5,"Kenjige to Muhammad Usman, 1 run",,,5
+200,195,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,32.3,no run,132,0,132/5,"Kenjige to Waheed Ahmed, no run",,,5
+201,196,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,32.4,no run,132,0,132/5,"Kenjige to Waheed Ahmed, no run",,,5
+202,197,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,32.5,no run,132,0,132/5,"Kenjige to Waheed Ahmed, no run",,,5
+203,198,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,33.0,no run,132,0,132/5,"Kenjige to Waheed Ahmed, no run",,,5
+204,199,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,33.1,run,133,1,133/5,"Taylor to Muhammad Usman, 1 run",,,5
+205,200,Waheed Ahmed,950309,Steven Taylor,348133,"Taylor to Waheed Ahmed, no run ",1st innings,33.2,no run,133,0,133/5,"Taylor to Waheed Ahmed, no run",,,5
+206,201,Waheed Ahmed,950309,Steven Taylor,348133,"Taylor to Waheed Ahmed, no run ",1st innings,33.3,no run,133,0,133/5,"Taylor to Waheed Ahmed, no run",,,5
+207,202,Waheed Ahmed,950309,Steven Taylor,348133,"Taylor to Waheed Ahmed, 1 run ",1st innings,33.4,run,134,1,134/5,"Taylor to Waheed Ahmed, 1 run",,,5
+208,203,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,33.5,no run,134,0,134/5,"Taylor to Muhammad Usman, no run",,,5
+209,204,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 1 run ",1st innings,34.0,run,135,1,135/5,"Taylor to Muhammad Usman, 1 run",,,5
+210,205,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,34.1,no run,135,0,135/5,"Kenjige to Muhammad Usman, no run",,,5
+211,206,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,34.2,no run,135,0,135/5,"Kenjige to Muhammad Usman, no run",,,5
+212,207,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,34.3,run,136,1,136/5,"Kenjige to Muhammad Usman, 1 run",,,5
+213,208,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,34.4,no run,136,0,136/5,"Kenjige to Waheed Ahmed, no run",,,5
+214,209,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,34.5,no run,136,0,136/5,"Kenjige to Waheed Ahmed, no run",,,5
+215,210,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, no run ",1st innings,35.0,no run,136,0,136/5,"Kenjige to Waheed Ahmed, no run",,,5
+216,211,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,35.1,no run,136,0,136/5,"Taylor to Muhammad Usman, no run",,,5
+217,212,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,35.2,no run,136,0,136/5,"Taylor to Muhammad Usman, no run",,,5
+218,213,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,35.3,no run,136,0,136/5,"Taylor to Muhammad Usman, no run",,,5
+219,214,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,35.4,no run,136,0,136/5,"Taylor to Muhammad Usman, no run",,,5
+220,215,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,35.5,no run,136,0,136/5,"Taylor to Muhammad Usman, no run",,,5
+221,216,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, 2 byes ",1st innings,36.0,bye,138,2,138/5,"Taylor to Muhammad Usman, 2 byes",,,5
+222,217,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, FOUR runs ",1st innings,36.1,four,142,4,142/5,"Kenjige to Waheed Ahmed, FOUR runs",,,5
+223,218,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, 1 run ",1st innings,36.2,run,143,1,143/5,"Kenjige to Waheed Ahmed, 1 run",,,5
+224,219,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,36.3,run,144,1,144/5,"Kenjige to Muhammad Usman, 1 run",,,5
+225,220,Waheed Ahmed,950309,Nosthush Kenjige,1041679,"Kenjige to Waheed Ahmed, OUT ",1st innings,36.4,out,144,0,144/6,"Kenjige to Waheed Ahmed, OUT",,,6
+226,221,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,36.5,no run,144,0,144/6,"Kenjige to Ahmed Raza, no run",,,6
+227,222,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,37.0,no run,144,0,144/6,"Kenjige to Ahmed Raza, no run",,,6
+228,223,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, FOUR runs ",1st innings,37.1,four,148,4,148/6,"Taylor to Muhammad Usman, FOUR runs",,,6
+229,224,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,37.2,no run,148,0,148/6,"Taylor to Muhammad Usman, no run",,,6
+230,225,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,37.3,no run,148,0,148/6,"Taylor to Muhammad Usman, no run",,,6
+231,226,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,37.4,no run,148,0,148/6,"Taylor to Muhammad Usman, no run",,,6
+232,227,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, no run ",1st innings,37.5,no run,148,0,148/6,"Taylor to Muhammad Usman, no run",,,6
+233,228,Muhammad Usman,974719,Steven Taylor,348133,"Taylor to Muhammad Usman, FOUR runs ",1st innings,38.0,four,152,4,152/6,"Taylor to Muhammad Usman, FOUR runs",,,6
+234,229,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,38.1,no run,152,0,152/6,"Kenjige to Ahmed Raza, no run",,,6
+235,230,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,38.2,no run,152,0,152/6,"Kenjige to Ahmed Raza, no run",,,6
+236,231,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,38.3,no run,152,0,152/6,"Kenjige to Ahmed Raza, no run",,,6
+237,232,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, 2 runs ",1st innings,38.4,run,154,2,154/6,"Kenjige to Ahmed Raza, 2 runs",,,6
+238,233,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, 1 run ",1st innings,38.5,run,155,1,155/6,"Kenjige to Ahmed Raza, 1 run",,,6
+239,233,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 wide ",1st innings,38.5,wide,156,1,156/6,"Kenjige to Muhammad Usman, 1 wide",,,6
+240,234,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,39.0,run,157,1,157/6,"Kenjige to Muhammad Usman, 1 run",,,6
+241,235,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,39.1,run,158,1,158/6,"Netravalkar to Muhammad Usman, 1 run",,,6
+242,236,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, 1 run ",1st innings,39.2,run,159,1,159/6,"Netravalkar to Ahmed Raza, 1 run",,,6
+243,237,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, SIX runs ",1st innings,39.3,six,165,6,165/6,"Netravalkar to Muhammad Usman, SIX runs",,,6
+244,238,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, no run ",1st innings,39.4,no run,165,0,165/6,"Netravalkar to Muhammad Usman, no run",,,6
+245,239,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,39.5,run,166,1,166/6,"Netravalkar to Muhammad Usman, 1 run",,,6
+246,240,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, no run ",1st innings,40.0,no run,166,0,166/6,"Netravalkar to Ahmed Raza, no run",,,6
+247,241,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, no run ",1st innings,40.1,no run,166,0,166/6,"Kenjige to Muhammad Usman, no run",,,6
+248,242,Muhammad Usman,974719,Nosthush Kenjige,1041679,"Kenjige to Muhammad Usman, 1 run ",1st innings,40.2,run,167,1,167/6,"Kenjige to Muhammad Usman, 1 run",,,6
+249,243,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, SIX runs ",1st innings,40.3,six,173,6,173/6,"Kenjige to Ahmed Raza, SIX runs",,,6
+250,244,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, FOUR runs ",1st innings,40.4,four,177,4,177/6,"Kenjige to Ahmed Raza, FOUR runs",,,6
+251,245,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, 2 runs ",1st innings,40.5,run,179,2,179/6,"Kenjige to Ahmed Raza, 2 runs",,,6
+252,246,Ahmed Raza,245490,Nosthush Kenjige,1041679,"Kenjige to Ahmed Raza, no run ",1st innings,41.0,no run,179,0,179/6,"Kenjige to Ahmed Raza, no run",,,6
+253,247,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 2 runs ",1st innings,41.1,run,181,2,181/6,"Netravalkar to Muhammad Usman, 2 runs",,,6
+254,248,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,41.2,run,182,1,182/6,"Netravalkar to Muhammad Usman, 1 run",,,6
+255,249,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, 1 run ",1st innings,41.3,run,183,1,183/6,"Netravalkar to Ahmed Raza, 1 run",,,6
+256,250,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,41.4,run,184,1,184/6,"Netravalkar to Muhammad Usman, 1 run",,,6
+257,251,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, 1 run ",1st innings,41.5,run,185,1,185/6,"Netravalkar to Ahmed Raza, 1 run",,,6
+258,252,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,42.0,run,186,1,186/6,"Netravalkar to Muhammad Usman, 1 run",,,6
+259,253,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 run ",1st innings,42.1,run,187,1,187/6,"Theron to Muhammad Usman, 1 run",,,6
+260,254,Ahmed Raza,245490,Rusty Theron,223642,"Theron to Ahmed Raza, 1 leg bye ",1st innings,42.2,leg bye,188,1,188/6,"Theron to Ahmed Raza, 1 leg bye",,,6
+261,255,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,42.3,no run,188,0,188/6,"Theron to Muhammad Usman, no run",,,6
+262,256,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, no run ",1st innings,42.4,no run,188,0,188/6,"Theron to Muhammad Usman, no run",,,6
+263,257,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 run ",1st innings,42.5,run,189,1,189/6,"Theron to Muhammad Usman, 1 run",,,6
+264,258,Ahmed Raza,245490,Rusty Theron,223642,"Theron to Ahmed Raza, 1 run ",1st innings,43.0,run,190,1,190/6,"Theron to Ahmed Raza, 1 run",,,6
+265,259,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, no run ",1st innings,43.1,no run,190,0,190/6,"Netravalkar to Ahmed Raza, no run",,,6
+266,260,Ahmed Raza,245490,Saurabh Netravalkar,398513,"Netravalkar to Ahmed Raza, OUT ",1st innings,43.2,out,190,0,190/7,"Netravalkar to Ahmed Raza, OUT",,,7
+267,261,Palaniapan Meiyappan,1058987,Saurabh Netravalkar,398513,"Netravalkar to Meiyappan, OUT ",1st innings,43.3,out,190,0,190/8,"Netravalkar to Meiyappan, OUT",,,8
+268,262,Junaid Siddique,1203754,Saurabh Netravalkar,398513,"Netravalkar to Junaid Siddique, 1 run ",1st innings,43.4,run,191,1,191/8,"Netravalkar to Junaid Siddique, 1 run",,,8
+269,263,Muhammad Usman,974719,Saurabh Netravalkar,398513,"Netravalkar to Muhammad Usman, 1 run ",1st innings,43.5,run,192,1,192/8,"Netravalkar to Muhammad Usman, 1 run",,,8
+270,264,Junaid Siddique,1203754,Saurabh Netravalkar,398513,"Netravalkar to Junaid Siddique, no run ",1st innings,44.0,no run,192,0,192/8,"Netravalkar to Junaid Siddique, no run",,,8
+271,265,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, SIX runs ",1st innings,44.1,six,198,6,198/8,"Theron to Muhammad Usman, SIX runs",,,8
+272,266,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 2 runs ",1st innings,44.2,run,200,2,200/8,"Theron to Muhammad Usman, 2 runs",,,8
+273,267,Muhammad Usman,974719,Rusty Theron,223642,"Theron to Muhammad Usman, 1 run ",1st innings,44.3,run,201,1,201/8,"Theron to Muhammad Usman, 1 run",,,8
+274,268,Junaid Siddique,1203754,Rusty Theron,223642,"Theron to Junaid Siddique, no run ",1st innings,44.4,no run,201,0,201/8,"Theron to Junaid Siddique, no run",,,8
+275,269,Junaid Siddique,1203754,Rusty Theron,223642,"Theron to Junaid Siddique, no run ",1st innings,44.5,no run,201,0,201/8,"Theron to Junaid Siddique, no run",,,8
+276,270,Junaid Siddique,1203754,Rusty Theron,223642,"Theron to Junaid Siddique, 1 run ",1st innings,45.0,run,202,1,202/8,"Theron to Junaid Siddique, 1 run",,,8
+277,271,Junaid Siddique,1203754,Saurabh Netravalkar,398513,"Netravalkar to Junaid Siddique, OUT ",1st innings,45.1,out,202,0,202/9,"Netravalkar to Junaid Siddique, OUT",,,9
+278,272,Zahoor Khan,384525,Saurabh Netravalkar,398513,"Netravalkar to Zahoor Khan, OUT ",1st innings,45.2,out,202,0,202/10,"Netravalkar to Zahoor Khan, OUT",,,10
+279,1,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, no run ",2nd innings,0.1,no run,0,0,0/0,"Junaid Siddique to MD Patel, no run",,,0
+280,2,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, no run ",2nd innings,0.2,no run,0,0,0/0,"Junaid Siddique to MD Patel, no run",,,0
+281,3,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, no run ",2nd innings,0.3,no run,0,0,0/0,"Junaid Siddique to MD Patel, no run",,,0
+282,4,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, 4 byes ",2nd innings,0.4,bye,4,4,4/0,"Junaid Siddique to MD Patel, 4 byes",,,0
+283,5,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, no run ",2nd innings,0.5,no run,4,0,4/0,"Junaid Siddique to MD Patel, no run",,,0
+284,6,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, no run ",2nd innings,1.0,no run,4,0,4/0,"Junaid Siddique to MD Patel, no run",,,0
+285,7,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,1.1,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+286,8,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,1.2,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+287,9,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,1.3,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+288,10,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,1.4,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+289,11,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,1.5,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+290,12,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,2.0,no run,4,0,4/0,"Zahoor Khan to Marshall, no run",,,0
+291,13,Monank Patel,1159641,Junaid Siddique,1203754,"Junaid Siddique to MD Patel, OUT ",2nd innings,2.1,out,4,0,4/1,"Junaid Siddique to MD Patel, OUT",,,1
+292,14,Steven Taylor,348133,Junaid Siddique,1203754,"Junaid Siddique to Taylor, OUT ",2nd innings,2.2,out,4,0,4/2,"Junaid Siddique to Taylor, OUT",,,2
+293,15,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,2.3,no run,4,0,4/2,"Junaid Siddique to Aaron Jones, no run",,,2
+294,16,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,2.4,no run,4,0,4/2,"Junaid Siddique to Aaron Jones, no run",,,2
+295,17,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,2.5,no run,4,0,4/2,"Junaid Siddique to Aaron Jones, no run",,,2
+296,18,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,3.0,no run,4,0,4/2,"Junaid Siddique to Aaron Jones, no run",,,2
+297,19,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,3.1,no run,4,0,4/2,"Zahoor Khan to Marshall, no run",,,2
+298,20,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,3.2,no run,4,0,4/2,"Zahoor Khan to Marshall, no run",,,2
+299,21,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, 1 run ",2nd innings,3.3,run,5,1,5/2,"Zahoor Khan to Marshall, 1 run",,,2
+300,22,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,3.4,no run,5,0,5/2,"Zahoor Khan to Aaron Jones, no run",,,2
+301,23,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,3.5,no run,5,0,5/2,"Zahoor Khan to Aaron Jones, no run",,,2
+302,24,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,4.0,no run,5,0,5/2,"Zahoor Khan to Aaron Jones, no run",,,2
+303,25,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, 1 run ",2nd innings,4.1,run,6,1,6/2,"Junaid Siddique to Marshall, 1 run",,,2
+304,26,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,4.2,no run,6,0,6/2,"Junaid Siddique to Aaron Jones, no run",,,2
+305,27,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,4.3,no run,6,0,6/2,"Junaid Siddique to Aaron Jones, no run",,,2
+306,28,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,4.4,no run,6,0,6/2,"Junaid Siddique to Aaron Jones, no run",,,2
+307,29,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,4.5,run,7,1,7/2,"Junaid Siddique to Aaron Jones, 1 run",,,2
+308,30,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,5.0,no run,7,0,7/2,"Junaid Siddique to Marshall, no run",,,2
+309,31,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,5.1,no run,7,0,7/2,"Zahoor Khan to Aaron Jones, no run",,,2
+310,32,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,5.2,no run,7,0,7/2,"Zahoor Khan to Aaron Jones, no run",,,2
+311,33,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,5.3,no run,7,0,7/2,"Zahoor Khan to Aaron Jones, no run",,,2
+312,34,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 2 runs ",2nd innings,5.4,run,9,2,9/2,"Zahoor Khan to Aaron Jones, 2 runs",,,2
+313,35,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,5.5,no run,9,0,9/2,"Zahoor Khan to Aaron Jones, no run",,,2
+314,36,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,6.0,no run,9,0,9/2,"Zahoor Khan to Aaron Jones, no run",,,2
+315,37,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,6.1,no run,9,0,9/2,"Junaid Siddique to Marshall, no run",,,2
+316,38,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,6.2,no run,9,0,9/2,"Junaid Siddique to Marshall, no run",,,2
+317,39,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,6.3,no run,9,0,9/2,"Junaid Siddique to Marshall, no run",,,2
+318,39,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, 5 wides ",2nd innings,6.3,wide,14,5,14/2,"Junaid Siddique to Marshall, 5 wides",,,2
+319,40,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,6.4,no run,14,0,14/2,"Junaid Siddique to Marshall, no run",,,2
+320,41,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,6.5,no run,14,0,14/2,"Junaid Siddique to Marshall, no run",,,2
+321,42,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,7.0,no run,14,0,14/2,"Junaid Siddique to Marshall, no run",,,2
+322,43,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,7.1,no run,14,0,14/2,"Zahoor Khan to Aaron Jones, no run",,,2
+323,44,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 1 leg bye ",2nd innings,7.2,leg bye,15,1,15/2,"Zahoor Khan to Aaron Jones, 1 leg bye",,,2
+324,45,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,7.3,no run,15,0,15/2,"Zahoor Khan to Marshall, no run",,,2
+325,46,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, no run ",2nd innings,7.4,no run,15,0,15/2,"Zahoor Khan to Marshall, no run",,,2
+326,47,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, FOUR runs ",2nd innings,7.5,four,19,4,19/2,"Zahoor Khan to Marshall, FOUR runs",,,2
+327,48,Xavier Marshall,52626,Zahoor Khan,384525,"Zahoor Khan to Marshall, FOUR runs ",2nd innings,8.0,four,23,4,23/2,"Zahoor Khan to Marshall, FOUR runs",,,2
+328,49,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,8.1,no run,23,0,23/2,"Junaid Siddique to Aaron Jones, no run",,,2
+329,50,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,8.2,no run,23,0,23/2,"Junaid Siddique to Aaron Jones, no run",,,2
+330,51,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,8.3,run,24,1,24/2,"Junaid Siddique to Aaron Jones, 1 run",,,2
+331,52,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,8.4,no run,24,0,24/2,"Junaid Siddique to Marshall, no run",,,2
+332,53,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,8.5,no run,24,0,24/2,"Junaid Siddique to Marshall, no run",,,2
+333,54,Xavier Marshall,52626,Junaid Siddique,1203754,"Junaid Siddique to Marshall, no run ",2nd innings,9.0,no run,24,0,24/2,"Junaid Siddique to Marshall, no run",,,2
+334,55,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,9.1,run,25,1,25/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+335,56,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,9.2,no run,25,0,25/2,"Ahmed Raza to Marshall, no run",,,2
+336,57,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 leg bye ",2nd innings,9.3,leg bye,26,1,26/2,"Ahmed Raza to Marshall, 1 leg bye",,,2
+337,58,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,9.4,no run,26,0,26/2,"Ahmed Raza to Aaron Jones, no run",,,2
+338,59,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,9.5,no run,26,0,26/2,"Ahmed Raza to Aaron Jones, no run",,,2
+339,60,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,10.0,no run,26,0,26/2,"Ahmed Raza to Aaron Jones, no run",,,2
+340,61,Xavier Marshall,52626,Waheed Ahmed,950309,"Waheed Ahmed to Marshall, 1 run ",2nd innings,10.1,run,27,1,27/2,"Waheed Ahmed to Marshall, 1 run",,,2
+341,62,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, no run ",2nd innings,10.2,no run,27,0,27/2,"Waheed Ahmed to Aaron Jones, no run",,,2
+342,63,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, 2 runs ",2nd innings,10.3,run,29,2,29/2,"Waheed Ahmed to Aaron Jones, 2 runs",,,2
+343,64,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, FOUR runs ",2nd innings,10.4,four,33,4,33/2,"Waheed Ahmed to Aaron Jones, FOUR runs",,,2
+344,65,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, FOUR runs ",2nd innings,10.5,four,37,4,37/2,"Waheed Ahmed to Aaron Jones, FOUR runs",,,2
+345,66,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, 1 run ",2nd innings,11.0,run,38,1,38/2,"Waheed Ahmed to Aaron Jones, 1 run",,,2
+346,67,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,11.1,no run,38,0,38/2,"Meiyappan to Aaron Jones, no run",,,2
+347,68,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,11.2,no run,38,0,38/2,"Meiyappan to Aaron Jones, no run",,,2
+348,69,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,11.3,run,39,1,39/2,"Meiyappan to Aaron Jones, 1 run",,,2
+349,70,Xavier Marshall,52626,Palaniapan Meiyappan,1058987,"Meiyappan to Marshall, 1 run ",2nd innings,11.4,run,40,1,40/2,"Meiyappan to Marshall, 1 run",,,2
+350,71,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,11.5,no run,40,0,40/2,"Meiyappan to Aaron Jones, no run",,,2
+351,72,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,12.0,run,41,1,41/2,"Meiyappan to Aaron Jones, 1 run",,,2
+352,73,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,12.1,run,42,1,42/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+353,74,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 run ",2nd innings,12.2,run,43,1,43/2,"Ahmed Raza to Marshall, 1 run",,,2
+354,75,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,12.3,no run,43,0,43/2,"Ahmed Raza to Aaron Jones, no run",,,2
+355,76,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,12.4,run,44,1,44/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+356,77,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,12.5,no run,44,0,44/2,"Ahmed Raza to Marshall, no run",,,2
+357,78,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,13.0,no run,44,0,44/2,"Ahmed Raza to Marshall, no run",,,2
+358,79,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,13.1,run,45,1,45/2,"Meiyappan to Aaron Jones, 1 run",,,2
+359,80,Xavier Marshall,52626,Palaniapan Meiyappan,1058987,"Meiyappan to Marshall, 1 run ",2nd innings,13.2,run,46,1,46/2,"Meiyappan to Marshall, 1 run",,,2
+360,81,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, FOUR runs ",2nd innings,13.3,four,50,4,50/2,"Meiyappan to Aaron Jones, FOUR runs",,,2
+361,82,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 2 runs ",2nd innings,13.4,run,52,2,52/2,"Meiyappan to Aaron Jones, 2 runs",,,2
+362,83,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,13.5,no run,52,0,52/2,"Meiyappan to Aaron Jones, no run",,,2
+363,84,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,14.0,run,53,1,53/2,"Meiyappan to Aaron Jones, 1 run",,,2
+364,85,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,14.1,no run,53,0,53/2,"Ahmed Raza to Aaron Jones, no run",,,2
+365,86,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,14.2,no run,53,0,53/2,"Ahmed Raza to Aaron Jones, no run",,,2
+366,87,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,14.3,no run,53,0,53/2,"Ahmed Raza to Aaron Jones, no run",,,2
+367,88,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,14.4,run,54,1,54/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+368,89,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,14.5,no run,54,0,54/2,"Ahmed Raza to Marshall, no run",,,2
+369,90,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,15.0,no run,54,0,54/2,"Ahmed Raza to Marshall, no run",,,2
+370,91,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,15.1,run,55,1,55/2,"Meiyappan to Aaron Jones, 1 run",,,2
+371,92,Xavier Marshall,52626,Palaniapan Meiyappan,1058987,"Meiyappan to Marshall, 1 run ",2nd innings,15.2,run,56,1,56/2,"Meiyappan to Marshall, 1 run",,,2
+372,93,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,15.3,run,57,1,57/2,"Meiyappan to Aaron Jones, 1 run",,,2
+373,94,Xavier Marshall,52626,Palaniapan Meiyappan,1058987,"Meiyappan to Marshall, 1 run ",2nd innings,15.4,run,58,1,58/2,"Meiyappan to Marshall, 1 run",,,2
+374,95,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,15.5,run,59,1,59/2,"Meiyappan to Aaron Jones, 1 run",,,2
+375,96,Xavier Marshall,52626,Palaniapan Meiyappan,1058987,"Meiyappan to Marshall, no run ",2nd innings,16.0,no run,59,0,59/2,"Meiyappan to Marshall, no run",,,2
+376,97,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,16.1,no run,59,0,59/2,"Ahmed Raza to Aaron Jones, no run",,,2
+377,98,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,16.2,no run,59,0,59/2,"Ahmed Raza to Aaron Jones, no run",,,2
+378,99,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,16.3,no run,59,0,59/2,"Ahmed Raza to Aaron Jones, no run",,,2
+379,100,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,16.4,run,60,1,60/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+380,101,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 run ",2nd innings,16.5,run,61,1,61/2,"Ahmed Raza to Marshall, 1 run",,,2
+381,102,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,17.0,no run,61,0,61/2,"Ahmed Raza to Aaron Jones, no run",,,2
+382,103,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,17.1,no run,61,0,61/2,"Rohan Mustafa to Marshall, no run",,,2
+383,104,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, 1 run ",2nd innings,17.2,run,62,1,62/2,"Rohan Mustafa to Marshall, 1 run",,,2
+384,105,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,17.3,run,63,1,63/2,"Rohan Mustafa to Aaron Jones, 1 run",,,2
+385,106,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,17.4,no run,63,0,63/2,"Rohan Mustafa to Marshall, no run",,,2
+386,107,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,17.5,no run,63,0,63/2,"Rohan Mustafa to Marshall, no run",,,2
+387,108,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, 1 run ",2nd innings,18.0,run,64,1,64/2,"Rohan Mustafa to Marshall, 1 run",,,2
+388,109,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,18.1,no run,64,0,64/2,"Ahmed Raza to Marshall, no run",,,2
+389,110,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 run ",2nd innings,18.2,run,65,1,65/2,"Ahmed Raza to Marshall, 1 run",,,2
+390,111,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,18.3,no run,65,0,65/2,"Ahmed Raza to Aaron Jones, no run",,,2
+391,112,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,18.4,run,66,1,66/2,"Ahmed Raza to Aaron Jones, 1 run",,,2
+392,113,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,18.5,no run,66,0,66/2,"Ahmed Raza to Marshall, no run",,,2
+393,114,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 leg bye ",2nd innings,19.0,leg bye,67,1,67/2,"Ahmed Raza to Marshall, 1 leg bye",,,2
+394,115,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, 1 run ",2nd innings,19.1,run,68,1,68/2,"Rohan Mustafa to Marshall, 1 run",,,2
+395,116,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,19.2,run,69,1,69/2,"Rohan Mustafa to Aaron Jones, 1 run",,,2
+396,117,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,19.3,no run,69,0,69/2,"Rohan Mustafa to Marshall, no run",,,2
+397,118,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,19.4,no run,69,0,69/2,"Rohan Mustafa to Marshall, no run",,,2
+398,119,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, no run ",2nd innings,19.5,no run,69,0,69/2,"Rohan Mustafa to Marshall, no run",,,2
+399,120,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, 1 run ",2nd innings,20.0,run,70,1,70/2,"Rohan Mustafa to Marshall, 1 run",,,2
+400,121,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,20.1,no run,70,0,70/2,"Ahmed Raza to Marshall, no run",,,2
+401,122,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 2 runs ",2nd innings,20.2,run,72,2,72/2,"Ahmed Raza to Marshall, 2 runs",,,2
+402,123,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, SIX runs ",2nd innings,20.3,six,78,6,78/2,"Ahmed Raza to Marshall, SIX runs",,,2
+403,124,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, no run ",2nd innings,20.4,no run,78,0,78/2,"Ahmed Raza to Marshall, no run",,,2
+404,125,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 2 runs ",2nd innings,20.5,run,80,2,80/2,"Ahmed Raza to Marshall, 2 runs",,,2
+405,126,Xavier Marshall,52626,Ahmed Raza,245490,"Ahmed Raza to Marshall, 1 run ",2nd innings,21.0,run,81,1,81/2,"Ahmed Raza to Marshall, 1 run",,,2
+406,127,Xavier Marshall,52626,Rohan Mustafa,307808,"Rohan Mustafa to Marshall, 1 run ",2nd innings,21.1,run,82,1,82/2,"Rohan Mustafa to Marshall, 1 run",,,2
+407,128,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, OUT ",2nd innings,21.2,out,82,0,82/3,"Rohan Mustafa to Aaron Jones, OUT",,,3
+408,129,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,21.3,run,83,1,83/3,"Rohan Mustafa to Aaron Jones, 1 run",,,3
+409,130,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,21.4,no run,83,0,83/3,"Rohan Mustafa to Holland, no run",,,3
+410,131,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,21.5,no run,83,0,83/3,"Rohan Mustafa to Holland, no run",,,3
+411,132,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,22.0,no run,83,0,83/3,"Rohan Mustafa to Holland, no run",,,3
+412,133,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,22.1,run,84,1,84/3,"Ahmed Raza to Aaron Jones, 1 run",,,3
+413,134,Ian Holland,334340,Ahmed Raza,245490,"Ahmed Raza to Holland, no run ",2nd innings,22.2,no run,84,0,84/3,"Ahmed Raza to Holland, no run",,,3
+414,135,Ian Holland,334340,Ahmed Raza,245490,"Ahmed Raza to Holland, 1 run ",2nd innings,22.3,run,85,1,85/3,"Ahmed Raza to Holland, 1 run",,,3
+415,136,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,22.4,no run,85,0,85/3,"Ahmed Raza to Aaron Jones, no run",,,3
+416,137,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,22.5,no run,85,0,85/3,"Ahmed Raza to Aaron Jones, no run",,,3
+417,138,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,23.0,no run,85,0,85/3,"Ahmed Raza to Aaron Jones, no run",,,3
+418,139,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,23.1,no run,85,0,85/3,"Rohan Mustafa to Holland, no run",,,3
+419,140,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,23.2,no run,85,0,85/3,"Rohan Mustafa to Holland, no run",,,3
+420,141,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, 2 runs ",2nd innings,23.3,run,87,2,87/3,"Rohan Mustafa to Holland, 2 runs",,,3
+421,142,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, 1 run ",2nd innings,23.4,run,88,1,88/3,"Rohan Mustafa to Holland, 1 run",,,3
+422,143,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, no run ",2nd innings,23.5,no run,88,0,88/3,"Rohan Mustafa to Aaron Jones, no run",,,3
+423,144,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, no run ",2nd innings,24.0,no run,88,0,88/3,"Rohan Mustafa to Aaron Jones, no run",,,3
+424,145,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,24.1,no run,88,0,88/3,"Meiyappan to Holland, no run",,,3
+425,146,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,24.2,no run,88,0,88/3,"Meiyappan to Holland, no run",,,3
+426,147,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,24.3,no run,88,0,88/3,"Meiyappan to Holland, no run",,,3
+427,148,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,24.4,no run,88,0,88/3,"Meiyappan to Holland, no run",,,3
+428,149,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 1 run ",2nd innings,24.5,run,89,1,89/3,"Meiyappan to Holland, 1 run",,,3
+429,150,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,25.0,run,90,1,90/3,"Meiyappan to Aaron Jones, 1 run",,,3
+430,151,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, no run ",2nd innings,25.1,no run,90,0,90/3,"Rohan Mustafa to Aaron Jones, no run",,,3
+431,152,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,25.2,run,91,1,91/3,"Rohan Mustafa to Aaron Jones, 1 run",,,3
+432,153,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,25.3,no run,91,0,91/3,"Rohan Mustafa to Holland, no run",,,3
+433,154,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, no run ",2nd innings,25.4,no run,91,0,91/3,"Rohan Mustafa to Holland, no run",,,3
+434,155,Ian Holland,334340,Rohan Mustafa,307808,"Rohan Mustafa to Holland, 1 run ",2nd innings,25.5,run,92,1,92/3,"Rohan Mustafa to Holland, 1 run",,,3
+435,156,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, FOUR runs ",2nd innings,26.0,four,96,4,96/3,"Rohan Mustafa to Aaron Jones, FOUR runs",,,3
+436,157,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 2 runs ",2nd innings,26.1,run,98,2,98/3,"Meiyappan to Holland, 2 runs",,,3
+437,158,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 1 run ",2nd innings,26.2,run,99,1,99/3,"Meiyappan to Holland, 1 run",,,3
+438,159,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,26.3,no run,99,0,99/3,"Meiyappan to Aaron Jones, no run",,,3
+439,160,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,26.4,no run,99,0,99/3,"Meiyappan to Aaron Jones, no run",,,3
+440,161,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,26.5,run,100,1,100/3,"Meiyappan to Aaron Jones, 1 run",,,3
+441,162,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,27.0,no run,100,0,100/3,"Meiyappan to Holland, no run",,,3
+442,163,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 1 run ",2nd innings,27.1,run,101,1,101/3,"Zahoor Khan to Aaron Jones, 1 run",,,3
+443,164,Ian Holland,334340,Zahoor Khan,384525,"Zahoor Khan to Holland, 1 run ",2nd innings,27.2,run,102,1,102/3,"Zahoor Khan to Holland, 1 run",,,3
+444,165,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,27.3,no run,102,0,102/3,"Zahoor Khan to Aaron Jones, no run",,,3
+445,166,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, FOUR runs ",2nd innings,27.4,four,106,4,106/3,"Zahoor Khan to Aaron Jones, FOUR runs",,,3
+446,167,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 2 runs ",2nd innings,27.5,run,108,2,108/3,"Zahoor Khan to Aaron Jones, 2 runs",,,3
+447,168,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,28.0,no run,108,0,108/3,"Zahoor Khan to Aaron Jones, no run",,,3
+448,169,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,28.1,no run,108,0,108/3,"Meiyappan to Holland, no run",,,3
+449,170,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 2 runs ",2nd innings,28.2,run,110,2,110/3,"Meiyappan to Holland, 2 runs",,,3
+450,171,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,28.3,no run,110,0,110/3,"Meiyappan to Holland, no run",,,3
+451,172,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 1 run ",2nd innings,28.4,run,111,1,111/3,"Meiyappan to Holland, 1 run",,,3
+452,173,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,28.5,no run,111,0,111/3,"Meiyappan to Aaron Jones, no run",,,3
+453,174,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, FOUR runs ",2nd innings,29.0,four,115,4,115/3,"Meiyappan to Aaron Jones, FOUR runs",,,3
+454,175,Ian Holland,334340,Zahoor Khan,384525,"Zahoor Khan to Holland, no run ",2nd innings,29.1,no run,115,0,115/3,"Zahoor Khan to Holland, no run",,,3
+455,176,Ian Holland,334340,Zahoor Khan,384525,"Zahoor Khan to Holland, no run ",2nd innings,29.2,no run,115,0,115/3,"Zahoor Khan to Holland, no run",,,3
+456,177,Ian Holland,334340,Zahoor Khan,384525,"Zahoor Khan to Holland, 2 runs ",2nd innings,29.3,run,117,2,117/3,"Zahoor Khan to Holland, 2 runs",,,3
+457,178,Ian Holland,334340,Zahoor Khan,384525,"Zahoor Khan to Holland, 1 run ",2nd innings,29.4,run,118,1,118/3,"Zahoor Khan to Holland, 1 run",,,3
+458,179,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, SIX runs ",2nd innings,29.5,six,124,6,124/3,"Zahoor Khan to Aaron Jones, SIX runs",,,3
+459,180,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 1 run ",2nd innings,30.0,run,125,1,125/3,"Zahoor Khan to Aaron Jones, 1 run",,,3
+460,181,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,30.1,run,126,1,126/3,"Meiyappan to Aaron Jones, 1 run",,,3
+461,182,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,30.2,no run,126,0,126/3,"Meiyappan to Holland, no run",,,3
+462,183,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,30.3,no run,126,0,126/3,"Meiyappan to Holland, no run",,,3
+463,184,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, no run ",2nd innings,30.4,no run,126,0,126/3,"Meiyappan to Holland, no run",,,3
+464,185,Ian Holland,334340,Palaniapan Meiyappan,1058987,"Meiyappan to Holland, 1 run ",2nd innings,30.5,run,127,1,127/3,"Meiyappan to Holland, 1 run",,,3
+465,186,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,31.0,no run,127,0,127/3,"Meiyappan to Aaron Jones, no run",,,3
+466,187,Ian Holland,334340,Ahmed Raza,245490,"Ahmed Raza to Holland, 2 runs ",2nd innings,31.1,run,129,2,129/3,"Ahmed Raza to Holland, 2 runs",,,3
+467,188,Ian Holland,334340,Ahmed Raza,245490,"Ahmed Raza to Holland, OUT ",2nd innings,31.2,out,129,0,129/4,"Ahmed Raza to Holland, OUT",,,4
+468,189,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, no run ",2nd innings,31.3,no run,129,0,129/4,"Ahmed Raza to Akshay Homraj, no run",,,4
+469,190,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, no run ",2nd innings,31.4,no run,129,0,129/4,"Ahmed Raza to Akshay Homraj, no run",,,4
+470,191,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, 1 run ",2nd innings,31.5,run,130,1,130/4,"Ahmed Raza to Akshay Homraj, 1 run",,,4
+471,192,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,32.0,no run,130,0,130/4,"Ahmed Raza to Aaron Jones, no run",,,4
+472,193,Akshay Homraj,1205381,Palaniapan Meiyappan,1058987,"Meiyappan to Akshay Homraj, no run ",2nd innings,32.1,no run,130,0,130/4,"Meiyappan to Akshay Homraj, no run",,,4
+473,194,Akshay Homraj,1205381,Palaniapan Meiyappan,1058987,"Meiyappan to Akshay Homraj, 1 run ",2nd innings,32.2,run,131,1,131/4,"Meiyappan to Akshay Homraj, 1 run",,,4
+474,195,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, FOUR runs ",2nd innings,32.3,four,135,4,135/4,"Meiyappan to Aaron Jones, FOUR runs",,,4
+475,196,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, no run ",2nd innings,32.4,no run,135,0,135/4,"Meiyappan to Aaron Jones, no run",,,4
+476,197,Aaron Jones,957645,Palaniapan Meiyappan,1058987,"Meiyappan to Aaron Jones, 1 run ",2nd innings,32.5,run,136,1,136/4,"Meiyappan to Aaron Jones, 1 run",,,4
+477,198,Akshay Homraj,1205381,Palaniapan Meiyappan,1058987,"Meiyappan to Akshay Homraj, 1 run ",2nd innings,33.0,run,137,1,137/4,"Meiyappan to Akshay Homraj, 1 run",,,4
+478,199,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, no run ",2nd innings,33.1,no run,137,0,137/4,"Ahmed Raza to Akshay Homraj, no run",,,4
+479,200,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, 1 run ",2nd innings,33.2,run,138,1,138/4,"Ahmed Raza to Akshay Homraj, 1 run",,,4
+480,201,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,33.3,no run,138,0,138/4,"Ahmed Raza to Aaron Jones, no run",,,4
+481,202,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, 1 run ",2nd innings,33.4,run,139,1,139/4,"Ahmed Raza to Aaron Jones, 1 run",,,4
+482,203,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, no run ",2nd innings,33.5,no run,139,0,139/4,"Ahmed Raza to Akshay Homraj, no run",,,4
+483,204,Akshay Homraj,1205381,Ahmed Raza,245490,"Ahmed Raza to Akshay Homraj, no run ",2nd innings,34.0,no run,139,0,139/4,"Ahmed Raza to Akshay Homraj, no run",,,4
+484,205,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,34.1,run,140,1,140/4,"Junaid Siddique to Aaron Jones, 1 run",,,4
+485,206,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, no run ",2nd innings,34.2,no run,140,0,140/4,"Junaid Siddique to Akshay Homraj, no run",,,4
+486,207,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, 1 run ",2nd innings,34.3,run,141,1,141/4,"Junaid Siddique to Akshay Homraj, 1 run",,,4
+487,208,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,34.4,run,142,1,142/4,"Junaid Siddique to Aaron Jones, 1 run",,,4
+488,209,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, FOUR runs ",2nd innings,34.5,four,146,4,146/4,"Junaid Siddique to Akshay Homraj, FOUR runs",,,4
+489,210,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, no run ",2nd innings,35.0,no run,146,0,146/4,"Junaid Siddique to Akshay Homraj, no run",,,4
+490,211,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 2 runs ",2nd innings,35.1,run,148,2,148/4,"Rohan Mustafa to Aaron Jones, 2 runs",,,4
+491,212,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,35.2,run,149,1,149/4,"Rohan Mustafa to Aaron Jones, 1 run",,,4
+492,213,Akshay Homraj,1205381,Rohan Mustafa,307808,"Rohan Mustafa to Akshay Homraj, no run ",2nd innings,35.3,no run,149,0,149/4,"Rohan Mustafa to Akshay Homraj, no run",,,4
+493,214,Akshay Homraj,1205381,Rohan Mustafa,307808,"Rohan Mustafa to Akshay Homraj, no run ",2nd innings,35.4,no run,149,0,149/4,"Rohan Mustafa to Akshay Homraj, no run",,,4
+494,214,Akshay Homraj,1205381,Rohan Mustafa,307808,"Rohan Mustafa to Akshay Homraj, 4 wides ",2nd innings,35.4,wide,153,4,153/4,"Rohan Mustafa to Akshay Homraj, 4 wides",,,4
+495,215,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,35.5,run,154,1,154/4,"Rohan Mustafa to Aaron Jones, 1 run",,,4
+496,216,Akshay Homraj,1205381,Rohan Mustafa,307808,"Rohan Mustafa to Akshay Homraj, 1 run ",2nd innings,36.0,run,155,1,155/4,"Rohan Mustafa to Akshay Homraj, 1 run",,,4
+497,217,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, 1 leg bye ",2nd innings,36.1,leg bye,156,1,156/4,"Junaid Siddique to Akshay Homraj, 1 leg bye",,,4
+498,218,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, FOUR runs ",2nd innings,36.2,four,160,4,160/4,"Junaid Siddique to Aaron Jones, FOUR runs",,,4
+499,219,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,36.3,run,161,1,161/4,"Junaid Siddique to Aaron Jones, 1 run",,,4
+500,220,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, 2 runs ",2nd innings,36.4,run,163,2,163/4,"Junaid Siddique to Akshay Homraj, 2 runs",,,4
+501,221,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, 2 runs ",2nd innings,36.5,run,165,2,165/4,"Junaid Siddique to Akshay Homraj, 2 runs",,,4
+502,222,Akshay Homraj,1205381,Junaid Siddique,1203754,"Junaid Siddique to Akshay Homraj, OUT ",2nd innings,37.0,out,165,0,165/5,"Junaid Siddique to Akshay Homraj, OUT",,,5
+503,223,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,37.1,run,166,1,166/5,"Rohan Mustafa to Aaron Jones, 1 run",,,5
+504,224,Karima Gore,1139028,Rohan Mustafa,307808,"Rohan Mustafa to Gore, no run ",2nd innings,37.2,no run,166,0,166/5,"Rohan Mustafa to Gore, no run",,,5
+505,225,Karima Gore,1139028,Rohan Mustafa,307808,"Rohan Mustafa to Gore, 1 run ",2nd innings,37.3,run,167,1,167/5,"Rohan Mustafa to Gore, 1 run",,,5
+506,226,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,37.4,run,168,1,168/5,"Rohan Mustafa to Aaron Jones, 1 run",,,5
+507,227,Karima Gore,1139028,Rohan Mustafa,307808,"Rohan Mustafa to Gore, 1 run ",2nd innings,37.5,run,169,1,169/5,"Rohan Mustafa to Gore, 1 run",,,5
+508,228,Aaron Jones,957645,Rohan Mustafa,307808,"Rohan Mustafa to Aaron Jones, 1 run ",2nd innings,38.0,run,170,1,170/5,"Rohan Mustafa to Aaron Jones, 1 run",,,5
+509,229,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,38.1,run,171,1,171/5,"Junaid Siddique to Aaron Jones, 1 run",,,5
+510,230,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, 1 run ",2nd innings,38.2,run,172,1,172/5,"Junaid Siddique to Gore, 1 run",,,5
+511,231,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, SIX runs ",2nd innings,38.3,six,178,6,178/5,"Junaid Siddique to Aaron Jones, SIX runs",,,5
+512,232,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,38.4,no run,178,0,178/5,"Junaid Siddique to Aaron Jones, no run",,,5
+513,233,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,38.5,run,179,1,179/5,"Junaid Siddique to Aaron Jones, 1 run",,,5
+514,234,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, 1 run ",2nd innings,39.0,run,180,1,180/5,"Junaid Siddique to Gore, 1 run",,,5
+515,235,Karima Gore,1139028,Ahmed Raza,245490,"Ahmed Raza to Gore, no run ",2nd innings,39.1,no run,180,0,180/5,"Ahmed Raza to Gore, no run",,,5
+516,236,Karima Gore,1139028,Ahmed Raza,245490,"Ahmed Raza to Gore, no run ",2nd innings,39.2,no run,180,0,180/5,"Ahmed Raza to Gore, no run",,,5
+517,237,Karima Gore,1139028,Ahmed Raza,245490,"Ahmed Raza to Gore, no run ",2nd innings,39.3,no run,180,0,180/5,"Ahmed Raza to Gore, no run",,,5
+518,238,Karima Gore,1139028,Ahmed Raza,245490,"Ahmed Raza to Gore, 1 run ",2nd innings,39.4,run,181,1,181/5,"Ahmed Raza to Gore, 1 run",,,5
+519,239,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,39.5,no run,181,0,181/5,"Ahmed Raza to Aaron Jones, no run",,,5
+520,240,Aaron Jones,957645,Ahmed Raza,245490,"Ahmed Raza to Aaron Jones, no run ",2nd innings,40.0,no run,181,0,181/5,"Ahmed Raza to Aaron Jones, no run",,,5
+521,241,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, no run ",2nd innings,40.1,no run,181,0,181/5,"Junaid Siddique to Gore, no run",,,5
+522,242,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, 1 run ",2nd innings,40.2,run,182,1,182/5,"Junaid Siddique to Gore, 1 run",,,5
+523,243,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, no run ",2nd innings,40.3,no run,182,0,182/5,"Junaid Siddique to Aaron Jones, no run",,,5
+524,244,Aaron Jones,957645,Junaid Siddique,1203754,"Junaid Siddique to Aaron Jones, 1 run ",2nd innings,40.4,run,183,1,183/5,"Junaid Siddique to Aaron Jones, 1 run",,,5
+525,245,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, no run ",2nd innings,40.5,no run,183,0,183/5,"Junaid Siddique to Gore, no run",,,5
+526,246,Karima Gore,1139028,Junaid Siddique,1203754,"Junaid Siddique to Gore, 1 run ",2nd innings,41.0,run,184,1,184/5,"Junaid Siddique to Gore, 1 run",,,5
+527,247,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, no run ",2nd innings,41.1,no run,184,0,184/5,"Zahoor Khan to Gore, no run",,,5
+528,248,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, no run ",2nd innings,41.2,no run,184,0,184/5,"Zahoor Khan to Gore, no run",,,5
+529,249,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, 1 run ",2nd innings,41.3,run,185,1,185/5,"Zahoor Khan to Gore, 1 run",,,5
+530,250,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, 1 run ",2nd innings,41.4,run,186,1,186/5,"Zahoor Khan to Aaron Jones, 1 run",,,5
+531,251,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, 1 run ",2nd innings,41.5,run,187,1,187/5,"Zahoor Khan to Gore, 1 run",,,5
+532,252,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, no run ",2nd innings,42.0,no run,187,0,187/5,"Zahoor Khan to Aaron Jones, no run",,,5
+533,253,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, FOUR runs ",2nd innings,42.1,four,191,4,191/5,"Waheed Ahmed to Gore, FOUR runs",,,5
+534,254,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, 1 run ",2nd innings,42.2,run,192,1,192/5,"Waheed Ahmed to Gore, 1 run",,,5
+535,255,Aaron Jones,957645,Waheed Ahmed,950309,"Waheed Ahmed to Aaron Jones, 1 run ",2nd innings,42.3,run,193,1,193/5,"Waheed Ahmed to Aaron Jones, 1 run",,,5
+536,256,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, no run ",2nd innings,42.4,no run,193,0,193/5,"Waheed Ahmed to Gore, no run",,,5
+537,257,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, no run ",2nd innings,42.5,no run,193,0,193/5,"Waheed Ahmed to Gore, no run",,,5
+538,258,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, 1 run ",2nd innings,43.0,run,194,1,194/5,"Waheed Ahmed to Gore, 1 run",,,5
+539,259,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, 1 run ",2nd innings,43.1,run,195,1,195/5,"Zahoor Khan to Gore, 1 run",,,5
+540,260,Aaron Jones,957645,Zahoor Khan,384525,"Zahoor Khan to Aaron Jones, OUT ",2nd innings,43.2,out,195,0,195/6,"Zahoor Khan to Aaron Jones, OUT",,,6
+541,261,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, 1 run ",2nd innings,43.3,run,196,1,196/6,"Zahoor Khan to Gore, 1 run",,,6
+542,262,Cameron Stevenson,953793,Zahoor Khan,384525,"Zahoor Khan to Stevenson, 1 run ",2nd innings,43.4,run,197,1,197/6,"Zahoor Khan to Stevenson, 1 run",,,6
+543,263,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, no run ",2nd innings,43.5,no run,197,0,197/6,"Zahoor Khan to Gore, no run",,,6
+544,264,Karima Gore,1139028,Zahoor Khan,384525,"Zahoor Khan to Gore, FOUR runs ",2nd innings,44.0,four,201,4,201/6,"Zahoor Khan to Gore, FOUR runs",,,6
+545,265,Cameron Stevenson,953793,Waheed Ahmed,950309,"Waheed Ahmed to Stevenson, no run ",2nd innings,44.1,no run,201,0,201/6,"Waheed Ahmed to Stevenson, no run",,,6
+546,266,Cameron Stevenson,953793,Waheed Ahmed,950309,"Waheed Ahmed to Stevenson, no run ",2nd innings,44.2,no run,201,0,201/6,"Waheed Ahmed to Stevenson, no run",,,6
+547,267,Cameron Stevenson,953793,Waheed Ahmed,950309,"Waheed Ahmed to Stevenson, OUT ",2nd innings,44.3,out,201,0,201/7,"Waheed Ahmed to Stevenson, OUT",,,7
+548,268,Karima Gore,1139028,Waheed Ahmed,950309,"Waheed Ahmed to Gore, 1 run ",2nd innings,44.4,run,202,1,202/7,"Waheed Ahmed to Gore, 1 run",,,7
+549,269,Rusty Theron,223642,Waheed Ahmed,950309,"Waheed Ahmed to Theron, no run ",2nd innings,44.5,no run,202,0,202/7,"Waheed Ahmed to Theron, no run",,,7
+550,270,Rusty Theron,223642,Waheed Ahmed,950309,"Waheed Ahmed to Theron, no run ",2nd innings,45.0,no run,202,0,202/7,"Waheed Ahmed to Theron, no run",,,7
+551,271,Karima Gore,1139028,Rohan Mustafa,307808,"Rohan Mustafa to Gore, no run ",2nd innings,45.1,no run,202,0,202/7,"Rohan Mustafa to Gore, no run",,,7
+552,272,Karima Gore,1139028,Rohan Mustafa,307808,"Rohan Mustafa to Gore, FOUR runs ",2nd innings,45.2,four,206,4,206/7,"Rohan Mustafa to Gore, FOUR runs",,,7

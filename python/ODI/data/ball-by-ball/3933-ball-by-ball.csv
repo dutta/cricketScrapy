@@ -1,0 +1,516 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Tony Ura,302845,Alasdair Evans,399259,"Evans to Ura, no run ",1st innings,0.1,no run,0,0,0/0,"Evans to Ura, no run",,,0
+1,2,Tony Ura,302845,Alasdair Evans,399259,"Evans to Ura, no run ",1st innings,0.2,no run,0,0,0/0,"Evans to Ura, no run",,,0
+2,3,Tony Ura,302845,Alasdair Evans,399259,"Evans to Ura, no run ",1st innings,0.3,no run,0,0,0/0,"Evans to Ura, no run",,,0
+3,4,Tony Ura,302845,Alasdair Evans,399259,"Evans to Ura, OUT ",1st innings,0.4,out,0,0,0/1,"Evans to Ura, OUT",,,1
+4,5,Lega Siaka,440990,Alasdair Evans,399259,"Evans to Siaka, 1 run ",1st innings,0.5,run,1,1,1/1,"Evans to Siaka, 1 run",,,1
+5,6,Dogodo Bau,524249,Alasdair Evans,399259,"Evans to D Bau, no run ",1st innings,1.0,no run,1,0,1/1,"Evans to D Bau, no run",,,1
+6,7,Lega Siaka,440990,Safyaan Sharif,414970,"Sharif to Siaka, no run ",1st innings,1.1,no run,1,0,1/1,"Sharif to Siaka, no run",,,1
+7,8,Lega Siaka,440990,Safyaan Sharif,414970,"Sharif to Siaka, OUT ",1st innings,1.2,out,1,0,1/2,"Sharif to Siaka, OUT",,,2
+8,8,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 3 wides ",1st innings,1.2,wide,4,3,4/2,"Sharif to Vala, 3 wides",,,2
+9,8,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 1 wide ",1st innings,1.2,wide,5,1,5/2,"Sharif to Vala, 1 wide",,,2
+10,9,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 1 run ",1st innings,1.3,run,6,1,6/2,"Sharif to Vala, 1 run",,,2
+11,10,Dogodo Bau,524249,Safyaan Sharif,414970,"Sharif to D Bau, no run ",1st innings,1.4,no run,6,0,6/2,"Sharif to D Bau, no run",,,2
+12,11,Dogodo Bau,524249,Safyaan Sharif,414970,"Sharif to D Bau, no run ",1st innings,1.5,no run,6,0,6/2,"Sharif to D Bau, no run",,,2
+13,12,Dogodo Bau,524249,Safyaan Sharif,414970,"Sharif to D Bau, no run ",1st innings,2.0,no run,6,0,6/2,"Sharif to D Bau, no run",,,2
+14,13,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,2.1,no run,6,0,6/2,"Evans to Vala, no run",,,2
+15,14,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, 1 run ",1st innings,2.2,run,7,1,7/2,"Evans to Vala, 1 run",,,2
+16,15,Dogodo Bau,524249,Alasdair Evans,399259,"Evans to D Bau, no run ",1st innings,2.3,no run,7,0,7/2,"Evans to D Bau, no run",,,2
+17,16,Dogodo Bau,524249,Alasdair Evans,399259,"Evans to D Bau, OUT ",1st innings,2.4,out,7,0,7/3,"Evans to D Bau, OUT",,,3
+18,17,Sese Bau,420427,Alasdair Evans,399259,"Evans to S Bau, no run ",1st innings,2.5,no run,7,0,7/3,"Evans to S Bau, no run",,,3
+19,18,Sese Bau,420427,Alasdair Evans,399259,"Evans to S Bau, no run ",1st innings,3.0,no run,7,0,7/3,"Evans to S Bau, no run",,,3
+20,19,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,3.1,no run,7,0,7/3,"Sharif to Vala, no run",,,3
+21,20,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,3.2,no run,7,0,7/3,"Sharif to Vala, no run",,,3
+22,21,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,3.3,no run,7,0,7/3,"Sharif to Vala, no run",,,3
+23,22,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 1 run ",1st innings,3.4,run,8,1,8/3,"Sharif to Vala, 1 run",,,3
+24,23,Sese Bau,420427,Safyaan Sharif,414970,"Sharif to S Bau, OUT ",1st innings,3.5,out,8,0,8/4,"Sharif to S Bau, OUT",,,4
+25,24,Mahuru Dai,25051,Safyaan Sharif,414970,"Sharif to Dai, no run ",1st innings,4.0,no run,8,0,8/4,"Sharif to Dai, no run",,,4
+26,25,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,4.1,no run,8,0,8/4,"Evans to Vala, no run",,,4
+27,26,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,4.2,no run,8,0,8/4,"Evans to Vala, no run",,,4
+28,27,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,4.3,no run,8,0,8/4,"Evans to Vala, no run",,,4
+29,28,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, 1 run ",1st innings,4.4,run,9,1,9/4,"Evans to Vala, 1 run",,,4
+30,29,Mahuru Dai,25051,Alasdair Evans,399259,"Evans to Dai, no run ",1st innings,4.5,no run,9,0,9/4,"Evans to Dai, no run",,,4
+31,30,Mahuru Dai,25051,Alasdair Evans,399259,"Evans to Dai, no run ",1st innings,5.0,no run,9,0,9/4,"Evans to Dai, no run",,,4
+32,31,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,5.1,no run,9,0,9/4,"Sharif to Vala, no run",,,4
+33,32,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 1 run ",1st innings,5.2,run,10,1,10/4,"Sharif to Vala, 1 run",,,4
+34,33,Mahuru Dai,25051,Safyaan Sharif,414970,"Sharif to Dai, no run ",1st innings,5.3,no run,10,0,10/4,"Sharif to Dai, no run",,,4
+35,34,Mahuru Dai,25051,Safyaan Sharif,414970,"Sharif to Dai, no run ",1st innings,5.4,no run,10,0,10/4,"Sharif to Dai, no run",,,4
+36,35,Mahuru Dai,25051,Safyaan Sharif,414970,"Sharif to Dai, no run ",1st innings,5.5,no run,10,0,10/4,"Sharif to Dai, no run",,,4
+37,36,Mahuru Dai,25051,Safyaan Sharif,414970,"Sharif to Dai, OUT ",1st innings,6.0,out,10,0,10/5,"Sharif to Dai, OUT",,,5
+38,37,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,6.1,no run,10,0,10/5,"Evans to Vala, no run",,,5
+39,38,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,6.2,no run,10,0,10/5,"Evans to Vala, no run",,,5
+40,39,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,6.3,no run,10,0,10/5,"Evans to Vala, no run",,,5
+41,40,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,6.4,no run,10,0,10/5,"Evans to Vala, no run",,,5
+42,41,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,6.5,no run,10,0,10/5,"Evans to Vala, no run",,,5
+43,42,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,7.0,no run,10,0,10/5,"Evans to Vala, no run",,,5
+44,43,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, 1 leg bye ",1st innings,7.1,leg bye,11,1,11/5,"Sharif to Doriga, 1 leg bye",,,5
+45,44,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,7.2,no run,11,0,11/5,"Sharif to Vala, no run",,,5
+46,45,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,7.3,no run,11,0,11/5,"Sharif to Vala, no run",,,5
+47,46,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,7.4,no run,11,0,11/5,"Sharif to Vala, no run",,,5
+48,47,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, 3 runs ",1st innings,7.5,run,14,3,14/5,"Sharif to Vala, 3 runs",,,5
+49,47,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, (no ball) 1 run ",1st innings,7.5,run,16,2,16/5,"Sharif to Doriga, (no ball) 1 run",,,5
+50,48,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, no run ",1st innings,8.0,no run,16,0,16/5,"Sharif to Vala, no run",,,5
+51,49,Kiplin Doriga,646173,Alasdair Evans,399259,"Evans to Doriga, no run ",1st innings,8.1,no run,16,0,16/5,"Evans to Doriga, no run",,,5
+52,50,Kiplin Doriga,646173,Alasdair Evans,399259,"Evans to Doriga, no run ",1st innings,8.2,no run,16,0,16/5,"Evans to Doriga, no run",,,5
+53,51,Kiplin Doriga,646173,Alasdair Evans,399259,"Evans to Doriga, FOUR runs ",1st innings,8.3,four,20,4,20/5,"Evans to Doriga, FOUR runs",,,5
+54,52,Kiplin Doriga,646173,Alasdair Evans,399259,"Evans to Doriga, 1 run ",1st innings,8.4,run,21,1,21/5,"Evans to Doriga, 1 run",,,5
+55,53,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,8.5,no run,21,0,21/5,"Evans to Vala, no run",,,5
+56,54,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, no run ",1st innings,9.0,no run,21,0,21/5,"Evans to Vala, no run",,,5
+57,55,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, no run ",1st innings,9.1,no run,21,0,21/5,"Sharif to Doriga, no run",,,5
+58,56,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, FOUR runs ",1st innings,9.2,four,25,4,25/5,"Sharif to Doriga, FOUR runs",,,5
+59,57,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, no run ",1st innings,9.3,no run,25,0,25/5,"Sharif to Doriga, no run",,,5
+60,58,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, no run ",1st innings,9.4,no run,25,0,25/5,"Sharif to Doriga, no run",,,5
+61,59,Kiplin Doriga,646173,Safyaan Sharif,414970,"Sharif to Doriga, 1 run ",1st innings,9.5,run,26,1,26/5,"Sharif to Doriga, 1 run",,,5
+62,60,Assad Vala,25056,Safyaan Sharif,414970,"Sharif to Vala, FOUR runs ",1st innings,10.0,four,30,4,30/5,"Sharif to Vala, FOUR runs",,,5
+63,61,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, no run ",1st innings,10.1,no run,30,0,30/5,"Berrington to Doriga, no run",,,5
+64,62,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, no run ",1st innings,10.2,no run,30,0,30/5,"Berrington to Doriga, no run",,,5
+65,63,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, 1 run ",1st innings,10.3,run,31,1,31/5,"Berrington to Doriga, 1 run",,,5
+66,64,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, no run ",1st innings,10.4,no run,31,0,31/5,"Berrington to Vala, no run",,,5
+67,65,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, no run ",1st innings,10.5,no run,31,0,31/5,"Berrington to Vala, no run",,,5
+68,66,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, no run ",1st innings,11.0,no run,31,0,31/5,"Berrington to Vala, no run",,,5
+69,67,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,11.1,no run,31,0,31/5,"Watt to Doriga, no run",,,5
+70,68,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,11.2,no run,31,0,31/5,"Watt to Doriga, no run",,,5
+71,69,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,11.3,no run,31,0,31/5,"Watt to Doriga, no run",,,5
+72,70,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,11.4,no run,31,0,31/5,"Watt to Doriga, no run",,,5
+73,71,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,11.5,no run,31,0,31/5,"Watt to Doriga, no run",,,5
+74,72,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, 1 run ",1st innings,12.0,run,32,1,32/5,"Watt to Doriga, 1 run",,,5
+75,73,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, no run ",1st innings,12.1,no run,32,0,32/5,"Berrington to Doriga, no run",,,5
+76,74,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, 1 run ",1st innings,12.2,run,33,1,33/5,"Berrington to Doriga, 1 run",,,5
+77,75,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, no run ",1st innings,12.3,no run,33,0,33/5,"Berrington to Vala, no run",,,5
+78,76,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, no run ",1st innings,12.4,no run,33,0,33/5,"Berrington to Vala, no run",,,5
+79,77,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, 1 run ",1st innings,12.5,run,34,1,34/5,"Berrington to Vala, 1 run",,,5
+80,78,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, 1 run ",1st innings,13.0,run,35,1,35/5,"Berrington to Doriga, 1 run",,,5
+81,79,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, 1 run ",1st innings,13.1,run,36,1,36/5,"Watt to Doriga, 1 run",,,5
+82,80,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,13.2,no run,36,0,36/5,"Watt to Vala, no run",,,5
+83,81,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,13.3,no run,36,0,36/5,"Watt to Vala, no run",,,5
+84,82,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 2 runs ",1st innings,13.4,run,38,2,38/5,"Watt to Vala, 2 runs",,,5
+85,83,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,13.5,no run,38,0,38/5,"Watt to Vala, no run",,,5
+86,84,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,14.0,no run,38,0,38/5,"Watt to Vala, no run",,,5
+87,85,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, no run ",1st innings,14.1,no run,38,0,38/5,"Berrington to Doriga, no run",,,5
+88,86,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, FOUR runs ",1st innings,14.2,four,42,4,42/5,"Berrington to Doriga, FOUR runs",,,5
+89,87,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, 1 run ",1st innings,14.3,run,43,1,43/5,"Berrington to Doriga, 1 run",,,5
+90,88,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, 1 run ",1st innings,14.4,run,44,1,44/5,"Berrington to Vala, 1 run",,,5
+91,89,Kiplin Doriga,646173,Richie Berrington,25490,"Berrington to Doriga, 3 runs ",1st innings,14.5,run,47,3,47/5,"Berrington to Doriga, 3 runs",,,5
+92,90,Assad Vala,25056,Richie Berrington,25490,"Berrington to Vala, 1 run ",1st innings,15.0,run,48,1,48/5,"Berrington to Vala, 1 run",,,5
+93,91,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,15.1,no run,48,0,48/5,"Watt to Vala, no run",,,5
+94,92,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,15.2,no run,48,0,48/5,"Watt to Vala, no run",,,5
+95,93,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,15.3,no run,48,0,48/5,"Watt to Vala, no run",,,5
+96,94,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 run ",1st innings,15.4,run,49,1,49/5,"Watt to Vala, 1 run",,,5
+97,95,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,15.5,no run,49,0,49/5,"Watt to Doriga, no run",,,5
+98,96,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,16.0,no run,49,0,49/5,"Watt to Doriga, no run",,,5
+99,97,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,16.1,no run,49,0,49/5,"Leask to Vala, no run",,,5
+100,98,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,16.2,run,50,1,50/5,"Leask to Vala, 1 run",,,5
+101,99,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,16.3,no run,50,0,50/5,"Leask to Doriga, no run",,,5
+102,100,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, 1 run ",1st innings,16.4,run,51,1,51/5,"Leask to Doriga, 1 run",,,5
+103,101,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,16.5,run,52,1,52/5,"Leask to Vala, 1 run",,,5
+104,102,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,17.0,no run,52,0,52/5,"Leask to Doriga, no run",,,5
+105,103,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 run ",1st innings,17.1,run,53,1,53/5,"Watt to Vala, 1 run",,,5
+106,104,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,17.2,no run,53,0,53/5,"Watt to Doriga, no run",,,5
+107,105,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,17.3,no run,53,0,53/5,"Watt to Doriga, no run",,,5
+108,106,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, 1 run ",1st innings,17.4,run,54,1,54/5,"Watt to Doriga, 1 run",,,5
+109,107,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,17.5,no run,54,0,54/5,"Watt to Vala, no run",,,5
+110,108,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 run ",1st innings,18.0,run,55,1,55/5,"Watt to Vala, 1 run",,,5
+111,109,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,18.1,run,56,1,56/5,"Leask to Vala, 1 run",,,5
+112,110,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,18.2,no run,56,0,56/5,"Leask to Doriga, no run",,,5
+113,111,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,18.3,no run,56,0,56/5,"Leask to Doriga, no run",,,5
+114,112,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,18.4,no run,56,0,56/5,"Leask to Doriga, no run",,,5
+115,113,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,18.5,no run,56,0,56/5,"Leask to Doriga, no run",,,5
+116,114,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,19.0,no run,56,0,56/5,"Leask to Doriga, no run",,,5
+117,114,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 wide ",1st innings,19.0,wide,57,1,57/5,"Watt to Vala, 1 wide",,,5
+118,115,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 run ",1st innings,19.1,run,58,1,58/5,"Watt to Vala, 1 run",,,5
+119,116,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,19.2,no run,58,0,58/5,"Watt to Doriga, no run",,,5
+120,117,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,19.3,no run,58,0,58/5,"Watt to Doriga, no run",,,5
+121,118,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, 1 run ",1st innings,19.4,run,59,1,59/5,"Watt to Doriga, 1 run",,,5
+122,119,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,19.5,no run,59,0,59/5,"Watt to Vala, no run",,,5
+123,120,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,20.0,no run,59,0,59/5,"Watt to Vala, no run",,,5
+124,121,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,20.1,no run,59,0,59/5,"Leask to Doriga, no run",,,5
+125,122,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, 1 run ",1st innings,20.2,run,60,1,60/5,"Leask to Doriga, 1 run",,,5
+126,123,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,20.3,no run,60,0,60/5,"Leask to Vala, no run",,,5
+127,124,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,20.4,run,61,1,61/5,"Leask to Vala, 1 run",,,5
+128,125,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, 1 run ",1st innings,20.5,run,62,1,62/5,"Leask to Doriga, 1 run",,,5
+129,126,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,21.0,no run,62,0,62/5,"Leask to Vala, no run",,,5
+130,127,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, no run ",1st innings,21.1,no run,62,0,62/5,"Watt to Doriga, no run",,,5
+131,128,Kiplin Doriga,646173,Mark Watt,659081,"Watt to Doriga, 1 run ",1st innings,21.2,run,63,1,63/5,"Watt to Doriga, 1 run",,,5
+132,129,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,21.3,no run,63,0,63/5,"Watt to Vala, no run",,,5
+133,130,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,21.4,no run,63,0,63/5,"Watt to Vala, no run",,,5
+134,131,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, no run ",1st innings,21.5,no run,63,0,63/5,"Watt to Vala, no run",,,5
+135,132,Assad Vala,25056,Mark Watt,659081,"Watt to Vala, 1 run ",1st innings,22.0,run,64,1,64/5,"Watt to Vala, 1 run",,,5
+136,133,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, FOUR runs ",1st innings,22.1,four,68,4,68/5,"Leask to Vala, FOUR runs",,,5
+137,134,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,22.2,no run,68,0,68/5,"Leask to Vala, no run",,,5
+138,135,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,22.3,run,69,1,69/5,"Leask to Vala, 1 run",,,5
+139,136,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,22.4,no run,69,0,69/5,"Leask to Doriga, no run",,,5
+140,137,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, 1 run ",1st innings,22.5,run,70,1,70/5,"Leask to Doriga, 1 run",,,5
+141,138,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,23.0,no run,70,0,70/5,"Leask to Vala, no run",,,5
+142,139,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, no run ",1st innings,23.1,no run,70,0,70/5,"de Lange to Doriga, no run",,,5
+143,140,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, no run ",1st innings,23.2,no run,70,0,70/5,"de Lange to Doriga, no run",,,5
+144,141,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, 1 run ",1st innings,23.3,run,71,1,71/5,"de Lange to Doriga, 1 run",,,5
+145,142,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, 2 runs ",1st innings,23.4,run,73,2,73/5,"de Lange to Vala, 2 runs",,,5
+146,143,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, no run ",1st innings,23.5,no run,73,0,73/5,"de Lange to Vala, no run",,,5
+147,144,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, no run ",1st innings,24.0,no run,73,0,73/5,"de Lange to Vala, no run",,,5
+148,145,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,24.1,no run,73,0,73/5,"Leask to Doriga, no run",,,5
+149,146,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, 1 run ",1st innings,24.2,run,74,1,74/5,"Leask to Doriga, 1 run",,,5
+150,147,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,24.3,run,75,1,75/5,"Leask to Vala, 1 run",,,5
+151,148,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,24.4,no run,75,0,75/5,"Leask to Doriga, no run",,,5
+152,149,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,24.5,no run,75,0,75/5,"Leask to Doriga, no run",,,5
+153,150,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, no run ",1st innings,25.0,no run,75,0,75/5,"Leask to Doriga, no run",,,5
+154,151,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, 1 run ",1st innings,25.1,run,76,1,76/5,"de Lange to Vala, 1 run",,,5
+155,152,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, no run ",1st innings,25.2,no run,76,0,76/5,"de Lange to Doriga, no run",,,5
+156,153,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, 1 run ",1st innings,25.3,run,77,1,77/5,"de Lange to Doriga, 1 run",,,5
+157,154,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, 1 run ",1st innings,25.4,run,78,1,78/5,"de Lange to Vala, 1 run",,,5
+158,155,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, no run ",1st innings,25.5,no run,78,0,78/5,"de Lange to Doriga, no run",,,5
+159,156,Kiplin Doriga,646173,Con de Lange,44851,"de Lange to Doriga, no run ",1st innings,26.0,no run,78,0,78/5,"de Lange to Doriga, no run",,,5
+160,157,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,26.1,run,79,1,79/5,"Leask to Vala, 1 run",,,5
+161,158,Kiplin Doriga,646173,Michael Leask,414966,"Leask to Doriga, OUT ",1st innings,26.2,out,79,0,79/6,"Leask to Doriga, OUT",,,6
+162,159,Norman Vanua,524253,Michael Leask,414966,"Leask to Vanua, no run ",1st innings,26.3,no run,79,0,79/6,"Leask to Vanua, no run",,,6
+163,160,Norman Vanua,524253,Michael Leask,414966,"Leask to Vanua, 1 run ",1st innings,26.4,run,80,1,80/6,"Leask to Vanua, 1 run",,,6
+164,161,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, no run ",1st innings,26.5,no run,80,0,80/6,"Leask to Vala, no run",,,6
+165,162,Assad Vala,25056,Michael Leask,414966,"Leask to Vala, 1 run ",1st innings,27.0,run,81,1,81/6,"Leask to Vala, 1 run",,,6
+166,163,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, no run ",1st innings,27.1,no run,81,0,81/6,"de Lange to Vala, no run",,,6
+167,164,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, 1 run ",1st innings,27.2,run,82,1,82/6,"de Lange to Vala, 1 run",,,6
+168,165,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,27.3,no run,82,0,82/6,"de Lange to Vanua, no run",,,6
+169,166,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,27.4,run,83,1,83/6,"de Lange to Vanua, 1 run",,,6
+170,167,Assad Vala,25056,Con de Lange,44851,"de Lange to Vala, 1 run ",1st innings,27.5,run,84,1,84/6,"de Lange to Vala, 1 run",,,6
+171,168,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,28.0,no run,84,0,84/6,"de Lange to Vanua, no run",,,6
+172,169,Assad Vala,25056,Alasdair Evans,399259,"Evans to Vala, OUT ",1st innings,28.1,out,84,0,84/7,"Evans to Vala, OUT",,,7
+173,170,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, no run ",1st innings,28.2,no run,84,0,84/7,"Evans to Soper, no run",,,7
+174,171,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, no run ",1st innings,28.3,no run,84,0,84/7,"Evans to Soper, no run",,,7
+175,172,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, no run ",1st innings,28.4,no run,84,0,84/7,"Evans to Soper, no run",,,7
+176,173,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, 2 runs ",1st innings,28.5,run,86,2,86/7,"Evans to Soper, 2 runs",,,7
+177,174,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, 1 run ",1st innings,29.0,run,87,1,87/7,"Evans to Soper, 1 run",,,7
+178,175,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,29.1,run,88,1,88/7,"de Lange to Soper, 1 run",,,7
+179,176,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,29.2,no run,88,0,88/7,"de Lange to Vanua, no run",,,7
+180,177,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,29.3,no run,88,0,88/7,"de Lange to Vanua, no run",,,7
+181,178,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,29.4,run,89,1,89/7,"de Lange to Vanua, 1 run",,,7
+182,179,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,29.5,run,90,1,90/7,"de Lange to Soper, 1 run",,,7
+183,180,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,30.0,run,91,1,91/7,"de Lange to Vanua, 1 run",,,7
+184,181,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, FOUR runs ",1st innings,30.1,four,95,4,95/7,"Evans to Vanua, FOUR runs",,,7
+185,182,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,30.2,no run,95,0,95/7,"Evans to Vanua, no run",,,7
+186,183,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,30.3,no run,95,0,95/7,"Evans to Vanua, no run",,,7
+187,184,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,30.4,no run,95,0,95/7,"Evans to Vanua, no run",,,7
+188,184,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, 1 wide ",1st innings,30.4,wide,96,1,96/7,"Evans to Vanua, 1 wide",,,7
+189,185,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, 1 run ",1st innings,30.5,run,97,1,97/7,"Evans to Vanua, 1 run",,,7
+190,186,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, 3 runs ",1st innings,31.0,run,100,3,100/7,"Evans to Soper, 3 runs",,,7
+191,187,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, no run ",1st innings,31.1,no run,100,0,100/7,"de Lange to Soper, no run",,,7
+192,188,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,31.2,run,101,1,101/7,"de Lange to Soper, 1 run",,,7
+193,189,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,31.3,no run,101,0,101/7,"de Lange to Vanua, no run",,,7
+194,190,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,31.4,no run,101,0,101/7,"de Lange to Vanua, no run",,,7
+195,191,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,31.5,run,102,1,102/7,"de Lange to Vanua, 1 run",,,7
+196,192,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,32.0,run,103,1,103/7,"de Lange to Soper, 1 run",,,7
+197,193,Chad Soper,574287,Alasdair Evans,399259,"Evans to Soper, 3 runs ",1st innings,32.1,run,106,3,106/7,"Evans to Soper, 3 runs",,,7
+198,194,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,32.2,no run,106,0,106/7,"Evans to Vanua, no run",,,7
+199,195,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,32.3,no run,106,0,106/7,"Evans to Vanua, no run",,,7
+200,196,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,32.4,no run,106,0,106/7,"Evans to Vanua, no run",,,7
+201,197,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,32.5,no run,106,0,106/7,"Evans to Vanua, no run",,,7
+202,198,Norman Vanua,524253,Alasdair Evans,399259,"Evans to Vanua, no run ",1st innings,33.0,no run,106,0,106/7,"Evans to Vanua, no run",,,7
+203,199,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,33.1,run,107,1,107/7,"de Lange to Soper, 1 run",,,7
+204,200,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,33.2,run,108,1,108/7,"de Lange to Vanua, 1 run",,,7
+205,201,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,33.3,run,109,1,109/7,"de Lange to Soper, 1 run",,,7
+206,202,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,33.4,no run,109,0,109/7,"de Lange to Vanua, no run",,,7
+207,203,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,33.5,no run,109,0,109/7,"de Lange to Vanua, no run",,,7
+208,204,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,34.0,no run,109,0,109/7,"de Lange to Vanua, no run",,,7
+209,205,Chad Soper,574287,Mark Watt,659081,"Watt to Soper, no run ",1st innings,34.1,no run,109,0,109/7,"Watt to Soper, no run",,,7
+210,206,Chad Soper,574287,Mark Watt,659081,"Watt to Soper, no run ",1st innings,34.2,no run,109,0,109/7,"Watt to Soper, no run",,,7
+211,207,Chad Soper,574287,Mark Watt,659081,"Watt to Soper, no run ",1st innings,34.3,no run,109,0,109/7,"Watt to Soper, no run",,,7
+212,208,Chad Soper,574287,Mark Watt,659081,"Watt to Soper, 1 run ",1st innings,34.4,run,110,1,110/7,"Watt to Soper, 1 run",,,7
+213,209,Norman Vanua,524253,Mark Watt,659081,"Watt to Vanua, no run ",1st innings,34.5,no run,110,0,110/7,"Watt to Vanua, no run",,,7
+214,210,Norman Vanua,524253,Mark Watt,659081,"Watt to Vanua, no run ",1st innings,35.0,no run,110,0,110/7,"Watt to Vanua, no run",,,7
+215,211,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, no run ",1st innings,35.1,no run,110,0,110/7,"de Lange to Soper, no run",,,7
+216,212,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,35.2,run,111,1,111/7,"de Lange to Soper, 1 run",,,7
+217,213,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, 1 run ",1st innings,35.3,run,112,1,112/7,"de Lange to Vanua, 1 run",,,7
+218,214,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,35.4,run,113,1,113/7,"de Lange to Soper, 1 run",,,7
+219,215,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,35.5,no run,113,0,113/7,"de Lange to Vanua, no run",,,7
+220,216,Norman Vanua,524253,Con de Lange,44851,"de Lange to Vanua, no run ",1st innings,36.0,no run,113,0,113/7,"de Lange to Vanua, no run",,,7
+221,217,Norman Vanua,524253,Mark Watt,659081,"Watt to Vanua, OUT ",1st innings,36.1,out,113,0,113/8,"Watt to Vanua, OUT",,,8
+222,218,Nosaina Pokana,646181,Mark Watt,659081,"Watt to Pokana, 2 runs ",1st innings,36.2,run,115,2,115/8,"Watt to Pokana, 2 runs",,,8
+223,219,Nosaina Pokana,646181,Mark Watt,659081,"Watt to Pokana, no run ",1st innings,36.3,no run,115,0,115/8,"Watt to Pokana, no run",,,8
+224,220,Nosaina Pokana,646181,Mark Watt,659081,"Watt to Pokana, no run ",1st innings,36.4,no run,115,0,115/8,"Watt to Pokana, no run",,,8
+225,221,Nosaina Pokana,646181,Mark Watt,659081,"Watt to Pokana, no run ",1st innings,36.5,no run,115,0,115/8,"Watt to Pokana, no run",,,8
+226,222,Nosaina Pokana,646181,Mark Watt,659081,"Watt to Pokana, no run ",1st innings,37.0,no run,115,0,115/8,"Watt to Pokana, no run",,,8
+227,223,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 1 run ",1st innings,37.1,run,116,1,116/8,"de Lange to Soper, 1 run",,,8
+228,224,Nosaina Pokana,646181,Con de Lange,44851,"de Lange to Pokana, no run ",1st innings,37.2,no run,116,0,116/8,"de Lange to Pokana, no run",,,8
+229,225,Nosaina Pokana,646181,Con de Lange,44851,"de Lange to Pokana, 1 run ",1st innings,37.3,run,117,1,117/8,"de Lange to Pokana, 1 run",,,8
+230,226,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, no run ",1st innings,37.4,no run,117,0,117/8,"de Lange to Soper, no run",,,8
+231,227,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, 2 runs ",1st innings,37.5,run,119,2,119/8,"de Lange to Soper, 2 runs",,,8
+232,228,Chad Soper,574287,Con de Lange,44851,"de Lange to Soper, no run ",1st innings,38.0,no run,119,0,119/8,"de Lange to Soper, no run",,,8
+233,229,Nosaina Pokana,646181,Safyaan Sharif,414970,"Sharif to Pokana, no run ",1st innings,38.1,no run,119,0,119/8,"Sharif to Pokana, no run",,,8
+234,230,Nosaina Pokana,646181,Safyaan Sharif,414970,"Sharif to Pokana, no run ",1st innings,38.2,no run,119,0,119/8,"Sharif to Pokana, no run",,,8
+235,231,Nosaina Pokana,646181,Safyaan Sharif,414970,"Sharif to Pokana, no run ",1st innings,38.3,no run,119,0,119/8,"Sharif to Pokana, no run",,,8
+236,232,Nosaina Pokana,646181,Safyaan Sharif,414970,"Sharif to Pokana, no run ",1st innings,38.4,no run,119,0,119/8,"Sharif to Pokana, no run",,,8
+237,233,Nosaina Pokana,646181,Safyaan Sharif,414970,"Sharif to Pokana, OUT ",1st innings,38.5,out,119,0,119/9,"Sharif to Pokana, OUT",,,9
+238,234,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, no run ",1st innings,39.0,no run,119,0,119/9,"Sharif to Nao, no run",,,9
+239,235,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, no run ",1st innings,39.1,no run,119,0,119/9,"Leask to Soper, no run",,,9
+240,236,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, 2 runs ",1st innings,39.2,run,121,2,121/9,"Leask to Soper, 2 runs",,,9
+241,237,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, no run ",1st innings,39.3,no run,121,0,121/9,"Leask to Soper, no run",,,9
+242,238,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, 1 run ",1st innings,39.4,run,122,1,122/9,"Leask to Soper, 1 run",,,9
+243,239,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, no run ",1st innings,39.5,no run,122,0,122/9,"Leask to Nao, no run",,,9
+244,240,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, no run ",1st innings,40.0,no run,122,0,122/9,"Leask to Nao, no run",,,9
+245,241,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, 1 run ",1st innings,40.1,run,123,1,123/9,"Sharif to Soper, 1 run",,,9
+246,242,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, SIX runs ",1st innings,40.2,six,129,6,129/9,"Sharif to Nao, SIX runs",,,9
+247,243,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, 1 run ",1st innings,40.3,run,130,1,130/9,"Sharif to Nao, 1 run",,,9
+248,243,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, 1 wide ",1st innings,40.3,wide,131,1,131/9,"Sharif to Soper, 1 wide",,,9
+249,244,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, no run ",1st innings,40.4,no run,131,0,131/9,"Sharif to Soper, no run",,,9
+250,245,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, no run ",1st innings,40.5,no run,131,0,131/9,"Sharif to Soper, no run",,,9
+251,246,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, no run ",1st innings,41.0,no run,131,0,131/9,"Sharif to Soper, no run",,,9
+252,247,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, no run ",1st innings,41.1,no run,131,0,131/9,"Leask to Nao, no run",,,9
+253,248,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, 1 run ",1st innings,41.2,run,132,1,132/9,"Leask to Nao, 1 run",,,9
+254,249,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, 1 run ",1st innings,41.3,run,133,1,133/9,"Leask to Soper, 1 run",,,9
+255,250,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, no run ",1st innings,41.4,no run,133,0,133/9,"Leask to Nao, no run",,,9
+256,251,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, 2 runs ",1st innings,41.5,run,135,2,135/9,"Leask to Nao, 2 runs",,,9
+257,252,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, no run ",1st innings,42.0,no run,135,0,135/9,"Leask to Nao, no run",,,9
+258,253,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, 1 run ",1st innings,42.1,run,136,1,136/9,"Sharif to Soper, 1 run",,,9
+259,254,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, 2 runs ",1st innings,42.2,run,138,2,138/9,"Sharif to Nao, 2 runs",,,9
+260,255,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, no run ",1st innings,42.3,no run,138,0,138/9,"Sharif to Nao, no run",,,9
+261,256,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, 1 run ",1st innings,42.4,run,139,1,139/9,"Sharif to Nao, 1 run",,,9
+262,256,Chad Soper,574287,Safyaan Sharif,414970,"Sharif to Soper, (no ball) 1 run ",1st innings,42.4,run,141,2,141/9,"Sharif to Soper, (no ball) 1 run",,,9
+263,257,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, 2 runs ",1st innings,42.5,run,143,2,143/9,"Sharif to Nao, 2 runs",,,9
+264,258,Alei Nao,524247,Safyaan Sharif,414970,"Sharif to Nao, no run ",1st innings,43.0,no run,143,0,143/9,"Sharif to Nao, no run",,,9
+265,259,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, 1 run ",1st innings,43.1,run,144,1,144/9,"Leask to Soper, 1 run",,,9
+266,260,Alei Nao,524247,Michael Leask,414966,"Leask to Nao, 1 run ",1st innings,43.2,run,145,1,145/9,"Leask to Nao, 1 run",,,9
+267,261,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, no run ",1st innings,43.3,no run,145,0,145/9,"Leask to Soper, no run",,,9
+268,262,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, no run ",1st innings,43.4,no run,145,0,145/9,"Leask to Soper, no run",,,9
+269,263,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, no run ",1st innings,43.5,no run,145,0,145/9,"Leask to Soper, no run",,,9
+270,264,Chad Soper,574287,Michael Leask,414966,"Leask to Soper, 1 run ",1st innings,44.0,run,146,1,146/9,"Leask to Soper, 1 run",,,9
+271,265,Chad Soper,574287,Mark Watt,659081,"Watt to Soper, 1 run ",1st innings,44.1,run,147,1,147/9,"Watt to Soper, 1 run",,,9
+272,266,Alei Nao,524247,Mark Watt,659081,"Watt to Nao, OUT ",1st innings,44.2,out,147,0,147/10,"Watt to Nao, OUT",,,10
+273,0,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 wide ",2nd innings,0.0,wide,1,1,1/0,"Vanua to Cross, 1 wide",,,0
+274,0,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 wide ",2nd innings,0.0,wide,2,1,2/0,"Vanua to Cross, 1 wide",,,0
+275,0,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 wide ",2nd innings,0.0,wide,3,1,3/0,"Vanua to Cross, 1 wide",,,0
+276,1,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, no run ",2nd innings,0.1,no run,3,0,3/0,"Vanua to Cross, no run",,,0
+277,1,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 wide ",2nd innings,0.1,wide,4,1,4/0,"Vanua to Cross, 1 wide",,,0
+278,2,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, no run ",2nd innings,0.2,no run,4,0,4/0,"Vanua to Cross, no run",,,0
+279,3,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, no run ",2nd innings,0.3,no run,4,0,4/0,"Vanua to Cross, no run",,,0
+280,4,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, no run ",2nd innings,0.4,no run,4,0,4/0,"Vanua to Cross, no run",,,0
+281,5,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, no run ",2nd innings,0.5,no run,4,0,4/0,"Vanua to Cross, no run",,,0
+282,6,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 run ",2nd innings,1.0,run,5,1,5/0,"Vanua to Cross, 1 run",,,0
+283,6,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, 2 wides ",2nd innings,1.0,wide,7,2,7/0,"Soper to Cross, 2 wides",,,0
+284,6,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, 3 wides ",2nd innings,1.0,wide,10,3,10/0,"Soper to Coetzer, 3 wides",,,0
+285,7,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, FOUR runs ",2nd innings,1.1,four,14,4,14/0,"Soper to Coetzer, FOUR runs",,,0
+286,8,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,1.2,no run,14,0,14/0,"Soper to Coetzer, no run",,,0
+287,9,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,1.3,no run,14,0,14/0,"Soper to Coetzer, no run",,,0
+288,10,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,1.4,no run,14,0,14/0,"Soper to Coetzer, no run",,,0
+289,11,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,1.5,no run,14,0,14/0,"Soper to Coetzer, no run",,,0
+290,12,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, 1 run ",2nd innings,2.0,run,15,1,15/0,"Soper to Coetzer, 1 run",,,0
+291,12,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 1 wide ",2nd innings,2.0,wide,16,1,16/0,"Vanua to Coetzer, 1 wide",,,0
+292,13,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,2.1,no run,16,0,16/0,"Vanua to Coetzer, no run",,,0
+293,13,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 1 no ball ",2nd innings,2.1,no ball,17,1,17/0,"Vanua to Coetzer, 1 no ball",,,0
+294,14,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 2 runs ",2nd innings,2.2,run,19,2,19/0,"Vanua to Coetzer, 2 runs",,,0
+295,15,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,2.3,no run,19,0,19/0,"Vanua to Coetzer, no run",,,0
+296,16,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, FOUR runs ",2nd innings,2.4,four,23,4,23/0,"Vanua to Coetzer, FOUR runs",,,0
+297,17,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,2.5,no run,23,0,23/0,"Vanua to Coetzer, no run",,,0
+298,18,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 1 run ",2nd innings,3.0,run,24,1,24/0,"Vanua to Coetzer, 1 run",,,0
+299,19,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,3.1,no run,24,0,24/0,"Soper to Coetzer, no run",,,0
+300,20,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, FOUR runs ",2nd innings,3.2,four,28,4,28/0,"Soper to Coetzer, FOUR runs",,,0
+301,21,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,3.3,no run,28,0,28/0,"Soper to Coetzer, no run",,,0
+302,22,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,3.4,no run,28,0,28/0,"Soper to Coetzer, no run",,,0
+303,22,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, 2 wides ",2nd innings,3.4,wide,30,2,30/0,"Soper to Coetzer, 2 wides",,,0
+304,23,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, no run ",2nd innings,3.5,no run,30,0,30/0,"Soper to Cross, no run",,,0
+305,24,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, no run ",2nd innings,4.0,no run,30,0,30/0,"Soper to Cross, no run",,,0
+306,25,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,4.1,no run,30,0,30/0,"Vanua to Coetzer, no run",,,0
+307,26,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,4.2,no run,30,0,30/0,"Vanua to Coetzer, no run",,,0
+308,27,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,4.3,no run,30,0,30/0,"Vanua to Coetzer, no run",,,0
+309,28,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 1 run ",2nd innings,4.4,run,31,1,31/0,"Vanua to Coetzer, 1 run",,,0
+310,29,Matthew Cross,417268,Norman Vanua,524253,"Vanua to Cross, 1 leg bye ",2nd innings,4.5,leg bye,32,1,32/0,"Vanua to Cross, 1 leg bye",,,0
+311,29,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, 1 no ball ",2nd innings,4.5,no ball,33,1,33/0,"Vanua to Coetzer, 1 no ball",,,0
+312,30,Kyle Coetzer,25446,Norman Vanua,524253,"Vanua to Coetzer, no run ",2nd innings,5.0,no run,33,0,33/0,"Vanua to Coetzer, no run",,,0
+313,31,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, no run ",2nd innings,5.1,no run,33,0,33/0,"Soper to Cross, no run",,,0
+314,32,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, no run ",2nd innings,5.2,no run,33,0,33/0,"Soper to Cross, no run",,,0
+315,33,Matthew Cross,417268,Chad Soper,574287,"Soper to Cross, OUT ",2nd innings,5.3,out,33,0,33/1,"Soper to Cross, OUT",,,1
+316,34,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,5.4,no run,33,0,33/1,"Soper to MacLeod, no run",,,1
+317,35,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,5.5,no run,33,0,33/1,"Soper to MacLeod, no run",,,1
+318,36,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,6.0,no run,33,0,33/1,"Soper to MacLeod, no run",,,1
+319,37,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, FOUR runs ",2nd innings,6.1,four,37,4,37/1,"Pokana to Coetzer, FOUR runs",,,1
+320,38,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, no run ",2nd innings,6.2,no run,37,0,37/1,"Pokana to Coetzer, no run",,,1
+321,39,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, no run ",2nd innings,6.3,no run,37,0,37/1,"Pokana to Coetzer, no run",,,1
+322,40,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, 1 run ",2nd innings,6.4,run,38,1,38/1,"Pokana to Coetzer, 1 run",,,1
+323,41,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,6.5,no run,38,0,38/1,"Pokana to MacLeod, no run",,,1
+324,42,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,7.0,no run,38,0,38/1,"Pokana to MacLeod, no run",,,1
+325,43,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,7.1,no run,38,0,38/1,"Soper to Coetzer, no run",,,1
+326,44,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, no run ",2nd innings,7.2,no run,38,0,38/1,"Soper to Coetzer, no run",,,1
+327,45,Kyle Coetzer,25446,Chad Soper,574287,"Soper to Coetzer, 1 leg bye ",2nd innings,7.3,leg bye,39,1,39/1,"Soper to Coetzer, 1 leg bye",,,1
+328,46,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,7.4,no run,39,0,39/1,"Soper to MacLeod, no run",,,1
+329,47,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,7.5,no run,39,0,39/1,"Soper to MacLeod, no run",,,1
+330,48,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,8.0,no run,39,0,39/1,"Soper to MacLeod, no run",,,1
+331,49,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, no run ",2nd innings,8.1,no run,39,0,39/1,"Pokana to Coetzer, no run",,,1
+332,49,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, 1 no ball ",2nd innings,8.1,no ball,40,1,40/1,"Pokana to Coetzer, 1 no ball",,,1
+333,50,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, SIX runs ",2nd innings,8.2,six,46,6,46/1,"Pokana to Coetzer, SIX runs",,,1
+334,51,Kyle Coetzer,25446,Nosaina Pokana,646181,"Pokana to Coetzer, 1 run ",2nd innings,8.3,run,47,1,47/1,"Pokana to Coetzer, 1 run",,,1
+335,52,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,8.4,no run,47,0,47/1,"Pokana to MacLeod, no run",,,1
+336,53,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,8.5,no run,47,0,47/1,"Pokana to MacLeod, no run",,,1
+337,54,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, 1 run ",2nd innings,9.0,run,48,1,48/1,"Pokana to MacLeod, 1 run",,,1
+338,55,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, 2 runs ",2nd innings,9.1,run,50,2,50/1,"Soper to MacLeod, 2 runs",,,1
+339,56,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,9.2,no run,50,0,50/1,"Soper to MacLeod, no run",,,1
+340,57,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,9.3,no run,50,0,50/1,"Soper to MacLeod, no run",,,1
+341,58,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,9.4,no run,50,0,50/1,"Soper to MacLeod, no run",,,1
+342,59,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,9.5,no run,50,0,50/1,"Soper to MacLeod, no run",,,1
+343,60,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, no run ",2nd innings,10.0,no run,50,0,50/1,"Soper to MacLeod, no run",,,1
+344,61,Kyle Coetzer,25446,Alei Nao,524247,"Nao to Coetzer, no run ",2nd innings,10.1,no run,50,0,50/1,"Nao to Coetzer, no run",,,1
+345,61,Kyle Coetzer,25446,Alei Nao,524247,"Nao to Coetzer, 1 no ball ",2nd innings,10.1,no ball,51,1,51/1,"Nao to Coetzer, 1 no ball",,,1
+346,62,Kyle Coetzer,25446,Alei Nao,524247,"Nao to Coetzer, no run ",2nd innings,10.2,no run,51,0,51/1,"Nao to Coetzer, no run",,,1
+347,63,Kyle Coetzer,25446,Alei Nao,524247,"Nao to Coetzer, OUT ",2nd innings,10.3,out,51,0,51/2,"Nao to Coetzer, OUT",,,2
+348,64,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,10.4,no run,51,0,51/2,"Nao to Berrington, no run",,,2
+349,65,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,10.5,no run,51,0,51/2,"Nao to Berrington, no run",,,2
+350,66,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,11.0,no run,51,0,51/2,"Nao to Berrington, no run",,,2
+351,67,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,11.1,no run,51,0,51/2,"Dai to MacLeod, no run",,,2
+352,68,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,11.2,no run,51,0,51/2,"Dai to MacLeod, no run",,,2
+353,69,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 2 runs ",2nd innings,11.3,run,53,2,53/2,"Dai to MacLeod, 2 runs",,,2
+354,70,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, FOUR runs ",2nd innings,11.4,four,57,4,57/2,"Dai to MacLeod, FOUR runs",,,2
+355,71,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,11.5,no run,57,0,57/2,"Dai to MacLeod, no run",,,2
+356,72,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,12.0,run,58,1,58/2,"Dai to MacLeod, 1 run",,,2
+357,73,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,12.1,no run,58,0,58/2,"Nao to MacLeod, no run",,,2
+358,74,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,12.2,no run,58,0,58/2,"Nao to MacLeod, no run",,,2
+359,75,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,12.3,no run,58,0,58/2,"Nao to MacLeod, no run",,,2
+360,76,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,12.4,no run,58,0,58/2,"Nao to MacLeod, no run",,,2
+361,77,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,12.5,run,59,1,59/2,"Nao to MacLeod, 1 run",,,2
+362,78,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,13.0,no run,59,0,59/2,"Nao to Berrington, no run",,,2
+363,79,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,13.1,run,60,1,60/2,"Dai to MacLeod, 1 run",,,2
+364,80,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, no run ",2nd innings,13.2,no run,60,0,60/2,"Dai to Berrington, no run",,,2
+365,81,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, 1 run ",2nd innings,13.3,run,61,1,61/2,"Dai to Berrington, 1 run",,,2
+366,82,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,13.4,run,62,1,62/2,"Dai to MacLeod, 1 run",,,2
+367,83,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, no run ",2nd innings,13.5,no run,62,0,62/2,"Dai to Berrington, no run",,,2
+368,84,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, no run ",2nd innings,14.0,no run,62,0,62/2,"Dai to Berrington, no run",,,2
+369,85,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,14.1,no run,62,0,62/2,"Nao to MacLeod, no run",,,2
+370,86,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,14.2,run,63,1,63/2,"Nao to MacLeod, 1 run",,,2
+371,87,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, 2 runs ",2nd innings,14.3,run,65,2,65/2,"Nao to Berrington, 2 runs",,,2
+372,88,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,14.4,no run,65,0,65/2,"Nao to Berrington, no run",,,2
+373,89,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,14.5,no run,65,0,65/2,"Nao to Berrington, no run",,,2
+374,90,Richie Berrington,25490,Alei Nao,524247,"Nao to Berrington, no run ",2nd innings,15.0,no run,65,0,65/2,"Nao to Berrington, no run",,,2
+375,91,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,15.1,run,66,1,66/2,"Dai to MacLeod, 1 run",,,2
+376,92,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, no run ",2nd innings,15.2,no run,66,0,66/2,"Dai to Berrington, no run",,,2
+377,93,Richie Berrington,25490,Mahuru Dai,25051,"Dai to Berrington, OUT ",2nd innings,15.3,out,66,0,66/3,"Dai to Berrington, OUT",,,3
+378,94,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, no run ",2nd innings,15.4,no run,66,0,66/3,"Dai to de Lange, no run",,,3
+379,95,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, no run ",2nd innings,15.5,no run,66,0,66/3,"Dai to de Lange, no run",,,3
+380,96,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, no run ",2nd innings,16.0,no run,66,0,66/3,"Dai to de Lange, no run",,,3
+381,97,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,16.1,run,67,1,67/3,"Nao to MacLeod, 1 run",,,3
+382,98,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, 1 run ",2nd innings,16.2,run,68,1,68/3,"Nao to de Lange, 1 run",,,3
+383,99,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,16.3,no run,68,0,68/3,"Nao to MacLeod, no run",,,3
+384,100,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,16.4,no run,68,0,68/3,"Nao to MacLeod, no run",,,3
+385,101,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,16.5,run,69,1,69/3,"Nao to MacLeod, 1 run",,,3
+386,102,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, no run ",2nd innings,17.0,no run,69,0,69/3,"Nao to de Lange, no run",,,3
+387,103,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,17.1,no run,69,0,69/3,"Dai to MacLeod, no run",,,3
+388,104,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,17.2,no run,69,0,69/3,"Dai to MacLeod, no run",,,3
+389,105,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,17.3,no run,69,0,69/3,"Dai to MacLeod, no run",,,3
+390,106,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,17.4,no run,69,0,69/3,"Dai to MacLeod, no run",,,3
+391,107,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,17.5,run,70,1,70/3,"Dai to MacLeod, 1 run",,,3
+392,108,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, 1 run ",2nd innings,18.0,run,71,1,71/3,"Dai to de Lange, 1 run",,,3
+393,109,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, no run ",2nd innings,18.1,no run,71,0,71/3,"Nao to de Lange, no run",,,3
+394,110,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, 1 leg bye ",2nd innings,18.2,leg bye,72,1,72/3,"Nao to de Lange, 1 leg bye",,,3
+395,111,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,18.3,run,73,1,73/3,"Nao to MacLeod, 1 run",,,3
+396,112,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, 2 runs ",2nd innings,18.4,run,75,2,75/3,"Nao to de Lange, 2 runs",,,3
+397,113,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, no run ",2nd innings,18.5,no run,75,0,75/3,"Nao to de Lange, no run",,,3
+398,114,Con de Lange,44851,Alei Nao,524247,"Nao to de Lange, no run ",2nd innings,19.0,no run,75,0,75/3,"Nao to de Lange, no run",,,3
+399,115,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,19.1,run,76,1,76/3,"Dai to MacLeod, 1 run",,,3
+400,116,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, no run ",2nd innings,19.2,no run,76,0,76/3,"Dai to de Lange, no run",,,3
+401,117,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, 1 run ",2nd innings,19.3,run,77,1,77/3,"Dai to de Lange, 1 run",,,3
+402,118,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,19.4,no run,77,0,77/3,"Dai to MacLeod, no run",,,3
+403,119,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,19.5,run,78,1,78/3,"Dai to MacLeod, 1 run",,,3
+404,120,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, 1 run ",2nd innings,20.0,run,79,1,79/3,"Dai to de Lange, 1 run",,,3
+405,121,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,20.1,no run,79,0,79/3,"Vala to de Lange, no run",,,3
+406,122,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,20.2,no run,79,0,79/3,"Vala to de Lange, no run",,,3
+407,123,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, 1 run ",2nd innings,20.3,run,80,1,80/3,"Vala to de Lange, 1 run",,,3
+408,124,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,20.4,run,81,1,81/3,"Vala to MacLeod, 1 run",,,3
+409,125,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,20.5,no run,81,0,81/3,"Vala to de Lange, no run",,,3
+410,126,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, 1 run ",2nd innings,21.0,run,82,1,82/3,"Vala to de Lange, 1 run",,,3
+411,127,Con de Lange,44851,Norman Vanua,524253,"Vanua to de Lange, 2 runs ",2nd innings,21.1,run,84,2,84/3,"Vanua to de Lange, 2 runs",,,3
+412,128,Con de Lange,44851,Norman Vanua,524253,"Vanua to de Lange, no run ",2nd innings,21.2,no run,84,0,84/3,"Vanua to de Lange, no run",,,3
+413,129,Con de Lange,44851,Norman Vanua,524253,"Vanua to de Lange, 1 run ",2nd innings,21.3,run,85,1,85/3,"Vanua to de Lange, 1 run",,,3
+414,130,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, no run ",2nd innings,21.4,no run,85,0,85/3,"Vanua to MacLeod, no run",,,3
+415,131,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, no run ",2nd innings,21.5,no run,85,0,85/3,"Vanua to MacLeod, no run",,,3
+416,132,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, 1 run ",2nd innings,22.0,run,86,1,86/3,"Vanua to MacLeod, 1 run",,,3
+417,133,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, no run ",2nd innings,22.1,no run,86,0,86/3,"Vala to MacLeod, no run",,,3
+418,134,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, no run ",2nd innings,22.2,no run,86,0,86/3,"Vala to MacLeod, no run",,,3
+419,135,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,22.3,run,87,1,87/3,"Vala to MacLeod, 1 run",,,3
+420,136,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, 1 run ",2nd innings,22.4,run,88,1,88/3,"Vala to de Lange, 1 run",,,3
+421,137,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,22.5,run,89,1,89/3,"Vala to MacLeod, 1 run",,,3
+422,138,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,23.0,no run,89,0,89/3,"Vala to de Lange, no run",,,3
+423,139,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,23.1,run,90,1,90/3,"Dai to MacLeod, 1 run",,,3
+424,140,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, 3 runs ",2nd innings,23.2,run,93,3,93/3,"Dai to de Lange, 3 runs",,,3
+425,141,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, FOUR runs ",2nd innings,23.3,four,97,4,97/3,"Dai to MacLeod, FOUR runs",,,3
+426,142,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,23.4,run,98,1,98/3,"Dai to MacLeod, 1 run",,,3
+427,143,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, 1 run ",2nd innings,23.5,run,99,1,99/3,"Dai to de Lange, 1 run",,,3
+428,144,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,24.0,run,100,1,100/3,"Dai to MacLeod, 1 run",,,3
+429,145,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,24.1,run,101,1,101/3,"Vala to MacLeod, 1 run",,,3
+430,146,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,24.2,no run,101,0,101/3,"Vala to de Lange, no run",,,3
+431,147,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,24.3,no run,101,0,101/3,"Vala to de Lange, no run",,,3
+432,148,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,24.4,no run,101,0,101/3,"Vala to de Lange, no run",,,3
+433,149,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, no run ",2nd innings,24.5,no run,101,0,101/3,"Vala to de Lange, no run",,,3
+434,150,Con de Lange,44851,Assad Vala,25056,"Vala to de Lange, 1 run ",2nd innings,25.0,run,102,1,102/3,"Vala to de Lange, 1 run",,,3
+435,151,Con de Lange,44851,Mahuru Dai,25051,"Dai to de Lange, OUT ",2nd innings,25.1,out,102,0,102/4,"Dai to de Lange, OUT",,,4
+436,152,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,25.2,no run,102,0,102/4,"Dai to Munsey, no run",,,4
+437,153,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,25.3,no run,102,0,102/4,"Dai to Munsey, no run",,,4
+438,154,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, 1 run ",2nd innings,25.4,run,103,1,103/4,"Dai to Munsey, 1 run",,,4
+439,155,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,25.5,run,104,1,104/4,"Dai to MacLeod, 1 run",,,4
+440,156,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, 1 run ",2nd innings,26.0,run,105,1,105/4,"Dai to Munsey, 1 run",,,4
+441,157,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,26.1,no run,105,0,105/4,"Vala to Munsey, no run",,,4
+442,158,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,26.2,no run,105,0,105/4,"Vala to Munsey, no run",,,4
+443,159,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,26.3,no run,105,0,105/4,"Vala to Munsey, no run",,,4
+444,160,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,26.4,no run,105,0,105/4,"Vala to Munsey, no run",,,4
+445,161,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,26.5,no run,105,0,105/4,"Vala to Munsey, no run",,,4
+446,162,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, 1 run ",2nd innings,27.0,run,106,1,106/4,"Vala to Munsey, 1 run",,,4
+447,163,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, 1 run ",2nd innings,27.1,run,107,1,107/4,"Dai to Munsey, 1 run",,,4
+448,164,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,27.2,run,108,1,108/4,"Dai to MacLeod, 1 run",,,4
+449,165,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,27.3,no run,108,0,108/4,"Dai to Munsey, no run",,,4
+450,166,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,27.4,no run,108,0,108/4,"Dai to Munsey, no run",,,4
+451,167,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,27.5,no run,108,0,108/4,"Dai to Munsey, no run",,,4
+452,168,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,28.0,no run,108,0,108/4,"Dai to Munsey, no run",,,4
+453,169,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, no run ",2nd innings,28.1,no run,108,0,108/4,"Vala to MacLeod, no run",,,4
+454,170,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,28.2,run,109,1,109/4,"Vala to MacLeod, 1 run",,,4
+455,171,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, 1 run ",2nd innings,28.3,run,110,1,110/4,"Vala to Munsey, 1 run",,,4
+456,172,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 2 runs ",2nd innings,28.4,run,112,2,112/4,"Vala to MacLeod, 2 runs",,,4
+457,173,Calum MacLeod,232435,Assad Vala,25056,"Vala to MacLeod, 1 run ",2nd innings,28.5,run,113,1,113/4,"Vala to MacLeod, 1 run",,,4
+458,174,George Munsey,671805,Assad Vala,25056,"Vala to Munsey, no run ",2nd innings,29.0,no run,113,0,113/4,"Vala to Munsey, no run",,,4
+459,175,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,29.1,no run,113,0,113/4,"Dai to MacLeod, no run",,,4
+460,176,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,29.2,no run,113,0,113/4,"Dai to MacLeod, no run",,,4
+461,177,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,29.3,run,114,1,114/4,"Dai to MacLeod, 1 run",,,4
+462,178,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,29.4,no run,114,0,114/4,"Dai to Munsey, no run",,,4
+463,179,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,29.5,no run,114,0,114/4,"Dai to Munsey, no run",,,4
+464,180,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,30.0,no run,114,0,114/4,"Dai to Munsey, no run",,,4
+465,181,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,30.1,no run,114,0,114/4,"Nao to MacLeod, no run",,,4
+466,181,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 2 wides ",2nd innings,30.1,wide,116,2,116/4,"Nao to MacLeod, 2 wides",,,4
+467,182,George Munsey,671805,Alei Nao,524247,"Nao to Munsey, no run ",2nd innings,30.2,no run,116,0,116/4,"Nao to Munsey, no run",,,4
+468,183,George Munsey,671805,Alei Nao,524247,"Nao to Munsey, 1 run ",2nd innings,30.3,run,117,1,117/4,"Nao to Munsey, 1 run",,,4
+469,184,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,30.4,no run,117,0,117/4,"Nao to MacLeod, no run",,,4
+470,185,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,30.5,run,118,1,118/4,"Nao to MacLeod, 1 run",,,4
+471,186,George Munsey,671805,Alei Nao,524247,"Nao to Munsey, no run ",2nd innings,31.0,no run,118,0,118/4,"Nao to Munsey, no run",,,4
+472,187,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,31.1,no run,118,0,118/4,"Dai to MacLeod, no run",,,4
+473,188,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, no run ",2nd innings,31.2,no run,118,0,118/4,"Dai to MacLeod, no run",,,4
+474,189,Calum MacLeod,232435,Mahuru Dai,25051,"Dai to MacLeod, 1 run ",2nd innings,31.3,run,119,1,119/4,"Dai to MacLeod, 1 run",,,4
+475,190,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,31.4,no run,119,0,119/4,"Dai to Munsey, no run",,,4
+476,191,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,31.5,no run,119,0,119/4,"Dai to Munsey, no run",,,4
+477,192,George Munsey,671805,Mahuru Dai,25051,"Dai to Munsey, no run ",2nd innings,32.0,no run,119,0,119/4,"Dai to Munsey, no run",,,4
+478,193,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,32.1,no run,119,0,119/4,"Nao to MacLeod, no run",,,4
+479,194,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,32.2,no run,119,0,119/4,"Nao to MacLeod, no run",,,4
+480,195,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, 1 run ",2nd innings,32.3,run,120,1,120/4,"Nao to MacLeod, 1 run",,,4
+481,196,George Munsey,671805,Alei Nao,524247,"Nao to Munsey, no run ",2nd innings,32.4,no run,120,0,120/4,"Nao to Munsey, no run",,,4
+482,197,George Munsey,671805,Alei Nao,524247,"Nao to Munsey, 1 run ",2nd innings,32.5,run,121,1,121/4,"Nao to Munsey, 1 run",,,4
+483,198,Calum MacLeod,232435,Alei Nao,524247,"Nao to MacLeod, no run ",2nd innings,33.0,no run,121,0,121/4,"Nao to MacLeod, no run",,,4
+484,199,George Munsey,671805,Norman Vanua,524253,"Vanua to Munsey, 1 run ",2nd innings,33.1,run,122,1,122/4,"Vanua to Munsey, 1 run",,,4
+485,200,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, no run ",2nd innings,33.2,no run,122,0,122/4,"Vanua to MacLeod, no run",,,4
+486,201,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, FOUR runs ",2nd innings,33.3,four,126,4,126/4,"Vanua to MacLeod, FOUR runs",,,4
+487,202,Calum MacLeod,232435,Norman Vanua,524253,"Vanua to MacLeod, FOUR runs ",2nd innings,33.4,four,130,4,130/4,"Vanua to MacLeod, FOUR runs",,,4
+488,203,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,33.5,no run,130,0,130/4,"Pokana to MacLeod, no run",,,4
+489,204,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,34.0,no run,130,0,130/4,"Pokana to MacLeod, no run",,,4
+490,205,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,34.1,no run,130,0,130/4,"Soper to Munsey, no run",,,4
+491,206,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,34.2,no run,130,0,130/4,"Soper to Munsey, no run",,,4
+492,207,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,34.3,no run,130,0,130/4,"Soper to Munsey, no run",,,4
+493,208,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,34.4,no run,130,0,130/4,"Soper to Munsey, no run",,,4
+494,209,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,34.5,no run,130,0,130/4,"Soper to Munsey, no run",,,4
+495,210,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, 1 run ",2nd innings,35.0,run,131,1,131/4,"Soper to Munsey, 1 run",,,4
+496,211,George Munsey,671805,Nosaina Pokana,646181,"Pokana to Munsey, no run ",2nd innings,35.1,no run,131,0,131/4,"Pokana to Munsey, no run",,,4
+497,212,George Munsey,671805,Nosaina Pokana,646181,"Pokana to Munsey, 1 run ",2nd innings,35.2,run,132,1,132/4,"Pokana to Munsey, 1 run",,,4
+498,213,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, 2 runs ",2nd innings,35.3,run,134,2,134/4,"Pokana to MacLeod, 2 runs",,,4
+499,214,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,35.4,no run,134,0,134/4,"Pokana to MacLeod, no run",,,4
+500,215,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,35.5,no run,134,0,134/4,"Pokana to MacLeod, no run",,,4
+501,216,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,36.0,no run,134,0,134/4,"Pokana to MacLeod, no run",,,4
+502,217,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,36.1,no run,134,0,134/4,"Soper to Munsey, no run",,,4
+503,218,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,36.2,no run,134,0,134/4,"Soper to Munsey, no run",,,4
+504,219,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, 1 run ",2nd innings,36.3,run,135,1,135/4,"Soper to Munsey, 1 run",,,4
+505,220,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, 1 run ",2nd innings,36.4,run,136,1,136/4,"Soper to MacLeod, 1 run",,,4
+506,221,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, no run ",2nd innings,36.5,no run,136,0,136/4,"Soper to Munsey, no run",,,4
+507,222,George Munsey,671805,Chad Soper,574287,"Soper to Munsey, 1 run ",2nd innings,37.0,run,137,1,137/4,"Soper to Munsey, 1 run",,,4
+508,223,George Munsey,671805,Nosaina Pokana,646181,"Pokana to Munsey, 1 run ",2nd innings,37.1,run,138,1,138/4,"Pokana to Munsey, 1 run",,,4
+509,224,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, no run ",2nd innings,37.2,no run,138,0,138/4,"Pokana to MacLeod, no run",,,4
+510,225,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, 2 runs ",2nd innings,37.3,run,140,2,140/4,"Pokana to MacLeod, 2 runs",,,4
+511,226,Calum MacLeod,232435,Nosaina Pokana,646181,"Pokana to MacLeod, 1 run ",2nd innings,37.4,run,141,1,141/4,"Pokana to MacLeod, 1 run",,,4
+512,227,George Munsey,671805,Nosaina Pokana,646181,"Pokana to Munsey, no run ",2nd innings,37.5,no run,141,0,141/4,"Pokana to Munsey, no run",,,4
+513,228,George Munsey,671805,Nosaina Pokana,646181,"Pokana to Munsey, FOUR runs ",2nd innings,38.0,four,145,4,145/4,"Pokana to Munsey, FOUR runs",,,4
+514,229,Calum MacLeod,232435,Chad Soper,574287,"Soper to MacLeod, 3 runs ",2nd innings,38.1,run,148,3,148/4,"Soper to MacLeod, 3 runs",,,4

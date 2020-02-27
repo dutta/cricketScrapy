@@ -1,0 +1,589 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,0.1,no run,0,0,0/0,"Murtagh to Ura, no run",,,0
+1,2,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,0.2,no run,0,0,0/0,"Murtagh to Ura, no run",,,0
+2,3,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,0.3,run,1,1,1/0,"Murtagh to Ura, 1 run",,,0
+3,4,Vani Morea,387435,Tim Murtagh,17134,"Murtagh to Morea, no run ",1st innings,0.4,no run,1,0,1/0,"Murtagh to Morea, no run",,,0
+4,5,Vani Morea,387435,Tim Murtagh,17134,"Murtagh to Morea, no run ",1st innings,0.5,no run,1,0,1/0,"Murtagh to Morea, no run",,,0
+5,6,Vani Morea,387435,Tim Murtagh,17134,"Murtagh to Morea, 1 run ",1st innings,0.6,run,2,1,2/0,"Murtagh to Morea, 1 run",,,0
+6,7,Vani Morea,387435,Boyd Rankin,24599,"Rankin to Morea, OUT ",1st innings,1.1,out,2,0,2/1,"Rankin to Morea, OUT",,,1
+7,8,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,1.2,no run,2,0,2/1,"Rankin to Vala, no run",,,1
+8,9,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, 2 runs ",1st innings,1.3,run,4,2,4/1,"Rankin to Vala, 2 runs",,,1
+9,10,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,1.4,no run,4,0,4/1,"Rankin to Vala, no run",,,1
+10,11,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, 2 runs ",1st innings,1.5,run,6,2,6/1,"Rankin to Vala, 2 runs",,,1
+11,12,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, 1 run ",1st innings,1.6,run,7,1,7/1,"Rankin to Vala, 1 run",,,1
+12,13,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,2.1,no run,7,0,7/1,"Murtagh to Vala, no run",,,1
+13,14,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,2.2,no run,7,0,7/1,"Murtagh to Vala, no run",,,1
+14,15,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,2.3,no run,7,0,7/1,"Murtagh to Vala, no run",,,1
+15,16,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,2.4,no run,7,0,7/1,"Murtagh to Vala, no run",,,1
+16,17,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,2.5,no run,7,0,7/1,"Murtagh to Vala, no run",,,1
+17,18,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, 1 run ",1st innings,2.6,run,8,1,8/1,"Murtagh to Vala, 1 run",,,1
+18,19,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,3.1,no run,8,0,8/1,"Rankin to Vala, no run",,,1
+19,20,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, 1 run ",1st innings,3.2,run,9,1,9/1,"Rankin to Vala, 1 run",,,1
+20,21,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,3.3,no run,9,0,9/1,"Rankin to Ura, no run",,,1
+21,22,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,3.4,no run,9,0,9/1,"Rankin to Ura, no run",,,1
+22,23,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,3.5,no run,9,0,9/1,"Rankin to Ura, no run",,,1
+23,24,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,3.6,no run,9,0,9/1,"Rankin to Ura, no run",,,1
+24,25,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,4.1,no run,9,0,9/1,"Murtagh to Vala, no run",,,1
+25,26,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,4.2,no run,9,0,9/1,"Murtagh to Vala, no run",,,1
+26,27,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,4.3,no run,9,0,9/1,"Murtagh to Vala, no run",,,1
+27,28,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, no run ",1st innings,4.4,no run,9,0,9/1,"Murtagh to Vala, no run",,,1
+28,29,Assad Vala,25056,Tim Murtagh,17134,"Murtagh to Vala, 1 run ",1st innings,4.5,run,10,1,10/1,"Murtagh to Vala, 1 run",,,1
+29,30,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,4.6,no run,10,0,10/1,"Murtagh to Ura, no run",,,1
+30,31,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.1,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+31,32,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.2,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+32,33,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.3,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+33,34,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.4,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+34,35,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.5,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+35,36,Assad Vala,25056,Boyd Rankin,24599,"Rankin to Vala, no run ",1st innings,5.6,no run,10,0,10/1,"Rankin to Vala, no run",,,1
+36,37,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,6.1,no run,10,0,10/1,"Murtagh to Ura, no run",,,1
+37,38,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 2 runs ",1st innings,6.2,run,12,2,12/1,"Murtagh to Ura, 2 runs",,,1
+38,39,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,6.3,no run,12,0,12/1,"Murtagh to Ura, no run",,,1
+39,40,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,6.4,no run,12,0,12/1,"Murtagh to Ura, no run",,,1
+40,42,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,6.6,no run,12,0,12/1,"Murtagh to Ura, no run",,,1
+41,43,Assad Vala,25056,Andy McBrine,417381,"McBrine to Vala, no run ",1st innings,7.1,no run,12,0,12/1,"McBrine to Vala, no run",,,1
+42,44,Assad Vala,25056,Andy McBrine,417381,"McBrine to Vala, OUT ",1st innings,7.2,out,12,0,12/2,"McBrine to Vala, OUT",,,2
+43,45,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,7.3,no run,12,0,12/2,"McBrine to Siaka, no run",,,2
+44,46,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,7.4,no run,12,0,12/2,"McBrine to Siaka, no run",,,2
+45,47,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,7.5,no run,12,0,12/2,"McBrine to Siaka, no run",,,2
+46,48,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,7.6,no run,12,0,12/2,"McBrine to Siaka, no run",,,2
+47,49,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 2 runs ",1st innings,8.1,run,14,2,14/2,"Murtagh to Ura, 2 runs",,,2
+48,50,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,8.2,no run,14,0,14/2,"Murtagh to Ura, no run",,,2
+49,51,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,8.3,no run,14,0,14/2,"Murtagh to Ura, no run",,,2
+50,52,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,8.4,run,15,1,15/2,"Murtagh to Ura, 1 run",,,2
+51,53,Lega Siaka,440990,Tim Murtagh,17134,"Murtagh to Siaka, no run ",1st innings,8.5,no run,15,0,15/2,"Murtagh to Siaka, no run",,,2
+52,54,Lega Siaka,440990,Tim Murtagh,17134,"Murtagh to Siaka, no run ",1st innings,8.6,no run,15,0,15/2,"Murtagh to Siaka, no run",,,2
+53,55,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, FOUR runs ",1st innings,9.1,four,19,4,19/2,"McBrine to Ura, FOUR runs",,,2
+54,56,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,9.2,no run,19,0,19/2,"McBrine to Ura, no run",,,2
+55,57,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,9.3,run,20,1,20/2,"McBrine to Ura, 1 run",,,2
+56,58,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,9.4,no run,20,0,20/2,"McBrine to Siaka, no run",,,2
+57,59,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,9.5,no run,20,0,20/2,"McBrine to Siaka, no run",,,2
+58,60,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,9.6,no run,20,0,20/2,"McBrine to Siaka, no run",,,2
+59,61,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,10.1,run,21,1,21/2,"Murtagh to Ura, 1 run",,,2
+60,62,Lega Siaka,440990,Tim Murtagh,17134,"Murtagh to Siaka, no run ",1st innings,10.2,no run,21,0,21/2,"Murtagh to Siaka, no run",,,2
+61,63,Lega Siaka,440990,Tim Murtagh,17134,"Murtagh to Siaka, 1 run ",1st innings,10.3,run,22,1,22/2,"Murtagh to Siaka, 1 run",,,2
+62,64,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,10.4,no run,22,0,22/2,"Murtagh to Ura, no run",,,2
+63,65,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,10.5,no run,22,0,22/2,"Murtagh to Ura, no run",,,2
+64,66,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,10.6,no run,22,0,22/2,"Murtagh to Ura, no run",,,2
+65,67,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, 1 run ",1st innings,11.1,run,23,1,23/2,"McBrine to Siaka, 1 run",,,2
+66,68,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,11.2,run,24,1,24/2,"McBrine to Ura, 1 run",,,2
+67,69,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,11.3,no run,24,0,24/2,"McBrine to Siaka, no run",,,2
+68,70,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, no run ",1st innings,11.4,no run,24,0,24/2,"McBrine to Siaka, no run",,,2
+69,71,Lega Siaka,440990,Andy McBrine,417381,"McBrine to Siaka, OUT ",1st innings,11.5,out,24,0,24/3,"McBrine to Siaka, OUT",,,3
+70,72,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, no run ",1st innings,11.6,no run,24,0,24/3,"McBrine to Bau, no run",,,3
+71,73,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, FOUR runs ",1st innings,12.1,four,28,4,28/3,"Dockrell to Ura, FOUR runs",,,3
+72,74,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, FOUR runs ",1st innings,12.2,four,32,4,32/3,"Dockrell to Ura, FOUR runs",,,3
+73,75,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,12.3,no run,32,0,32/3,"Dockrell to Ura, no run",,,3
+74,76,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 2 runs ",1st innings,12.4,run,34,2,34/3,"Dockrell to Ura, 2 runs",,,3
+75,77,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,12.5,no run,34,0,34/3,"Dockrell to Ura, no run",,,3
+76,78,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,12.6,run,35,1,35/3,"Dockrell to Ura, 1 run",,,3
+77,79,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,13.1,no run,35,0,35/3,"McBrine to Ura, no run",,,3
+78,80,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,13.2,run,36,1,36/3,"McBrine to Ura, 1 run",,,3
+79,81,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, no run ",1st innings,13.3,no run,36,0,36/3,"McBrine to Bau, no run",,,3
+80,82,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, 1 run ",1st innings,13.4,run,37,1,37/3,"McBrine to Bau, 1 run",,,3
+81,83,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,13.5,no run,37,0,37/3,"McBrine to Ura, no run",,,3
+82,84,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,13.6,run,38,1,38/3,"McBrine to Ura, 1 run",,,3
+83,85,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,14.1,run,39,1,39/3,"Dockrell to Ura, 1 run",,,3
+84,86,Sese Bau,420427,George Dockrell,348034,"Dockrell to Bau, 1 run ",1st innings,14.2,run,40,1,40/3,"Dockrell to Bau, 1 run",,,3
+85,87,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,14.3,run,41,1,41/3,"Dockrell to Ura, 1 run",,,3
+86,88,Sese Bau,420427,George Dockrell,348034,"Dockrell to Bau, no run ",1st innings,14.4,no run,41,0,41/3,"Dockrell to Bau, no run",,,3
+87,89,Sese Bau,420427,George Dockrell,348034,"Dockrell to Bau, no run ",1st innings,14.5,no run,41,0,41/3,"Dockrell to Bau, no run",,,3
+88,90,Sese Bau,420427,George Dockrell,348034,"Dockrell to Bau, 1 run ",1st innings,14.6,run,42,1,42/3,"Dockrell to Bau, 1 run",,,3
+89,91,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, no run ",1st innings,15.1,no run,42,0,42/3,"McBrine to Bau, no run",,,3
+90,92,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, no run ",1st innings,15.2,no run,42,0,42/3,"McBrine to Bau, no run",,,3
+91,93,Sese Bau,420427,Andy McBrine,417381,"McBrine to Bau, OUT ",1st innings,15.3,out,42,0,42/4,"McBrine to Bau, OUT",,,4
+92,94,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,15.4,no run,42,0,42/4,"McBrine to Dai, no run",,,4
+93,95,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,15.5,no run,42,0,42/4,"McBrine to Dai, no run",,,4
+94,96,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,15.6,no run,42,0,42/4,"McBrine to Dai, no run",,,4
+95,97,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.1,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+96,98,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.2,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+97,99,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.3,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+98,100,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.4,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+99,101,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.5,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+100,102,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,16.6,no run,42,0,42/4,"Rankin to Ura, no run",,,4
+101,103,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,17.1,no run,42,0,42/4,"McBrine to Dai, no run",,,4
+102,104,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, 1 run ",1st innings,17.2,run,43,1,43/4,"McBrine to Dai, 1 run",,,4
+103,105,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,17.3,no run,43,0,43/4,"McBrine to Ura, no run",,,4
+104,106,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,17.4,run,44,1,44/4,"McBrine to Ura, 1 run",,,4
+105,107,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,17.5,no run,44,0,44/4,"McBrine to Dai, no run",,,4
+106,108,Mahuru Dai,25051,Andy McBrine,417381,"McBrine to Dai, no run ",1st innings,17.6,no run,44,0,44/4,"McBrine to Dai, no run",,,4
+107,109,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,18.1,no run,44,0,44/4,"Rankin to Ura, no run",,,4
+108,110,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,18.2,no run,44,0,44/4,"Rankin to Ura, no run",,,4
+109,111,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, FOUR runs ",1st innings,18.3,four,48,4,48/4,"Rankin to Ura, FOUR runs",,,4
+110,113,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,18.5,no run,48,0,48/4,"Rankin to Ura, no run",,,4
+111,114,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 leg bye ",1st innings,18.6,leg bye,49,1,49/4,"Rankin to Ura, 1 leg bye",,,4
+112,115,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,19.1,no run,49,0,49/4,"McBrine to Ura, no run",,,4
+113,116,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,19.2,no run,49,0,49/4,"McBrine to Ura, no run",,,4
+114,117,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,19.3,no run,49,0,49/4,"McBrine to Ura, no run",,,4
+115,118,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,19.4,no run,49,0,49/4,"McBrine to Ura, no run",,,4
+116,119,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, SIX runs ",1st innings,19.5,six,55,6,55/4,"McBrine to Ura, SIX runs",,,4
+117,120,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,19.6,no run,55,0,55/4,"McBrine to Ura, no run",,,4
+118,121,Mahuru Dai,25051,Boyd Rankin,24599,"Rankin to Dai, OUT ",1st innings,20.1,out,55,0,55/5,"Rankin to Dai, OUT",,,5
+119,122,Charles Amini,332980,Boyd Rankin,24599,"Rankin to Amini, no run ",1st innings,20.2,no run,55,0,55/5,"Rankin to Amini, no run",,,5
+120,123,Charles Amini,332980,Boyd Rankin,24599,"Rankin to Amini, no run ",1st innings,20.3,no run,55,0,55/5,"Rankin to Amini, no run",,,5
+121,124,Charles Amini,332980,Boyd Rankin,24599,"Rankin to Amini, no run ",1st innings,20.4,no run,55,0,55/5,"Rankin to Amini, no run",,,5
+122,125,Charles Amini,332980,Boyd Rankin,24599,"Rankin to Amini, no run ",1st innings,20.5,no run,55,0,55/5,"Rankin to Amini, no run",,,5
+123,126,Charles Amini,332980,Boyd Rankin,24599,"Rankin to Amini, no run ",1st innings,20.6,no run,55,0,55/5,"Rankin to Amini, no run",,,5
+124,127,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, SIX runs ",1st innings,21.1,six,61,6,61/5,"McBrine to Ura, SIX runs",,,5
+125,128,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,21.2,no run,61,0,61/5,"McBrine to Ura, no run",,,5
+126,129,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, no run ",1st innings,21.3,no run,61,0,61/5,"McBrine to Ura, no run",,,5
+127,130,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,21.4,run,62,1,62/5,"McBrine to Ura, 1 run",,,5
+128,131,Charles Amini,332980,Andy McBrine,417381,"McBrine to Amini, no run ",1st innings,21.5,no run,62,0,62/5,"McBrine to Amini, no run",,,5
+129,133,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 3 runs ",1st innings,22.1,run,65,3,65/5,"Dockrell to Ura, 3 runs",,,5
+130,134,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, no run ",1st innings,22.2,no run,65,0,65/5,"Dockrell to Amini, no run",,,5
+131,135,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, no run ",1st innings,22.3,no run,65,0,65/5,"Dockrell to Amini, no run",,,5
+132,136,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, 2 runs ",1st innings,22.4,run,67,2,67/5,"Dockrell to Amini, 2 runs",,,5
+133,137,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, 1 run ",1st innings,22.5,run,68,1,68/5,"Dockrell to Amini, 1 run",,,5
+134,138,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,22.6,no run,68,0,68/5,"Dockrell to Ura, no run",,,5
+135,139,Charles Amini,332980,Paul Stirling,303427,"Stirling to Amini, no run ",1st innings,23.1,no run,68,0,68/5,"Stirling to Amini, no run",,,5
+136,140,Charles Amini,332980,Paul Stirling,303427,"Stirling to Amini, 1 run ",1st innings,23.2,run,69,1,69/5,"Stirling to Amini, 1 run",,,5
+137,141,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 2 runs ",1st innings,23.3,run,71,2,71/5,"Stirling to Ura, 2 runs",,,5
+138,142,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 1 run ",1st innings,23.4,run,72,1,72/5,"Stirling to Ura, 1 run",,,5
+139,143,Charles Amini,332980,Paul Stirling,303427,"Stirling to Amini, no run ",1st innings,23.5,no run,72,0,72/5,"Stirling to Amini, no run",,,5
+140,144,Charles Amini,332980,Paul Stirling,303427,"Stirling to Amini, no run ",1st innings,23.6,no run,72,0,72/5,"Stirling to Amini, no run",,,5
+141,145,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,24.1,no run,72,0,72/5,"Dockrell to Ura, no run",,,5
+142,146,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,24.2,run,73,1,73/5,"Dockrell to Ura, 1 run",,,5
+143,147,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, no run ",1st innings,24.3,no run,73,0,73/5,"Dockrell to Amini, no run",,,5
+144,148,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, 2 runs ",1st innings,24.4,run,75,2,75/5,"Dockrell to Amini, 2 runs",,,5
+145,149,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, 2 runs ",1st innings,24.5,run,77,2,77/5,"Dockrell to Amini, 2 runs",,,5
+146,150,Charles Amini,332980,George Dockrell,348034,"Dockrell to Amini, no run ",1st innings,24.6,no run,77,0,77/5,"Dockrell to Amini, no run",,,5
+147,151,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 2 runs ",1st innings,25.1,run,79,2,79/5,"Stirling to Ura, 2 runs",,,5
+148,152,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, no run ",1st innings,25.2,no run,79,0,79/5,"Stirling to Ura, no run",,,5
+149,153,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 1 run ",1st innings,25.3,run,80,1,80/5,"Stirling to Ura, 1 run",,,5
+150,154,Charles Amini,332980,Paul Stirling,303427,"Stirling to Amini, OUT ",1st innings,25.4,out,80,0,80/6,"Stirling to Amini, OUT",,,6
+151,155,Jack Vare,25065,Paul Stirling,303427,"Stirling to Vare, no run ",1st innings,25.5,no run,80,0,80/6,"Stirling to Vare, no run",,,6
+152,156,Jack Vare,25065,Paul Stirling,303427,"Stirling to Vare, no run ",1st innings,25.6,no run,80,0,80/6,"Stirling to Vare, no run",,,6
+153,157,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 run ",1st innings,26.1,run,81,1,81/6,"Rankin to Ura, 1 run",,,6
+154,158,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, no run ",1st innings,26.2,no run,81,0,81/6,"Rankin to Vare, no run",,,6
+155,159,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, no run ",1st innings,26.3,no run,81,0,81/6,"Rankin to Vare, no run",,,6
+156,160,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, no run ",1st innings,26.4,no run,81,0,81/6,"Rankin to Vare, no run",,,6
+157,161,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, 2 runs ",1st innings,26.5,run,83,2,83/6,"Rankin to Vare, 2 runs",,,6
+158,162,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, no run ",1st innings,26.6,no run,83,0,83/6,"Rankin to Vare, no run",,,6
+159,163,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 1 run ",1st innings,27.1,run,84,1,84/6,"Stirling to Ura, 1 run",,,6
+160,164,Jack Vare,25065,Paul Stirling,303427,"Stirling to Vare, 1 run ",1st innings,27.2,run,85,1,85/6,"Stirling to Vare, 1 run",,,6
+161,165,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, no run ",1st innings,27.3,no run,85,0,85/6,"Stirling to Ura, no run",,,6
+162,166,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, FOUR runs ",1st innings,27.4,four,89,4,89/6,"Stirling to Ura, FOUR runs",,,6
+163,167,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, 1 run ",1st innings,27.5,run,90,1,90/6,"Stirling to Ura, 1 run",,,6
+164,167,Jack Vare,25065,Paul Stirling,303427,"Stirling to Vare, (no ball) 1 run ",1st innings,27.5,run,92,2,92/6,"Stirling to Vare, (no ball) 1 run",,,6
+165,168,Tony Ura,302845,Paul Stirling,303427,"Stirling to Ura, no run ",1st innings,27.6,no run,92,0,92/6,"Stirling to Ura, no run",,,6
+166,169,Jack Vare,25065,Boyd Rankin,24599,"Rankin to Vare, 1 run ",1st innings,28.1,run,93,1,93/6,"Rankin to Vare, 1 run",,,6
+167,170,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,28.2,no run,93,0,93/6,"Rankin to Ura, no run",,,6
+168,171,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,28.3,no run,93,0,93/6,"Rankin to Ura, no run",,,6
+169,172,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 2 runs ",1st innings,28.4,run,95,2,95/6,"Rankin to Ura, 2 runs",,,6
+170,173,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,28.5,no run,99,0,99/6,"Rankin to Ura, no run",,,6
+171,175,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, no run ",1st innings,29.1,no run,99,0,99/6,"McBrine to Vare, no run",,,6
+172,176,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, no run ",1st innings,29.2,no run,99,0,99/6,"McBrine to Vare, no run",,,6
+173,177,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, 2 runs ",1st innings,29.3,run,101,2,101/6,"McBrine to Vare, 2 runs",,,6
+174,178,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,29.4,run,102,1,102/6,"McBrine to Ura, 1 run",,,6
+175,179,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, 1 run ",1st innings,29.5,run,103,1,103/6,"McBrine to Vare, 1 run",,,6
+176,180,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,29.6,run,105,1,105/6,"McBrine to Ura, 1 run",,,6
+177,181,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,30.1,run,106,1,106/6,"Dockrell to Ura, 1 run",,,6
+178,181,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, 1 wide ",1st innings,30.1,wide,107,1,107/6,"Dockrell to Vare, 1 wide",,,6
+179,182,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,30.2,no run,107,0,107/6,"Dockrell to Vare, no run",,,6
+180,183,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,30.3,no run,107,0,107/6,"Dockrell to Vare, no run",,,6
+181,184,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,30.4,no run,107,0,107/6,"Dockrell to Vare, no run",,,6
+182,185,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, 1 run ",1st innings,30.5,run,108,1,108/6,"Dockrell to Vare, 1 run",,,6
+183,186,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,30.6,run,109,1,109/6,"Dockrell to Ura, 1 run",,,6
+184,187,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 2 runs ",1st innings,31.1,run,111,2,111/6,"McBrine to Ura, 2 runs",,,6
+185,188,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,31.2,run,112,1,112/6,"McBrine to Ura, 1 run",,,6
+186,189,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, 1 run ",1st innings,31.3,run,113,1,113/6,"McBrine to Vare, 1 run",,,6
+187,190,Tony Ura,302845,Andy McBrine,417381,"McBrine to Ura, 1 run ",1st innings,31.4,run,114,1,114/6,"McBrine to Ura, 1 run",,,6
+188,191,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, 2 runs ",1st innings,31.5,run,116,2,116/6,"McBrine to Vare, 2 runs",,,6
+189,192,Jack Vare,25065,Andy McBrine,417381,"McBrine to Vare, 1 run ",1st innings,31.6,run,117,1,117/6,"McBrine to Vare, 1 run",,,6
+190,193,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,32.1,no run,117,0,117/6,"Dockrell to Vare, no run",,,6
+191,194,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,32.2,no run,117,0,117/6,"Dockrell to Vare, no run",,,6
+192,195,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, no run ",1st innings,32.3,no run,117,0,117/6,"Dockrell to Vare, no run",,,6
+193,196,Jack Vare,25065,George Dockrell,348034,"Dockrell to Vare, OUT ",1st innings,32.4,out,117,0,117/7,"Dockrell to Vare, OUT",,,7
+194,197,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,32.5,no run,117,0,117/7,"Dockrell to Soper, no run",,,7
+195,198,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,32.6,no run,117,0,117/7,"Dockrell to Soper, no run",,,7
+196,199,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,33.1,no run,117,0,117/7,"KJ O'Brien to Ura, no run",,,7
+197,200,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,33.2,no run,117,0,117/7,"KJ O'Brien to Ura, no run",,,7
+198,201,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 run ",1st innings,33.3,run,118,1,118/7,"KJ O'Brien to Ura, 1 run",,,7
+199,202,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, no run ",1st innings,33.4,no run,118,0,118/7,"KJ O'Brien to Soper, no run",,,7
+200,203,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 1 run ",1st innings,33.5,run,119,1,119/7,"KJ O'Brien to Soper, 1 run",,,7
+201,204,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 run ",1st innings,33.6,run,120,1,120/7,"KJ O'Brien to Ura, 1 run",,,7
+202,205,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.1,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+203,206,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.2,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+204,207,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.3,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+205,208,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.4,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+206,209,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.5,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+207,210,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,34.6,no run,120,0,120/7,"Dockrell to Soper, no run",,,7
+208,211,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 run ",1st innings,35.1,run,121,1,121/7,"KJ O'Brien to Ura, 1 run",,,7
+209,212,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, no run ",1st innings,35.2,no run,121,0,121/7,"KJ O'Brien to Soper, no run",,,7
+210,213,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 2 runs ",1st innings,35.3,run,123,2,123/7,"KJ O'Brien to Soper, 2 runs",,,7
+211,214,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, no run ",1st innings,35.4,no run,123,0,123/7,"KJ O'Brien to Soper, no run",,,7
+212,215,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, no run ",1st innings,35.5,no run,123,0,123/7,"KJ O'Brien to Soper, no run",,,7
+213,216,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 2 runs ",1st innings,35.6,run,125,2,125/7,"KJ O'Brien to Soper, 2 runs",,,7
+214,217,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, SIX runs ",1st innings,36.1,six,131,6,131/7,"Dockrell to Ura, SIX runs",,,7
+215,218,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,36.2,no run,131,0,131/7,"Dockrell to Ura, no run",,,7
+216,219,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,36.3,no run,131,0,131/7,"Dockrell to Ura, no run",,,7
+217,220,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,36.4,run,132,1,132/7,"Dockrell to Ura, 1 run",,,7
+218,221,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, 1 run ",1st innings,36.5,run,133,1,133/7,"Dockrell to Soper, 1 run",,,7
+219,222,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,36.6,run,134,1,134/7,"Dockrell to Ura, 1 run",,,7
+220,223,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,37.1,no run,134,0,134/7,"KJ O'Brien to Ura, no run",,,7
+221,224,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 leg bye ",1st innings,37.2,leg bye,135,1,135/7,"KJ O'Brien to Ura, 1 leg bye",,,7
+222,225,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, no run ",1st innings,37.3,no run,135,0,135/7,"KJ O'Brien to Soper, no run",,,7
+223,226,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 1 run ",1st innings,37.4,run,136,1,136/7,"KJ O'Brien to Soper, 1 run",,,7
+224,227,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, FOUR runs ",1st innings,37.5,four,140,4,140/7,"KJ O'Brien to Ura, FOUR runs",,,7
+225,228,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 2 runs ",1st innings,37.6,run,142,2,142/7,"KJ O'Brien to Ura, 2 runs",,,7
+226,229,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, no run ",1st innings,38.1,no run,142,0,142/7,"Murtagh to Soper, no run",,,7
+227,230,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 2 runs ",1st innings,38.2,run,144,2,144/7,"Murtagh to Soper, 2 runs",,,7
+228,231,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, no run ",1st innings,38.3,no run,144,0,144/7,"Murtagh to Soper, no run",,,7
+229,232,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, no run ",1st innings,38.4,no run,144,0,144/7,"Murtagh to Soper, no run",,,7
+230,233,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 1 run ",1st innings,38.5,run,145,1,145/7,"Murtagh to Soper, 1 run",,,7
+231,234,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,38.6,no run,145,0,145/7,"Murtagh to Ura, no run",,,7
+232,235,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 1 run ",1st innings,39.1,run,146,1,146/7,"KJ O'Brien to Soper, 1 run",,,7
+233,236,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,39.2,no run,146,0,146/7,"KJ O'Brien to Ura, no run",,,7
+234,237,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, FOUR runs ",1st innings,39.3,four,150,4,150/7,"KJ O'Brien to Ura, FOUR runs",,,7
+235,238,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 2 runs ",1st innings,39.4,run,152,2,152/7,"KJ O'Brien to Ura, 2 runs",,,7
+236,239,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,39.5,no run,152,0,152/7,"KJ O'Brien to Ura, no run",,,7
+237,240,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,39.6,no run,152,0,152/7,"KJ O'Brien to Ura, no run",,,7
+238,241,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 1 run ",1st innings,40.1,run,153,1,153/7,"Murtagh to Soper, 1 run",,,7
+239,242,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,40.2,run,154,1,154/7,"Murtagh to Ura, 1 run",,,7
+240,243,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, no run ",1st innings,40.3,no run,154,0,154/7,"Murtagh to Soper, no run",,,7
+241,244,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 1 run ",1st innings,40.4,run,155,1,155/7,"Murtagh to Soper, 1 run",,,7
+242,245,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,40.5,no run,155,0,155/7,"Murtagh to Ura, no run",,,7
+243,246,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,40.6,run,156,1,156/7,"Murtagh to Ura, 1 run",,,7
+244,247,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,41.1,run,157,1,157/7,"Dockrell to Ura, 1 run",,,7
+245,248,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, 2 runs ",1st innings,41.2,run,159,2,159/7,"Dockrell to Soper, 2 runs",,,7
+246,249,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, no run ",1st innings,41.3,no run,159,0,159/7,"Dockrell to Soper, no run",,,7
+247,250,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, 1 run ",1st innings,41.4,run,160,1,160/7,"Dockrell to Soper, 1 run",,,7
+248,251,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,41.5,no run,160,0,160/7,"Dockrell to Ura, no run",,,7
+249,252,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, FOUR runs ",1st innings,41.6,four,164,4,164/7,"Dockrell to Ura, FOUR runs",,,7
+250,253,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 1 run ",1st innings,42.1,run,165,1,165/7,"Murtagh to Soper, 1 run",,,7
+251,254,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,42.2,run,166,1,166/7,"Murtagh to Ura, 1 run",,,7
+252,255,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 2 runs ",1st innings,42.3,run,168,2,168/7,"Murtagh to Soper, 2 runs",,,7
+253,256,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, no run ",1st innings,42.4,no run,168,0,168/7,"Murtagh to Soper, no run",,,7
+254,257,Chad Soper,574287,Tim Murtagh,17134,"Murtagh to Soper, 1 run ",1st innings,42.5,run,169,1,169/7,"Murtagh to Soper, 1 run",,,7
+255,258,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, no run ",1st innings,42.6,no run,169,0,169/7,"Murtagh to Ura, no run",,,7
+256,259,Chad Soper,574287,Kevin O'Brien,24605,"KJ O'Brien to Soper, 1 run ",1st innings,43.1,run,170,1,170/7,"KJ O'Brien to Soper, 1 run",,,7
+257,260,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, SIX runs ",1st innings,43.2,six,176,6,176/7,"KJ O'Brien to Ura, SIX runs",,,7
+258,261,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 2 runs ",1st innings,43.3,run,178,2,178/7,"KJ O'Brien to Ura, 2 runs",,,7
+259,262,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, SIX runs ",1st innings,43.4,six,184,6,184/7,"KJ O'Brien to Ura, SIX runs",,,7
+260,263,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,43.5,no run,184,0,184/7,"KJ O'Brien to Ura, no run",,,7
+261,264,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 leg bye ",1st innings,43.6,leg bye,185,1,185/7,"KJ O'Brien to Ura, 1 leg bye",,,7
+262,265,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, no run ",1st innings,44.1,no run,185,0,185/7,"Rankin to Ura, no run",,,7
+263,266,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 run ",1st innings,44.2,run,186,1,186/7,"Rankin to Ura, 1 run",,,7
+264,267,Chad Soper,574287,Boyd Rankin,24599,"Rankin to Soper, 1 run ",1st innings,44.3,run,187,1,187/7,"Rankin to Soper, 1 run",,,7
+265,269,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, FOUR runs ",1st innings,44.5,four,191,4,191/7,"Rankin to Ura, FOUR runs",,,7
+266,270,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 run ",1st innings,44.6,run,194,1,194/7,"Rankin to Ura, 1 run",,,7
+267,271,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,45.1,run,195,1,195/7,"Dockrell to Ura, 1 run",,,7
+268,272,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, 1 run ",1st innings,45.2,run,196,1,196/7,"Dockrell to Soper, 1 run",,,7
+269,273,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,45.3,no run,196,0,196/7,"Dockrell to Ura, no run",,,7
+270,274,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, no run ",1st innings,45.4,no run,196,0,196/7,"Dockrell to Ura, no run",,,7
+271,275,Tony Ura,302845,George Dockrell,348034,"Dockrell to Ura, 1 run ",1st innings,45.5,run,197,1,197/7,"Dockrell to Ura, 1 run",,,7
+272,276,Chad Soper,574287,George Dockrell,348034,"Dockrell to Soper, 1 leg bye ",1st innings,45.6,leg bye,198,1,198/7,"Dockrell to Soper, 1 leg bye",,,7
+273,277,Chad Soper,574287,Boyd Rankin,24599,"Rankin to Soper, 2 runs ",1st innings,46.1,run,200,2,200/7,"Rankin to Soper, 2 runs",,,7
+274,278,Chad Soper,574287,Boyd Rankin,24599,"Rankin to Soper, OUT ",1st innings,46.2,out,200,0,200/8,"Rankin to Soper, OUT",,,8
+275,279,Norman Vanua,524253,Boyd Rankin,24599,"Rankin to Vanua, 1 run ",1st innings,46.3,run,201,1,201/8,"Rankin to Vanua, 1 run",,,8
+276,280,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 run ",1st innings,46.4,run,202,1,202/8,"Rankin to Ura, 1 run",,,8
+277,281,Norman Vanua,524253,Boyd Rankin,24599,"Rankin to Vanua, 1 run ",1st innings,46.5,run,203,1,203/8,"Rankin to Vanua, 1 run",,,8
+278,281,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, 1 wide ",1st innings,46.5,wide,204,1,204/8,"Rankin to Ura, 1 wide",,,8
+279,282,Tony Ura,302845,Boyd Rankin,24599,"Rankin to Ura, SIX runs ",1st innings,46.6,six,210,6,210/8,"Rankin to Ura, SIX runs",,,8
+280,283,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, no run ",1st innings,47.1,no run,210,0,210/8,"KJ O'Brien to Vanua, no run",,,8
+281,284,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, 1 run ",1st innings,47.2,run,211,1,211/8,"KJ O'Brien to Vanua, 1 run",,,8
+282,285,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 2 runs ",1st innings,47.3,run,213,2,213/8,"KJ O'Brien to Ura, 2 runs",,,8
+283,286,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 2 runs ",1st innings,47.4,run,215,2,215/8,"KJ O'Brien to Ura, 2 runs",,,8
+284,287,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, no run ",1st innings,47.5,no run,215,0,215/8,"KJ O'Brien to Ura, no run",,,8
+285,288,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 run ",1st innings,47.6,run,216,1,216/8,"KJ O'Brien to Ura, 1 run",,,8
+286,289,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,48.1,run,217,1,217/8,"Murtagh to Ura, 1 run",,,8
+287,290,Norman Vanua,524253,Tim Murtagh,17134,"Murtagh to Vanua, no run ",1st innings,48.2,no run,217,0,217/8,"Murtagh to Vanua, no run",,,8
+288,291,Norman Vanua,524253,Tim Murtagh,17134,"Murtagh to Vanua, 1 bye ",1st innings,48.3,bye,218,1,218/8,"Murtagh to Vanua, 1 bye",,,8
+289,293,Tony Ura,302845,Tim Murtagh,17134,"Murtagh to Ura, 1 run ",1st innings,48.5,run,219,1,219/8,"Murtagh to Ura, 1 run",,,8
+290,293,Norman Vanua,524253,Tim Murtagh,17134,"Murtagh to Vanua, 1 wide ",1st innings,48.5,wide,220,1,220/8,"Murtagh to Vanua, 1 wide",,,8
+291,294,Norman Vanua,524253,Tim Murtagh,17134,"Murtagh to Vanua, 2 runs ",1st innings,48.6,run,226,2,226/8,"Murtagh to Vanua, 2 runs",,,8
+292,295,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, 1 run ",1st innings,49.1,run,227,1,227/8,"KJ O'Brien to Ura, 1 run",,,8
+293,296,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, 1 run ",1st innings,49.2,run,228,1,228/8,"KJ O'Brien to Vanua, 1 run",,,8
+294,297,Tony Ura,302845,Kevin O'Brien,24605,"KJ O'Brien to Ura, OUT ",1st innings,49.3,out,228,0,228/9,"KJ O'Brien to Ura, OUT",,,9
+295,298,Alei Nao,524247,Kevin O'Brien,24605,"KJ O'Brien to Nao, 1 run ",1st innings,49.4,run,229,1,229/9,"KJ O'Brien to Nao, 1 run",,,9
+296,299,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, SIX runs ",1st innings,49.5,six,235,6,235/9,"KJ O'Brien to Vanua, SIX runs",,,9
+297,299,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, 1 wide ",1st innings,49.5,wide,236,1,236/9,"KJ O'Brien to Vanua, 1 wide",,,9
+298,300,Norman Vanua,524253,Kevin O'Brien,24605,"KJ O'Brien to Vanua, OUT ",1st innings,49.6,out,236,0,236/10,"KJ O'Brien to Vanua, OUT",,,10
+299,0,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 1 wide ",2nd innings,0.0,wide,1,1,1/0,"Nao to Porterfield, 1 wide",,,0
+300,1,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,0.1,no run,1,0,1/0,"Nao to Porterfield, no run",,,0
+301,2,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,0.2,no run,1,0,1/0,"Nao to Porterfield, no run",,,0
+302,3,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,0.3,no run,1,0,1/0,"Nao to Porterfield, no run",,,0
+303,4,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, FOUR runs ",2nd innings,0.4,four,5,4,5/0,"Nao to Porterfield, FOUR runs",,,0
+304,5,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 2 runs ",2nd innings,0.5,run,7,2,7/0,"Nao to Porterfield, 2 runs",,,0
+305,6,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,0.6,no run,7,0,7/0,"Nao to Porterfield, no run",,,0
+306,7,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, 2 runs ",2nd innings,1.1,run,9,2,9/0,"Vanua to Stirling, 2 runs",,,0
+307,8,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, FOUR runs ",2nd innings,1.2,four,13,4,13/0,"Vanua to Stirling, FOUR runs",,,0
+308,9,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, no run ",2nd innings,1.3,no run,13,0,13/0,"Vanua to Stirling, no run",,,0
+309,10,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, 1 run ",2nd innings,1.4,run,14,1,14/0,"Vanua to Stirling, 1 run",,,0
+310,11,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, no run ",2nd innings,1.5,no run,14,0,14/0,"Vanua to Porterfield, no run",,,0
+311,12,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, FOUR runs ",2nd innings,1.6,four,18,4,18/0,"Vanua to Porterfield, FOUR runs",,,0
+312,13,Paul Stirling,303427,Alei Nao,524247,"Nao to Stirling, no run ",2nd innings,2.1,no run,18,0,18/0,"Nao to Stirling, no run",,,0
+313,14,Paul Stirling,303427,Alei Nao,524247,"Nao to Stirling, 3 runs ",2nd innings,2.2,run,21,3,21/0,"Nao to Stirling, 3 runs",,,0
+314,15,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,2.3,no run,21,0,21/0,"Nao to Porterfield, no run",,,0
+315,16,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,2.4,no run,21,0,21/0,"Nao to Porterfield, no run",,,0
+316,17,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, FOUR runs ",2nd innings,2.5,four,25,4,25/0,"Nao to Porterfield, FOUR runs",,,0
+317,18,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,2.6,no run,25,0,25/0,"Nao to Porterfield, no run",,,0
+318,19,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, no run ",2nd innings,3.1,no run,25,0,25/0,"Vanua to Stirling, no run",,,0
+319,20,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, no run ",2nd innings,3.2,no run,25,0,25/0,"Vanua to Stirling, no run",,,0
+320,21,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, no run ",2nd innings,3.3,no run,25,0,25/0,"Vanua to Stirling, no run",,,0
+321,22,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, FOUR runs ",2nd innings,3.4,four,29,4,29/0,"Vanua to Stirling, FOUR runs",,,0
+322,23,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, no run ",2nd innings,3.5,no run,29,0,29/0,"Vanua to Stirling, no run",,,0
+323,24,Paul Stirling,303427,Norman Vanua,524253,"Vanua to Stirling, FOUR runs ",2nd innings,3.6,four,33,4,33/0,"Vanua to Stirling, FOUR runs",,,0
+324,24,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 wide ",2nd innings,4.0,wide,34,1,34/0,"Dai to Porterfield, 1 wide",,,0
+325,25,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,4.1,no run,34,0,34/0,"Dai to Porterfield, no run",,,0
+326,26,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,4.2,run,35,1,35/0,"Dai to Porterfield, 1 run",,,0
+327,27,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, no run ",2nd innings,4.3,no run,35,0,35/0,"Dai to Stirling, no run",,,0
+328,28,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, 2 runs ",2nd innings,4.4,run,37,2,37/0,"Dai to Stirling, 2 runs",,,0
+329,29,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, no run ",2nd innings,4.5,no run,37,0,37/0,"Dai to Stirling, no run",,,0
+330,30,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, no run ",2nd innings,4.6,no run,37,0,37/0,"Dai to Stirling, no run",,,0
+331,31,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,5.1,no run,37,0,37/0,"Vala to Porterfield, no run",,,0
+332,32,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,5.2,no run,37,0,37/0,"Vala to Porterfield, no run",,,0
+333,33,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 2 runs ",2nd innings,5.3,run,39,2,39/0,"Vala to Porterfield, 2 runs",,,0
+334,34,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 2 runs ",2nd innings,5.4,run,41,2,41/0,"Vala to Porterfield, 2 runs",,,0
+335,35,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,5.5,no run,41,0,41/0,"Vala to Porterfield, no run",,,0
+336,36,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,5.6,no run,41,0,41/0,"Vala to Porterfield, no run",,,0
+337,37,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, FOUR runs ",2nd innings,6.1,four,45,4,45/0,"Dai to Stirling, FOUR runs",,,0
+338,38,Paul Stirling,303427,Mahuru Dai,25051,"Dai to Stirling, 1 run ",2nd innings,6.2,run,46,1,46/0,"Dai to Stirling, 1 run",,,0
+339,39,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,6.3,no run,46,0,46/0,"Dai to Porterfield, no run",,,0
+340,40,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, FOUR runs ",2nd innings,6.4,four,50,4,50/0,"Dai to Porterfield, FOUR runs",,,0
+341,41,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,6.5,no run,50,0,50/0,"Dai to Porterfield, no run",,,0
+342,42,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,6.6,no run,50,0,50/0,"Dai to Porterfield, no run",,,0
+343,43,Paul Stirling,303427,Assad Vala,25056,"Vala to Stirling, 2 runs ",2nd innings,7.1,run,52,2,52/0,"Vala to Stirling, 2 runs",,,0
+344,44,Paul Stirling,303427,Assad Vala,25056,"Vala to Stirling, no run ",2nd innings,7.2,no run,52,0,52/0,"Vala to Stirling, no run",,,0
+345,45,Paul Stirling,303427,Assad Vala,25056,"Vala to Stirling, OUT ",2nd innings,7.3,out,52,0,52/1,"Vala to Stirling, OUT",,,1
+346,46,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,7.4,no run,52,0,52/1,"Vala to Balbirnie, no run",,,1
+347,47,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,7.5,no run,52,0,52/1,"Vala to Balbirnie, no run",,,1
+348,48,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,7.6,no run,52,0,52/1,"Vala to Balbirnie, no run",,,1
+349,49,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,8.1,run,53,1,53/1,"Dai to Porterfield, 1 run",,,1
+350,50,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, no run ",2nd innings,8.2,no run,53,0,53/1,"Dai to Balbirnie, no run",,,1
+351,51,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, no run ",2nd innings,8.3,no run,53,0,53/1,"Dai to Balbirnie, no run",,,1
+352,52,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, 1 run ",2nd innings,8.4,run,54,1,54/1,"Dai to Balbirnie, 1 run",,,1
+353,53,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,8.5,no run,54,0,54/1,"Dai to Porterfield, no run",,,1
+354,54,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,8.6,run,55,1,55/1,"Dai to Porterfield, 1 run",,,1
+355,55,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,9.1,no run,55,0,55/1,"Vala to Porterfield, no run",,,1
+356,56,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,9.2,no run,55,0,55/1,"Vala to Porterfield, no run",,,1
+357,57,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 2 runs ",2nd innings,9.3,run,57,2,57/1,"Vala to Porterfield, 2 runs",,,1
+358,58,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,9.4,no run,57,0,57/1,"Vala to Porterfield, no run",,,1
+359,59,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,9.5,no run,57,0,57/1,"Vala to Porterfield, no run",,,1
+360,60,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,9.6,no run,57,0,57/1,"Vala to Porterfield, no run",,,1
+361,61,Andy Balbirnie,303423,Charles Amini,332980,"Amini to Balbirnie, no run ",2nd innings,10.1,no run,57,0,57/1,"Amini to Balbirnie, no run",,,1
+362,63,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, FOUR runs ",2nd innings,10.3,four,61,4,61/1,"Amini to Porterfield, FOUR runs",,,1
+363,64,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, 1 run ",2nd innings,10.4,run,62,1,62/1,"Amini to Porterfield, 1 run",,,1
+364,65,Andy Balbirnie,303423,Charles Amini,332980,"Amini to Balbirnie, 1 run ",2nd innings,10.5,run,63,1,63/1,"Amini to Balbirnie, 1 run",,,1
+365,66,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, 1 run ",2nd innings,10.6,run,65,1,65/1,"Amini to Porterfield, 1 run",,,1
+366,67,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,11.1,no run,65,0,65/1,"Vala to Porterfield, no run",,,1
+367,68,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,11.2,run,66,1,66/1,"Vala to Porterfield, 1 run",,,1
+368,69,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,11.3,no run,66,0,66/1,"Vala to Balbirnie, no run",,,1
+369,70,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,11.4,no run,66,0,66/1,"Vala to Balbirnie, no run",,,1
+370,71,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,11.5,no run,66,0,66/1,"Vala to Balbirnie, no run",,,1
+371,72,Andy Balbirnie,303423,Assad Vala,25056,"Vala to Balbirnie, no run ",2nd innings,11.6,no run,66,0,66/1,"Vala to Balbirnie, no run",,,1
+372,73,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,12.1,run,67,1,67/1,"Dai to Porterfield, 1 run",,,1
+373,74,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, no run ",2nd innings,12.2,no run,67,0,67/1,"Dai to Balbirnie, no run",,,1
+374,75,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, no run ",2nd innings,12.3,no run,67,0,67/1,"Dai to Balbirnie, no run",,,1
+375,76,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, 1 run ",2nd innings,12.4,run,68,1,68/1,"Dai to Balbirnie, 1 run",,,1
+376,78,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,12.6,no run,68,0,68/1,"Dai to Porterfield, no run",,,1
+377,79,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, no run ",2nd innings,13.1,no run,68,0,68/1,"Soper to Balbirnie, no run",,,1
+378,80,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, no run ",2nd innings,13.2,no run,68,0,68/1,"Soper to Balbirnie, no run",,,1
+379,81,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, no run ",2nd innings,13.3,no run,68,0,68/1,"Soper to Balbirnie, no run",,,1
+380,82,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, 1 run ",2nd innings,13.4,run,69,1,69/1,"Soper to Balbirnie, 1 run",,,1
+381,83,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,13.5,no run,69,0,69/1,"Soper to Porterfield, no run",,,1
+382,84,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,13.6,no run,69,0,69/1,"Soper to Porterfield, no run",,,1
+383,85,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, 1 run ",2nd innings,14.1,run,70,1,70/1,"Dai to Balbirnie, 1 run",,,1
+384,86,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,14.2,no run,70,0,70/1,"Dai to Porterfield, no run",,,1
+385,87,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, FOUR runs ",2nd innings,14.3,four,74,4,74/1,"Dai to Porterfield, FOUR runs",,,1
+386,88,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,14.4,no run,74,0,74/1,"Dai to Porterfield, no run",,,1
+387,89,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,14.5,run,75,1,75/1,"Dai to Porterfield, 1 run",,,1
+388,90,Andy Balbirnie,303423,Mahuru Dai,25051,"Dai to Balbirnie, 1 run ",2nd innings,14.6,run,76,1,76/1,"Dai to Balbirnie, 1 run",,,1
+389,91,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, no run ",2nd innings,15.1,no run,76,0,76/1,"Soper to Balbirnie, no run",,,1
+390,92,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, no run ",2nd innings,15.2,no run,76,0,76/1,"Soper to Balbirnie, no run",,,1
+391,93,Andy Balbirnie,303423,Chad Soper,574287,"Soper to Balbirnie, OUT ",2nd innings,15.3,out,76,0,76/2,"Soper to Balbirnie, OUT",,,2
+392,94,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,15.4,no run,76,0,76/2,"Soper to Joyce, no run",,,2
+393,95,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, 1 run ",2nd innings,15.5,run,77,1,77/2,"Soper to Joyce, 1 run",,,2
+394,96,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 2 runs ",2nd innings,15.6,run,79,2,79/2,"Soper to Porterfield, 2 runs",,,2
+395,97,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 1 run ",2nd innings,16.1,run,80,1,80/2,"Dai to Joyce, 1 run",,,2
+396,98,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,16.2,run,81,1,81/2,"Dai to Porterfield, 1 run",,,2
+397,99,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,16.3,no run,81,0,81/2,"Dai to Joyce, no run",,,2
+398,100,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,16.4,no run,81,0,81/2,"Dai to Joyce, no run",,,2
+399,101,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 1 run ",2nd innings,16.5,run,82,1,82/2,"Dai to Joyce, 1 run",,,2
+400,102,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,16.6,no run,82,0,82/2,"Dai to Porterfield, no run",,,2
+401,103,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,17.1,no run,82,0,82/2,"Soper to Joyce, no run",,,2
+402,104,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,17.2,no run,82,0,82/2,"Soper to Joyce, no run",,,2
+403,105,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,17.3,no run,82,0,82/2,"Soper to Joyce, no run",,,2
+404,106,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, 2 runs ",2nd innings,17.4,run,84,2,84/2,"Soper to Joyce, 2 runs",,,2
+405,107,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,17.5,no run,84,0,84/2,"Soper to Joyce, no run",,,2
+406,108,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, 1 run ",2nd innings,17.6,run,85,1,85/2,"Soper to Joyce, 1 run",,,2
+407,109,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,18.1,no run,85,0,85/2,"Vala to Joyce, no run",,,2
+408,110,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, FOUR runs ",2nd innings,18.2,four,89,4,89/2,"Vala to Joyce, FOUR runs",,,2
+409,111,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,18.3,run,90,1,90/2,"Vala to Joyce, 1 run",,,2
+410,112,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,18.4,run,91,1,91/2,"Vala to Porterfield, 1 run",,,2
+411,113,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,18.5,no run,91,0,91/2,"Vala to Joyce, no run",,,2
+412,114,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,18.6,no run,91,0,91/2,"Vala to Joyce, no run",,,2
+413,115,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 1 run ",2nd innings,19.1,run,92,1,92/2,"Soper to Porterfield, 1 run",,,2
+414,116,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, 2 runs ",2nd innings,19.2,run,94,2,94/2,"Soper to Joyce, 2 runs",,,2
+415,117,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,19.3,no run,94,0,94/2,"Soper to Joyce, no run",,,2
+416,119,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,19.5,no run,94,0,94/2,"Soper to Joyce, no run",,,2
+417,120,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,19.6,no run,94,0,94/2,"Soper to Joyce, no run",,,2
+418,121,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,20.1,no run,94,0,94/2,"Nao to Porterfield, no run",,,2
+419,122,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,20.2,no run,94,0,94/2,"Nao to Porterfield, no run",,,2
+420,123,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 1 run ",2nd innings,20.3,run,95,1,95/2,"Nao to Porterfield, 1 run",,,2
+421,124,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, 1 run ",2nd innings,20.4,run,96,1,96/2,"Nao to Joyce, 1 run",,,2
+422,125,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,20.5,no run,96,0,96/2,"Nao to Porterfield, no run",,,2
+423,126,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,20.6,no run,96,0,96/2,"Nao to Porterfield, no run",,,2
+424,127,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, FOUR runs ",2nd innings,21.1,four,100,4,100/2,"Soper to Joyce, FOUR runs",,,2
+425,128,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, 1 run ",2nd innings,21.2,run,101,1,101/2,"Soper to Joyce, 1 run",,,2
+426,129,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,21.3,no run,101,0,101/2,"Soper to Porterfield, no run",,,2
+427,130,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,21.4,no run,101,0,101/2,"Soper to Porterfield, no run",,,2
+428,131,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,21.5,no run,101,0,101/2,"Soper to Porterfield, no run",,,2
+429,132,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, FOUR runs ",2nd innings,21.6,four,105,4,105/2,"Soper to Porterfield, FOUR runs",,,2
+430,133,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, 1 run ",2nd innings,22.1,run,106,1,106/2,"Nao to Joyce, 1 run",,,2
+431,134,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 1 leg bye ",2nd innings,22.2,leg bye,107,1,107/2,"Nao to Porterfield, 1 leg bye",,,2
+432,135,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, no run ",2nd innings,22.3,no run,107,0,107/2,"Nao to Joyce, no run",,,2
+433,136,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, no run ",2nd innings,22.4,no run,107,0,107/2,"Nao to Joyce, no run",,,2
+434,137,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, no run ",2nd innings,22.5,no run,107,0,107/2,"Nao to Joyce, no run",,,2
+435,138,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, no run ",2nd innings,22.6,no run,107,0,107/2,"Nao to Joyce, no run",,,2
+436,139,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 2 runs ",2nd innings,23.1,run,109,2,109/2,"Soper to Porterfield, 2 runs",,,2
+437,140,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 1 run ",2nd innings,23.2,run,110,1,110/2,"Soper to Porterfield, 1 run",,,2
+438,141,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, FOUR runs ",2nd innings,23.3,four,114,4,114/2,"Soper to Joyce, FOUR runs",,,2
+439,142,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,23.4,no run,114,0,114/2,"Soper to Joyce, no run",,,2
+440,143,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,23.5,no run,114,0,114/2,"Soper to Joyce, no run",,,2
+441,144,Ed Joyce,24249,Chad Soper,574287,"Soper to Joyce, no run ",2nd innings,23.6,no run,114,0,114/2,"Soper to Joyce, no run",,,2
+442,145,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,24.1,no run,114,0,114/2,"Nao to Porterfield, no run",,,2
+443,146,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 1 run ",2nd innings,24.2,run,115,1,115/2,"Nao to Porterfield, 1 run",,,2
+444,147,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, 1 run ",2nd innings,24.3,run,116,1,116/2,"Nao to Joyce, 1 run",,,2
+445,148,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,24.4,no run,116,0,116/2,"Nao to Porterfield, no run",,,2
+446,149,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, 1 run ",2nd innings,24.5,run,117,1,117/2,"Nao to Porterfield, 1 run",,,2
+447,150,Ed Joyce,24249,Alei Nao,524247,"Nao to Joyce, 1 run ",2nd innings,24.6,run,118,1,118/2,"Nao to Joyce, 1 run",,,2
+448,151,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,25.1,run,119,1,119/2,"Vala to Joyce, 1 run",,,2
+449,152,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, FOUR runs ",2nd innings,25.2,four,123,4,123/2,"Vala to Porterfield, FOUR runs",,,2
+450,153,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,25.3,no run,123,0,123/2,"Vala to Porterfield, no run",,,2
+451,154,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,25.4,no run,123,0,123/2,"Vala to Porterfield, no run",,,2
+452,155,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,25.5,run,124,1,124/2,"Vala to Porterfield, 1 run",,,2
+453,156,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,25.6,run,125,1,125/2,"Vala to Joyce, 1 run",,,2
+454,157,Ed Joyce,24249,Charles Amini,332980,"Amini to Joyce, 1 run ",2nd innings,26.1,run,126,1,126/2,"Amini to Joyce, 1 run",,,2
+455,158,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, no run ",2nd innings,26.2,no run,126,0,126/2,"Amini to Porterfield, no run",,,2
+456,159,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, no run ",2nd innings,26.3,no run,126,0,126/2,"Amini to Porterfield, no run",,,2
+457,160,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, no run ",2nd innings,26.4,no run,126,0,126/2,"Amini to Porterfield, no run",,,2
+458,161,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, 2 runs ",2nd innings,26.5,run,128,2,128/2,"Amini to Porterfield, 2 runs",,,2
+459,162,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, no run ",2nd innings,26.6,no run,128,0,128/2,"Amini to Porterfield, no run",,,2
+460,163,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,27.1,no run,128,0,128/2,"Vala to Joyce, no run",,,2
+461,164,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 2 runs ",2nd innings,27.2,run,130,2,130/2,"Vala to Joyce, 2 runs",,,2
+462,165,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,27.3,no run,130,0,130/2,"Vala to Joyce, no run",,,2
+463,166,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,27.4,no run,130,0,130/2,"Vala to Joyce, no run",,,2
+464,167,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,27.5,run,131,1,131/2,"Vala to Joyce, 1 run",,,2
+465,168,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,27.6,no run,131,0,131/2,"Vala to Porterfield, no run",,,2
+466,169,Ed Joyce,24249,Charles Amini,332980,"Amini to Joyce, 2 runs ",2nd innings,28.1,run,133,2,133/2,"Amini to Joyce, 2 runs",,,2
+467,170,Ed Joyce,24249,Charles Amini,332980,"Amini to Joyce, 1 run ",2nd innings,28.2,run,134,1,134/2,"Amini to Joyce, 1 run",,,2
+468,171,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, FOUR runs ",2nd innings,28.3,four,138,4,138/2,"Amini to Porterfield, FOUR runs",,,2
+469,172,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, no run ",2nd innings,28.4,no run,138,0,138/2,"Amini to Porterfield, no run",,,2
+470,173,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, FOUR runs ",2nd innings,28.5,four,142,4,142/2,"Amini to Porterfield, FOUR runs",,,2
+471,174,William Porterfield,24611,Charles Amini,332980,"Amini to Porterfield, 1 run ",2nd innings,28.6,run,143,1,143/2,"Amini to Porterfield, 1 run",,,2
+472,175,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,29.1,run,144,1,144/2,"Vala to Porterfield, 1 run",,,2
+473,176,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,29.2,no run,144,0,144/2,"Vala to Joyce, no run",,,2
+474,177,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,29.3,no run,144,0,144/2,"Vala to Joyce, no run",,,2
+475,178,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,29.4,run,145,1,145/2,"Vala to Joyce, 1 run",,,2
+476,179,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,29.5,run,146,1,146/2,"Vala to Porterfield, 1 run",,,2
+477,180,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, no run ",2nd innings,29.6,no run,146,0,146/2,"Vala to Joyce, no run",,,2
+478,181,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,30.1,run,147,1,147/2,"Vanua to Porterfield, 1 run",,,2
+479,182,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 2 runs ",2nd innings,30.2,run,149,2,149/2,"Vanua to Joyce, 2 runs",,,2
+480,183,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 1 run ",2nd innings,30.3,run,150,1,150/2,"Vanua to Joyce, 1 run",,,2
+481,184,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, no run ",2nd innings,30.4,no run,150,0,150/2,"Vanua to Porterfield, no run",,,2
+482,185,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 leg bye ",2nd innings,30.5,leg bye,151,1,151/2,"Vanua to Porterfield, 1 leg bye",,,2
+483,186,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 1 run ",2nd innings,30.6,run,152,1,152/2,"Vanua to Joyce, 1 run",,,2
+484,187,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,31.1,no run,152,0,152/2,"Dai to Joyce, no run",,,2
+485,188,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,31.2,no run,152,0,152/2,"Dai to Joyce, no run",,,2
+486,189,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 1 run ",2nd innings,31.3,run,153,1,153/2,"Dai to Joyce, 1 run",,,2
+487,190,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,31.4,no run,153,0,153/2,"Dai to Porterfield, no run",,,2
+488,191,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,31.5,run,154,1,154/2,"Dai to Porterfield, 1 run",,,2
+489,192,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,31.6,no run,154,0,154/2,"Dai to Joyce, no run",,,2
+490,193,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,32.1,run,155,1,155/2,"Vanua to Porterfield, 1 run",,,2
+491,194,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 1 run ",2nd innings,32.2,run,156,1,156/2,"Vanua to Joyce, 1 run",,,2
+492,195,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 2 runs ",2nd innings,32.3,run,158,2,158/2,"Vanua to Porterfield, 2 runs",,,2
+493,196,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,32.4,run,159,1,159/2,"Vanua to Porterfield, 1 run",,,2
+494,197,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, no run ",2nd innings,32.5,no run,159,0,159/2,"Vanua to Joyce, no run",,,2
+495,198,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, FOUR runs ",2nd innings,32.6,four,163,4,163/2,"Vanua to Joyce, FOUR runs",,,2
+496,199,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,33.1,run,164,1,164/2,"Dai to Porterfield, 1 run",,,2
+497,200,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 1 run ",2nd innings,33.2,run,165,1,165/2,"Dai to Joyce, 1 run",,,2
+498,201,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,33.3,no run,165,0,165/2,"Dai to Porterfield, no run",,,2
+499,202,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,33.4,no run,165,0,165/2,"Dai to Porterfield, no run",,,2
+500,203,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,33.5,no run,165,0,165/2,"Dai to Porterfield, no run",,,2
+501,204,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,33.6,run,166,1,166/2,"Dai to Porterfield, 1 run",,,2
+502,205,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,34.1,run,167,1,167/2,"Vanua to Porterfield, 1 run",,,2
+503,206,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 1 run ",2nd innings,34.2,run,168,1,168/2,"Vanua to Joyce, 1 run",,,2
+504,207,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,34.3,run,169,1,169/2,"Vanua to Porterfield, 1 run",,,2
+505,208,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, no run ",2nd innings,34.4,no run,169,0,169/2,"Vanua to Joyce, no run",,,2
+506,209,Ed Joyce,24249,Norman Vanua,524253,"Vanua to Joyce, 1 run ",2nd innings,34.5,run,170,1,170/2,"Vanua to Joyce, 1 run",,,2
+507,210,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,34.6,run,171,1,171/2,"Vanua to Porterfield, 1 run",,,2
+508,211,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,35.1,no run,171,0,171/2,"Dai to Porterfield, no run",,,2
+509,212,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,35.2,run,172,1,172/2,"Dai to Porterfield, 1 run",,,2
+510,213,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, no run ",2nd innings,35.3,no run,172,0,172/2,"Dai to Joyce, no run",,,2
+511,214,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 1 run ",2nd innings,35.4,run,173,1,173/2,"Dai to Joyce, 1 run",,,2
+512,215,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,35.5,run,174,1,174/2,"Dai to Porterfield, 1 run",,,2
+513,216,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, 2 runs ",2nd innings,35.6,run,176,2,176/2,"Dai to Joyce, 2 runs",,,2
+514,217,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,36.1,no run,176,0,176/2,"Vala to Porterfield, no run",,,2
+515,218,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,36.2,run,177,1,177/2,"Vala to Porterfield, 1 run",,,2
+516,219,Ed Joyce,24249,Assad Vala,25056,"Vala to Joyce, 1 run ",2nd innings,36.3,run,178,1,178/2,"Vala to Joyce, 1 run",,,2
+517,220,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, FOUR runs ",2nd innings,36.4,four,182,4,182/2,"Vala to Porterfield, FOUR runs",,,2
+518,221,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,36.5,no run,182,0,182/2,"Vala to Porterfield, no run",,,2
+519,222,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 2 runs ",2nd innings,36.6,run,184,2,184/2,"Vala to Porterfield, 2 runs",,,2
+520,223,Ed Joyce,24249,Mahuru Dai,25051,"Dai to Joyce, OUT ",2nd innings,37.1,out,184,0,184/3,"Dai to Joyce, OUT",,,3
+521,224,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, no run ",2nd innings,37.2,no run,184,0,184/3,"Dai to Porterfield, no run",,,3
+522,225,William Porterfield,24611,Mahuru Dai,25051,"Dai to Porterfield, 1 run ",2nd innings,37.3,run,185,1,185/3,"Dai to Porterfield, 1 run",,,3
+523,226,Niall O'Brien,24289,Mahuru Dai,25051,"Dai to NJ O'Brien, no run ",2nd innings,37.4,no run,185,0,185/3,"Dai to NJ O'Brien, no run",,,3
+524,227,Niall O'Brien,24289,Mahuru Dai,25051,"Dai to NJ O'Brien, 1 run ",2nd innings,37.5,run,187,1,187/3,"Dai to NJ O'Brien, 1 run",,,3
+525,229,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,38.1,no run,187,0,187/3,"Vala to Porterfield, no run",,,3
+526,231,Niall O'Brien,24289,Assad Vala,25056,"Vala to NJ O'Brien, OUT ",2nd innings,38.3,out,187,0,187/4,"Vala to NJ O'Brien, OUT",,,4
+527,232,Kevin O'Brien,24605,Assad Vala,25056,"Vala to KJ O'Brien, 1 run ",2nd innings,38.4,run,188,1,188/4,"Vala to KJ O'Brien, 1 run",,,4
+528,233,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, no run ",2nd innings,38.5,no run,188,0,188/4,"Vala to Porterfield, no run",,,4
+529,234,William Porterfield,24611,Assad Vala,25056,"Vala to Porterfield, 1 run ",2nd innings,38.6,run,190,1,190/4,"Vala to Porterfield, 1 run",,,4
+530,235,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,39.1,no run,190,0,190/4,"Soper to Porterfield, no run",,,4
+531,236,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,39.2,no run,190,0,190/4,"Soper to Porterfield, no run",,,4
+532,238,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,39.4,no run,190,0,190/4,"Soper to Porterfield, no run",,,4
+533,239,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 1 run ",2nd innings,39.5,run,191,1,191/4,"Soper to Porterfield, 1 run",,,4
+534,240,Kevin O'Brien,24605,Chad Soper,574287,"Soper to KJ O'Brien, 1 run ",2nd innings,39.6,run,196,1,196/4,"Soper to KJ O'Brien, 1 run",,,4
+535,241,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, 1 run ",2nd innings,40.1,run,197,1,197/4,"Vanua to KJ O'Brien, 1 run",,,4
+536,242,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, no run ",2nd innings,40.2,no run,197,0,197/4,"Vanua to Porterfield, no run",,,4
+537,243,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, no run ",2nd innings,40.3,no run,197,0,197/4,"Vanua to Porterfield, no run",,,4
+538,244,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,40.4,run,198,1,198/4,"Vanua to Porterfield, 1 run",,,4
+539,245,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, no run ",2nd innings,40.5,no run,198,0,198/4,"Vanua to KJ O'Brien, no run",,,4
+540,246,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, 1 run ",2nd innings,40.6,run,199,1,199/4,"Vanua to KJ O'Brien, 1 run",,,4
+541,247,Kevin O'Brien,24605,Chad Soper,574287,"Soper to KJ O'Brien, 1 run ",2nd innings,41.1,run,200,1,200/4,"Soper to KJ O'Brien, 1 run",,,4
+542,248,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, no run ",2nd innings,41.2,no run,200,0,200/4,"Soper to Porterfield, no run",,,4
+543,249,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 1 run ",2nd innings,41.3,run,201,1,201/4,"Soper to Porterfield, 1 run",,,4
+544,250,Kevin O'Brien,24605,Chad Soper,574287,"Soper to KJ O'Brien, 1 run ",2nd innings,41.4,run,202,1,202/4,"Soper to KJ O'Brien, 1 run",,,4
+545,251,William Porterfield,24611,Chad Soper,574287,"Soper to Porterfield, 1 run ",2nd innings,41.5,run,203,1,203/4,"Soper to Porterfield, 1 run",,,4
+546,252,Kevin O'Brien,24605,Chad Soper,574287,"Soper to KJ O'Brien, 2 runs ",2nd innings,41.6,run,205,2,205/4,"Soper to KJ O'Brien, 2 runs",,,4
+547,253,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, no run ",2nd innings,42.1,no run,205,0,205/4,"Vanua to Porterfield, no run",,,4
+548,255,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, 1 run ",2nd innings,42.3,run,206,1,206/4,"Vanua to KJ O'Brien, 1 run",,,4
+549,256,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 2 runs ",2nd innings,42.4,run,208,2,208/4,"Vanua to Porterfield, 2 runs",,,4
+550,257,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 2 runs ",2nd innings,42.5,run,210,2,210/4,"Vanua to Porterfield, 2 runs",,,4
+551,258,William Porterfield,24611,Norman Vanua,524253,"Vanua to Porterfield, 1 run ",2nd innings,42.6,run,212,1,212/4,"Vanua to Porterfield, 1 run",,,4
+552,259,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, no run ",2nd innings,43.1,no run,212,0,212/4,"Nao to Porterfield, no run",,,4
+553,260,William Porterfield,24611,Alei Nao,524247,"Nao to Porterfield, OUT ",2nd innings,43.2,out,212,0,212/5,"Nao to Porterfield, OUT",,,5
+554,261,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, no run ",2nd innings,43.3,no run,212,0,212/5,"Nao to Wilson, no run",,,5
+555,262,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, no run ",2nd innings,43.4,no run,212,0,212/5,"Nao to Wilson, no run",,,5
+556,263,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, 1 run ",2nd innings,43.5,run,213,1,213/5,"Nao to Wilson, 1 run",,,5
+557,264,Kevin O'Brien,24605,Alei Nao,524247,"Nao to KJ O'Brien, 1 run ",2nd innings,43.6,run,214,1,214/5,"Nao to KJ O'Brien, 1 run",,,5
+558,265,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, 2 runs ",2nd innings,44.1,run,216,2,216/5,"Vanua to KJ O'Brien, 2 runs",,,5
+559,266,Kevin O'Brien,24605,Norman Vanua,524253,"Vanua to KJ O'Brien, OUT ",2nd innings,44.2,out,216,0,216/6,"Vanua to KJ O'Brien, OUT",,,6
+560,267,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,44.3,no run,216,0,216/6,"Vanua to Dockrell, no run",,,6
+561,269,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,44.5,no run,216,0,216/6,"Vanua to Dockrell, no run",,,6
+562,270,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,44.6,no run,216,0,216/6,"Vanua to Dockrell, no run",,,6
+563,271,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, 1 run ",2nd innings,45.1,run,217,1,217/6,"Nao to Wilson, 1 run",,,6
+564,272,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, no run ",2nd innings,45.2,no run,217,0,217/6,"Nao to Dockrell, no run",,,6
+565,272,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, 2 wides ",2nd innings,45.2,wide,219,2,219/6,"Nao to Dockrell, 2 wides",,,6
+566,273,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, no run ",2nd innings,45.3,no run,219,0,219/6,"Nao to Wilson, no run",,,6
+567,274,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, 1 run ",2nd innings,45.4,run,220,1,220/6,"Nao to Wilson, 1 run",,,6
+568,275,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, 1 run ",2nd innings,45.5,run,221,1,221/6,"Nao to Dockrell, 1 run",,,6
+569,276,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, no run ",2nd innings,45.6,no run,221,0,221/6,"Nao to Wilson, no run",,,6
+570,277,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, 1 run ",2nd innings,46.1,run,222,1,222/6,"Vanua to Dockrell, 1 run",,,6
+571,278,Gary Wilson,24609,Norman Vanua,524253,"Vanua to Wilson, 1 run ",2nd innings,46.2,run,223,1,223/6,"Vanua to Wilson, 1 run",,,6
+572,279,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, 1 run ",2nd innings,46.3,run,224,1,224/6,"Vanua to Dockrell, 1 run",,,6
+573,280,Gary Wilson,24609,Norman Vanua,524253,"Vanua to Wilson, no run ",2nd innings,46.4,no run,224,0,224/6,"Vanua to Wilson, no run",,,6
+574,281,Gary Wilson,24609,Norman Vanua,524253,"Vanua to Wilson, no run ",2nd innings,46.5,no run,224,0,224/6,"Vanua to Wilson, no run",,,6
+575,282,Gary Wilson,24609,Norman Vanua,524253,"Vanua to Wilson, 2 runs ",2nd innings,46.6,run,226,2,226/6,"Vanua to Wilson, 2 runs",,,6
+576,283,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, no run ",2nd innings,47.1,no run,226,0,226/6,"Nao to Dockrell, no run",,,6
+577,284,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, no run ",2nd innings,47.2,no run,226,0,226/6,"Nao to Dockrell, no run",,,6
+578,285,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, no run ",2nd innings,47.3,no run,226,0,226/6,"Nao to Dockrell, no run",,,6
+579,286,George Dockrell,348034,Alei Nao,524247,"Nao to Dockrell, 1 run ",2nd innings,47.4,run,227,1,227/6,"Nao to Dockrell, 1 run",,,6
+580,287,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, no run ",2nd innings,47.5,no run,227,0,227/6,"Nao to Wilson, no run",,,6
+581,288,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, 1 run ",2nd innings,47.6,run,228,1,228/6,"Nao to Wilson, 1 run",,,6
+582,289,Gary Wilson,24609,Norman Vanua,524253,"Vanua to Wilson, 1 run ",2nd innings,48.1,run,229,1,229/6,"Vanua to Wilson, 1 run",,,6
+583,290,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,48.2,no run,229,0,229/6,"Vanua to Dockrell, no run",,,6
+584,291,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,48.3,no run,229,0,229/6,"Vanua to Dockrell, no run",,,6
+585,293,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,48.5,no run,229,0,229/6,"Vanua to Dockrell, no run",,,6
+586,294,George Dockrell,348034,Norman Vanua,524253,"Vanua to Dockrell, no run ",2nd innings,48.6,no run,233,0,233/6,"Vanua to Dockrell, no run",,,6
+587,295,Gary Wilson,24609,Alei Nao,524247,"Nao to Wilson, FOUR runs ",2nd innings,49.1,four,237,4,237/6,"Nao to Wilson, FOUR runs",,,6

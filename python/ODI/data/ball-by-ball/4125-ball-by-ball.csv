@@ -1,0 +1,482 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,0.1,no run,0,0,0/0,"Bilal Khan to Baard, no run",,,0
+1,2,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,0.2,no run,0,0,0/0,"Bilal Khan to Baard, no run",,,0
+2,3,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, 2 runs ",1st innings,0.3,run,2,2,2/0,"Bilal Khan to Baard, 2 runs",,,0
+3,4,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,0.4,no run,2,0,2/0,"Bilal Khan to Baard, no run",,,0
+4,5,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,0.5,no run,2,0,2/0,"Bilal Khan to Baard, no run",,,0
+5,6,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,1.0,no run,2,0,2/0,"Bilal Khan to Baard, no run",,,0
+6,7,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,1.1,no run,2,0,2/0,"Kaleemullah to Birkenstock, no run",,,0
+7,8,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,1.2,no run,2,0,2/0,"Kaleemullah to Birkenstock, no run",,,0
+8,9,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,1.3,no run,2,0,2/0,"Kaleemullah to Birkenstock, no run",,,0
+9,10,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 1 run ",1st innings,1.4,run,3,1,3/0,"Kaleemullah to Birkenstock, 1 run",,,0
+10,11,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, no run ",1st innings,1.5,no run,3,0,3/0,"Kaleemullah to Baard, no run",,,0
+11,12,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, no run ",1st innings,2.0,no run,3,0,3/0,"Kaleemullah to Baard, no run",,,0
+12,13,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, 1 run ",1st innings,2.1,run,4,1,4/0,"Bilal Khan to Birkenstock, 1 run",,,0
+13,14,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,2.2,no run,4,0,4/0,"Bilal Khan to Baard, no run",,,0
+14,15,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,2.3,no run,4,0,4/0,"Bilal Khan to Baard, no run",,,0
+15,16,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, 2 runs ",1st innings,2.4,run,6,2,6/0,"Bilal Khan to Baard, 2 runs",,,0
+16,17,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,2.5,no run,6,0,6/0,"Bilal Khan to Baard, no run",,,0
+17,18,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,3.0,no run,6,0,6/0,"Bilal Khan to Baard, no run",,,0
+18,19,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,3.1,no run,6,0,6/0,"Kaleemullah to Birkenstock, no run",,,0
+19,20,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 2 runs ",1st innings,3.2,run,8,2,8/0,"Kaleemullah to Birkenstock, 2 runs",,,0
+20,21,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,3.3,no run,8,0,8/0,"Kaleemullah to Birkenstock, no run",,,0
+21,22,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,3.4,no run,8,0,8/0,"Kaleemullah to Birkenstock, no run",,,0
+22,23,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 1 run ",1st innings,3.5,run,9,1,9/0,"Kaleemullah to Birkenstock, 1 run",,,0
+23,24,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, no run ",1st innings,4.0,no run,9,0,9/0,"Kaleemullah to Baard, no run",,,0
+24,25,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,4.1,no run,9,0,9/0,"Bilal Khan to Birkenstock, no run",,,0
+25,26,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,4.2,no run,9,0,9/0,"Bilal Khan to Birkenstock, no run",,,0
+26,27,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, 2 runs ",1st innings,4.3,run,11,2,11/0,"Bilal Khan to Birkenstock, 2 runs",,,0
+27,28,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,4.4,no run,11,0,11/0,"Bilal Khan to Birkenstock, no run",,,0
+28,29,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,4.5,no run,11,0,11/0,"Bilal Khan to Birkenstock, no run",,,0
+29,30,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,5.0,no run,11,0,11/0,"Bilal Khan to Birkenstock, no run",,,0
+30,31,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, no run ",1st innings,5.1,no run,11,0,11/0,"Kaleemullah to Baard, no run",,,0
+31,32,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, 1 run ",1st innings,5.2,run,12,1,12/0,"Kaleemullah to Baard, 1 run",,,0
+32,33,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, FOUR runs ",1st innings,5.3,four,16,4,16/0,"Kaleemullah to Birkenstock, FOUR runs",,,0
+33,34,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,5.4,no run,16,0,16/0,"Kaleemullah to Birkenstock, no run",,,0
+34,35,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,5.5,no run,16,0,16/0,"Kaleemullah to Birkenstock, no run",,,0
+35,36,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,6.0,no run,16,0,16/0,"Kaleemullah to Birkenstock, no run",,,0
+36,37,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,6.1,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+37,38,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,6.2,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+38,39,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,6.3,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+39,40,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,6.4,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+40,41,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,6.5,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+41,42,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, no run ",1st innings,7.0,no run,16,0,16/0,"Bilal Khan to Baard, no run",,,0
+42,43,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 2 runs ",1st innings,7.1,run,18,2,18/0,"Kaleemullah to Birkenstock, 2 runs",,,0
+43,44,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,7.2,no run,18,0,18/0,"Kaleemullah to Birkenstock, no run",,,0
+44,45,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,7.3,no run,18,0,18/0,"Kaleemullah to Birkenstock, no run",,,0
+45,46,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 1 run ",1st innings,7.4,run,19,1,19/0,"Kaleemullah to Birkenstock, 1 run",,,0
+46,47,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, 1 run ",1st innings,7.5,run,20,1,20/0,"Kaleemullah to Baard, 1 run",,,0
+47,48,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,8.0,no run,20,0,20/0,"Kaleemullah to Birkenstock, no run",,,0
+48,49,Stephan Baard,437927,Bilal Khan,937953,"Bilal Khan to Baard, 1 run ",1st innings,8.1,run,21,1,21/0,"Bilal Khan to Baard, 1 run",,,0
+49,50,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,8.2,no run,21,0,21/0,"Bilal Khan to Birkenstock, no run",,,0
+50,51,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,8.3,no run,21,0,21/0,"Bilal Khan to Birkenstock, no run",,,0
+51,51,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, 1 wide ",1st innings,8.3,wide,22,1,22/0,"Bilal Khan to Birkenstock, 1 wide",,,0
+52,52,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,8.4,no run,22,0,22/0,"Bilal Khan to Birkenstock, no run",,,0
+53,53,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, FOUR runs ",1st innings,8.5,four,26,4,26/0,"Bilal Khan to Birkenstock, FOUR runs",,,0
+54,54,Karl Birkenstock,1057456,Bilal Khan,937953,"Bilal Khan to Birkenstock, no run ",1st innings,9.0,no run,26,0,26/0,"Bilal Khan to Birkenstock, no run",,,0
+55,55,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, 1 run ",1st innings,9.1,run,27,1,27/0,"Kaleemullah to Baard, 1 run",,,0
+56,56,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, no run ",1st innings,9.2,no run,27,0,27/0,"Kaleemullah to Birkenstock, no run",,,0
+57,57,Karl Birkenstock,1057456,Kaleemullah,1077307,"Kaleemullah to Birkenstock, 1 run ",1st innings,9.3,run,28,1,28/0,"Kaleemullah to Birkenstock, 1 run",,,0
+58,58,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, no run ",1st innings,9.4,no run,28,0,28/0,"Kaleemullah to Baard, no run",,,0
+59,59,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, 2 runs ",1st innings,9.5,run,30,2,30/0,"Kaleemullah to Baard, 2 runs",,,0
+60,60,Stephan Baard,437927,Kaleemullah,1077307,"Kaleemullah to Baard, 2 runs ",1st innings,10.0,run,32,2,32/0,"Kaleemullah to Baard, 2 runs",,,0
+61,61,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,10.1,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+62,62,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,10.2,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+63,63,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,10.3,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+64,64,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,10.4,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+65,65,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,10.5,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+66,66,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,11.0,no run,32,0,32/0,"Fayyaz Butt to Birkenstock, no run",,,0
+67,67,Stephan Baard,437927,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Baard, 1 run ",1st innings,11.1,run,33,1,33/0,"Zeeshan Maqsood to Baard, 1 run",,,0
+68,68,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,11.2,no run,33,0,33/0,"Zeeshan Maqsood to Birkenstock, no run",,,0
+69,69,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,11.3,no run,33,0,33/0,"Zeeshan Maqsood to Birkenstock, no run",,,0
+70,70,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,11.4,no run,33,0,33/0,"Zeeshan Maqsood to Birkenstock, no run",,,0
+71,71,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,11.5,no run,33,0,33/0,"Zeeshan Maqsood to Birkenstock, no run",,,0
+72,72,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, FOUR runs ",1st innings,12.0,four,37,4,37/0,"Zeeshan Maqsood to Birkenstock, FOUR runs",,,0
+73,73,Stephan Baard,437927,Fayyaz Butt,436749,"Fayyaz Butt to Baard, no run ",1st innings,12.1,no run,37,0,37/0,"Fayyaz Butt to Baard, no run",,,0
+74,74,Stephan Baard,437927,Fayyaz Butt,436749,"Fayyaz Butt to Baard, OUT ",1st innings,12.2,out,37,0,37/1,"Fayyaz Butt to Baard, OUT",,,1
+75,75,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, 2 runs ",1st innings,12.3,run,39,2,39/1,"Fayyaz Butt to Kotze, 2 runs",,,1
+76,76,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,12.4,no run,39,0,39/1,"Fayyaz Butt to Kotze, no run",,,1
+77,77,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,12.5,no run,39,0,39/1,"Fayyaz Butt to Kotze, no run",,,1
+78,78,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,13.0,no run,39,0,39/1,"Fayyaz Butt to Kotze, no run",,,1
+79,79,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,13.1,no run,39,0,39/1,"Aqib Ilyas to Birkenstock, no run",,,1
+80,80,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 2 runs ",1st innings,13.2,run,41,2,41/1,"Aqib Ilyas to Birkenstock, 2 runs",,,1
+81,81,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,13.3,no run,41,0,41/1,"Aqib Ilyas to Birkenstock, no run",,,1
+82,82,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,13.4,run,42,1,42/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+83,83,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, no run ",1st innings,13.5,no run,42,0,42/1,"Aqib Ilyas to Kotze, no run",,,1
+84,84,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,14.0,run,43,1,43/1,"Aqib Ilyas to Kotze, 1 run",,,1
+85,85,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, 1 run ",1st innings,14.1,run,44,1,44/1,"Fayyaz Butt to Kotze, 1 run",,,1
+86,86,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,14.2,no run,44,0,44/1,"Fayyaz Butt to Birkenstock, no run",,,1
+87,87,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,14.3,no run,44,0,44/1,"Fayyaz Butt to Birkenstock, no run",,,1
+88,88,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,14.4,no run,44,0,44/1,"Fayyaz Butt to Birkenstock, no run",,,1
+89,89,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,14.5,no run,44,0,44/1,"Fayyaz Butt to Birkenstock, no run",,,1
+90,90,Karl Birkenstock,1057456,Fayyaz Butt,436749,"Fayyaz Butt to Birkenstock, no run ",1st innings,15.0,no run,44,0,44/1,"Fayyaz Butt to Birkenstock, no run",,,1
+91,91,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,15.1,run,45,1,45/1,"Aqib Ilyas to Kotze, 1 run",,,1
+92,92,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,15.2,no run,45,0,45/1,"Aqib Ilyas to Birkenstock, no run",,,1
+93,93,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,15.3,run,46,1,46/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+94,94,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,15.4,run,47,1,47/1,"Aqib Ilyas to Kotze, 1 run",,,1
+95,95,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,15.5,run,48,1,48/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+96,96,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,16.0,run,49,1,49/1,"Aqib Ilyas to Kotze, 1 run",,,1
+97,97,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, 2 runs ",1st innings,16.1,run,51,2,51/1,"Fayyaz Butt to Kotze, 2 runs",,,1
+98,98,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, FOUR runs ",1st innings,16.2,four,55,4,55/1,"Fayyaz Butt to Kotze, FOUR runs",,,1
+99,99,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,16.3,no run,55,0,55/1,"Fayyaz Butt to Kotze, no run",,,1
+100,100,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,16.4,no run,55,0,55/1,"Fayyaz Butt to Kotze, no run",,,1
+101,101,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, no run ",1st innings,16.5,no run,55,0,55/1,"Fayyaz Butt to Kotze, no run",,,1
+102,102,JP Kotze,541991,Fayyaz Butt,436749,"Fayyaz Butt to Kotze, 2 runs ",1st innings,17.0,run,57,2,57/1,"Fayyaz Butt to Kotze, 2 runs",,,1
+103,103,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,17.1,run,58,1,58/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+104,104,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,17.2,run,59,1,59/1,"Aqib Ilyas to Kotze, 1 run",,,1
+105,105,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,17.3,run,60,1,60/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+106,106,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,17.4,run,61,1,61/1,"Aqib Ilyas to Kotze, 1 run",,,1
+107,107,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,17.5,no run,61,0,61/1,"Aqib Ilyas to Birkenstock, no run",,,1
+108,108,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,18.0,run,62,1,62/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+109,109,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,18.1,no run,62,0,62/1,"Khawar Ali to Birkenstock, no run",,,1
+110,110,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,18.2,no run,62,0,62/1,"Khawar Ali to Birkenstock, no run",,,1
+111,111,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 1 run ",1st innings,18.3,run,63,1,63/1,"Khawar Ali to Birkenstock, 1 run",,,1
+112,112,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, 2 runs ",1st innings,18.4,run,65,2,65/1,"Khawar Ali to Kotze, 2 runs",,,1
+113,113,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, no run ",1st innings,18.5,no run,65,0,65/1,"Khawar Ali to Kotze, no run",,,1
+114,114,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, 1 run ",1st innings,19.0,run,66,1,66/1,"Khawar Ali to Kotze, 1 run",,,1
+115,115,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, no run ",1st innings,19.1,no run,66,0,66/1,"Aqib Ilyas to Kotze, no run",,,1
+116,116,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, no run ",1st innings,19.2,no run,66,0,66/1,"Aqib Ilyas to Kotze, no run",,,1
+117,117,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,19.3,run,67,1,67/1,"Aqib Ilyas to Kotze, 1 run",,,1
+118,118,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,19.4,run,68,1,68/1,"Aqib Ilyas to Birkenstock, 1 run",,,1
+119,119,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, 1 run ",1st innings,19.5,run,69,1,69/1,"Aqib Ilyas to Kotze, 1 run",,,1
+120,120,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,20.0,no run,69,0,69/1,"Aqib Ilyas to Birkenstock, no run",,,1
+121,121,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, no run ",1st innings,20.1,no run,69,0,69/1,"Khawar Ali to Kotze, no run",,,1
+122,122,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, no run ",1st innings,20.2,no run,69,0,69/1,"Khawar Ali to Kotze, no run",,,1
+123,123,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, no run ",1st innings,20.3,no run,69,0,69/1,"Khawar Ali to Kotze, no run",,,1
+124,124,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, no run ",1st innings,20.4,no run,69,0,69/1,"Khawar Ali to Kotze, no run",,,1
+125,125,JP Kotze,541991,Khawar Ali,585081,"Khawar Ali to Kotze, 1 run ",1st innings,20.5,run,70,1,70/1,"Khawar Ali to Kotze, 1 run",,,1
+126,126,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,21.0,no run,70,0,70/1,"Khawar Ali to Birkenstock, no run",,,1
+127,127,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, no run ",1st innings,21.1,no run,70,0,70/1,"Aqib Ilyas to Kotze, no run",,,1
+128,128,JP Kotze,541991,Aqib Ilyas,940593,"Aqib Ilyas to Kotze, OUT ",1st innings,21.2,out,70,0,70/2,"Aqib Ilyas to Kotze, OUT",,,2
+129,129,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,21.3,no run,70,0,70/2,"Aqib Ilyas to Erasmus, no run",,,2
+130,130,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,21.4,no run,70,0,70/2,"Aqib Ilyas to Erasmus, no run",,,2
+131,131,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,21.5,no run,70,0,70/2,"Aqib Ilyas to Erasmus, no run",,,2
+132,132,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, 1 run ",1st innings,22.0,run,71,1,71/2,"Aqib Ilyas to Erasmus, 1 run",,,2
+133,133,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, no run ",1st innings,22.1,no run,71,0,71/2,"Khawar Ali to Erasmus, no run",,,2
+134,134,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, no run ",1st innings,22.2,no run,71,0,71/2,"Khawar Ali to Erasmus, no run",,,2
+135,135,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, no run ",1st innings,22.3,no run,71,0,71/2,"Khawar Ali to Erasmus, no run",,,2
+136,136,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, 3 runs ",1st innings,22.4,run,74,3,74/2,"Khawar Ali to Erasmus, 3 runs",,,2
+137,137,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,22.5,no run,74,0,74/2,"Khawar Ali to Birkenstock, no run",,,2
+138,138,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 2 runs ",1st innings,23.0,run,76,2,76/2,"Khawar Ali to Birkenstock, 2 runs",,,2
+139,138,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, 2 wides ",1st innings,23.0,wide,78,2,78/2,"Aqib Ilyas to Erasmus, 2 wides",,,2
+140,139,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,23.1,no run,78,0,78/2,"Aqib Ilyas to Birkenstock, no run",,,2
+141,140,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 leg bye ",1st innings,23.2,leg bye,79,1,79/2,"Aqib Ilyas to Birkenstock, 1 leg bye",,,2
+142,141,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,23.3,no run,79,0,79/2,"Aqib Ilyas to Erasmus, no run",,,2
+143,142,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, 1 run ",1st innings,23.4,run,80,1,80/2,"Aqib Ilyas to Erasmus, 1 run",,,2
+144,143,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,23.5,no run,80,0,80/2,"Aqib Ilyas to Birkenstock, no run",,,2
+145,144,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,24.0,no run,80,0,80/2,"Aqib Ilyas to Birkenstock, no run",,,2
+146,145,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, 1 run ",1st innings,24.1,run,81,1,81/2,"Khawar Ali to Erasmus, 1 run",,,2
+147,146,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,24.2,no run,81,0,81/2,"Khawar Ali to Birkenstock, no run",,,2
+148,147,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,24.3,no run,81,0,81/2,"Khawar Ali to Birkenstock, no run",,,2
+149,148,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 2 runs ",1st innings,24.4,run,83,2,83/2,"Khawar Ali to Birkenstock, 2 runs",,,2
+150,149,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 1 run ",1st innings,24.5,run,84,1,84/2,"Khawar Ali to Birkenstock, 1 run",,,2
+151,150,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, 1 run ",1st innings,25.0,run,85,1,85/2,"Khawar Ali to Erasmus, 1 run",,,2
+152,151,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,25.1,no run,85,0,85/2,"Aqib Ilyas to Erasmus, no run",,,2
+153,152,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,25.2,no run,85,0,85/2,"Aqib Ilyas to Erasmus, no run",,,2
+154,153,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, 2 runs ",1st innings,25.3,run,87,2,87/2,"Aqib Ilyas to Erasmus, 2 runs",,,2
+155,154,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,25.4,no run,87,0,87/2,"Aqib Ilyas to Erasmus, no run",,,2
+156,155,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,25.5,no run,87,0,87/2,"Aqib Ilyas to Erasmus, no run",,,2
+157,156,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,26.0,no run,87,0,87/2,"Aqib Ilyas to Erasmus, no run",,,2
+158,157,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, no run ",1st innings,26.1,no run,87,0,87/2,"Khawar Ali to Birkenstock, no run",,,2
+159,158,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 1 run ",1st innings,26.2,run,88,1,88/2,"Khawar Ali to Birkenstock, 1 run",,,2
+160,159,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, FOUR runs ",1st innings,26.3,four,92,4,92/2,"Khawar Ali to Erasmus, FOUR runs",,,2
+161,160,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, 1 run ",1st innings,26.4,run,93,1,93/2,"Khawar Ali to Erasmus, 1 run",,,2
+162,161,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 1 run ",1st innings,26.5,run,94,1,94/2,"Khawar Ali to Birkenstock, 1 run",,,2
+163,162,Gerhard Erasmus,519070,Khawar Ali,585081,"Khawar Ali to Erasmus, no run ",1st innings,27.0,no run,94,0,94/2,"Khawar Ali to Erasmus, no run",,,2
+164,163,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,27.1,run,95,1,95/2,"Aqib Ilyas to Birkenstock, 1 run",,,2
+165,164,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, 1 run ",1st innings,27.2,run,96,1,96/2,"Aqib Ilyas to Erasmus, 1 run",,,2
+166,165,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,27.3,no run,96,0,96/2,"Aqib Ilyas to Birkenstock, no run",,,2
+167,166,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,27.4,no run,96,0,96/2,"Aqib Ilyas to Birkenstock, no run",,,2
+168,167,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,27.5,run,97,1,97/2,"Aqib Ilyas to Birkenstock, 1 run",,,2
+169,168,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, no run ",1st innings,28.0,no run,97,0,97/2,"Aqib Ilyas to Erasmus, no run",,,2
+170,169,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, 1 run ",1st innings,28.1,run,98,1,98/2,"Zeeshan Maqsood to Birkenstock, 1 run",,,2
+171,170,Gerhard Erasmus,519070,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Erasmus, no run ",1st innings,28.2,no run,98,0,98/2,"Zeeshan Maqsood to Erasmus, no run",,,2
+172,171,Gerhard Erasmus,519070,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Erasmus, 1 run ",1st innings,28.3,run,99,1,99/2,"Zeeshan Maqsood to Erasmus, 1 run",,,2
+173,172,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,28.4,no run,99,0,99/2,"Zeeshan Maqsood to Birkenstock, no run",,,2
+174,173,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,28.5,no run,99,0,99/2,"Zeeshan Maqsood to Birkenstock, no run",,,2
+175,174,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, 2 runs ",1st innings,29.0,run,101,2,101/2,"Zeeshan Maqsood to Birkenstock, 2 runs",,,2
+176,175,Gerhard Erasmus,519070,Aqib Ilyas,940593,"Aqib Ilyas to Erasmus, OUT ",1st innings,29.1,out,101,0,101/3,"Aqib Ilyas to Erasmus, OUT",,,3
+177,176,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,29.2,run,102,1,102/3,"Aqib Ilyas to Birkenstock, 1 run",,,3
+178,177,Craig Williams,316102,Aqib Ilyas,940593,"Aqib Ilyas to Williams, no run ",1st innings,29.3,no run,102,0,102/3,"Aqib Ilyas to Williams, no run",,,3
+179,178,Craig Williams,316102,Aqib Ilyas,940593,"Aqib Ilyas to Williams, 2 runs ",1st innings,29.4,run,104,2,104/3,"Aqib Ilyas to Williams, 2 runs",,,3
+180,179,Craig Williams,316102,Aqib Ilyas,940593,"Aqib Ilyas to Williams, no run ",1st innings,29.5,no run,104,0,104/3,"Aqib Ilyas to Williams, no run",,,3
+181,180,Craig Williams,316102,Aqib Ilyas,940593,"Aqib Ilyas to Williams, no run ",1st innings,30.0,no run,104,0,104/3,"Aqib Ilyas to Williams, no run",,,3
+182,181,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, 1 run ",1st innings,30.1,run,105,1,105/3,"Zeeshan Maqsood to Birkenstock, 1 run",,,3
+183,182,Craig Williams,316102,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Williams, no run ",1st innings,30.2,no run,105,0,105/3,"Zeeshan Maqsood to Williams, no run",,,3
+184,183,Craig Williams,316102,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Williams, no run ",1st innings,30.3,no run,105,0,105/3,"Zeeshan Maqsood to Williams, no run",,,3
+185,184,Craig Williams,316102,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Williams, no run ",1st innings,30.4,no run,105,0,105/3,"Zeeshan Maqsood to Williams, no run",,,3
+186,185,Craig Williams,316102,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Williams, 1 run ",1st innings,30.5,run,106,1,106/3,"Zeeshan Maqsood to Williams, 1 run",,,3
+187,186,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, 1 run ",1st innings,31.0,run,107,1,107/3,"Zeeshan Maqsood to Birkenstock, 1 run",,,3
+188,187,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,31.1,no run,107,0,107/3,"Aqib Ilyas to Birkenstock, no run",,,3
+189,188,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 2 runs ",1st innings,31.2,run,109,2,109/3,"Aqib Ilyas to Birkenstock, 2 runs",,,3
+190,189,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,31.3,no run,109,0,109/3,"Aqib Ilyas to Birkenstock, no run",,,3
+191,190,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,31.4,no run,109,0,109/3,"Aqib Ilyas to Birkenstock, no run",,,3
+192,191,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, no run ",1st innings,31.5,no run,109,0,109/3,"Aqib Ilyas to Birkenstock, no run",,,3
+193,192,Karl Birkenstock,1057456,Aqib Ilyas,940593,"Aqib Ilyas to Birkenstock, 1 run ",1st innings,32.0,run,110,1,110/3,"Aqib Ilyas to Birkenstock, 1 run",,,3
+194,193,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, 1 run ",1st innings,32.1,run,111,1,111/3,"Zeeshan Maqsood to Birkenstock, 1 run",,,3
+195,194,Craig Williams,316102,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Williams, 1 run ",1st innings,32.2,run,112,1,112/3,"Zeeshan Maqsood to Williams, 1 run",,,3
+196,195,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,32.3,no run,112,0,112/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+197,196,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,32.4,no run,112,0,112/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+198,197,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,32.5,no run,112,0,112/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+199,198,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,33.0,no run,112,0,112/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+200,199,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, no run ",1st innings,33.1,no run,112,0,112/3,"Khawar Ali to Williams, no run",,,3
+201,200,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, 2 runs ",1st innings,33.2,run,114,2,114/3,"Khawar Ali to Williams, 2 runs",,,3
+202,201,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, 1 run ",1st innings,33.3,run,115,1,115/3,"Khawar Ali to Williams, 1 run",,,3
+203,202,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, FOUR runs ",1st innings,33.4,four,119,4,119/3,"Khawar Ali to Birkenstock, FOUR runs",,,3
+204,203,Karl Birkenstock,1057456,Khawar Ali,585081,"Khawar Ali to Birkenstock, 1 run ",1st innings,33.5,run,120,1,120/3,"Khawar Ali to Birkenstock, 1 run",,,3
+205,204,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, no run ",1st innings,34.0,no run,120,0,120/3,"Khawar Ali to Williams, no run",,,3
+206,205,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, FOUR runs ",1st innings,34.1,four,124,4,124/3,"Zeeshan Maqsood to Birkenstock, FOUR runs",,,3
+207,206,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,34.2,no run,124,0,124/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+208,207,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,34.3,no run,124,0,124/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+209,208,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,34.4,no run,124,0,124/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+210,209,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, no run ",1st innings,34.5,no run,124,0,124/3,"Zeeshan Maqsood to Birkenstock, no run",,,3
+211,210,Karl Birkenstock,1057456,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Birkenstock, OUT ",1st innings,35.0,out,124,0,124/4,"Zeeshan Maqsood to Birkenstock, OUT",,,4
+212,211,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, 1 run ",1st innings,35.1,run,125,1,125/4,"Khawar Ali to Williams, 1 run",,,4
+213,212,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, 1 run ",1st innings,35.2,run,126,1,126/4,"Khawar Ali to Smit, 1 run",,,4
+214,213,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, no run ",1st innings,35.3,no run,126,0,126/4,"Khawar Ali to Williams, no run",,,4
+215,214,Craig Williams,316102,Khawar Ali,585081,"Khawar Ali to Williams, OUT ",1st innings,35.4,out,126,0,126/5,"Khawar Ali to Williams, OUT",,,5
+216,215,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 1 run ",1st innings,35.5,run,127,1,127/5,"Khawar Ali to Green, 1 run",,,5
+217,216,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, no run ",1st innings,36.0,no run,127,0,127/5,"Khawar Ali to Smit, no run",,,5
+218,217,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,36.1,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+219,218,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,36.2,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+220,219,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,36.3,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+221,220,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,36.4,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+222,221,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,36.5,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+223,222,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,37.0,no run,127,0,127/5,"Zeeshan Maqsood to Green, no run",,,5
+224,223,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, 1 run ",1st innings,37.1,run,128,1,128/5,"Khawar Ali to Smit, 1 run",,,5
+225,224,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,37.2,no run,128,0,128/5,"Khawar Ali to Green, no run",,,5
+226,225,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,37.3,no run,128,0,128/5,"Khawar Ali to Green, no run",,,5
+227,226,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 3 runs ",1st innings,37.4,run,131,3,131/5,"Khawar Ali to Green, 3 runs",,,5
+228,227,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, no run ",1st innings,37.5,no run,131,0,131/5,"Khawar Ali to Smit, no run",,,5
+229,228,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, no run ",1st innings,38.0,no run,131,0,131/5,"Khawar Ali to Smit, no run",,,5
+230,229,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, 1 run ",1st innings,38.1,run,132,1,132/5,"Zeeshan Maqsood to Green, 1 run",,,5
+231,230,JJ Smit,553821,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Smit, 1 run ",1st innings,38.2,run,133,1,133/5,"Zeeshan Maqsood to Smit, 1 run",,,5
+232,231,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, 1 run ",1st innings,38.3,run,134,1,134/5,"Zeeshan Maqsood to Green, 1 run",,,5
+233,232,JJ Smit,553821,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Smit, 1 run ",1st innings,38.4,run,135,1,135/5,"Zeeshan Maqsood to Smit, 1 run",,,5
+234,233,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,38.5,no run,135,0,135/5,"Zeeshan Maqsood to Green, no run",,,5
+235,234,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, 1 run ",1st innings,39.0,run,136,1,136/5,"Zeeshan Maqsood to Green, 1 run",,,5
+236,235,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, no run ",1st innings,39.1,no run,136,0,136/5,"Bilal Khan to Green, no run",,,5
+237,236,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, no run ",1st innings,39.2,no run,136,0,136/5,"Bilal Khan to Green, no run",,,5
+238,237,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, no run ",1st innings,39.3,no run,136,0,136/5,"Bilal Khan to Green, no run",,,5
+239,238,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,39.4,run,137,1,137/5,"Bilal Khan to Green, 1 run",,,5
+240,239,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,39.5,no run,137,0,137/5,"Bilal Khan to Smit, no run",,,5
+241,240,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,40.0,no run,137,0,137/5,"Bilal Khan to Smit, no run",,,5
+242,241,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,40.1,no run,137,0,137/5,"Zeeshan Maqsood to Green, no run",,,5
+243,242,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, no run ",1st innings,40.2,no run,137,0,137/5,"Zeeshan Maqsood to Green, no run",,,5
+244,243,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, 1 run ",1st innings,40.3,run,138,1,138/5,"Zeeshan Maqsood to Green, 1 run",,,5
+245,244,JJ Smit,553821,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Smit, 1 run ",1st innings,40.4,run,139,1,139/5,"Zeeshan Maqsood to Smit, 1 run",,,5
+246,245,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, SIX runs ",1st innings,40.5,six,145,6,145/5,"Zeeshan Maqsood to Green, SIX runs",,,5
+247,246,Zane Green,596664,Zeeshan Maqsood,585083,"Zeeshan Maqsood to Green, 1 run ",1st innings,41.0,run,146,1,146/5,"Zeeshan Maqsood to Green, 1 run",,,5
+248,247,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,41.1,run,147,1,147/5,"Bilal Khan to Green, 1 run",,,5
+249,248,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,41.2,no run,147,0,147/5,"Bilal Khan to Smit, no run",,,5
+250,249,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, FOUR runs ",1st innings,41.3,four,151,4,151/5,"Bilal Khan to Smit, FOUR runs",,,5
+251,250,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 run ",1st innings,41.4,run,152,1,152/5,"Bilal Khan to Smit, 1 run",,,5
+252,251,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,41.5,run,153,1,153/5,"Bilal Khan to Green, 1 run",,,5
+253,252,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,42.0,no run,153,0,153/5,"Bilal Khan to Smit, no run",,,5
+254,253,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, FOUR runs ",1st innings,42.1,four,157,4,157/5,"Khawar Ali to Green, FOUR runs",,,5
+255,254,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 2 runs ",1st innings,42.2,run,159,2,159/5,"Khawar Ali to Green, 2 runs",,,5
+256,255,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,42.3,no run,159,0,159/5,"Khawar Ali to Green, no run",,,5
+257,256,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,42.4,no run,159,0,159/5,"Khawar Ali to Green, no run",,,5
+258,257,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 2 runs ",1st innings,42.5,run,161,2,161/5,"Khawar Ali to Green, 2 runs",,,5
+259,258,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,43.0,no run,161,0,161/5,"Khawar Ali to Green, no run",,,5
+260,259,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 run ",1st innings,43.1,run,162,1,162/5,"Bilal Khan to Smit, 1 run",,,5
+261,260,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,43.2,run,163,1,163/5,"Bilal Khan to Green, 1 run",,,5
+262,261,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 run ",1st innings,43.3,run,164,1,164/5,"Bilal Khan to Smit, 1 run",,,5
+263,262,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 2 runs ",1st innings,43.4,run,166,2,166/5,"Bilal Khan to Green, 2 runs",,,5
+264,263,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, no run ",1st innings,43.5,no run,166,0,166/5,"Bilal Khan to Green, no run",,,5
+265,264,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,44.0,run,167,1,167/5,"Bilal Khan to Green, 1 run",,,5
+266,265,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 2 runs ",1st innings,44.1,run,169,2,169/5,"Khawar Ali to Green, 2 runs",,,5
+267,266,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, FOUR runs ",1st innings,44.2,four,173,4,173/5,"Khawar Ali to Green, FOUR runs",,,5
+268,267,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, no run ",1st innings,44.3,no run,173,0,173/5,"Khawar Ali to Green, no run",,,5
+269,268,Zane Green,596664,Khawar Ali,585081,"Khawar Ali to Green, 1 run ",1st innings,44.4,run,174,1,174/5,"Khawar Ali to Green, 1 run",,,5
+270,269,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, no run ",1st innings,44.5,no run,174,0,174/5,"Khawar Ali to Smit, no run",,,5
+271,270,JJ Smit,553821,Khawar Ali,585081,"Khawar Ali to Smit, 2 runs ",1st innings,45.0,run,176,2,176/5,"Khawar Ali to Smit, 2 runs",,,5
+272,271,Zane Green,596664,Bilal Khan,937953,"Bilal Khan to Green, 1 run ",1st innings,45.1,run,177,1,177/5,"Bilal Khan to Green, 1 run",,,5
+273,272,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,45.2,no run,177,0,177/5,"Bilal Khan to Smit, no run",,,5
+274,273,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,45.3,no run,177,0,177/5,"Bilal Khan to Smit, no run",,,5
+275,274,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, FOUR runs ",1st innings,45.4,four,181,4,181/5,"Bilal Khan to Smit, FOUR runs",,,5
+276,275,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, no run ",1st innings,45.5,no run,181,0,181/5,"Bilal Khan to Smit, no run",,,5
+277,275,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 wide ",1st innings,45.5,wide,182,1,182/5,"Bilal Khan to Smit, 1 wide",,,5
+278,276,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 run ",1st innings,46.0,run,183,1,183/5,"Bilal Khan to Smit, 1 run",,,5
+279,277,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, OUT ",1st innings,46.1,out,183,0,183/6,"Fayyaz Butt to Smit, OUT",,,6
+280,278,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, no run ",1st innings,46.2,no run,183,0,183/6,"Fayyaz Butt to Smit, no run",,,6
+281,279,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, 1 run ",1st innings,46.3,run,184,1,184/6,"Fayyaz Butt to Smit, 1 run",,,6
+282,280,Christi Viljoen,387845,Fayyaz Butt,436749,"Fayyaz Butt to Viljoen, FOUR runs ",1st innings,46.4,four,188,4,188/6,"Fayyaz Butt to Viljoen, FOUR runs",,,6
+283,281,Christi Viljoen,387845,Fayyaz Butt,436749,"Fayyaz Butt to Viljoen, 1 run ",1st innings,46.5,run,189,1,189/6,"Fayyaz Butt to Viljoen, 1 run",,,6
+284,282,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, 2 runs ",1st innings,47.0,run,191,2,191/6,"Fayyaz Butt to Smit, 2 runs",,,6
+285,283,Christi Viljoen,387845,Bilal Khan,937953,"Bilal Khan to Viljoen, 2 runs ",1st innings,47.1,run,193,2,193/6,"Bilal Khan to Viljoen, 2 runs",,,6
+286,284,Christi Viljoen,387845,Bilal Khan,937953,"Bilal Khan to Viljoen, no run ",1st innings,47.2,no run,193,0,193/6,"Bilal Khan to Viljoen, no run",,,6
+287,285,Christi Viljoen,387845,Bilal Khan,937953,"Bilal Khan to Viljoen, 1 run ",1st innings,47.3,run,194,1,194/6,"Bilal Khan to Viljoen, 1 run",,,6
+288,286,JJ Smit,553821,Bilal Khan,937953,"Bilal Khan to Smit, 1 run ",1st innings,47.4,run,195,1,195/6,"Bilal Khan to Smit, 1 run",,,6
+289,287,Christi Viljoen,387845,Bilal Khan,937953,"Bilal Khan to Viljoen, 2 runs ",1st innings,47.5,run,197,2,197/6,"Bilal Khan to Viljoen, 2 runs",,,6
+290,288,Christi Viljoen,387845,Bilal Khan,937953,"Bilal Khan to Viljoen, 1 run ",1st innings,48.0,run,198,1,198/6,"Bilal Khan to Viljoen, 1 run",,,6
+291,289,Christi Viljoen,387845,Fayyaz Butt,436749,"Fayyaz Butt to Viljoen, no run ",1st innings,48.1,no run,198,0,198/6,"Fayyaz Butt to Viljoen, no run",,,6
+292,290,Christi Viljoen,387845,Fayyaz Butt,436749,"Fayyaz Butt to Viljoen, 1 run ",1st innings,48.2,run,199,1,199/6,"Fayyaz Butt to Viljoen, 1 run",,,6
+293,291,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, SIX runs ",1st innings,48.3,six,205,6,205/6,"Fayyaz Butt to Smit, SIX runs",,,6
+294,292,JJ Smit,553821,Fayyaz Butt,436749,"Fayyaz Butt to Smit, OUT ",1st innings,48.4,out,205,0,205/7,"Fayyaz Butt to Smit, OUT",,,7
+295,293,Christi Viljoen,387845,Fayyaz Butt,436749,"Fayyaz Butt to Viljoen, 1 run ",1st innings,48.5,run,206,1,206/7,"Fayyaz Butt to Viljoen, 1 run",,,7
+296,294,Jan Frylinck,482478,Fayyaz Butt,436749,"Fayyaz Butt to Frylinck, 1 run ",1st innings,49.0,run,207,1,207/7,"Fayyaz Butt to Frylinck, 1 run",,,7
+297,295,Jan Frylinck,482478,Kaleemullah,1077307,"Kaleemullah to Frylinck, 2 runs ",1st innings,49.1,run,209,2,209/7,"Kaleemullah to Frylinck, 2 runs",,,7
+298,296,Jan Frylinck,482478,Kaleemullah,1077307,"Kaleemullah to Frylinck, SIX runs ",1st innings,49.2,six,215,6,215/7,"Kaleemullah to Frylinck, SIX runs",,,7
+299,297,Jan Frylinck,482478,Kaleemullah,1077307,"Kaleemullah to Frylinck, SIX runs ",1st innings,49.3,six,221,6,221/7,"Kaleemullah to Frylinck, SIX runs",,,7
+300,298,Jan Frylinck,482478,Kaleemullah,1077307,"Kaleemullah to Frylinck, no run ",1st innings,49.4,no run,221,0,221/7,"Kaleemullah to Frylinck, no run",,,7
+301,299,Jan Frylinck,482478,Kaleemullah,1077307,"Kaleemullah to Frylinck, 1 run ",1st innings,49.5,run,222,1,222/7,"Kaleemullah to Frylinck, 1 run",,,7
+302,300,Christi Viljoen,387845,Kaleemullah,1077307,"Kaleemullah to Viljoen, FOUR runs ",1st innings,50.0,four,226,4,226/7,"Kaleemullah to Viljoen, FOUR runs",,,7
+303,1,Khawar Ali,585081,JJ Smit,553821,"Smit to Khawar Ali, no run ",2nd innings,0.1,no run,0,0,0/0,"Smit to Khawar Ali, no run",,,0
+304,2,Khawar Ali,585081,JJ Smit,553821,"Smit to Khawar Ali, no run ",2nd innings,0.2,no run,0,0,0/0,"Smit to Khawar Ali, no run",,,0
+305,3,Khawar Ali,585081,JJ Smit,553821,"Smit to Khawar Ali, 2 runs ",2nd innings,0.3,run,2,2,2/0,"Smit to Khawar Ali, 2 runs",,,0
+306,4,Khawar Ali,585081,JJ Smit,553821,"Smit to Khawar Ali, no run ",2nd innings,0.4,no run,2,0,2/0,"Smit to Khawar Ali, no run",,,0
+307,5,Khawar Ali,585081,JJ Smit,553821,"Smit to Khawar Ali, 1 run ",2nd innings,0.5,run,3,1,3/0,"Smit to Khawar Ali, 1 run",,,0
+308,6,Jatinder Singh,307756,JJ Smit,553821,"Smit to Jatinder Singh, no run ",2nd innings,1.0,no run,3,0,3/0,"Smit to Jatinder Singh, no run",,,0
+309,7,Khawar Ali,585081,Jan Frylinck,482478,"Frylinck to Khawar Ali, no run ",2nd innings,1.1,no run,3,0,3/0,"Frylinck to Khawar Ali, no run",,,0
+310,8,Khawar Ali,585081,Jan Frylinck,482478,"Frylinck to Khawar Ali, OUT ",2nd innings,1.2,out,3,0,3/1,"Frylinck to Khawar Ali, OUT",,,1
+311,9,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, no run ",2nd innings,1.3,no run,3,0,3/1,"Frylinck to Aqib Ilyas, no run",,,1
+312,10,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, 2 runs ",2nd innings,1.4,run,5,2,5/1,"Frylinck to Aqib Ilyas, 2 runs",,,1
+313,11,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, no run ",2nd innings,1.5,no run,5,0,5/1,"Frylinck to Aqib Ilyas, no run",,,1
+314,12,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, 1 run ",2nd innings,2.0,run,6,1,6/1,"Frylinck to Aqib Ilyas, 1 run",,,1
+315,13,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, FOUR runs ",2nd innings,2.1,four,10,4,10/1,"Smit to Aqib Ilyas, FOUR runs",,,1
+316,14,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, 1 run ",2nd innings,2.2,run,11,1,11/1,"Smit to Aqib Ilyas, 1 run",,,1
+317,15,Jatinder Singh,307756,JJ Smit,553821,"Smit to Jatinder Singh, OUT ",2nd innings,2.3,out,11,0,11/2,"Smit to Jatinder Singh, OUT",,,2
+318,16,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,2.4,no run,11,0,11/2,"Smit to Zeeshan Maqsood, no run",,,2
+319,17,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, FOUR runs ",2nd innings,2.5,four,15,4,15/2,"Smit to Zeeshan Maqsood, FOUR runs",,,2
+320,18,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,3.0,no run,15,0,15/2,"Smit to Zeeshan Maqsood, no run",,,2
+321,19,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, no run ",2nd innings,3.1,no run,15,0,15/2,"Frylinck to Aqib Ilyas, no run",,,2
+322,20,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, 1 run ",2nd innings,3.2,run,16,1,16/2,"Frylinck to Aqib Ilyas, 1 run",,,2
+323,21,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,3.3,no run,16,0,16/2,"Frylinck to Zeeshan Maqsood, no run",,,2
+324,22,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,3.4,no run,16,0,16/2,"Frylinck to Zeeshan Maqsood, no run",,,2
+325,23,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,3.5,no run,16,0,16/2,"Frylinck to Zeeshan Maqsood, no run",,,2
+326,24,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,4.0,no run,16,0,16/2,"Frylinck to Zeeshan Maqsood, no run",,,2
+327,25,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, no run ",2nd innings,4.1,no run,16,0,16/2,"Smit to Aqib Ilyas, no run",,,2
+328,26,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, no run ",2nd innings,4.2,no run,16,0,16/2,"Smit to Aqib Ilyas, no run",,,2
+329,27,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, no run ",2nd innings,4.3,no run,16,0,16/2,"Smit to Aqib Ilyas, no run",,,2
+330,28,Aqib Ilyas,940593,JJ Smit,553821,"Smit to Aqib Ilyas, 1 run ",2nd innings,4.4,run,17,1,17/2,"Smit to Aqib Ilyas, 1 run",,,2
+331,29,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, SIX runs ",2nd innings,4.5,six,23,6,23/2,"Smit to Zeeshan Maqsood, SIX runs",,,2
+332,30,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,5.0,no run,23,0,23/2,"Smit to Zeeshan Maqsood, no run",,,2
+333,31,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, 1 run ",2nd innings,5.1,run,24,1,24/2,"Frylinck to Aqib Ilyas, 1 run",,,2
+334,32,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,5.2,no run,24,0,24/2,"Frylinck to Zeeshan Maqsood, no run",,,2
+335,33,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, 1 run ",2nd innings,5.3,run,25,1,25/2,"Frylinck to Zeeshan Maqsood, 1 run",,,2
+336,34,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, no run ",2nd innings,5.4,no run,25,0,25/2,"Frylinck to Aqib Ilyas, no run",,,2
+337,35,Aqib Ilyas,940593,Jan Frylinck,482478,"Frylinck to Aqib Ilyas, OUT ",2nd innings,5.5,out,25,0,25/3,"Frylinck to Aqib Ilyas, OUT",,,3
+338,36,Mohammad Nadeem,41984,Jan Frylinck,482478,"Frylinck to Mohammad Nadeem, no run ",2nd innings,6.0,no run,25,0,25/3,"Frylinck to Mohammad Nadeem, no run",,,3
+339,37,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,6.1,no run,25,0,25/3,"Smit to Zeeshan Maqsood, no run",,,3
+340,38,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,6.2,no run,25,0,25/3,"Smit to Zeeshan Maqsood, no run",,,3
+341,39,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,6.3,no run,25,0,25/3,"Smit to Zeeshan Maqsood, no run",,,3
+342,40,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,6.4,no run,25,0,25/3,"Smit to Zeeshan Maqsood, no run",,,3
+343,41,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, no run ",2nd innings,6.5,no run,25,0,25/3,"Smit to Zeeshan Maqsood, no run",,,3
+344,42,Zeeshan Maqsood,585083,JJ Smit,553821,"Smit to Zeeshan Maqsood, 1 run ",2nd innings,7.0,run,26,1,26/3,"Smit to Zeeshan Maqsood, 1 run",,,3
+345,43,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,7.1,no run,26,0,26/3,"Frylinck to Zeeshan Maqsood, no run",,,3
+346,44,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,7.2,no run,26,0,26/3,"Frylinck to Zeeshan Maqsood, no run",,,3
+347,45,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,7.3,no run,26,0,26/3,"Frylinck to Zeeshan Maqsood, no run",,,3
+348,46,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, no run ",2nd innings,7.4,no run,26,0,26/3,"Frylinck to Zeeshan Maqsood, no run",,,3
+349,47,Zeeshan Maqsood,585083,Jan Frylinck,482478,"Frylinck to Zeeshan Maqsood, OUT ",2nd innings,7.5,out,26,0,26/4,"Frylinck to Zeeshan Maqsood, OUT",,,4
+350,47,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, 1 wide ",2nd innings,7.5,wide,27,1,27/4,"Frylinck to Suraj Kumar, 1 wide",,,4
+351,48,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,8.0,no run,27,0,27/4,"Frylinck to Suraj Kumar, no run",,,4
+352,49,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, 1 run ",2nd innings,8.1,run,28,1,28/4,"Williams to Mohammad Nadeem, 1 run",,,4
+353,50,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,8.2,no run,28,0,28/4,"Williams to Suraj Kumar, no run",,,4
+354,51,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,8.3,no run,28,0,28/4,"Williams to Suraj Kumar, no run",,,4
+355,52,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,8.4,no run,28,0,28/4,"Williams to Suraj Kumar, no run",,,4
+356,53,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,8.5,no run,28,0,28/4,"Williams to Suraj Kumar, no run",,,4
+357,54,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,9.0,no run,28,0,28/4,"Williams to Suraj Kumar, no run",,,4
+358,55,Mohammad Nadeem,41984,Jan Frylinck,482478,"Frylinck to Mohammad Nadeem, 1 leg bye ",2nd innings,9.1,leg bye,29,1,29/4,"Frylinck to Mohammad Nadeem, 1 leg bye",,,4
+359,55,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, 1 wide ",2nd innings,9.1,wide,30,1,30/4,"Frylinck to Suraj Kumar, 1 wide",,,4
+360,56,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,9.2,no run,30,0,30/4,"Frylinck to Suraj Kumar, no run",,,4
+361,56,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, 1 wide ",2nd innings,9.2,wide,31,1,31/4,"Frylinck to Suraj Kumar, 1 wide",,,4
+362,57,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,9.3,no run,31,0,31/4,"Frylinck to Suraj Kumar, no run",,,4
+363,58,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,9.4,no run,31,0,31/4,"Frylinck to Suraj Kumar, no run",,,4
+364,59,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, 1 run ",2nd innings,9.5,run,32,1,32/4,"Frylinck to Suraj Kumar, 1 run",,,4
+365,60,Mohammad Nadeem,41984,Jan Frylinck,482478,"Frylinck to Mohammad Nadeem, no run ",2nd innings,10.0,no run,32,0,32/4,"Frylinck to Mohammad Nadeem, no run",,,4
+366,61,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,10.1,no run,32,0,32/4,"Williams to Suraj Kumar, no run",,,4
+367,62,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,10.2,no run,32,0,32/4,"Williams to Suraj Kumar, no run",,,4
+368,63,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,10.3,no run,32,0,32/4,"Williams to Suraj Kumar, no run",,,4
+369,64,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, FOUR runs ",2nd innings,10.4,four,36,4,36/4,"Williams to Suraj Kumar, FOUR runs",,,4
+370,65,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, 1 run ",2nd innings,10.5,run,37,1,37/4,"Williams to Suraj Kumar, 1 run",,,4
+371,66,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, no run ",2nd innings,11.0,no run,37,0,37/4,"Williams to Mohammad Nadeem, no run",,,4
+372,67,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,11.1,no run,37,0,37/4,"Viljoen to Suraj Kumar, no run",,,4
+373,68,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,11.2,no run,37,0,37/4,"Viljoen to Suraj Kumar, no run",,,4
+374,69,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,11.3,no run,37,0,37/4,"Viljoen to Suraj Kumar, no run",,,4
+375,69,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, 1 wide ",2nd innings,11.3,wide,38,1,38/4,"Viljoen to Suraj Kumar, 1 wide",,,4
+376,70,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,11.4,no run,38,0,38/4,"Viljoen to Suraj Kumar, no run",,,4
+377,71,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,11.5,no run,38,0,38/4,"Viljoen to Suraj Kumar, no run",,,4
+378,72,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,12.0,no run,38,0,38/4,"Viljoen to Suraj Kumar, no run",,,4
+379,73,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, no run ",2nd innings,12.1,no run,38,0,38/4,"Williams to Mohammad Nadeem, no run",,,4
+380,74,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, 1 run ",2nd innings,12.2,run,39,1,39/4,"Williams to Mohammad Nadeem, 1 run",,,4
+381,75,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, 1 run ",2nd innings,12.3,run,40,1,40/4,"Williams to Suraj Kumar, 1 run",,,4
+382,76,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, no run ",2nd innings,12.4,no run,40,0,40/4,"Williams to Mohammad Nadeem, no run",,,4
+383,77,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, no run ",2nd innings,12.5,no run,40,0,40/4,"Williams to Mohammad Nadeem, no run",,,4
+384,78,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, no run ",2nd innings,13.0,no run,40,0,40/4,"Williams to Mohammad Nadeem, no run",,,4
+385,79,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, 1 run ",2nd innings,13.1,run,41,1,41/4,"Viljoen to Suraj Kumar, 1 run",,,4
+386,80,Mohammad Nadeem,41984,Christi Viljoen,387845,"Viljoen to Mohammad Nadeem, no run ",2nd innings,13.2,no run,41,0,41/4,"Viljoen to Mohammad Nadeem, no run",,,4
+387,81,Mohammad Nadeem,41984,Christi Viljoen,387845,"Viljoen to Mohammad Nadeem, no run ",2nd innings,13.3,no run,41,0,41/4,"Viljoen to Mohammad Nadeem, no run",,,4
+388,82,Mohammad Nadeem,41984,Christi Viljoen,387845,"Viljoen to Mohammad Nadeem, no run ",2nd innings,13.4,no run,41,0,41/4,"Viljoen to Mohammad Nadeem, no run",,,4
+389,83,Mohammad Nadeem,41984,Christi Viljoen,387845,"Viljoen to Mohammad Nadeem, 1 run ",2nd innings,13.5,run,42,1,42/4,"Viljoen to Mohammad Nadeem, 1 run",,,4
+390,84,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,14.0,no run,42,0,42/4,"Viljoen to Suraj Kumar, no run",,,4
+391,85,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, 1 run ",2nd innings,14.1,run,43,1,43/4,"Williams to Mohammad Nadeem, 1 run",,,4
+392,86,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,14.2,no run,43,0,43/4,"Williams to Suraj Kumar, no run",,,4
+393,87,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,14.3,no run,43,0,43/4,"Williams to Suraj Kumar, no run",,,4
+394,88,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, no run ",2nd innings,14.4,no run,43,0,43/4,"Williams to Suraj Kumar, no run",,,4
+395,89,Suraj Kumar,1156690,Craig Williams,316102,"Williams to Suraj Kumar, 1 run ",2nd innings,14.5,run,44,1,44/4,"Williams to Suraj Kumar, 1 run",,,4
+396,90,Mohammad Nadeem,41984,Craig Williams,316102,"Williams to Mohammad Nadeem, 1 run ",2nd innings,15.0,run,45,1,45/4,"Williams to Mohammad Nadeem, 1 run",,,4
+397,91,Mohammad Nadeem,41984,Christi Viljoen,387845,"Viljoen to Mohammad Nadeem, OUT ",2nd innings,15.1,out,45,0,45/5,"Viljoen to Mohammad Nadeem, OUT",,,5
+398,92,Sandeep Goud,1174024,Christi Viljoen,387845,"Viljoen to Sandeep Goud, no run ",2nd innings,15.2,no run,45,0,45/5,"Viljoen to Sandeep Goud, no run",,,5
+399,93,Sandeep Goud,1174024,Christi Viljoen,387845,"Viljoen to Sandeep Goud, OUT ",2nd innings,15.3,out,45,0,45/6,"Viljoen to Sandeep Goud, OUT",,,6
+400,94,Khurram Nawaz,1077309,Christi Viljoen,387845,"Viljoen to Khurram Nawaz, 1 run ",2nd innings,15.4,run,46,1,46/6,"Viljoen to Khurram Nawaz, 1 run",,,6
+401,95,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,15.5,no run,46,0,46/6,"Viljoen to Suraj Kumar, no run",,,6
+402,96,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,16.0,no run,46,0,46/6,"Viljoen to Suraj Kumar, no run",,,6
+403,97,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, 1 run ",2nd innings,16.1,run,47,1,47/6,"Scholtz to Khurram Nawaz, 1 run",,,6
+404,98,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,16.2,no run,47,0,47/6,"Scholtz to Suraj Kumar, no run",,,6
+405,99,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,16.3,no run,47,0,47/6,"Scholtz to Suraj Kumar, no run",,,6
+406,100,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,16.4,no run,47,0,47/6,"Scholtz to Suraj Kumar, no run",,,6
+407,101,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,16.5,no run,47,0,47/6,"Scholtz to Suraj Kumar, no run",,,6
+408,102,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,17.0,no run,47,0,47/6,"Scholtz to Suraj Kumar, no run",,,6
+409,103,Khurram Nawaz,1077309,Christi Viljoen,387845,"Viljoen to Khurram Nawaz, no run ",2nd innings,17.1,no run,47,0,47/6,"Viljoen to Khurram Nawaz, no run",,,6
+410,104,Khurram Nawaz,1077309,Christi Viljoen,387845,"Viljoen to Khurram Nawaz, no run ",2nd innings,17.2,no run,47,0,47/6,"Viljoen to Khurram Nawaz, no run",,,6
+411,105,Khurram Nawaz,1077309,Christi Viljoen,387845,"Viljoen to Khurram Nawaz, no run ",2nd innings,17.3,no run,47,0,47/6,"Viljoen to Khurram Nawaz, no run",,,6
+412,106,Khurram Nawaz,1077309,Christi Viljoen,387845,"Viljoen to Khurram Nawaz, 1 run ",2nd innings,17.4,run,48,1,48/6,"Viljoen to Khurram Nawaz, 1 run",,,6
+413,107,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, no run ",2nd innings,17.5,no run,48,0,48/6,"Viljoen to Suraj Kumar, no run",,,6
+414,108,Suraj Kumar,1156690,Christi Viljoen,387845,"Viljoen to Suraj Kumar, 1 run ",2nd innings,18.0,run,49,1,49/6,"Viljoen to Suraj Kumar, 1 run",,,6
+415,109,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, FOUR runs ",2nd innings,18.1,four,53,4,53/6,"Scholtz to Suraj Kumar, FOUR runs",,,6
+416,110,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,18.2,no run,53,0,53/6,"Scholtz to Suraj Kumar, no run",,,6
+417,111,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,18.3,no run,53,0,53/6,"Scholtz to Suraj Kumar, no run",,,6
+418,112,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, 1 run ",2nd innings,18.4,run,54,1,54/6,"Scholtz to Suraj Kumar, 1 run",,,6
+419,113,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,18.5,no run,54,0,54/6,"Scholtz to Khurram Nawaz, no run",,,6
+420,114,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, 1 run ",2nd innings,19.0,run,55,1,55/6,"Scholtz to Khurram Nawaz, 1 run",,,6
+421,115,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, no run ",2nd innings,19.1,no run,55,0,55/6,"Ya France to Khurram Nawaz, no run",,,6
+422,116,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, 1 run ",2nd innings,19.2,run,56,1,56/6,"Ya France to Khurram Nawaz, 1 run",,,6
+423,117,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, 1 run ",2nd innings,19.3,run,57,1,57/6,"Ya France to Suraj Kumar, 1 run",,,6
+424,118,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, FOUR runs ",2nd innings,19.4,four,61,4,61/6,"Ya France to Khurram Nawaz, FOUR runs",,,6
+425,119,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, no run ",2nd innings,19.5,no run,61,0,61/6,"Ya France to Khurram Nawaz, no run",,,6
+426,120,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, no run ",2nd innings,20.0,no run,61,0,61/6,"Ya France to Khurram Nawaz, no run",,,6
+427,121,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,20.1,no run,61,0,61/6,"Scholtz to Suraj Kumar, no run",,,6
+428,122,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,20.2,no run,61,0,61/6,"Scholtz to Suraj Kumar, no run",,,6
+429,123,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,20.3,no run,61,0,61/6,"Scholtz to Suraj Kumar, no run",,,6
+430,124,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,20.4,no run,61,0,61/6,"Scholtz to Suraj Kumar, no run",,,6
+431,125,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, 1 run ",2nd innings,20.5,run,62,1,62/6,"Scholtz to Suraj Kumar, 1 run",,,6
+432,126,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,21.0,no run,62,0,62/6,"Scholtz to Khurram Nawaz, no run",,,6
+433,127,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, no run ",2nd innings,21.1,no run,62,0,62/6,"Ya France to Suraj Kumar, no run",,,6
+434,128,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, 2 runs ",2nd innings,21.2,run,64,2,64/6,"Ya France to Suraj Kumar, 2 runs",,,6
+435,129,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, 2 runs ",2nd innings,21.3,run,66,2,66/6,"Ya France to Suraj Kumar, 2 runs",,,6
+436,130,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, 1 run ",2nd innings,21.4,run,67,1,67/6,"Ya France to Suraj Kumar, 1 run",,,6
+437,131,Khurram Nawaz,1077309,Pikky Ya France,308410,"Ya France to Khurram Nawaz, 1 run ",2nd innings,21.5,run,68,1,68/6,"Ya France to Khurram Nawaz, 1 run",,,6
+438,132,Suraj Kumar,1156690,Pikky Ya France,308410,"Ya France to Suraj Kumar, 1 run ",2nd innings,22.0,run,69,1,69/6,"Ya France to Suraj Kumar, 1 run",,,6
+439,133,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, 2 runs ",2nd innings,22.1,run,71,2,71/6,"Scholtz to Suraj Kumar, 2 runs",,,6
+440,134,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, 1 run ",2nd innings,22.2,run,72,1,72/6,"Scholtz to Suraj Kumar, 1 run",,,6
+441,135,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,22.3,no run,72,0,72/6,"Scholtz to Khurram Nawaz, no run",,,6
+442,136,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, 2 runs ",2nd innings,22.4,run,74,2,74/6,"Scholtz to Khurram Nawaz, 2 runs",,,6
+443,137,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,22.5,no run,74,0,74/6,"Scholtz to Khurram Nawaz, no run",,,6
+444,138,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,23.0,no run,74,0,74/6,"Scholtz to Khurram Nawaz, no run",,,6
+445,139,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,23.1,no run,74,0,74/6,"Frylinck to Suraj Kumar, no run",,,6
+446,140,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,23.2,no run,74,0,74/6,"Frylinck to Suraj Kumar, no run",,,6
+447,141,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, 1 run ",2nd innings,23.3,run,75,1,75/6,"Frylinck to Suraj Kumar, 1 run",,,6
+448,142,Khurram Nawaz,1077309,Jan Frylinck,482478,"Frylinck to Khurram Nawaz, no run ",2nd innings,23.4,no run,75,0,75/6,"Frylinck to Khurram Nawaz, no run",,,6
+449,143,Khurram Nawaz,1077309,Jan Frylinck,482478,"Frylinck to Khurram Nawaz, no run ",2nd innings,23.5,no run,75,0,75/6,"Frylinck to Khurram Nawaz, no run",,,6
+450,144,Khurram Nawaz,1077309,Jan Frylinck,482478,"Frylinck to Khurram Nawaz, 1 run ",2nd innings,24.0,run,76,1,76/6,"Frylinck to Khurram Nawaz, 1 run",,,6
+451,145,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,24.1,no run,76,0,76/6,"Scholtz to Khurram Nawaz, no run",,,6
+452,146,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,24.2,no run,76,0,76/6,"Scholtz to Khurram Nawaz, no run",,,6
+453,147,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,24.3,no run,76,0,76/6,"Scholtz to Khurram Nawaz, no run",,,6
+454,148,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,24.4,no run,76,0,76/6,"Scholtz to Khurram Nawaz, no run",,,6
+455,149,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, 1 run ",2nd innings,24.5,run,77,1,77/6,"Scholtz to Khurram Nawaz, 1 run",,,6
+456,150,Suraj Kumar,1156690,Bernard Scholtz,330223,"Scholtz to Suraj Kumar, no run ",2nd innings,25.0,no run,77,0,77/6,"Scholtz to Suraj Kumar, no run",,,6
+457,151,Khurram Nawaz,1077309,Jan Frylinck,482478,"Frylinck to Khurram Nawaz, no run ",2nd innings,25.1,no run,77,0,77/6,"Frylinck to Khurram Nawaz, no run",,,6
+458,152,Khurram Nawaz,1077309,Jan Frylinck,482478,"Frylinck to Khurram Nawaz, 1 run ",2nd innings,25.2,run,78,1,78/6,"Frylinck to Khurram Nawaz, 1 run",,,6
+459,153,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,25.3,no run,78,0,78/6,"Frylinck to Suraj Kumar, no run",,,6
+460,154,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, no run ",2nd innings,25.4,no run,78,0,78/6,"Frylinck to Suraj Kumar, no run",,,6
+461,155,Suraj Kumar,1156690,Jan Frylinck,482478,"Frylinck to Suraj Kumar, OUT ",2nd innings,25.5,out,78,0,78/7,"Frylinck to Suraj Kumar, OUT",,,7
+462,156,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,26.0,no run,78,0,78/7,"Frylinck to Fayyaz Butt, no run",,,7
+463,157,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, 1 run ",2nd innings,26.1,run,79,1,79/7,"Scholtz to Khurram Nawaz, 1 run",,,7
+464,158,Fayyaz Butt,436749,Bernard Scholtz,330223,"Scholtz to Fayyaz Butt, no run ",2nd innings,26.2,no run,79,0,79/7,"Scholtz to Fayyaz Butt, no run",,,7
+465,159,Fayyaz Butt,436749,Bernard Scholtz,330223,"Scholtz to Fayyaz Butt, 1 run ",2nd innings,26.3,run,80,1,80/7,"Scholtz to Fayyaz Butt, 1 run",,,7
+466,160,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,26.4,no run,80,0,80/7,"Scholtz to Khurram Nawaz, no run",,,7
+467,161,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,26.5,no run,80,0,80/7,"Scholtz to Khurram Nawaz, no run",,,7
+468,162,Khurram Nawaz,1077309,Bernard Scholtz,330223,"Scholtz to Khurram Nawaz, no run ",2nd innings,27.0,no run,80,0,80/7,"Scholtz to Khurram Nawaz, no run",,,7
+469,163,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,27.1,no run,80,0,80/7,"Frylinck to Fayyaz Butt, no run",,,7
+470,164,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,27.2,no run,80,0,80/7,"Frylinck to Fayyaz Butt, no run",,,7
+471,165,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,27.3,no run,80,0,80/7,"Frylinck to Fayyaz Butt, no run",,,7
+472,166,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,27.4,no run,80,0,80/7,"Frylinck to Fayyaz Butt, no run",,,7
+473,167,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, no run ",2nd innings,27.5,no run,80,0,80/7,"Frylinck to Fayyaz Butt, no run",,,7
+474,168,Fayyaz Butt,436749,Jan Frylinck,482478,"Frylinck to Fayyaz Butt, OUT ",2nd innings,28.0,out,80,0,80/8,"Frylinck to Fayyaz Butt, OUT",,,8
+475,169,Khurram Nawaz,1077309,JJ Smit,553821,"Smit to Khurram Nawaz, 1 run ",2nd innings,28.1,run,81,1,81/8,"Smit to Khurram Nawaz, 1 run",,,8
+476,170,Kaleemullah,1077307,JJ Smit,553821,"Smit to Kaleemullah, no run ",2nd innings,28.2,no run,81,0,81/8,"Smit to Kaleemullah, no run",,,8
+477,171,Kaleemullah,1077307,JJ Smit,553821,"Smit to Kaleemullah, OUT ",2nd innings,28.3,out,81,0,81/9,"Smit to Kaleemullah, OUT",,,9
+478,172,Bilal Khan,937953,JJ Smit,553821,"Smit to Bilal Khan, no run ",2nd innings,28.4,no run,81,0,81/9,"Smit to Bilal Khan, no run",,,9
+479,173,Bilal Khan,937953,JJ Smit,553821,"Smit to Bilal Khan, no run ",2nd innings,28.5,no run,81,0,81/9,"Smit to Bilal Khan, no run",,,9
+480,174,Bilal Khan,937953,JJ Smit,553821,"Smit to Bilal Khan, OUT ",2nd innings,29.0,out,81,0,81/10,"Smit to Bilal Khan, OUT",,,10

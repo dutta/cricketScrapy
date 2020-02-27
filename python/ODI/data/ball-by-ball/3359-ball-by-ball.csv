@@ -1,0 +1,620 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,0,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, 1 wide ",1st innings,0.0,wide,1,1,1/0,"Mudassar Bukhari to Amla, 1 wide",,,0
+1,1,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, no run ",1st innings,0.1,no run,1,0,1/0,"Mudassar Bukhari to Amla, no run",,,0
+2,2,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, FOUR runs ",1st innings,0.2,four,5,4,5/0,"Mudassar Bukhari to Amla, FOUR runs",,,0
+3,3,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, 1 run ",1st innings,0.3,run,6,1,6/0,"Mudassar Bukhari to Amla, 1 run",,,0
+4,4,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, no run ",1st innings,0.4,no run,6,0,6/0,"Mudassar Bukhari to Petersen, no run",,,0
+5,5,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, no run ",1st innings,0.5,no run,6,0,6/0,"Mudassar Bukhari to Petersen, no run",,,0
+6,6,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, FOUR runs ",1st innings,1.0,four,10,4,10/0,"Mudassar Bukhari to Petersen, FOUR runs",,,0
+7,7,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run pushed away on the off side",1st innings,1.1,no run,10,0,10/0,"van Meekeren to Amla, no run",,pushed away on the off side,0
+8,8,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run worked away square on the on side",1st innings,1.2,no run,10,0,10/0,"van Meekeren to Amla, no run",,worked away square on the on side,0
+9,9,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 1 run better delivery, played awkwardly and the ball rolls away on the off side for a single",1st innings,1.3,run,11,1,11/0,"van Meekeren to Amla, 1 run",,"better delivery, played awkwardly and the ball rolls away on the off side for a single",0
+10,10,Alviro Petersen,46934,Paul van Meekeren,348109,"van Meekeren to Petersen, 1 run ",1st innings,1.4,run,12,1,12/0,"van Meekeren to Petersen, 1 run",,,0
+11,11,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 1 run ",1st innings,1.5,run,13,1,13/0,"van Meekeren to Amla, 1 run",,,0
+12,12,Alviro Petersen,46934,Paul van Meekeren,348109,"van Meekeren to Petersen, 1 run ",1st innings,2.0,run,14,1,14/0,"van Meekeren to Petersen, 1 run",,,0
+13,13,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, no run ",1st innings,2.1,no run,14,0,14/0,"Mudassar Bukhari to Petersen, no run",,,0
+14,14,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, no run ",1st innings,2.2,no run,14,0,14/0,"Mudassar Bukhari to Petersen, no run",,,0
+15,15,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, no run ",1st innings,2.3,no run,14,0,14/0,"Mudassar Bukhari to Petersen, no run",,,0
+16,16,Alviro Petersen,46934,Mudassar Bukhari,245166,"Mudassar Bukhari to Petersen, OUT edged to Borren in the slips who takes it knee high and wide. Great take. Netherlands strike early",1st innings,2.4,out,14,0,14/1,"Mudassar Bukhari to Petersen, OUT",,edged to Borren in the slips who takes it knee high and wide. Great take. Netherlands strike early,1
+17,17,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,2.5,no run,14,0,14/1,"Mudassar Bukhari to Ingram, no run",,,1
+18,18,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,3.0,no run,14,0,14/1,"Mudassar Bukhari to Ingram, no run",,,1
+19,19,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run ",1st innings,3.1,no run,14,0,14/1,"van Meekeren to Amla, no run",,,1
+20,20,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run ",1st innings,3.2,no run,14,0,14/1,"van Meekeren to Amla, no run",,,1
+21,21,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run ",1st innings,3.3,no run,14,0,14/1,"van Meekeren to Amla, no run",,,1
+22,22,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run ",1st innings,3.4,no run,14,0,14/1,"van Meekeren to Amla, no run",,,1
+23,23,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 1 leg bye ",1st innings,3.5,leg bye,15,1,15/1,"van Meekeren to Amla, 1 leg bye",,,1
+24,23,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 wide ",1st innings,3.5,wide,16,1,16/1,"van Meekeren to Ingram, 1 wide",,,1
+25,24,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,4.0,no run,16,0,16/1,"van Meekeren to Ingram, no run",,,1
+26,25,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, 2 runs ",1st innings,4.1,run,18,2,18/1,"Mudassar Bukhari to Amla, 2 runs",,,1
+27,26,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, no run ",1st innings,4.2,no run,18,0,18/1,"Mudassar Bukhari to Amla, no run",,,1
+28,27,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, no run ",1st innings,4.3,no run,18,0,18/1,"Mudassar Bukhari to Amla, no run",,,1
+29,28,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, 1 run ",1st innings,4.4,run,19,1,19/1,"Mudassar Bukhari to Amla, 1 run",,,1
+30,28,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 wide ",1st innings,4.4,wide,20,1,20/1,"Mudassar Bukhari to Ingram, 1 wide",,,1
+31,29,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,4.5,no run,20,0,20/1,"Mudassar Bukhari to Ingram, no run",,,1
+32,30,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,5.0,no run,20,0,20/1,"Mudassar Bukhari to Ingram, no run",,,1
+33,31,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 2 runs ",1st innings,5.1,run,22,2,22/1,"van Meekeren to Amla, 2 runs",,,1
+34,32,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, FOUR runs ",1st innings,5.2,four,26,4,26/1,"van Meekeren to Amla, FOUR runs",,,1
+35,33,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, no run ",1st innings,5.3,no run,26,0,26/1,"van Meekeren to Amla, no run",,,1
+36,34,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 1 run ",1st innings,5.4,run,27,1,27/1,"van Meekeren to Amla, 1 run",,,1
+37,35,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,5.5,no run,27,0,27/1,"van Meekeren to Ingram, no run",,,1
+38,36,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 run ",1st innings,6.0,run,28,1,28/1,"van Meekeren to Ingram, 1 run",,,1
+39,37,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,6.1,no run,28,0,28/1,"Mudassar Bukhari to Ingram, no run",,,1
+40,38,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,6.2,no run,28,0,28/1,"Mudassar Bukhari to Ingram, no run",,,1
+41,39,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 run ",1st innings,6.3,run,29,1,29/1,"Mudassar Bukhari to Ingram, 1 run",,,1
+42,40,Hashim Amla,43906,Mudassar Bukhari,245166,"Mudassar Bukhari to Amla, 1 run ",1st innings,6.4,run,30,1,30/1,"Mudassar Bukhari to Amla, 1 run",,,1
+43,41,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,6.5,no run,30,0,30/1,"Mudassar Bukhari to Ingram, no run",,,1
+44,42,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 run ",1st innings,7.0,run,31,1,31/1,"Mudassar Bukhari to Ingram, 1 run",,,1
+45,43,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,7.1,no run,31,0,31/1,"van Meekeren to Ingram, no run",,,1
+46,44,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,7.2,no run,31,0,31/1,"van Meekeren to Ingram, no run",,,1
+47,45,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, FOUR runs straight driven back past van Meekeren",1st innings,7.3,four,35,4,35/1,"van Meekeren to Ingram, FOUR runs",,straight driven back past van Meekeren,1
+48,46,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 run ",1st innings,7.4,run,36,1,36/1,"van Meekeren to Ingram, 1 run",,,1
+49,47,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, 2 runs ",1st innings,7.5,run,38,2,38/1,"van Meekeren to Amla, 2 runs",,,1
+50,48,Hashim Amla,43906,Paul van Meekeren,348109,"van Meekeren to Amla, OUT shapes one away to take the outside edge and gone",1st innings,8.0,out,38,0,38/2,"van Meekeren to Amla, OUT",,shapes one away to take the outside edge and gone,2
+51,49,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run beaten outside off.",1st innings,8.1,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,beaten outside off.,2
+52,50,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run driven back past the diving Bukhari.",1st innings,8.2,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,driven back past the diving Bukhari.,2
+53,51,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run cut hard, well stopped by Cooper at point.",1st innings,8.3,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,"cut hard, well stopped by Cooper at point.",2
+54,52,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run blocked to cover.",1st innings,8.4,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,blocked to cover.,2
+55,53,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run blocked to mid-on.",1st innings,8.5,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,blocked to mid-on.,2
+56,54,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run ",1st innings,9.0,no run,38,0,38/2,"Mudassar Bukhari to Ingram, no run",,,2
+57,55,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 2 runs ",1st innings,9.1,run,40,2,40/2,"Ahsan Malik to Duminy, 2 runs",,,2
+58,56,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,9.2,no run,40,0,40/2,"Ahsan Malik to Duminy, no run",,,2
+59,57,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,9.3,no run,40,0,40/2,"Ahsan Malik to Duminy, no run",,,2
+60,58,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,9.4,no run,40,0,40/2,"Ahsan Malik to Duminy, no run",,,2
+61,59,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,9.5,no run,40,0,40/2,"Ahsan Malik to Duminy, no run",,,2
+62,60,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,10.0,run,41,1,41/2,"Ahsan Malik to Duminy, 1 run",,,2
+63,61,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, no run ",1st innings,10.1,no run,41,0,41/2,"Mudassar Bukhari to Duminy, no run",,,2
+64,62,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 3 runs ",1st innings,10.2,run,44,3,44/2,"Mudassar Bukhari to Duminy, 3 runs",,,2
+65,63,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 run ",1st innings,10.3,run,45,1,45/2,"Mudassar Bukhari to Ingram, 1 run",,,2
+66,64,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, no run ",1st innings,10.4,no run,45,0,45/2,"Mudassar Bukhari to Duminy, no run",,,2
+67,65,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, no run ",1st innings,10.5,no run,45,0,45/2,"Mudassar Bukhari to Duminy, no run",,,2
+68,66,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 3 runs ",1st innings,11.0,run,48,3,48/2,"Mudassar Bukhari to Duminy, 3 runs",,,2
+69,67,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,11.1,run,49,1,49/2,"Ahsan Malik to Duminy, 1 run",,,2
+70,67,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 wide ",1st innings,11.1,wide,50,1,50/2,"Ahsan Malik to Ingram, 1 wide",,,2
+71,68,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,11.2,no run,50,0,50/2,"Ahsan Malik to Ingram, no run",,,2
+72,69,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,11.3,no run,50,0,50/2,"Ahsan Malik to Ingram, no run",,,2
+73,70,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,11.4,no run,50,0,50/2,"Ahsan Malik to Ingram, no run",,,2
+74,71,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run ",1st innings,11.5,run,51,1,51/2,"Ahsan Malik to Ingram, 1 run",,,2
+75,72,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,12.0,run,52,1,52/2,"Ahsan Malik to Duminy, 1 run",,,2
+76,73,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, 2 runs ",1st innings,12.1,run,54,2,54/2,"van Meekeren to Duminy, 2 runs",,,2
+77,74,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, no run ",1st innings,12.2,no run,54,0,54/2,"van Meekeren to Duminy, no run",,,2
+78,75,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, 1 leg bye ",1st innings,12.3,leg bye,55,1,55/2,"van Meekeren to Duminy, 1 leg bye",,,2
+79,76,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, FOUR runs played through covers.",1st innings,12.4,four,59,4,59/2,"van Meekeren to Ingram, FOUR runs",,played through covers.,2
+80,77,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,12.5,no run,59,0,59/2,"van Meekeren to Ingram, no run",,,2
+81,78,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 run ",1st innings,13.0,run,60,1,60/2,"van Meekeren to Ingram, 1 run",,,2
+82,79,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run ",1st innings,13.1,run,61,1,61/2,"Ahsan Malik to Ingram, 1 run",,,2
+83,80,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,13.2,no run,61,0,61/2,"Ahsan Malik to Duminy, no run",,,2
+84,81,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run run down to third man for a single",1st innings,13.3,run,62,1,62/2,"Ahsan Malik to Duminy, 1 run",,run down to third man for a single,2
+85,82,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, FOUR runs driven hard off the back foot past Jamil.",1st innings,13.4,four,66,4,66/2,"Ahsan Malik to Ingram, FOUR runs",,driven hard off the back foot past Jamil.,2
+86,83,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run tapped to point for one",1st innings,13.5,run,67,1,67/2,"Ahsan Malik to Ingram, 1 run",,tapped to point for one,2
+87,84,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,14.0,no run,67,0,67/2,"Ahsan Malik to Duminy, no run",,,2
+88,85,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, no run ",1st innings,14.1,no run,67,0,67/2,"van Meekeren to Ingram, no run",,,2
+89,86,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 run ",1st innings,14.2,run,68,1,68/2,"van Meekeren to Ingram, 1 run",,,2
+90,87,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, no run ",1st innings,14.3,no run,68,0,68/2,"van Meekeren to Duminy, no run",,,2
+91,88,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, no run ",1st innings,14.4,no run,68,0,68/2,"van Meekeren to Duminy, no run",,,2
+92,89,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, 1 run ",1st innings,14.5,run,69,1,69/2,"van Meekeren to Duminy, 1 run",,,2
+93,90,Colin Ingram,45705,Paul van Meekeren,348109,"van Meekeren to Ingram, 1 run ",1st innings,15.0,run,70,1,70/2,"van Meekeren to Ingram, 1 run",,,2
+94,91,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,15.1,no run,70,0,70/2,"Cooper to Ingram, no run",,,2
+95,92,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,15.2,no run,70,0,70/2,"Cooper to Ingram, no run",,,2
+96,93,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run driven down to long off.",1st innings,15.3,run,71,1,71/2,"Cooper to Ingram, 1 run",,driven down to long off.,2
+97,94,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run played down to long on.",1st innings,15.4,run,72,1,72/2,"Cooper to Duminy, 1 run",,played down to long on.,2
+98,95,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run driven to the sweeper cover.",1st innings,15.5,run,73,1,73/2,"Cooper to Ingram, 1 run",,driven to the sweeper cover.,2
+99,96,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,16.0,no run,73,0,73/2,"Cooper to Duminy, no run",,,2
+100,97,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run Dropped! driven uppishly into the covers, but Jamil makes a hash of it",1st innings,16.1,no run,73,0,73/2,"Borren to Ingram, no run",,"Dropped! driven uppishly into the covers, but Jamil makes a hash of it",2
+101,98,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,16.2,no run,73,0,73/2,"Borren to Ingram, no run",,,2
+102,99,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 1 run ",1st innings,16.3,run,74,1,74/2,"Borren to Ingram, 1 run",,,2
+103,100,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run ",1st innings,16.4,run,75,1,75/2,"Borren to Duminy, 1 run",,,2
+104,101,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,16.5,no run,75,0,75/2,"Borren to Ingram, no run",,,2
+105,102,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,17.0,no run,75,0,75/2,"Borren to Ingram, no run",,,2
+106,103,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,17.1,no run,75,0,75/2,"Cooper to Duminy, no run",,,2
+107,104,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,17.2,no run,75,0,75/2,"Cooper to Duminy, no run",,,2
+108,105,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run cut in front of square for one.",1st innings,17.3,run,76,1,76/2,"Cooper to Duminy, 1 run",,cut in front of square for one.,2
+109,106,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,17.4,no run,76,0,76/2,"Cooper to Ingram, no run",,,2
+110,107,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run whipped away to long on for one.",1st innings,17.5,run,77,1,77/2,"Cooper to Ingram, 1 run",,whipped away to long on for one.,2
+111,108,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run punched into the off side for another.",1st innings,18.0,run,78,1,78/2,"Cooper to Duminy, 1 run",,punched into the off side for another.,2
+112,109,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run driven to the sweeper cover.",1st innings,18.1,run,79,1,79/2,"Borren to Duminy, 1 run",,driven to the sweeper cover.,2
+113,110,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,18.2,no run,79,0,79/2,"Borren to Ingram, no run",,,2
+114,111,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,18.3,no run,79,0,79/2,"Borren to Ingram, no run",,,2
+115,112,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 1 run worked behind square leg.",1st innings,18.4,run,80,1,80/2,"Borren to Ingram, 1 run",,worked behind square leg.,2
+116,113,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,18.5,no run,80,0,80/2,"Borren to Duminy, no run",,,2
+117,114,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,19.0,no run,80,0,80/2,"Borren to Duminy, no run",,,2
+118,115,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,19.1,no run,80,0,80/2,"Cooper to Ingram, no run",,,2
+119,116,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run down to long off.",1st innings,19.2,run,81,1,81/2,"Cooper to Ingram, 1 run",,down to long off.,2
+120,117,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run played to the onside.",1st innings,19.3,run,82,1,82/2,"Cooper to Duminy, 1 run",,played to the onside.,2
+121,118,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 2 runs cuts it down past point for a single.",1st innings,19.4,run,84,2,84/2,"Cooper to Ingram, 2 runs",,cuts it down past point for a single.,2
+122,119,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,19.5,no run,84,0,84/2,"Cooper to Ingram, no run",,,2
+123,120,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,20.0,no run,84,0,84/2,"Cooper to Ingram, no run",,,2
+124,121,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run goes off the edge down to fine leg.",1st innings,20.1,run,85,1,85/2,"Borren to Duminy, 1 run",,goes off the edge down to fine leg.,2
+125,122,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,20.2,no run,85,0,85/2,"Borren to Ingram, no run",,,2
+126,123,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,20.3,no run,85,0,85/2,"Borren to Ingram, no run",,,2
+127,124,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,20.4,no run,85,0,85/2,"Borren to Ingram, no run",,,2
+128,125,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,20.5,no run,85,0,85/2,"Borren to Ingram, no run",,,2
+129,126,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 2 runs played down to third man.",1st innings,21.0,run,88,2,88/2,"Borren to Ingram, 2 runs",,played down to third man.,2
+130,127,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run cut to the sweeper cover.",1st innings,21.1,run,89,1,89/2,"Cooper to Duminy, 1 run",,cut to the sweeper cover.,2
+131,128,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run ",1st innings,21.2,run,90,1,90/2,"Cooper to Ingram, 1 run",,,2
+132,128,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 wide ",1st innings,21.2,wide,91,1,91/2,"Cooper to Duminy, 1 wide",,,2
+133,129,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run plays to cover.",1st innings,21.3,run,92,1,92/2,"Cooper to Duminy, 1 run",,plays to cover.,2
+134,130,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,21.4,no run,92,0,92/2,"Cooper to Ingram, no run",,,2
+135,131,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, SIX runs big heave over cow corner crashes into the hoardings.",1st innings,21.5,six,98,6,98/2,"Cooper to Ingram, SIX runs",,big heave over cow corner crashes into the hoardings.,2
+136,132,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,22.0,no run,98,0,98/2,"Cooper to Ingram, no run",,,2
+137,133,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run down to long on.",1st innings,22.1,run,99,1,99/2,"Seelaar to Duminy, 1 run",,down to long on.,2
+138,134,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run ",1st innings,22.2,run,100,1,100/2,"Seelaar to Ingram, 1 run",,,2
+139,135,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,22.3,no run,100,0,100/2,"Seelaar to Duminy, no run",,,2
+140,136,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run down to long on.",1st innings,22.4,run,101,1,101/2,"Seelaar to Duminy, 1 run",,down to long on.,2
+141,137,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run ",1st innings,22.5,run,102,1,102/2,"Seelaar to Ingram, 1 run",,,2
+142,138,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,23.0,run,103,1,103/2,"Seelaar to Duminy, 1 run",,,2
+143,139,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,23.1,no run,103,0,103/2,"Ahsan Malik to Duminy, no run",,,2
+144,140,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,23.2,no run,103,0,103/2,"Ahsan Malik to Duminy, no run",,,2
+145,141,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run pulled to deep square leg.",1st innings,23.3,run,104,1,104/2,"Ahsan Malik to Duminy, 1 run",,pulled to deep square leg.,2
+146,141,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 wide ",1st innings,23.3,wide,105,1,105/2,"Ahsan Malik to Ingram, 1 wide",,,2
+147,142,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,23.4,no run,105,0,105/2,"Ahsan Malik to Ingram, no run",,,2
+148,143,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,23.5,no run,105,0,105/2,"Ahsan Malik to Ingram, no run",,,2
+149,144,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 2 runs plays wide of the cover fielder.",1st innings,24.0,run,107,2,107/2,"Ahsan Malik to Ingram, 2 runs",,plays wide of the cover fielder.,2
+150,145,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,24.1,run,108,1,108/2,"Seelaar to Duminy, 1 run",,,2
+151,146,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run ",1st innings,24.2,run,109,1,109/2,"Seelaar to Ingram, 1 run",,,2
+152,147,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,24.3,no run,109,0,109/2,"Seelaar to Duminy, no run",,,2
+153,148,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,24.4,run,110,1,110/2,"Seelaar to Duminy, 1 run",,,2
+154,149,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run ",1st innings,24.5,run,111,1,111/2,"Seelaar to Ingram, 1 run",,,2
+155,150,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,25.0,run,112,1,112/2,"Seelaar to Duminy, 1 run",,,2
+156,151,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,25.1,run,113,1,113/2,"Ahsan Malik to Duminy, 1 run",,,2
+157,152,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,25.2,no run,113,0,113/2,"Ahsan Malik to Ingram, no run",,,2
+158,153,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run ",1st innings,25.3,run,114,1,114/2,"Ahsan Malik to Ingram, 1 run",,,2
+159,154,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,25.4,no run,114,0,114/2,"Ahsan Malik to Duminy, no run",,,2
+160,155,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,25.5,run,115,1,115/2,"Ahsan Malik to Duminy, 1 run",,,2
+161,156,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run ",1st innings,26.0,run,115,1,115/2,"Ahsan Malik to Ingram, 1 run",,,2
+162,157,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run ",1st innings,26.1,run,116,1,116/2,"Seelaar to Ingram, 1 run",,,2
+163,158,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run pulled around behind square leg.",1st innings,26.2,run,117,1,117/2,"Seelaar to Duminy, 1 run",,pulled around behind square leg.,2
+164,159,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, no run ",1st innings,26.3,no run,117,0,117/2,"Seelaar to Ingram, no run",,,2
+165,160,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run brings up his fifty.",1st innings,26.4,run,118,1,118/2,"Seelaar to Ingram, 1 run",,brings up his fifty.,2
+166,161,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,26.5,no run,118,0,118/2,"Seelaar to Duminy, no run",,,2
+167,162,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,27.0,no run,118,0,118/2,"Seelaar to Duminy, no run",,,2
+168,163,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 1 run ",1st innings,27.1,run,119,1,119/2,"Borren to Ingram, 1 run",,,2
+169,164,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run ",1st innings,27.2,run,120,1,120/2,"Borren to Duminy, 1 run",,,2
+170,165,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 2 runs cut behind point.",1st innings,27.3,run,122,2,122/2,"Borren to Ingram, 2 runs",,cut behind point.,2
+171,166,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 2 runs ",1st innings,27.4,run,124,2,124/2,"Borren to Ingram, 2 runs",,,2
+172,167,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,27.5,no run,124,0,124/2,"Borren to Ingram, no run",,,2
+173,168,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, no run ",1st innings,28.0,no run,124,0,124/2,"Borren to Ingram, no run",,,2
+174,169,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run ",1st innings,28.1,run,125,1,125/2,"Cooper to Duminy, 1 run",,,2
+175,170,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run played through covers.",1st innings,28.2,run,126,1,126/2,"Cooper to Ingram, 1 run",,played through covers.,2
+176,171,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,28.3,no run,126,0,126/2,"Cooper to Duminy, no run",,,2
+177,172,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run ",1st innings,28.4,run,127,1,127/2,"Cooper to Duminy, 1 run",,,2
+178,173,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,28.5,no run,127,0,127/2,"Cooper to Ingram, no run",,,2
+179,174,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,29.0,no run,127,0,127/2,"Cooper to Ingram, no run",,,2
+180,175,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 2 runs ",1st innings,29.1,run,129,2,129/2,"Borren to Duminy, 2 runs",,,2
+181,176,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, FOUR runs steers it well to third man fence",1st innings,29.2,four,133,4,133/2,"Borren to Duminy, FOUR runs",,steers it well to third man fence,2
+182,177,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, FOUR runs hit to the midwicket fence.",1st innings,29.3,four,137,4,137/2,"Borren to Duminy, FOUR runs",,hit to the midwicket fence.,2
+183,178,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,29.4,no run,137,0,137/2,"Borren to Duminy, no run",,,2
+184,179,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,29.5,no run,137,0,137/2,"Borren to Duminy, no run",,,2
+185,180,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run brings up the 100 runs partnership.",1st innings,30.0,run,138,1,138/2,"Borren to Duminy, 1 run",,brings up the 100 runs partnership.,2
+186,181,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run punched through covers.",1st innings,30.1,run,139,1,139/2,"Cooper to Duminy, 1 run",,punched through covers.,2
+187,182,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 2 runs driven through mid-on for two.",1st innings,30.2,run,141,2,141/2,"Cooper to Ingram, 2 runs",,driven through mid-on for two.,2
+188,183,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,30.3,no run,141,0,141/2,"Cooper to Ingram, no run",,,2
+189,184,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, 1 run ",1st innings,30.4,run,142,1,142/2,"Cooper to Ingram, 1 run",,,2
+190,185,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run brings up the 50 for Duminy.",1st innings,30.5,run,143,1,143/2,"Cooper to Duminy, 1 run",,brings up the 50 for Duminy.,2
+191,186,Colin Ingram,45705,Tom Cooper,219885,"Cooper to Ingram, no run ",1st innings,31.0,no run,143,0,143/2,"Cooper to Ingram, no run",,,2
+192,187,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,31.1,no run,143,0,143/2,"Borren to Duminy, no run",,,2
+193,188,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,31.2,no run,143,0,143/2,"Borren to Duminy, no run",,,2
+194,189,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run ",1st innings,31.3,run,144,1,144/2,"Borren to Duminy, 1 run",,,2
+195,190,Colin Ingram,45705,Peter Borren,36592,"Borren to Ingram, 1 run ",1st innings,31.4,run,145,1,145/2,"Borren to Ingram, 1 run",,,2
+196,191,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, no run ",1st innings,31.5,no run,145,0,145/2,"Borren to Duminy, no run",,,2
+197,192,Jean-Paul Duminy,44932,Peter Borren,36592,"Borren to Duminy, 1 run ",1st innings,32.0,run,146,1,146/2,"Borren to Duminy, 1 run",,,2
+198,193,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, FOUR runs beautifully swept to the backward square leg fence.",1st innings,32.1,four,150,4,150/2,"Seelaar to Duminy, FOUR runs",,beautifully swept to the backward square leg fence.,2
+199,194,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,32.2,run,151,1,151/2,"Seelaar to Duminy, 1 run",,,2
+200,195,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, no run ",1st innings,32.3,no run,151,0,151/2,"Seelaar to Ingram, no run",,,2
+201,196,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run turned square of his pads for a single.",1st innings,32.4,run,152,1,152/2,"Seelaar to Ingram, 1 run",,turned square of his pads for a single.,2
+202,197,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run punched down the ground to long on.",1st innings,32.5,run,153,1,153/2,"Seelaar to Duminy, 1 run",,punched down the ground to long on.,2
+203,198,Colin Ingram,45705,Pieter Seelaar,208657,"Seelaar to Ingram, 1 run dances down the pitch and punches it back past the bowler.",1st innings,33.0,run,154,1,154/2,"Seelaar to Ingram, 1 run",,dances down the pitch and punches it back past the bowler.,2
+204,199,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run defended to the off side.",1st innings,33.1,no run,154,0,154/2,"Ahsan Malik to Ingram, no run",,defended to the off side.,2
+205,200,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, FOUR runs stands tall and drives hard through extra cover to the fence.",1st innings,33.2,four,158,4,158/2,"Ahsan Malik to Ingram, FOUR runs",,stands tall and drives hard through extra cover to the fence.,2
+206,201,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run blocked into the covers.",1st innings,33.3,no run,158,0,158/2,"Ahsan Malik to Ingram, no run",,blocked into the covers.,2
+207,202,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run clipped to midwicket for a single.",1st innings,33.4,run,159,1,159/2,"Ahsan Malik to Ingram, 1 run",,clipped to midwicket for a single.,2
+208,203,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run turns it off his hips behind square leg.",1st innings,33.5,run,160,1,160/2,"Ahsan Malik to Duminy, 1 run",,turns it off his hips behind square leg.,2
+209,204,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run driven back to Jamil who gathers it smartly.",1st innings,34.0,no run,160,0,160/2,"Ahsan Malik to Ingram, no run",,driven back to Jamil who gathers it smartly.,2
+210,205,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run flicked behind square leg for a single.",1st innings,34.1,run,161,1,161/2,"Mudassar Bukhari to Duminy, 1 run",,flicked behind square leg for a single.,2
+211,206,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, no run full toss, but only manages to slap it to cover.",1st innings,34.2,no run,161,0,161/2,"Mudassar Bukhari to Ingram, no run",,"full toss, but only manages to slap it to cover.",2
+212,207,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 run slapped off his toes to deep square leg.",1st innings,34.3,run,162,1,162/2,"Mudassar Bukhari to Ingram, 1 run",,slapped off his toes to deep square leg.,2
+213,208,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, no run slower delivery pushed to cover.",1st innings,34.4,no run,162,0,162/2,"Mudassar Bukhari to Duminy, no run",,slower delivery pushed to cover.,2
+214,209,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run punched back past Bukhari.",1st innings,34.5,run,163,1,163/2,"Mudassar Bukhari to Duminy, 1 run",,punched back past Bukhari.,2
+215,210,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, FOUR runs scurries down the wicket and slams it low and hard to the boundary at long off.",1st innings,35.0,four,167,4,167/2,"Mudassar Bukhari to Ingram, FOUR runs",,scurries down the wicket and slams it low and hard to the boundary at long off.,2
+216,211,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,35.1,run,168,1,168/2,"Ahsan Malik to Duminy, 1 run",,,2
+217,212,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, 1 run lifted over extra cover for a single.",1st innings,35.2,run,169,1,169/2,"Ahsan Malik to Ingram, 1 run",,lifted over extra cover for a single.,2
+218,213,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, SIX runs huge heave over cow corner, and it's out of the park.",1st innings,35.3,six,175,6,175/2,"Ahsan Malik to Duminy, SIX runs",,"huge heave over cow corner, and it's out of the park.",2
+219,214,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,35.4,run,176,1,176/2,"Ahsan Malik to Duminy, 1 run",,,2
+220,215,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, FOUR runs driven hard and high over cover for a one bounce four.",1st innings,35.5,four,180,4,180/2,"Ahsan Malik to Ingram, FOUR runs",,driven hard and high over cover for a one bounce four.,2
+221,216,Colin Ingram,45705,Ahsan Malik,518097,"Ahsan Malik to Ingram, no run ",1st innings,36.0,no run,180,0,180/2,"Ahsan Malik to Ingram, no run",,,2
+222,216,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 wide full and wide, Barresi does well to reach it.",1st innings,36.0,wide,181,1,181/2,"Mudassar Bukhari to Duminy, 1 wide",,"full and wide, Barresi does well to reach it.",2
+223,217,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run full toss driven back down the ground.",1st innings,36.1,run,182,1,182/2,"Mudassar Bukhari to Duminy, 1 run",,full toss driven back down the ground.,2
+224,218,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, FOUR runs glanced down to fine leg fence.",1st innings,36.2,four,186,4,186/2,"Mudassar Bukhari to Ingram, FOUR runs",,glanced down to fine leg fence.,2
+225,219,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 run ",1st innings,36.3,run,187,1,187/2,"Mudassar Bukhari to Ingram, 1 run",,,2
+226,220,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run full toss again, turned square to bring up the 150 runs partnership.",1st innings,36.4,run,188,1,188/2,"Mudassar Bukhari to Duminy, 1 run",,"full toss again, turned square to bring up the 150 runs partnership.",2
+227,220,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, 1 wide way down the leg side.",1st innings,36.4,wide,189,1,189/2,"Mudassar Bukhari to Ingram, 1 wide",,way down the leg side.,2
+228,221,Colin Ingram,45705,Mudassar Bukhari,245166,"Mudassar Bukhari to Ingram, OUT low full toss, looks to sweep it but can only loop it to Jamil in the deep.",1st innings,36.5,out,189,0,189/3,"Mudassar Bukhari to Ingram, OUT",,"low full toss, looks to sweep it but can only loop it to Jamil in the deep.",3
+229,222,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, no run ",1st innings,37.0,no run,189,0,189/3,"Mudassar Bukhari to du Plessis, no run",,,3
+230,223,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,37.1,no run,189,0,189/3,"Seelaar to Duminy, no run",,,3
+231,223,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 wide just a shade down the leg side.",1st innings,37.1,wide,190,1,190/3,"Seelaar to Duminy, 1 wide",,just a shade down the leg side.,3
+232,224,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run helped on to the onside.",1st innings,37.2,run,191,1,191/3,"Seelaar to Duminy, 1 run",,helped on to the onside.,3
+233,225,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run pushed out to cover.",1st innings,37.3,no run,191,0,191/3,"Seelaar to du Plessis, no run",,pushed out to cover.,3
+234,226,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run defended back down the pitch.",1st innings,37.4,no run,191,0,191/3,"Seelaar to du Plessis, no run",,defended back down the pitch.,3
+235,227,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run blocked to cover.",1st innings,37.5,no run,191,0,191/3,"Seelaar to du Plessis, no run",,blocked to cover.,3
+236,228,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 1 run driven out to long off.",1st innings,38.0,run,192,1,192/3,"Seelaar to du Plessis, 1 run",,driven out to long off.,3
+237,229,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 1 run turned off his hips for a single.",1st innings,38.1,run,193,1,193/3,"Cooper to du Plessis, 1 run",,turned off his hips for a single.,3
+238,230,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,38.2,no run,193,0,193/3,"Cooper to Duminy, no run",,,3
+239,231,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run worked into the leg side.",1st innings,38.3,run,194,1,194/3,"Cooper to Duminy, 1 run",,worked into the leg side.,3
+240,232,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, no run ",1st innings,38.4,no run,194,0,194/3,"Cooper to du Plessis, no run",,,3
+241,233,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 1 run pushed through extra cover for a single.",1st innings,38.5,run,195,1,195/3,"Cooper to du Plessis, 1 run",,pushed through extra cover for a single.,3
+242,234,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,39.0,no run,195,0,195/3,"Cooper to Duminy, no run",,,3
+243,235,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 1 run driven out to long off.",1st innings,39.1,run,196,1,196/3,"Seelaar to du Plessis, 1 run",,driven out to long off.,3
+244,236,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run and again.",1st innings,39.2,run,197,1,197/3,"Seelaar to Duminy, 1 run",,and again.,3
+245,237,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run ",1st innings,39.3,no run,197,0,197/3,"Seelaar to du Plessis, no run",,,3
+246,238,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run blocked down the track.",1st innings,39.4,no run,197,0,197/3,"Seelaar to du Plessis, no run",,blocked down the track.,3
+247,239,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run watchfully defended again.",1st innings,39.5,no run,197,0,197/3,"Seelaar to du Plessis, no run",,watchfully defended again.,3
+248,240,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, no run ",1st innings,40.0,no run,197,0,197/3,"Seelaar to du Plessis, no run",,,3
+249,241,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run played through the off side.",1st innings,40.1,run,198,1,198/3,"Cooper to Duminy, 1 run",,played through the off side.,3
+250,242,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, no run ",1st innings,40.2,no run,198,0,198/3,"Cooper to du Plessis, no run",,,3
+251,243,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 1 run driven down the ground.",1st innings,40.3,run,199,1,199/3,"Cooper to du Plessis, 1 run",,driven down the ground.,3
+252,244,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,40.4,no run,199,0,199/3,"Cooper to Duminy, no run",,,3
+253,245,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,40.5,no run,199,0,199/3,"Cooper to Duminy, no run",,,3
+254,246,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run works it to square leg.",1st innings,41.0,run,200,1,200/3,"Cooper to Duminy, 1 run",,works it to square leg.,3
+255,247,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,41.1,run,201,1,201/3,"Seelaar to Duminy, 1 run",,,3
+256,248,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 1 run down to long on.",1st innings,41.2,run,202,1,202/3,"Seelaar to du Plessis, 1 run",,down to long on.,3
+257,249,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, no run ",1st innings,41.3,no run,202,0,202/3,"Seelaar to Duminy, no run",,,3
+258,250,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 1 run ",1st innings,41.4,run,203,1,203/3,"Seelaar to Duminy, 1 run",,,3
+259,251,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 1 run ",1st innings,41.5,run,204,1,204/3,"Seelaar to du Plessis, 1 run",,,3
+260,252,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, SIX runs hits it high and over the long on fence.",1st innings,42.0,six,210,6,210/3,"Seelaar to Duminy, SIX runs",,hits it high and over the long on fence.,3
+261,253,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, no run ",1st innings,42.1,no run,210,0,210/3,"Cooper to du Plessis, no run",,,3
+262,254,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 1 run down the ground to long off.",1st innings,42.2,run,211,1,211/3,"Cooper to du Plessis, 1 run",,down the ground to long off.,3
+263,255,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, 1 run down to long on.",1st innings,42.3,run,212,1,212/3,"Cooper to Duminy, 1 run",,down to long on.,3
+264,256,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 2 runs cuts it behind point.",1st innings,42.4,run,214,2,214/3,"Cooper to du Plessis, 2 runs",,cuts it behind point.,3
+265,257,Faf du Plessis,44828,Tom Cooper,219885,"Cooper to du Plessis, 1 run ",1st innings,42.5,run,215,1,215/3,"Cooper to du Plessis, 1 run",,,3
+266,258,Jean-Paul Duminy,44932,Tom Cooper,219885,"Cooper to Duminy, no run ",1st innings,43.0,no run,215,0,215/3,"Cooper to Duminy, no run",,,3
+267,259,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 1 run ",1st innings,43.1,run,216,1,216/3,"Ahsan Malik to du Plessis, 1 run",,,3
+268,260,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 2 runs ",1st innings,43.2,run,218,2,218/3,"Ahsan Malik to du Plessis, 2 runs",,,3
+269,261,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, no run ",1st innings,43.3,no run,218,0,218/3,"Ahsan Malik to du Plessis, no run",,,3
+270,262,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, no run ",1st innings,43.4,no run,218,0,218/3,"Ahsan Malik to du Plessis, no run",,,3
+271,263,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 1 run ",1st innings,43.5,run,219,1,219/3,"Ahsan Malik to du Plessis, 1 run",,,3
+272,264,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 2 runs ",1st innings,44.0,run,221,2,221/3,"Ahsan Malik to Duminy, 2 runs",,,3
+273,265,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 2 runs ",1st innings,44.1,run,223,2,223/3,"Seelaar to du Plessis, 2 runs",,,3
+274,266,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, SIX runs plays inside-out through cover.",1st innings,44.2,six,229,6,229/3,"Seelaar to du Plessis, SIX runs",,plays inside-out through cover.,3
+275,267,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, SIX runs hits it high and over extra cover.",1st innings,44.3,six,235,6,235/3,"Seelaar to du Plessis, SIX runs",,hits it high and over extra cover.,3
+276,268,Faf du Plessis,44828,Pieter Seelaar,208657,"Seelaar to du Plessis, 1 run ",1st innings,44.4,run,236,1,236/3,"Seelaar to du Plessis, 1 run",,,3
+277,269,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, 2 runs hits it high in the air over Bukhari.",1st innings,44.5,run,238,2,238/3,"Seelaar to Duminy, 2 runs",,hits it high in the air over Bukhari.,3
+278,270,Jean-Paul Duminy,44932,Pieter Seelaar,208657,"Seelaar to Duminy, FOUR runs reverse sweeps to the fence.",1st innings,45.0,four,242,4,242/3,"Seelaar to Duminy, FOUR runs",,reverse sweeps to the fence.,3
+279,271,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, SIX runs hit straight over the bowler's head for a six.",1st innings,45.1,six,248,6,248/3,"Ahsan Malik to du Plessis, SIX runs",,hit straight over the bowler's head for a six.,3
+280,272,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 1 run ",1st innings,45.2,run,249,1,249/3,"Ahsan Malik to du Plessis, 1 run",,,3
+281,273,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 2 runs ",1st innings,45.3,run,251,2,251/3,"Ahsan Malik to Duminy, 2 runs",,,3
+282,274,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, SIX runs a massive strike over the midwicket fence.",1st innings,45.4,six,257,6,257/3,"Ahsan Malik to Duminy, SIX runs",,a massive strike over the midwicket fence.,3
+283,275,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, no run ",1st innings,45.5,no run,257,0,257/3,"Ahsan Malik to Duminy, no run",,,3
+284,275,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 wide ",1st innings,45.5,wide,258,1,258/3,"Ahsan Malik to Duminy, 1 wide",,,3
+285,276,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 1 run ",1st innings,46.0,run,259,1,259/3,"Ahsan Malik to Duminy, 1 run",,,3
+286,277,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run ",1st innings,46.1,run,260,1,260/3,"Mudassar Bukhari to Duminy, 1 run",,,3
+287,277,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, 3 wides way down the leg side.",1st innings,46.1,wide,263,3,263/3,"Mudassar Bukhari to du Plessis, 3 wides",,way down the leg side.,3
+288,278,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, 2 runs ",1st innings,46.2,run,265,2,265/3,"Mudassar Bukhari to du Plessis, 2 runs",,,3
+289,279,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, 1 run ",1st innings,46.3,run,266,1,266/3,"Mudassar Bukhari to du Plessis, 1 run",,,3
+290,280,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, SIX runs slower delivery picked up and hit over the midwicket fence.",1st innings,46.4,six,272,6,272/3,"Mudassar Bukhari to Duminy, SIX runs",,slower delivery picked up and hit over the midwicket fence.,3
+291,281,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 1 run ",1st innings,46.5,run,273,1,273/3,"Mudassar Bukhari to Duminy, 1 run",,,3
+292,282,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, SIX runs hits it over the wide long on fence.",1st innings,47.0,six,280,6,280/3,"Mudassar Bukhari to du Plessis, SIX runs",,hits it over the wide long on fence.,3
+293,283,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, no run ",1st innings,47.1,no run,280,0,280/3,"van Meekeren to Duminy, no run",,,3
+294,284,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, SIX runs hits it high into the stands at midwicket.",1st innings,47.2,six,286,6,286/3,"van Meekeren to Duminy, SIX runs",,hits it high into the stands at midwicket.,3
+295,285,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, SIX runs slow full toss and hit over wide long on.",1st innings,47.3,six,292,6,292/3,"van Meekeren to Duminy, SIX runs",,slow full toss and hit over wide long on.,3
+296,286,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, 1 run ",1st innings,47.4,run,293,1,293/3,"van Meekeren to Duminy, 1 run",,,3
+297,287,Faf du Plessis,44828,Paul van Meekeren,348109,"van Meekeren to du Plessis, 2 runs dropped by Seelar at long on.",1st innings,47.5,run,295,2,295/3,"van Meekeren to du Plessis, 2 runs",,dropped by Seelar at long on.,3
+298,287,Faf du Plessis,44828,Paul van Meekeren,348109,"van Meekeren to du Plessis, 2 wides ",1st innings,47.5,wide,297,2,297/3,"van Meekeren to du Plessis, 2 wides",,,3
+299,288,Jean-Paul Duminy,44932,Paul van Meekeren,348109,"van Meekeren to Duminy, SIX runs on a length and hit over the midwicket fence.",1st innings,48.0,six,304,6,304/3,"van Meekeren to Duminy, SIX runs",,on a length and hit over the midwicket fence.,3
+300,289,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, SIX runs low full toss and hit well over the bowler.",1st innings,48.1,six,310,6,310/3,"Mudassar Bukhari to du Plessis, SIX runs",,low full toss and hit well over the bowler.,3
+301,290,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, FOUR runs short ball pulled to the midwicket fence.",1st innings,48.2,four,314,4,314/3,"Mudassar Bukhari to du Plessis, FOUR runs",,short ball pulled to the midwicket fence.,3
+302,291,Faf du Plessis,44828,Mudassar Bukhari,245166,"Mudassar Bukhari to du Plessis, 1 run ",1st innings,48.3,run,315,1,315/3,"Mudassar Bukhari to du Plessis, 1 run",,,3
+303,292,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, FOUR runs hit straight down the ground.",1st innings,48.4,four,319,4,319/3,"Mudassar Bukhari to Duminy, FOUR runs",,hit straight down the ground.,3
+304,293,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 2 runs slower ball played through the onside.",1st innings,48.5,run,321,2,321/3,"Mudassar Bukhari to Duminy, 2 runs",,slower ball played through the onside.,3
+305,294,Jean-Paul Duminy,44932,Mudassar Bukhari,245166,"Mudassar Bukhari to Duminy, 2 runs plays to deep midwicket.",1st innings,49.0,run,323,2,323/3,"Mudassar Bukhari to Duminy, 2 runs",,plays to deep midwicket.,3
+306,295,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 2 runs ",1st innings,49.1,run,325,2,325/3,"Ahsan Malik to du Plessis, 2 runs",,,3
+307,296,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, no run ",1st innings,49.2,no run,325,0,325/3,"Ahsan Malik to du Plessis, no run",,,3
+308,297,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, FOUR runs hits it well to the fence.",1st innings,49.3,four,329,4,329/3,"Ahsan Malik to du Plessis, FOUR runs",,hits it well to the fence.,3
+309,298,Faf du Plessis,44828,Ahsan Malik,518097,"Ahsan Malik to du Plessis, 1 leg bye ",1st innings,49.4,leg bye,330,1,330/3,"Ahsan Malik to du Plessis, 1 leg bye",,,3
+310,299,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, SIX runs hits it well over the bowler's head for a six.",1st innings,49.5,six,336,6,336/3,"Ahsan Malik to Duminy, SIX runs",,hits it well over the bowler's head for a six.,3
+311,299,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, (no ball) 2 runs waist high full toss.",1st innings,49.5,run,339,3,339/3,"Ahsan Malik to Duminy, (no ball) 2 runs",,waist high full toss.,3
+312,300,Jean-Paul Duminy,44932,Ahsan Malik,518097,"Ahsan Malik to Duminy, 2 runs hit to deep midwicket to finish the innings.",1st innings,50.0,run,341,2,341/3,"Ahsan Malik to Duminy, 2 runs",,hit to deep midwicket to finish the innings.,3
+313,1,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run ",2nd innings,0.1,no run,0,0,0/0,"Kleinveldt to Myburgh, no run",,,0
+314,2,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run good delivery, and Myburgh is hit on the pad, loud shout for LBW turned down, probably missing leg",2nd innings,0.2,no run,0,0,0/0,"Kleinveldt to Myburgh, no run",,"good delivery, and Myburgh is hit on the pad, loud shout for LBW turned down, probably missing leg",0
+315,3,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run defended back down the track",2nd innings,0.3,no run,0,0,0/0,"Kleinveldt to Myburgh, no run",,defended back down the track,0
+316,4,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, FOUR runs in the slot and that's creamed through covers",2nd innings,0.4,four,4,4,4/0,"Kleinveldt to Myburgh, FOUR runs",,in the slot and that's creamed through covers,0
+317,5,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, FOUR runs whipped away behind square, bounces just inside the rope",2nd innings,0.5,four,8,4,8/0,"Kleinveldt to Myburgh, FOUR runs",,"whipped away behind square, bounces just inside the rope",0
+318,6,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run left alone outside the off stump",2nd innings,1.0,no run,8,0,8/0,"Kleinveldt to Myburgh, no run",,left alone outside the off stump,0
+319,6,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 wide starts off with a wayward delivery down the leg side",2nd innings,1.0,wide,9,1,9/0,"Tsotsobe to Szwarczynski, 1 wide",,starts off with a wayward delivery down the leg side,0
+320,7,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run ",2nd innings,1.1,no run,9,0,9/0,"Tsotsobe to Szwarczynski, no run",,,0
+321,8,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run ",2nd innings,1.2,no run,9,0,9/0,"Tsotsobe to Szwarczynski, no run",,,0
+322,9,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run ",2nd innings,1.3,no run,9,0,9/0,"Tsotsobe to Szwarczynski, no run",,,0
+323,10,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run ",2nd innings,1.4,no run,9,0,9/0,"Tsotsobe to Szwarczynski, no run",,,0
+324,11,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run ",2nd innings,1.5,no run,9,0,9/0,"Tsotsobe to Szwarczynski, no run",,,0
+325,12,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 2 runs ",2nd innings,2.0,run,11,2,11/0,"Tsotsobe to Szwarczynski, 2 runs",,,0
+326,13,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run ",2nd innings,2.1,no run,11,0,11/0,"Kleinveldt to Myburgh, no run",,,0
+327,14,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run ",2nd innings,2.2,no run,11,0,11/0,"Kleinveldt to Myburgh, no run",,,0
+328,15,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, FOUR runs slips out of his hand, bounces twice on it's way to Myburgh who mercilessly dipatches it to the square leg boundary",2nd innings,2.3,four,15,4,15/0,"Kleinveldt to Myburgh, FOUR runs",,"slips out of his hand, bounces twice on it's way to Myburgh who mercilessly dipatches it to the square leg boundary",0
+329,16,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, SIX runs shortish and straight, Myburgh steps inside and pulls it up and away in front of square.",2nd innings,2.4,six,21,6,21/0,"Kleinveldt to Myburgh, SIX runs",,"shortish and straight, Myburgh steps inside and pulls it up and away in front of square.",0
+330,17,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run blocked high off the back-foot",2nd innings,2.5,no run,21,0,21/0,"Kleinveldt to Myburgh, no run",,blocked high off the back-foot,0
+331,18,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run forced away towards cover",2nd innings,3.0,no run,21,0,21/0,"Kleinveldt to Myburgh, no run",,forced away towards cover,0
+332,19,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run played down to second slip, bit of an edge",2nd innings,3.1,no run,21,0,21/0,"Tsotsobe to Szwarczynski, no run",,"played down to second slip, bit of an edge",0
+333,20,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run extra lift, rides it out competently",2nd innings,3.2,no run,21,0,21/0,"Tsotsobe to Szwarczynski, no run",,"extra lift, rides it out competently",0
+334,21,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run cut away towards the gully region, cut off quickly",2nd innings,3.3,no run,21,0,21/0,"Tsotsobe to Szwarczynski, no run",,"cut away towards the gully region, cut off quickly",0
+335,22,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run bouncer on leg stump, looks to hook but can't catch up to it",2nd innings,3.4,no run,21,0,21/0,"Tsotsobe to Szwarczynski, no run",,"bouncer on leg stump, looks to hook but can't catch up to it",0
+336,23,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, FOUR runs offers some witdth and is cut firmly through to the rope",2nd innings,3.5,four,25,4,25/0,"Tsotsobe to Szwarczynski, FOUR runs",,offers some witdth and is cut firmly through to the rope,0
+337,24,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run blocked out to point",2nd innings,4.0,no run,25,0,25/0,"Tsotsobe to Szwarczynski, no run",,blocked out to point,0
+338,25,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run pushed out to extra cover",2nd innings,4.1,no run,25,0,25/0,"Kleinveldt to Myburgh, no run",,pushed out to extra cover,0
+339,26,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run driven to mid on",2nd innings,4.2,no run,25,0,25/0,"Kleinveldt to Myburgh, no run",,driven to mid on,0
+340,27,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run left alone outside off",2nd innings,4.3,no run,25,0,25/0,"Kleinveldt to Myburgh, no run",,left alone outside off,0
+341,28,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run width offered, cut to point",2nd innings,4.4,no run,25,0,25/0,"Kleinveldt to Myburgh, no run",,"width offered, cut to point",0
+342,29,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run prodded out to cover",2nd innings,4.5,no run,25,0,25/0,"Kleinveldt to Myburgh, no run",,prodded out to cover,0
+343,30,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, FOUR runs short and wide, cut hard through square for four",2nd innings,5.0,four,29,4,29/0,"Kleinveldt to Myburgh, FOUR runs",,"short and wide, cut hard through square for four",0
+344,31,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run worked down to third man, not a convincing shot",2nd innings,5.1,run,30,1,30/0,"Tsotsobe to Szwarczynski, 1 run",,"worked down to third man, not a convincing shot",0
+345,32,Stephan Myburgh,233712,Lonwabo Tsotsobe,47666,"Tsotsobe to Myburgh, 3 runs played off the back-foot through covers, fielders moves across quickly in the deep and cuts off the boundary",2nd innings,5.2,run,33,3,33/0,"Tsotsobe to Myburgh, 3 runs",,"played off the back-foot through covers, fielders moves across quickly in the deep and cuts off the boundary",0
+346,33,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run played to third man",2nd innings,5.3,run,34,1,34/0,"Tsotsobe to Szwarczynski, 1 run",,played to third man,0
+347,34,Stephan Myburgh,233712,Lonwabo Tsotsobe,47666,"Tsotsobe to Myburgh, 1 run short and wide outside the off stump, ah! the upper cut - down to third man for just a single though",2nd innings,5.4,run,35,1,35/0,"Tsotsobe to Myburgh, 1 run",,"short and wide outside the off stump, ah! the upper cut - down to third man for just a single though",0
+348,35,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run again played down to third man, again a single",2nd innings,5.5,run,36,1,36/0,"Tsotsobe to Szwarczynski, 1 run",,"again played down to third man, again a single",0
+349,36,Stephan Myburgh,233712,Lonwabo Tsotsobe,47666,"Tsotsobe to Myburgh, no run ",2nd innings,6.0,no run,36,0,36/0,"Tsotsobe to Myburgh, no run",,,0
+350,37,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, no run pushed to covers",2nd innings,6.1,no run,36,0,36/0,"Kleinveldt to Szwarczynski, no run",,pushed to covers,0
+351,38,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run ",2nd innings,6.2,run,37,1,37/0,"Kleinveldt to Szwarczynski, 1 run",,,0
+352,39,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, 1 run ",2nd innings,6.3,run,38,1,38/0,"Kleinveldt to Myburgh, 1 run",,,0
+353,40,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run full and wide pushed away to third man",2nd innings,6.4,run,39,1,39/0,"Kleinveldt to Szwarczynski, 1 run",,full and wide pushed away to third man,0
+354,41,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run better line, blocked to cover",2nd innings,6.5,no run,39,0,39/0,"Kleinveldt to Myburgh, no run",,"better line, blocked to cover",0
+355,42,Stephan Myburgh,233712,Rory Kleinveldt,45949,"Kleinveldt to Myburgh, no run driven intothe covers again",2nd innings,7.0,no run,39,0,39/0,"Kleinveldt to Myburgh, no run",,driven intothe covers again,0
+356,43,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run blocked into the leg side",2nd innings,7.1,no run,39,0,39/0,"Duminy to Szwarczynski, no run",,blocked into the leg side,0
+357,44,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run plays all around it",2nd innings,7.2,no run,39,0,39/0,"Duminy to Szwarczynski, no run",,plays all around it,0
+358,45,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, FOUR runs steps back to make room and guides it through point for four",2nd innings,7.3,four,43,4,43/0,"Duminy to Szwarczynski, FOUR runs",,steps back to make room and guides it through point for four,0
+359,46,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run cut to the man at point",2nd innings,7.4,no run,43,0,43/0,"Duminy to Szwarczynski, no run",,cut to the man at point,0
+360,47,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run watches onto the bat to push it back down the pitch",2nd innings,7.5,no run,43,0,43/0,"Duminy to Szwarczynski, no run",,watches onto the bat to push it back down the pitch,0
+361,48,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run carefully blocked back to Duminy again",2nd innings,8.0,no run,43,0,43/0,"Duminy to Szwarczynski, no run",,carefully blocked back to Duminy again,0
+362,49,Stephan Myburgh,233712,Farhaan Behardien,44410,"Behardien to Myburgh, no run blocked to cover",2nd innings,8.1,no run,43,0,43/0,"Behardien to Myburgh, no run",,blocked to cover,0
+363,50,Stephan Myburgh,233712,Farhaan Behardien,44410,"Behardien to Myburgh, no run forward defensive again",2nd innings,8.2,no run,43,0,43/0,"Behardien to Myburgh, no run",,forward defensive again,0
+364,51,Stephan Myburgh,233712,Farhaan Behardien,44410,"Behardien to Myburgh, OUT myburgh ct AN Petersen; full pitched delivery and he throws his hands at it, splicing it to Petersen at deep backward point",2nd innings,8.3,out,43,0,43/1,"Behardien to Myburgh, OUT",,"myburgh ct AN Petersen; full pitched delivery and he throws his hands at it, splicing it to Petersen at deep backward point",1
+365,52,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,8.4,no run,43,0,43/1,"Behardien to Szwarczynski, no run",,,1
+366,53,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,8.5,no run,43,0,43/1,"Behardien to Szwarczynski, no run",,,1
+367,54,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,9.0,no run,43,0,43/1,"Behardien to Szwarczynski, no run",,,1
+368,55,Wesley Barresi,44407,Jean-Paul Duminy,44932,"Duminy to Barresi, no run pushed out to extra cover",2nd innings,9.1,no run,43,0,43/1,"Duminy to Barresi, no run",,pushed out to extra cover,1
+369,56,Wesley Barresi,44407,Jean-Paul Duminy,44932,"Duminy to Barresi, no run ",2nd innings,9.2,no run,43,0,43/1,"Duminy to Barresi, no run",,,1
+370,57,Wesley Barresi,44407,Jean-Paul Duminy,44932,"Duminy to Barresi, OUT good delivery, and that's plumb",2nd innings,9.3,out,43,0,43/2,"Duminy to Barresi, OUT",,"good delivery, and that's plumb",2
+371,58,Tom Cooper,219885,Jean-Paul Duminy,44932,"Duminy to Cooper, no run ",2nd innings,9.4,no run,43,0,43/2,"Duminy to Cooper, no run",,,2
+372,59,Tom Cooper,219885,Jean-Paul Duminy,44932,"Duminy to Cooper, 1 run ",2nd innings,9.5,run,44,1,44/2,"Duminy to Cooper, 1 run",,,2
+373,60,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, 1 run ",2nd innings,10.0,run,45,1,45/2,"Duminy to Szwarczynski, 1 run",,,2
+374,61,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run played to thirdman for single",2nd innings,10.1,run,46,1,46/2,"Behardien to Szwarczynski, 1 run",,played to thirdman for single,2
+375,62,Tom Cooper,219885,Farhaan Behardien,44410,"Behardien to Cooper, FOUR runs afforded a bit of width and slashes it away to the square leg boundary",2nd innings,10.2,four,50,4,50/2,"Behardien to Cooper, FOUR runs",,afforded a bit of width and slashes it away to the square leg boundary,2
+376,63,Tom Cooper,219885,Farhaan Behardien,44410,"Behardien to Cooper, no run small scale pitch invasionas a SA fan goes autograph hunting at deep backward square",2nd innings,10.3,no run,50,0,50/2,"Behardien to Cooper, no run",,small scale pitch invasionas a SA fan goes autograph hunting at deep backward square,2
+377,64,Tom Cooper,219885,Farhaan Behardien,44410,"Behardien to Cooper, no run ",2nd innings,10.4,no run,50,0,50/2,"Behardien to Cooper, no run",,,2
+378,65,Tom Cooper,219885,Farhaan Behardien,44410,"Behardien to Cooper, no run ",2nd innings,10.5,no run,50,0,50/2,"Behardien to Cooper, no run",,,2
+379,66,Tom Cooper,219885,Farhaan Behardien,44410,"Behardien to Cooper, no run ",2nd innings,11.0,no run,50,0,50/2,"Behardien to Cooper, no run",,,2
+380,67,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 run ",2nd innings,11.1,run,51,1,51/2,"McLaren to Szwarczynski, 1 run",,,2
+381,68,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run ",2nd innings,11.2,no run,51,0,51/2,"McLaren to Cooper, no run",,,2
+382,69,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run ",2nd innings,11.3,no run,51,0,51/2,"McLaren to Cooper, no run",,,2
+383,70,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run blocked into the covers",2nd innings,11.4,no run,51,0,51/2,"McLaren to Cooper, no run",,blocked into the covers,2
+384,71,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run looks to pull a shorter one, but through the shot early",2nd innings,11.5,no run,51,0,51/2,"McLaren to Cooper, no run",,"looks to pull a shorter one, but through the shot early",2
+385,72,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run left alone outside off",2nd innings,12.0,no run,51,0,51/2,"McLaren to Cooper, no run",,left alone outside off,2
+386,73,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,12.1,no run,51,0,51/2,"Behardien to Szwarczynski, no run",,,2
+387,74,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,12.2,no run,51,0,51/2,"Behardien to Szwarczynski, no run",,,2
+388,75,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,12.3,no run,51,0,51/2,"Behardien to Szwarczynski, no run",,,2
+389,76,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,12.4,no run,51,0,51/2,"Behardien to Szwarczynski, no run",,,2
+390,77,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 2 runs ",2nd innings,12.5,run,53,2,53/2,"Behardien to Szwarczynski, 2 runs",,,2
+391,78,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,13.0,no run,53,0,53/2,"Behardien to Szwarczynski, no run",,,2
+392,79,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run ",2nd innings,13.1,no run,53,0,53/2,"McLaren to Cooper, no run",,,2
+393,80,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, 1 run ",2nd innings,13.2,run,54,1,54/2,"McLaren to Cooper, 1 run",,,2
+394,81,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, FOUR runs ",2nd innings,13.3,four,58,4,58/2,"McLaren to Szwarczynski, FOUR runs",,,2
+395,82,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,13.4,no run,58,0,58/2,"McLaren to Szwarczynski, no run",,,2
+396,83,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,13.5,no run,58,0,58/2,"McLaren to Szwarczynski, no run",,,2
+397,84,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,14.0,no run,58,0,58/2,"McLaren to Szwarczynski, no run",,,2
+398,85,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, 1 run ",2nd innings,14.1,run,59,1,59/2,"Peterson to Cooper, 1 run",,,2
+399,86,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 2 runs ",2nd innings,14.2,run,61,2,61/2,"Peterson to Szwarczynski, 2 runs",,,2
+400,87,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run ",2nd innings,14.3,run,62,1,62/2,"Peterson to Szwarczynski, 1 run",,,2
+401,88,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, 1 run ",2nd innings,14.4,run,63,1,63/2,"Peterson to Cooper, 1 run",,,2
+402,89,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run ",2nd innings,14.5,run,64,1,64/2,"Peterson to Szwarczynski, 1 run",,,2
+403,90,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, no run ",2nd innings,15.0,no run,64,0,64/2,"Peterson to Cooper, no run",,,2
+404,91,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, FOUR runs ",2nd innings,15.1,four,68,4,68/2,"McLaren to Szwarczynski, FOUR runs",,,2
+405,92,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,15.2,no run,68,0,68/2,"McLaren to Szwarczynski, no run",,,2
+406,93,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,15.3,no run,68,0,68/2,"McLaren to Szwarczynski, no run",,,2
+407,93,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 wide ",2nd innings,15.3,wide,69,1,69/2,"McLaren to Szwarczynski, 1 wide",,,2
+408,94,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 run ",2nd innings,15.4,run,70,1,70/2,"McLaren to Szwarczynski, 1 run",,,2
+409,95,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run ",2nd innings,15.5,no run,70,0,70/2,"McLaren to Cooper, no run",,,2
+410,96,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run ",2nd innings,16.0,no run,70,0,70/2,"McLaren to Cooper, no run",,,2
+411,97,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, no run ",2nd innings,16.1,no run,70,0,70/2,"Peterson to Szwarczynski, no run",,,2
+412,98,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, FOUR runs dances down the pitch and drives it straight past Petersen for a one bouncer",2nd innings,16.2,four,74,4,74/2,"Peterson to Szwarczynski, FOUR runs",,dances down the pitch and drives it straight past Petersen for a one bouncer,2
+413,99,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run ",2nd innings,16.3,run,75,1,75/2,"Peterson to Szwarczynski, 1 run",,,2
+414,100,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, 1 run pushed to long on for one run",2nd innings,16.4,run,76,1,76/2,"Peterson to Cooper, 1 run",,pushed to long on for one run,2
+415,101,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, no run ",2nd innings,16.5,no run,76,0,76/2,"Peterson to Szwarczynski, no run",,,2
+416,102,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 2 runs ",2nd innings,17.0,run,78,2,78/2,"Peterson to Szwarczynski, 2 runs",,,2
+417,103,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, no run blocked back down the pitch",2nd innings,17.1,no run,78,0,78/2,"McLaren to Cooper, no run",,blocked back down the pitch,2
+418,104,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, 2 runs clipped into the leg side off his pads for two",2nd innings,17.2,run,80,2,80/2,"McLaren to Cooper, 2 runs",,clipped into the leg side off his pads for two,2
+419,105,Tom Cooper,219885,Ryan McLaren,46393,"McLaren to Cooper, 1 run flicked down to fine leg",2nd innings,17.3,run,81,1,81/2,"McLaren to Cooper, 1 run",,flicked down to fine leg,2
+420,106,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ducks under a bouncer",2nd innings,17.4,no run,81,0,81/2,"McLaren to Szwarczynski, no run",,ducks under a bouncer,2
+421,107,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 2 runs glanced fine again, Alviro Petersen with a good stop on the rope",2nd innings,17.5,run,83,2,83/2,"McLaren to Szwarczynski, 2 runs",,"glanced fine again, Alviro Petersen with a good stop on the rope",2
+422,108,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run shorter again, Swarcynski ducks under",2nd innings,18.0,no run,83,0,83/2,"McLaren to Szwarczynski, no run",,"shorter again, Swarcynski ducks under",2
+423,109,Tom Cooper,219885,Lonwabo Tsotsobe,47666,"Tsotsobe to Cooper, 1 run driven through cover",2nd innings,18.1,run,84,1,84/2,"Tsotsobe to Cooper, 1 run",,driven through cover,2
+424,110,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run beats the outside edge",2nd innings,18.2,no run,84,0,84/2,"Tsotsobe to Szwarczynski, no run",,beats the outside edge,2
+425,111,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run blocked to point",2nd innings,18.3,no run,84,0,84/2,"Tsotsobe to Szwarczynski, no run",,blocked to point,2
+426,112,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run pushed out in front of point for one",2nd innings,18.4,run,85,1,85/2,"Tsotsobe to Szwarczynski, 1 run",,pushed out in front of point for one,2
+427,113,Tom Cooper,219885,Lonwabo Tsotsobe,47666,"Tsotsobe to Cooper, no run blocked out to point again",2nd innings,18.5,no run,85,0,85/2,"Tsotsobe to Cooper, no run",,blocked out to point again,2
+428,114,Tom Cooper,219885,Lonwabo Tsotsobe,47666,"Tsotsobe to Cooper, no run driven back to mid on",2nd innings,19.0,no run,85,0,85/2,"Tsotsobe to Cooper, no run",,driven back to mid on,2
+429,115,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run stroked out to long on",2nd innings,19.1,run,86,1,86/2,"Peterson to Szwarczynski, 1 run",,stroked out to long on,2
+430,116,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, no run attempted reverse sweep but can't connect",2nd innings,19.2,no run,86,0,86/2,"Peterson to Cooper, no run",,attempted reverse sweep but can't connect,2
+431,117,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, 1 run punched out to long on",2nd innings,19.3,run,87,1,87/2,"Peterson to Cooper, 1 run",,punched out to long on,2
+432,118,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run long on called on again",2nd innings,19.4,run,88,1,88/2,"Peterson to Szwarczynski, 1 run",,long on called on again,2
+433,119,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, no run driven back to the bowler",2nd innings,19.5,no run,88,0,88/2,"Peterson to Cooper, no run",,driven back to the bowler,2
+434,120,Tom Cooper,219885,Robin Peterson,46750,"Peterson to Cooper, OUT Fuller ball, plays over it trying to work it to leg, raps him on the pads plum in front",2nd innings,20.0,out,88,0,88/3,"Peterson to Cooper, OUT",,"Fuller ball, plays over it trying to work it to leg, raps him on the pads plum in front",3
+435,121,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run blocked down th pitch",2nd innings,20.1,no run,88,0,88/3,"Tsotsobe to Szwarczynski, no run",,blocked down th pitch,3
+436,122,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run cut hard to backward point",2nd innings,20.2,no run,88,0,88/3,"Tsotsobe to Szwarczynski, no run",,cut hard to backward point,3
+437,123,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run flicked out to mid off",2nd innings,20.3,no run,88,0,88/3,"Tsotsobe to Szwarczynski, no run",,flicked out to mid off,3
+438,124,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run driven through the covers for one",2nd innings,20.4,run,89,1,89/3,"Tsotsobe to Szwarczynski, 1 run",,driven through the covers for one,3
+439,125,Daan van Bunge,24964,Lonwabo Tsotsobe,47666,"Tsotsobe to van Bunge, no run left alone outside off",2nd innings,20.5,no run,89,0,89/3,"Tsotsobe to van Bunge, no run",,left alone outside off,3
+440,126,Daan van Bunge,24964,Lonwabo Tsotsobe,47666,"Tsotsobe to van Bunge, 1 run turned off his hips for a single",2nd innings,21.0,run,90,1,90/3,"Tsotsobe to van Bunge, 1 run",,turned off his hips for a single,3
+441,127,Daan van Bunge,24964,Robin Peterson,46750,"Peterson to van Bunge, no run carefully blocked",2nd innings,21.1,no run,90,0,90/3,"Peterson to van Bunge, no run",,carefully blocked,3
+442,128,Daan van Bunge,24964,Robin Peterson,46750,"Peterson to van Bunge, no run spits up and past the edge",2nd innings,21.2,no run,90,0,90/3,"Peterson to van Bunge, no run",,spits up and past the edge,3
+443,129,Daan van Bunge,24964,Robin Peterson,46750,"Peterson to van Bunge, 1 run pushed out to long on",2nd innings,21.3,run,91,1,91/3,"Peterson to van Bunge, 1 run",,pushed out to long on,3
+444,130,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, FOUR runs comes down the pitch to make a full toss of it and creams it over mid off for four",2nd innings,21.4,four,95,4,95/3,"Peterson to Szwarczynski, FOUR runs",,comes down the pitch to make a full toss of it and creams it over mid off for four,3
+445,131,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, no run driven hard but well blocked at cover",2nd innings,21.5,no run,95,0,95/3,"Peterson to Szwarczynski, no run",,driven hard but well blocked at cover,3
+446,132,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, no run fended down toward slip",2nd innings,22.0,no run,95,0,95/3,"Peterson to Szwarczynski, no run",,fended down toward slip,3
+447,133,Daan van Bunge,24964,Farhaan Behardien,44410,"Behardien to van Bunge, 1 run pushed to covers",2nd innings,22.1,run,96,1,96/3,"Behardien to van Bunge, 1 run",,pushed to covers,3
+448,134,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run played with the straight bat for a single ",2nd innings,22.2,run,97,1,97/3,"Behardien to Szwarczynski, 1 run",,played with the straight bat for a single ,3
+449,135,Daan van Bunge,24964,Farhaan Behardien,44410,"Behardien to van Bunge, OUT tried to cut, took a top edge, Faf takes an esay catch behind point",2nd innings,22.3,out,97,0,97/4,"Behardien to van Bunge, OUT",,"tried to cut, took a top edge, Faf takes an esay catch behind point",4
+450,136,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, 1 run glides to thirman for a single ",2nd innings,22.4,run,98,1,98/4,"Behardien to Borren, 1 run",,glides to thirman for a single ,4
+451,137,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,22.5,no run,98,0,98/4,"Behardien to Szwarczynski, no run",,,4
+452,138,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run pushed to square leg ",2nd innings,23.0,no run,98,0,98/4,"Behardien to Szwarczynski, no run",,pushed to square leg ,4
+453,139,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs swept hard to square leg boundary",2nd innings,23.1,four,102,4,102/4,"Peterson to Borren, FOUR runs",,swept hard to square leg boundary,4
+454,140,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, 1 run played with soft hands to on side for a single ",2nd innings,23.2,run,103,1,103/4,"Peterson to Borren, 1 run",,played with soft hands to on side for a single ,4
+455,141,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run cuts to backward point for a single ",2nd innings,23.3,run,104,1,104/4,"Peterson to Szwarczynski, 1 run",,cuts to backward point for a single ,4
+456,142,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs swept over mid wicket for an another boundary ",2nd innings,23.4,four,108,4,108/4,"Peterson to Borren, FOUR runs",,swept over mid wicket for an another boundary ,4
+457,143,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, 2 runs off the back foot glides to thirdman for a couple ",2nd innings,23.5,run,110,2,110/4,"Peterson to Borren, 2 runs",,off the back foot glides to thirdman for a couple ,4
+458,144,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, no run ",2nd innings,24.0,no run,110,0,110/4,"Peterson to Borren, no run",,,4
+459,145,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run driven along to ground to long off",2nd innings,24.1,run,111,1,111/4,"Behardien to Szwarczynski, 1 run",,driven along to ground to long off,4
+460,146,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, 1 run flicks to mid wicket ",2nd innings,24.2,run,112,1,112/4,"Behardien to Borren, 1 run",,flicks to mid wicket ,4
+461,147,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run pushed to point ",2nd innings,24.3,run,113,1,113/4,"Behardien to Szwarczynski, 1 run",,pushed to point ,4
+462,148,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, no run ",2nd innings,24.4,no run,113,0,113/4,"Behardien to Borren, no run",,,4
+463,149,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, no run ",2nd innings,24.5,no run,113,0,113/4,"Behardien to Borren, no run",,,4
+464,150,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, 1 run ",2nd innings,25.0,run,114,1,114/4,"Behardien to Borren, 1 run",,,4
+465,151,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, no run drops it at his feet with soft hands",2nd innings,25.1,no run,114,0,114/4,"Kleinveldt to Borren, no run",,drops it at his feet with soft hands,4
+466,152,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, 1 run just lifted up and over to third man",2nd innings,25.2,run,115,1,115/4,"Kleinveldt to Borren, 1 run",,just lifted up and over to third man,4
+467,153,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run run down to third man again",2nd innings,25.3,run,116,1,116/4,"Kleinveldt to Szwarczynski, 1 run",,run down to third man again,4
+468,154,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, no run kicked up off a length and he takes one on the chest",2nd innings,25.4,no run,116,0,116/4,"Kleinveldt to Borren, no run",,kicked up off a length and he takes one on the chest,4
+469,155,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, 1 run thick outside edge runs away to third man",2nd innings,25.5,run,117,1,117/4,"Kleinveldt to Borren, 1 run",,thick outside edge runs away to third man,4
+470,156,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, no run driven to the man at point",2nd innings,26.0,no run,117,0,117/4,"Kleinveldt to Szwarczynski, no run",,driven to the man at point,4
+471,157,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, 3 runs swept hard behind square, Petersen does well to stop it on the rope",2nd innings,26.1,run,120,3,120/4,"Behardien to Borren, 3 runs",,"swept hard behind square, Petersen does well to stop it on the rope",4
+472,157,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 wide ",2nd innings,26.1,wide,121,1,121/4,"Behardien to Szwarczynski, 1 wide",,,4
+473,158,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run played to leg side ",2nd innings,26.2,run,122,1,122/4,"Behardien to Szwarczynski, 1 run",,played to leg side ,4
+474,159,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, 1 run turned square for another",2nd innings,26.3,run,123,1,123/4,"Behardien to Borren, 1 run",,turned square for another,4
+475,160,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run driven through cover for one",2nd innings,26.4,run,124,1,124/4,"Behardien to Szwarczynski, 1 run",,driven through cover for one,4
+476,161,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, FOUR runs goes inside out and slashed up over cover",2nd innings,26.5,four,128,4,128/4,"Behardien to Borren, FOUR runs",,goes inside out and slashed up over cover,4
+477,162,Peter Borren,36592,Farhaan Behardien,44410,"Behardien to Borren, no run steps away but Behardien goes wider, and he can't reach it",2nd innings,27.0,no run,128,0,128/4,"Behardien to Borren, no run",,"steps away but Behardien goes wider, and he can't reach it",4
+478,163,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run pushed out to point",2nd innings,27.1,run,129,1,129/4,"Kleinveldt to Szwarczynski, 1 run",,pushed out to point,4
+479,164,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, no run blocked to cover",2nd innings,27.2,no run,129,0,129/4,"Kleinveldt to Borren, no run",,blocked to cover,4
+480,165,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, no run tries to pull it away, but can't connect",2nd innings,27.3,no run,129,0,129/4,"Kleinveldt to Borren, no run",,"tries to pull it away, but can't connect",4
+481,166,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, 1 run blocked into the covers and they run one",2nd innings,27.4,run,130,1,130/4,"Kleinveldt to Borren, 1 run",,blocked into the covers and they run one,4
+482,167,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run cut late to deep backward point",2nd innings,27.5,run,131,1,131/4,"Kleinveldt to Szwarczynski, 1 run",,cut late to deep backward point,4
+483,168,Peter Borren,36592,Rory Kleinveldt,45949,"Kleinveldt to Borren, no run shorter ball, and Borren ducks under it",2nd innings,28.0,no run,131,0,131/4,"Kleinveldt to Borren, no run",,"shorter ball, and Borren ducks under it",4
+484,169,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run pushed out to point and they hurry through for one",2nd innings,28.1,run,132,1,132/4,"Tsotsobe to Szwarczynski, 1 run",,pushed out to point and they hurry through for one,4
+485,170,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, 1 run turns it behind square for another",2nd innings,28.2,run,133,1,133/4,"Tsotsobe to Borren, 1 run",,turns it behind square for another,4
+486,171,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, FOUR runs bangs it in short and is hooked away to the backward square boundary",2nd innings,28.3,four,137,4,137/4,"Tsotsobe to Szwarczynski, FOUR runs",,bangs it in short and is hooked away to the backward square boundary,4
+487,172,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run clipped off his toes for one",2nd innings,28.4,run,138,1,138/4,"Tsotsobe to Szwarczynski, 1 run",,clipped off his toes for one,4
+488,173,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run defended back down the pitch",2nd innings,28.5,no run,138,0,138/4,"Tsotsobe to Borren, no run",,defended back down the pitch,4
+489,174,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run pushed away to point",2nd innings,29.0,no run,138,0,138/4,"Tsotsobe to Borren, no run",,pushed away to point,4
+490,175,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, 1 run driven through cover for one",2nd innings,29.1,run,139,1,139/4,"Duminy to Szwarczynski, 1 run",,driven through cover for one,4
+491,176,Peter Borren,36592,Jean-Paul Duminy,44932,"Duminy to Borren, 1 run cut to point for another",2nd innings,29.2,run,140,1,140/4,"Duminy to Borren, 1 run",,cut to point for another,4
+492,177,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, 1 run blocked through extra cover",2nd innings,29.3,run,141,1,141/4,"Duminy to Szwarczynski, 1 run",,blocked through extra cover,4
+493,178,Peter Borren,36592,Jean-Paul Duminy,44932,"Duminy to Borren, 1 run worked into the leg side of a single",2nd innings,29.4,run,142,1,142/4,"Duminy to Borren, 1 run",,worked into the leg side of a single,4
+494,179,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run makes a full toss of it and Duminy fields well off his own bowling",2nd innings,29.5,no run,142,0,142/4,"Duminy to Szwarczynski, no run",,makes a full toss of it and Duminy fields well off his own bowling,4
+495,180,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, 1 run swept very fine and they chance a single",2nd innings,30.0,run,143,1,143/4,"Duminy to Szwarczynski, 1 run",,swept very fine and they chance a single,4
+496,181,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run driven out to long on for one",2nd innings,30.1,run,144,1,144/4,"Tsotsobe to Szwarczynski, 1 run",,driven out to long on for one,4
+497,182,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, 1 run fended into the offside for another",2nd innings,30.2,run,145,1,145/4,"Tsotsobe to Borren, 1 run",,fended into the offside for another,4
+498,183,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run flicked out square but straight to the fielder",2nd innings,30.3,no run,145,0,145/4,"Tsotsobe to Szwarczynski, no run",,flicked out square but straight to the fielder,4
+499,184,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run turned in front of square now for a single",2nd innings,30.4,run,146,1,146/4,"Tsotsobe to Szwarczynski, 1 run",,turned in front of square now for a single,4
+500,185,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run rears up into his ribs, and he rides it out one handed",2nd innings,30.5,no run,146,0,146/4,"Tsotsobe to Borren, no run",,"rears up into his ribs, and he rides it out one handed",4
+501,186,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run another shorter ball, and he ducks under this one",2nd innings,31.0,no run,146,0,146/4,"Tsotsobe to Borren, no run",,"another shorter ball, and he ducks under this one",4
+502,187,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run ",2nd innings,31.1,no run,146,0,146/4,"Duminy to Szwarczynski, no run",,,4
+503,188,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, no run ",2nd innings,31.2,no run,146,0,146/4,"Duminy to Szwarczynski, no run",,,4
+504,189,Eric Szwarczynski,214696,Jean-Paul Duminy,44932,"Duminy to Szwarczynski, 1 run ",2nd innings,31.3,run,147,1,147/4,"Duminy to Szwarczynski, 1 run",,,4
+505,190,Peter Borren,36592,Jean-Paul Duminy,44932,"Duminy to Borren, no run ",2nd innings,31.4,no run,147,0,147/4,"Duminy to Borren, no run",,,4
+506,191,Peter Borren,36592,Jean-Paul Duminy,44932,"Duminy to Borren, 2 runs steps back and flips it over cover for two",2nd innings,31.5,run,149,2,149/4,"Duminy to Borren, 2 runs",,steps back and flips it over cover for two,4
+507,192,Peter Borren,36592,Jean-Paul Duminy,44932,"Duminy to Borren, no run ",2nd innings,32.0,no run,149,0,149/4,"Duminy to Borren, no run",,,4
+508,193,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run pushed to covers",2nd innings,32.1,no run,149,0,149/4,"Tsotsobe to Szwarczynski, no run",,pushed to covers,4
+509,194,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run driven square",2nd innings,32.2,run,150,1,150/4,"Tsotsobe to Szwarczynski, 1 run",,driven square,4
+510,195,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run squirted out to point",2nd innings,32.3,no run,150,0,150/4,"Tsotsobe to Borren, no run",,squirted out to point,4
+511,196,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run ducks under a bouncer",2nd innings,32.4,no run,150,0,150/4,"Tsotsobe to Borren, no run",,ducks under a bouncer,4
+512,197,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, no run tapped away to point",2nd innings,32.5,no run,150,0,150/4,"Tsotsobe to Borren, no run",,tapped away to point,4
+513,198,Peter Borren,36592,Lonwabo Tsotsobe,47666,"Tsotsobe to Borren, 1 run worked into the leg side for a single",2nd innings,33.0,run,151,1,151/4,"Tsotsobe to Borren, 1 run",,worked into the leg side for a single,4
+514,199,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs swept fine and it races away to the rope",2nd innings,33.1,four,155,4,155/4,"Peterson to Borren, FOUR runs",,swept fine and it races away to the rope,4
+515,200,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs goes down on one knee and crashes it through the covers waist-high, just one bounce to the boundary",2nd innings,33.2,four,159,4,159/4,"Peterson to Borren, FOUR runs",,"goes down on one knee and crashes it through the covers waist-high, just one bounce to the boundary",4
+516,201,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs four more, driven hard through the covers for four",2nd innings,33.3,four,163,4,163/4,"Peterson to Borren, FOUR runs",,"four more, driven hard through the covers for four",4
+517,202,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, FOUR runs four in four! pulled away through deep square leg",2nd innings,33.4,four,167,4,167/4,"Peterson to Borren, FOUR runs",,four in four! pulled away through deep square leg,4
+518,203,Peter Borren,36592,Robin Peterson,46750,"Peterson to Borren, OUT And gone, looking to repeat the shot -but too much air on it, Du Plessis takes a sharp catch at square leg.",2nd innings,33.5,out,167,0,167/5,"Peterson to Borren, OUT",,"And gone, looking to repeat the shot -but too much air on it, Du Plessis takes a sharp catch at square leg.",5
+519,204,Tom de Grooth,25022,Robin Peterson,46750,"Peterson to de Grooth, no run blocked down the pitch",2nd innings,34.0,no run,167,0,167/5,"Peterson to de Grooth, no run",,blocked down the pitch,5
+520,205,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, no run blocked back to the bowler",2nd innings,34.1,no run,167,0,167/5,"Tsotsobe to Szwarczynski, no run",,blocked back to the bowler,5
+521,206,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 leg bye ",2nd innings,34.2,leg bye,168,1,168/5,"Tsotsobe to Szwarczynski, 1 leg bye",,,5
+522,207,Tom de Grooth,25022,Lonwabo Tsotsobe,47666,"Tsotsobe to de Grooth, 1 run ",2nd innings,34.3,run,169,1,169/5,"Tsotsobe to de Grooth, 1 run",,,5
+523,208,Eric Szwarczynski,214696,Lonwabo Tsotsobe,47666,"Tsotsobe to Szwarczynski, 1 run uppercut over gully for one",2nd innings,34.4,run,170,1,170/5,"Tsotsobe to Szwarczynski, 1 run",,uppercut over gully for one,5
+524,209,Tom de Grooth,25022,Lonwabo Tsotsobe,47666,"Tsotsobe to de Grooth, no run left alone outside off",2nd innings,34.5,no run,170,0,170/5,"Tsotsobe to de Grooth, no run",,left alone outside off,5
+525,210,Tom de Grooth,25022,Lonwabo Tsotsobe,47666,"Tsotsobe to de Grooth, 1 run worked into the leg side for one",2nd innings,35.0,run,171,1,171/5,"Tsotsobe to de Grooth, 1 run",,worked into the leg side for one,5
+526,211,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, FOUR runs beautifull square cut slides off the bat and races toward the pavilion",2nd innings,35.1,four,175,4,175/5,"McLaren to de Grooth, FOUR runs",,beautifull square cut slides off the bat and races toward the pavilion,5
+527,212,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, no run shorter ball, and he sways away outside it",2nd innings,35.2,no run,175,0,175/5,"McLaren to de Grooth, no run",,"shorter ball, and he sways away outside it",5
+528,213,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, 1 leg bye off the pad and the ball runs down to fine leg",2nd innings,35.3,leg bye,176,1,176/5,"McLaren to de Grooth, 1 leg bye",,off the pad and the ball runs down to fine leg,5
+529,214,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run cut hard, but staright to the fielder at point",2nd innings,35.4,no run,176,0,176/5,"McLaren to Szwarczynski, no run",,"cut hard, but staright to the fielder at point",5
+530,215,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 run short delivery, goes for the pull but not a well timed shot - away to midwicket for a single",2nd innings,35.5,run,177,1,177/5,"McLaren to Szwarczynski, 1 run",,"short delivery, goes for the pull but not a well timed shot - away to midwicket for a single",5
+531,216,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, 1 run played down for an easy single",2nd innings,36.0,run,178,1,178/5,"McLaren to de Grooth, 1 run",,played down for an easy single,5
+532,217,Tom de Grooth,25022,Rory Kleinveldt,45949,"Kleinveldt to de Grooth, no run ",2nd innings,36.1,no run,178,0,178/5,"Kleinveldt to de Grooth, no run",,,5
+533,218,Tom de Grooth,25022,Rory Kleinveldt,45949,"Kleinveldt to de Grooth, no run ",2nd innings,36.2,no run,178,0,178/5,"Kleinveldt to de Grooth, no run",,,5
+534,219,Tom de Grooth,25022,Rory Kleinveldt,45949,"Kleinveldt to de Grooth, 1 leg bye appeal turned down, looked close",2nd innings,36.3,leg bye,179,1,179/5,"Kleinveldt to de Grooth, 1 leg bye",,"appeal turned down, looked close",5
+535,220,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, no run defended outside the off stump",2nd innings,36.4,no run,179,0,179/5,"Kleinveldt to Szwarczynski, no run",,defended outside the off stump,5
+536,221,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, FOUR runs short ball outside the off stump, enough room and that is cut away for a boundary",2nd innings,36.5,four,183,4,183/5,"Kleinveldt to Szwarczynski, FOUR runs",,"short ball outside the off stump, enough room and that is cut away for a boundary",5
+537,222,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, no run ",2nd innings,37.0,no run,183,0,183/5,"Kleinveldt to Szwarczynski, no run",,,5
+538,223,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, no run ",2nd innings,37.1,no run,183,0,183/5,"McLaren to de Grooth, no run",,,5
+539,224,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, 1 leg bye runs off the pad, they scamper through for a single",2nd innings,37.2,leg bye,184,1,184/5,"McLaren to de Grooth, 1 leg bye",,"runs off the pad, they scamper through for a single",5
+540,225,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, FOUR runs ",2nd innings,37.3,four,188,4,188/5,"McLaren to Szwarczynski, FOUR runs",,,5
+541,226,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run ",2nd innings,37.4,no run,188,0,188/5,"McLaren to Szwarczynski, no run",,,5
+542,227,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 run ",2nd innings,37.5,run,189,1,189/5,"McLaren to Szwarczynski, 1 run",,,5
+543,227,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, 1 wide ",2nd innings,37.5,wide,190,1,190/5,"McLaren to de Grooth, 1 wide",,,5
+544,228,Tom de Grooth,25022,Ryan McLaren,46393,"McLaren to de Grooth, 1 run ",2nd innings,38.0,run,191,1,191/5,"McLaren to de Grooth, 1 run",,,5
+545,229,Tom de Grooth,25022,Rory Kleinveldt,45949,"Kleinveldt to de Grooth, OUT swing and a miss and that's the end of that",2nd innings,38.1,out,191,0,191/6,"Kleinveldt to de Grooth, OUT",,swing and a miss and that's the end of that,6
+546,230,Mudassar Bukhari,245166,Rory Kleinveldt,45949,"Kleinveldt to Mudassar Bukhari, no run ",2nd innings,38.2,no run,191,0,191/6,"Kleinveldt to Mudassar Bukhari, no run",,,6
+547,231,Mudassar Bukhari,245166,Rory Kleinveldt,45949,"Kleinveldt to Mudassar Bukhari, 1 run guided to third man",2nd innings,38.3,run,192,1,192/6,"Kleinveldt to Mudassar Bukhari, 1 run",,guided to third man,6
+548,232,Eric Szwarczynski,214696,Rory Kleinveldt,45949,"Kleinveldt to Szwarczynski, 1 run turned square off his toes",2nd innings,38.4,run,193,1,193/6,"Kleinveldt to Szwarczynski, 1 run",,turned square off his toes,6
+549,233,Mudassar Bukhari,245166,Rory Kleinveldt,45949,"Kleinveldt to Mudassar Bukhari, no run cut away to point",2nd innings,38.5,no run,193,0,193/6,"Kleinveldt to Mudassar Bukhari, no run",,cut away to point,6
+550,234,Mudassar Bukhari,245166,Rory Kleinveldt,45949,"Kleinveldt to Mudassar Bukhari, no run kicked up to rap him on the gloves, but falls safe in front of slip",2nd innings,39.0,no run,193,0,193/6,"Kleinveldt to Mudassar Bukhari, no run",,"kicked up to rap him on the gloves, but falls safe in front of slip",6
+551,235,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, no run blocked back down the ground",2nd innings,39.1,no run,193,0,193/6,"McLaren to Szwarczynski, no run",,blocked back down the ground,6
+552,236,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, FOUR runs reared up off a shortish length, and he chases it up playing it high above his head to lift it over the keeper",2nd innings,39.2,four,197,4,197/6,"McLaren to Szwarczynski, FOUR runs",,"reared up off a shortish length, and he chases it up playing it high above his head to lift it over the keeper",6
+553,237,Eric Szwarczynski,214696,Ryan McLaren,46393,"McLaren to Szwarczynski, 1 run ",2nd innings,39.3,run,198,1,198/6,"McLaren to Szwarczynski, 1 run",,,6
+554,238,Mudassar Bukhari,245166,Ryan McLaren,46393,"McLaren to Mudassar Bukhari, no run beats the edge outside off",2nd innings,39.4,no run,198,0,198/6,"McLaren to Mudassar Bukhari, no run",,beats the edge outside off,6
+555,239,Mudassar Bukhari,245166,Ryan McLaren,46393,"McLaren to Mudassar Bukhari, no run blocked back to the bowler",2nd innings,39.5,no run,198,0,198/6,"McLaren to Mudassar Bukhari, no run",,blocked back to the bowler,6
+556,240,Mudassar Bukhari,245166,Ryan McLaren,46393,"McLaren to Mudassar Bukhari, 1 run turned around the corner for one",2nd innings,40.0,run,199,1,199/6,"McLaren to Mudassar Bukhari, 1 run",,turned around the corner for one,6
+557,241,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, FOUR runs swatted over and behind square to the boundary",2nd innings,40.1,four,203,4,203/6,"Behardien to Mudassar Bukhari, FOUR runs",,swatted over and behind square to the boundary,6
+558,242,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, 1 run dug out square for one",2nd innings,40.2,run,204,1,204/6,"Behardien to Mudassar Bukhari, 1 run",,dug out square for one,6
+559,243,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run driven straight for a single",2nd innings,40.3,run,205,1,205/6,"Behardien to Szwarczynski, 1 run",,driven straight for a single,6
+560,244,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, 1 run punched out to long off",2nd innings,40.4,run,206,1,206/6,"Behardien to Mudassar Bukhari, 1 run",,punched out to long off,6
+561,245,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, no run ",2nd innings,40.5,no run,206,0,206/6,"Behardien to Szwarczynski, no run",,,6
+562,246,Eric Szwarczynski,214696,Farhaan Behardien,44410,"Behardien to Szwarczynski, 1 run pushed away through the covers for a single",2nd innings,41.0,run,207,1,207/6,"Behardien to Szwarczynski, 1 run",,pushed away through the covers for a single,6
+563,247,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, no run ",2nd innings,41.1,no run,207,0,207/6,"Peterson to Szwarczynski, no run",,,6
+564,248,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 2 runs late cut behindpoint for a couple",2nd innings,41.2,run,209,2,209/6,"Peterson to Szwarczynski, 2 runs",,late cut behindpoint for a couple,6
+565,249,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, 1 run pushed out to cover and the scamer through for one",2nd innings,41.3,run,210,1,210/6,"Peterson to Szwarczynski, 1 run",,pushed out to cover and the scamer through for one,6
+566,250,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, FOUR runs slammed out the midwicket boundary past the diving fielder",2nd innings,41.4,four,214,4,214/6,"Peterson to Mudassar Bukhari, FOUR runs",,slammed out the midwicket boundary past the diving fielder,6
+567,251,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, 1 run hit on the up and gets it down straight",2nd innings,41.5,run,215,1,215/6,"Peterson to Mudassar Bukhari, 1 run",,hit on the up and gets it down straight,6
+568,252,Eric Szwarczynski,214696,Robin Peterson,46750,"Peterson to Szwarczynski, FOUR runs ",2nd innings,42.0,four,219,4,219/6,"Peterson to Szwarczynski, FOUR runs",,,6
+569,253,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, OUT Bukhari slams one back straight, and Behardien gets a finger on it's way into the stumps. Swarcynski caught out of his ground and falls two runs short of a well earned century in most tragic fashion.",2nd innings,42.1,out,219,0,219/7,"Behardien to Mudassar Bukhari, OUT",,"Bukhari slams one back straight, and Behardien gets a finger on it's way into the stumps. Swarcynski caught out of his ground and falls two runs short of a well earned century in most tragic fashion.",7
+570,254,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, no run ",2nd innings,42.2,no run,219,0,219/7,"Behardien to Mudassar Bukhari, no run",,,7
+571,255,Mudassar Bukhari,245166,Farhaan Behardien,44410,"Behardien to Mudassar Bukhari, 1 run ",2nd innings,42.3,run,220,1,220/7,"Behardien to Mudassar Bukhari, 1 run",,,7
+572,256,Pieter Seelaar,208657,Farhaan Behardien,44410,"Behardien to Seelaar, no run ",2nd innings,42.4,no run,220,0,220/7,"Behardien to Seelaar, no run",,,7
+573,257,Pieter Seelaar,208657,Farhaan Behardien,44410,"Behardien to Seelaar, no run ",2nd innings,42.5,no run,220,0,220/7,"Behardien to Seelaar, no run",,,7
+574,258,Pieter Seelaar,208657,Farhaan Behardien,44410,"Behardien to Seelaar, 1 run ",2nd innings,43.0,run,221,1,221/7,"Behardien to Seelaar, 1 run",,,7
+575,259,Pieter Seelaar,208657,Robin Peterson,46750,"Peterson to Seelaar, no run ",2nd innings,43.1,no run,221,0,221/7,"Peterson to Seelaar, no run",,,7
+576,260,Pieter Seelaar,208657,Robin Peterson,46750,"Peterson to Seelaar, no run ",2nd innings,43.2,no run,221,0,221/7,"Peterson to Seelaar, no run",,,7
+577,261,Pieter Seelaar,208657,Robin Peterson,46750,"Peterson to Seelaar, 1 run ",2nd innings,43.3,run,222,1,222/7,"Peterson to Seelaar, 1 run",,,7
+578,262,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, 1 run pushed to onside ",2nd innings,43.4,run,223,1,223/7,"Peterson to Mudassar Bukhari, 1 run",,pushed to onside ,7
+579,263,Pieter Seelaar,208657,Robin Peterson,46750,"Peterson to Seelaar, OUT Goes for the big shot over square leg but skies it to Mclaren long off, who makes no mistake",2nd innings,43.5,out,223,0,223/8,"Peterson to Seelaar, OUT",,"Goes for the big shot over square leg but skies it to Mclaren long off, who makes no mistake",8
+580,264,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, no run ",2nd innings,44.0,no run,223,0,223/8,"Peterson to Mudassar Bukhari, no run",,,8
+581,265,Paul van Meekeren,348109,Jean-Paul Duminy,44932,"Duminy to van Meekeren, no run ",2nd innings,44.1,no run,223,0,223/8,"Duminy to van Meekeren, no run",,,8
+582,266,Paul van Meekeren,348109,Jean-Paul Duminy,44932,"Duminy to van Meekeren, 1 run ",2nd innings,44.2,run,224,1,224/8,"Duminy to van Meekeren, 1 run",,,8
+583,267,Mudassar Bukhari,245166,Jean-Paul Duminy,44932,"Duminy to Mudassar Bukhari, no run ",2nd innings,44.3,no run,224,0,224/8,"Duminy to Mudassar Bukhari, no run",,,8
+584,268,Mudassar Bukhari,245166,Jean-Paul Duminy,44932,"Duminy to Mudassar Bukhari, FOUR runs leans into a square cut and it's off to the rope",2nd innings,44.4,four,228,4,228/8,"Duminy to Mudassar Bukhari, FOUR runs",,leans into a square cut and it's off to the rope,8
+585,269,Mudassar Bukhari,245166,Jean-Paul Duminy,44932,"Duminy to Mudassar Bukhari, 2 runs cut square again, and they run two",2nd innings,44.5,run,230,2,230/8,"Duminy to Mudassar Bukhari, 2 runs",,"cut square again, and they run two",8
+586,270,Mudassar Bukhari,245166,Jean-Paul Duminy,44932,"Duminy to Mudassar Bukhari, 1 run full toss, driven hard through cover, well stoped by Amla",2nd innings,45.0,run,231,1,231/8,"Duminy to Mudassar Bukhari, 1 run",,"full toss, driven hard through cover, well stoped by Amla",8
+587,270,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, 1 no ball Gone! but no! Bukhari charges down to swing and miss and De Villiers whips off the stumps. Buhki's halfway back to the pavilion when he's sent back. No ball",2nd innings,45.0,no ball,232,1,232/8,"Peterson to Mudassar Bukhari, 1 no ball",,Gone! but no! Bukhari charges down to swing and miss and De Villiers whips off the stumps. Buhki's halfway back to the pavilion when he's sent back. No ball,8
+588,271,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, no run ",2nd innings,45.1,no run,232,0,232/8,"Peterson to Mudassar Bukhari, no run",,,8
+589,272,Mudassar Bukhari,245166,Robin Peterson,46750,"Peterson to Mudassar Bukhari, OUT But no mistake this time, tries to go over the top again but snicks an edge to the gloves.",2nd innings,45.2,out,232,0,232/9,"Peterson to Mudassar Bukhari, OUT",,"But no mistake this time, tries to go over the top again but snicks an edge to the gloves.",9
+590,273,Ahsan Malik,518097,Robin Peterson,46750,"Peterson to Ahsan Malik, 1 run cut away in front of point",2nd innings,45.3,run,233,1,233/9,"Peterson to Ahsan Malik, 1 run",,cut away in front of point,9
+591,274,Paul van Meekeren,348109,Robin Peterson,46750,"Peterson to van Meekeren, no run ",2nd innings,45.4,no run,233,0,233/9,"Peterson to van Meekeren, no run",,,9
+592,275,Paul van Meekeren,348109,Robin Peterson,46750,"Peterson to van Meekeren, 1 run ",2nd innings,45.5,run,234,1,234/9,"Peterson to van Meekeren, 1 run",,,9
+593,276,Ahsan Malik,518097,Robin Peterson,46750,"Peterson to Ahsan Malik, no run ",2nd innings,46.0,no run,234,0,234/9,"Peterson to Ahsan Malik, no run",,,9
+594,277,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,46.1,no run,234,0,234/9,"Kleinveldt to van Meekeren, no run",,,9
+595,278,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, 2 runs ",2nd innings,46.2,run,236,2,236/9,"Kleinveldt to van Meekeren, 2 runs",,,9
+596,279,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, 2 runs ",2nd innings,46.3,run,238,2,238/9,"Kleinveldt to van Meekeren, 2 runs",,,9
+597,280,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,46.4,no run,238,0,238/9,"Kleinveldt to van Meekeren, no run",,,9
+598,281,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,46.5,no run,238,0,238/9,"Kleinveldt to van Meekeren, no run",,,9
+599,282,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,47.0,no run,238,0,238/9,"Kleinveldt to van Meekeren, no run",,,9
+600,283,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, no run ",2nd innings,47.1,no run,238,0,238/9,"McLaren to Ahsan Malik, no run",,,9
+601,284,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, no run ",2nd innings,47.2,no run,238,0,238/9,"McLaren to Ahsan Malik, no run",,,9
+602,285,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, FOUR runs ",2nd innings,47.3,four,242,4,242/9,"McLaren to Ahsan Malik, FOUR runs",,,9
+603,286,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, 1 run ",2nd innings,47.4,run,243,1,243/9,"McLaren to Ahsan Malik, 1 run",,,9
+604,287,Paul van Meekeren,348109,Ryan McLaren,46393,"McLaren to van Meekeren, 2 runs ",2nd innings,47.5,run,245,2,245/9,"McLaren to van Meekeren, 2 runs",,,9
+605,288,Paul van Meekeren,348109,Ryan McLaren,46393,"McLaren to van Meekeren, 1 run ",2nd innings,48.0,run,246,1,246/9,"McLaren to van Meekeren, 1 run",,,9
+606,289,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, FOUR runs ",2nd innings,48.1,four,250,4,250/9,"Kleinveldt to van Meekeren, FOUR runs",,,9
+607,290,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,48.2,no run,250,0,250/9,"Kleinveldt to van Meekeren, no run",,,9
+608,291,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, 1 run ",2nd innings,48.3,run,251,1,251/9,"Kleinveldt to van Meekeren, 1 run",,,9
+609,292,Ahsan Malik,518097,Rory Kleinveldt,45949,"Kleinveldt to Ahsan Malik, no run ",2nd innings,48.4,no run,251,0,251/9,"Kleinveldt to Ahsan Malik, no run",,,9
+610,293,Ahsan Malik,518097,Rory Kleinveldt,45949,"Kleinveldt to Ahsan Malik, no run ",2nd innings,48.5,no run,251,0,251/9,"Kleinveldt to Ahsan Malik, no run",,,9
+611,293,Ahsan Malik,518097,Rory Kleinveldt,45949,"Kleinveldt to Ahsan Malik, (no ball) 1 run ",2nd innings,48.5,run,253,2,253/9,"Kleinveldt to Ahsan Malik, (no ball) 1 run",,,9
+612,294,Paul van Meekeren,348109,Rory Kleinveldt,45949,"Kleinveldt to van Meekeren, no run ",2nd innings,49.0,no run,253,0,253/9,"Kleinveldt to van Meekeren, no run",,,9
+613,295,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, 1 run ",2nd innings,49.1,run,254,1,254/9,"McLaren to Ahsan Malik, 1 run",,,9
+614,296,Paul van Meekeren,348109,Ryan McLaren,46393,"McLaren to van Meekeren, 1 run ",2nd innings,49.2,run,255,1,255/9,"McLaren to van Meekeren, 1 run",,,9
+615,297,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, 2 runs ",2nd innings,49.3,run,257,2,257/9,"McLaren to Ahsan Malik, 2 runs",,,9
+616,298,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, no run ",2nd innings,49.4,no run,257,0,257/9,"McLaren to Ahsan Malik, no run",,,9
+617,299,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, no run ",2nd innings,49.5,no run,257,0,257/9,"McLaren to Ahsan Malik, no run",,,9
+618,300,Ahsan Malik,518097,Ryan McLaren,46393,"McLaren to Ahsan Malik, no run ",2nd innings,50.0,no run,258,0,258/9,"McLaren to Ahsan Malik, no run",,,9

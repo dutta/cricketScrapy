@@ -1,0 +1,574 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Solomon Mire,290462,Safyaan Sharif,414970,"Sharif to Mire, 1 run ",1st innings,0.1,run,1,1,1/0,"Sharif to Mire, 1 run",,,0
+1,2,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, no run ",1st innings,0.2,no run,1,0,1/0,"Sharif to Zhuwao, no run",,,0
+2,3,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, FOUR runs ",1st innings,0.3,four,5,4,5/0,"Sharif to Zhuwao, FOUR runs",,,0
+3,4,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, FOUR runs ",1st innings,0.4,four,9,4,9/0,"Sharif to Zhuwao, FOUR runs",,,0
+4,5,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, no run ",1st innings,0.5,no run,9,0,9/0,"Sharif to Zhuwao, no run",,,0
+5,6,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, SIX runs ",1st innings,0.6,six,16,6,16/0,"Sharif to Zhuwao, SIX runs",,,0
+6,7,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.1,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+7,8,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.2,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+8,9,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.3,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+9,10,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.4,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+10,11,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.5,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+11,12,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,1.6,no run,16,0,16/0,"Wheal to Mire, no run",,,0
+12,13,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, no run ",1st innings,2.1,no run,16,0,16/0,"Sharif to Zhuwao, no run",,,0
+13,14,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, FOUR runs ",1st innings,2.2,four,20,4,20/0,"Sharif to Zhuwao, FOUR runs",,,0
+14,15,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, no run ",1st innings,2.3,no run,20,0,20/0,"Sharif to Zhuwao, no run",,,0
+15,16,Cephas Zhuwao,235532,Safyaan Sharif,414970,"Sharif to Zhuwao, OUT ",1st innings,2.4,out,20,0,20/1,"Sharif to Zhuwao, OUT",,,1
+16,17,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, 1 run ",1st innings,2.5,run,21,1,21/1,"Sharif to Masakadza, 1 run",,,1
+17,18,Solomon Mire,290462,Safyaan Sharif,414970,"Sharif to Mire, no run ",1st innings,2.6,no run,21,0,21/1,"Sharif to Mire, no run",,,1
+18,19,Hamilton Masakadza,55608,Brad Wheal,807535,"Wheal to Masakadza, no run ",1st innings,3.1,no run,21,0,21/1,"Wheal to Masakadza, no run",,,1
+19,20,Hamilton Masakadza,55608,Brad Wheal,807535,"Wheal to Masakadza, no run ",1st innings,3.2,no run,21,0,21/1,"Wheal to Masakadza, no run",,,1
+20,21,Hamilton Masakadza,55608,Brad Wheal,807535,"Wheal to Masakadza, 1 run ",1st innings,3.3,run,22,1,22/1,"Wheal to Masakadza, 1 run",,,1
+21,22,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,3.4,no run,22,0,22/1,"Wheal to Mire, no run",,,1
+22,23,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,3.5,no run,22,0,22/1,"Wheal to Mire, no run",,,1
+23,24,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,3.6,no run,22,0,22/1,"Wheal to Mire, no run",,,1
+24,25,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, no run ",1st innings,4.1,no run,22,0,22/1,"Sharif to Masakadza, no run",,,1
+25,26,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, no run ",1st innings,4.2,no run,22,0,22/1,"Sharif to Masakadza, no run",,,1
+26,27,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, no run ",1st innings,4.3,no run,22,0,22/1,"Sharif to Masakadza, no run",,,1
+27,28,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, no run ",1st innings,4.4,no run,22,0,22/1,"Sharif to Masakadza, no run",,,1
+28,29,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, no run ",1st innings,4.5,no run,22,0,22/1,"Sharif to Masakadza, no run",,,1
+29,31,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,5.1,no run,22,0,22/1,"Wheal to Mire, no run",,,1
+30,31,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 1 wide ",1st innings,5.1,wide,23,1,23/1,"Wheal to Mire, 1 wide",,,1
+31,32,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,5.2,no run,23,0,23/1,"Wheal to Mire, no run",,,1
+32,32,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 1 wide ",1st innings,5.2,wide,24,1,24/1,"Wheal to Mire, 1 wide",,,1
+33,33,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 2 runs ",1st innings,5.3,run,26,2,26/1,"Wheal to Mire, 2 runs",,,1
+34,34,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,5.4,no run,26,0,26/1,"Wheal to Mire, no run",,,1
+35,35,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 1 run ",1st innings,5.5,run,27,1,27/1,"Wheal to Mire, 1 run",,,1
+36,36,Hamilton Masakadza,55608,Brad Wheal,807535,"Wheal to Masakadza, no run ",1st innings,5.6,no run,27,0,27/1,"Wheal to Masakadza, no run",,,1
+37,37,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.1,no run,27,0,27/1,"Watt to Mire, no run",,,1
+38,38,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.2,no run,27,0,27/1,"Watt to Mire, no run",,,1
+39,39,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.3,no run,27,0,27/1,"Watt to Mire, no run",,,1
+40,40,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.4,no run,27,0,27/1,"Watt to Mire, no run",,,1
+41,41,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.5,no run,27,0,27/1,"Watt to Mire, no run",,,1
+42,42,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,6.6,no run,27,0,27/1,"Watt to Mire, no run",,,1
+43,43,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, no run ",1st innings,7.1,no run,27,0,27/1,"Berrington to Masakadza, no run",,,1
+44,44,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, 2 runs ",1st innings,7.2,run,29,2,29/1,"Berrington to Masakadza, 2 runs",,,1
+45,45,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, FOUR runs ",1st innings,7.3,four,33,4,33/1,"Berrington to Masakadza, FOUR runs",,,1
+46,46,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, FOUR runs ",1st innings,7.4,four,37,4,37/1,"Berrington to Masakadza, FOUR runs",,,1
+47,47,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, no run ",1st innings,7.5,no run,37,0,37/1,"Berrington to Masakadza, no run",,,1
+48,48,Hamilton Masakadza,55608,Richie Berrington,25490,"Berrington to Masakadza, FOUR runs ",1st innings,7.6,four,41,4,41/1,"Berrington to Masakadza, FOUR runs",,,1
+49,49,Solomon Mire,290462,Safyaan Sharif,414970,"Sharif to Mire, 1 run ",1st innings,8.1,run,42,1,42/1,"Sharif to Mire, 1 run",,,1
+50,50,Hamilton Masakadza,55608,Safyaan Sharif,414970,"Sharif to Masakadza, OUT ",1st innings,8.2,out,42,0,42/2,"Sharif to Masakadza, OUT",,,2
+51,51,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,8.3,no run,42,0,42/2,"Sharif to Taylor, no run",,,2
+52,52,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,8.4,no run,42,0,42/2,"Sharif to Taylor, no run",,,2
+53,53,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,8.5,no run,42,0,42/2,"Sharif to Taylor, no run",,,2
+54,54,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,8.6,no run,42,0,42/2,"Sharif to Taylor, no run",,,2
+55,55,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 2 runs ",1st innings,9.1,run,44,2,44/2,"Wheal to Mire, 2 runs",,,2
+56,56,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,9.2,no run,44,0,44/2,"Wheal to Mire, no run",,,2
+57,57,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 2 runs ",1st innings,9.3,run,46,2,46/2,"Wheal to Mire, 2 runs",,,2
+58,58,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, 2 runs ",1st innings,9.4,run,48,2,48/2,"Wheal to Mire, 2 runs",,,2
+59,59,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,9.5,no run,48,0,48/2,"Wheal to Mire, no run",,,2
+60,60,Solomon Mire,290462,Brad Wheal,807535,"Wheal to Mire, no run ",1st innings,9.6,no run,48,0,48/2,"Wheal to Mire, no run",,,2
+61,61,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, 2 runs ",1st innings,10.1,run,50,2,50/2,"Sharif to Taylor, 2 runs",,,2
+62,62,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,10.2,no run,50,0,50/2,"Sharif to Taylor, no run",,,2
+63,63,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,10.3,no run,50,0,50/2,"Sharif to Taylor, no run",,,2
+64,64,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,10.4,no run,50,0,50/2,"Sharif to Taylor, no run",,,2
+65,65,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,10.5,no run,50,0,50/2,"Sharif to Taylor, no run",,,2
+66,66,Brendan Taylor,55814,Safyaan Sharif,414970,"Sharif to Taylor, no run ",1st innings,10.6,no run,54,0,54/2,"Sharif to Taylor, no run",,,2
+67,67,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 2 runs ",1st innings,11.1,run,56,2,56/2,"Sole to Mire, 2 runs",,,2
+68,68,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, no run ",1st innings,11.2,no run,56,0,56/2,"Sole to Mire, no run",,,2
+69,69,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 run ",1st innings,11.3,run,57,1,57/2,"Sole to Mire, 1 run",,,2
+70,70,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,11.4,no run,57,0,57/2,"Sole to Taylor, no run",,,2
+71,71,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,11.5,no run,57,0,57/2,"Sole to Taylor, no run",,,2
+72,72,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,11.6,no run,57,0,57/2,"Sole to Taylor, no run",,,2
+73,73,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,12.1,no run,57,0,57/2,"Watt to Mire, no run",,,2
+74,74,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,12.2,no run,57,0,57/2,"Watt to Mire, no run",,,2
+75,75,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, 1 run ",1st innings,12.3,run,58,1,58/2,"Watt to Mire, 1 run",,,2
+76,76,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, FOUR runs ",1st innings,12.4,four,62,4,62/2,"Watt to Taylor, FOUR runs",,,2
+77,77,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, no run ",1st innings,12.5,no run,62,0,62/2,"Watt to Taylor, no run",,,2
+78,78,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, SIX runs ",1st innings,12.6,six,68,6,68/2,"Watt to Taylor, SIX runs",,,2
+79,79,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, no run ",1st innings,13.1,no run,68,0,68/2,"Sole to Mire, no run",,,2
+80,80,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, no run ",1st innings,13.2,no run,68,0,68/2,"Sole to Mire, no run",,,2
+81,80,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 wide ",1st innings,13.2,wide,69,1,69/2,"Sole to Mire, 1 wide",,,2
+82,81,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 2 runs ",1st innings,13.3,run,71,2,71/2,"Sole to Mire, 2 runs",,,2
+83,82,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 2 runs ",1st innings,13.4,run,73,2,73/2,"Sole to Mire, 2 runs",,,2
+84,83,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, no run ",1st innings,13.5,no run,73,0,73/2,"Sole to Mire, no run",,,2
+85,84,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 run ",1st innings,13.6,run,74,1,74/2,"Sole to Mire, 1 run",,,2
+86,85,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, 1 run ",1st innings,14.1,run,75,1,75/2,"Watt to Mire, 1 run",,,2
+87,86,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, no run ",1st innings,14.2,no run,75,0,75/2,"Watt to Taylor, no run",,,2
+88,87,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, FOUR runs ",1st innings,14.3,four,79,4,79/2,"Watt to Taylor, FOUR runs",,,2
+89,88,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, 1 run ",1st innings,14.4,run,80,1,80/2,"Watt to Taylor, 1 run",,,2
+90,89,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, 1 leg bye ",1st innings,14.5,leg bye,81,1,81/2,"Watt to Mire, 1 leg bye",,,2
+91,90,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, no run ",1st innings,14.6,no run,81,0,81/2,"Watt to Taylor, no run",,,2
+92,91,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 run ",1st innings,15.1,run,82,1,82/2,"Sole to Mire, 1 run",,,2
+93,92,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,15.2,run,83,1,83/2,"Sole to Taylor, 1 run",,,2
+94,93,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 run ",1st innings,15.3,run,84,1,84/2,"Sole to Mire, 1 run",,,2
+95,94,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,15.4,no run,84,0,84/2,"Sole to Taylor, no run",,,2
+96,95,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,15.5,no run,84,0,84/2,"Sole to Taylor, no run",,,2
+97,96,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,15.6,no run,84,0,84/2,"Sole to Taylor, no run",,,2
+98,97,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, no run ",1st innings,16.1,no run,84,0,84/2,"Watt to Mire, no run",,,2
+99,98,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, FOUR runs ",1st innings,16.2,four,88,4,88/2,"Watt to Mire, FOUR runs",,,2
+100,99,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, 1 run ",1st innings,16.3,run,89,1,89/2,"Watt to Mire, 1 run",,,2
+101,100,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, 1 run ",1st innings,16.4,run,90,1,90/2,"Watt to Taylor, 1 run",,,2
+102,101,Solomon Mire,290462,Mark Watt,659081,"Watt to Mire, 1 run ",1st innings,16.5,run,91,1,91/2,"Watt to Mire, 1 run",,,2
+103,102,Brendan Taylor,55814,Mark Watt,659081,"Watt to Taylor, 1 run ",1st innings,16.6,run,92,1,92/2,"Watt to Taylor, 1 run",,,2
+104,103,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, FOUR runs ",1st innings,17.1,four,96,4,96/2,"Sole to Taylor, FOUR runs",,,2
+105,104,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,17.2,run,97,1,97/2,"Sole to Taylor, 1 run",,,2
+106,105,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, 1 run ",1st innings,17.3,run,98,1,98/2,"Sole to Mire, 1 run",,,2
+107,106,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,17.4,run,99,1,99/2,"Sole to Taylor, 1 run",,,2
+108,107,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, FOUR runs ",1st innings,17.5,four,103,4,103/2,"Sole to Mire, FOUR runs",,,2
+109,108,Solomon Mire,290462,Tom Sole,526492,"Sole to Mire, no run ",1st innings,17.6,no run,103,0,103/2,"Sole to Mire, no run",,,2
+110,109,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,18.1,run,104,1,104/2,"Leask to Taylor, 1 run",,,2
+111,110,Solomon Mire,290462,Michael Leask,414966,"Leask to Mire, no run ",1st innings,18.2,no run,104,0,104/2,"Leask to Mire, no run",,,2
+112,111,Solomon Mire,290462,Michael Leask,414966,"Leask to Mire, no run ",1st innings,18.3,no run,104,0,104/2,"Leask to Mire, no run",,,2
+113,112,Solomon Mire,290462,Michael Leask,414966,"Leask to Mire, 1 run ",1st innings,18.4,run,105,1,105/2,"Leask to Mire, 1 run",,,2
+114,113,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,18.5,run,106,1,106/2,"Leask to Taylor, 1 run",,,2
+115,114,Solomon Mire,290462,Michael Leask,414966,"Leask to Mire, OUT ",1st innings,18.6,out,106,0,106/3,"Leask to Mire, OUT",,,3
+116,115,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,19.1,no run,106,0,106/3,"Sole to Taylor, no run",,,3
+117,116,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, no run ",1st innings,19.2,no run,106,0,106/3,"Sole to Taylor, no run",,,3
+118,117,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,19.3,run,107,1,107/3,"Sole to Taylor, 1 run",,,3
+119,118,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,19.4,no run,107,0,107/3,"Sole to Ervine, no run",,,3
+120,119,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,19.5,no run,107,0,107/3,"Sole to Ervine, no run",,,3
+121,120,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, 1 run ",1st innings,19.6,run,108,1,108/3,"Sole to Ervine, 1 run",,,3
+122,121,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,20.1,run,109,1,109/3,"Leask to Ervine, 1 run",,,3
+123,122,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 3 runs ",1st innings,20.2,run,112,3,112/3,"Leask to Taylor, 3 runs",,,3
+124,123,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,20.3,run,113,1,113/3,"Leask to Ervine, 1 run",,,3
+125,124,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,20.4,run,114,1,114/3,"Leask to Taylor, 1 run",,,3
+126,125,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,20.5,run,115,1,115/3,"Leask to Ervine, 1 run",,,3
+127,126,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, no run ",1st innings,20.6,no run,115,0,115/3,"Leask to Taylor, no run",,,3
+128,127,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, 1 run ",1st innings,21.1,run,116,1,116/3,"Sole to Ervine, 1 run",,,3
+129,128,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, FOUR runs ",1st innings,21.2,four,120,4,120/3,"Sole to Taylor, FOUR runs",,,3
+130,129,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,21.3,run,121,1,121/3,"Sole to Taylor, 1 run",,,3
+131,130,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,21.4,no run,121,0,121/3,"Sole to Ervine, no run",,,3
+132,131,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, 1 run ",1st innings,21.5,run,122,1,122/3,"Sole to Ervine, 1 run",,,3
+133,132,Brendan Taylor,55814,Tom Sole,526492,"Sole to Taylor, 1 run ",1st innings,21.6,run,123,1,123/3,"Sole to Taylor, 1 run",,,3
+134,133,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, no run ",1st innings,22.1,no run,123,0,123/3,"Leask to Taylor, no run",,,3
+135,134,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,22.2,run,124,1,124/3,"Leask to Taylor, 1 run",,,3
+136,135,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, FOUR runs ",1st innings,22.3,four,128,4,128/3,"Leask to Ervine, FOUR runs",,,3
+137,136,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,22.4,run,129,1,129/3,"Leask to Ervine, 1 run",,,3
+138,137,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, no run ",1st innings,22.5,no run,129,0,129/3,"Leask to Taylor, no run",,,3
+139,138,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,22.6,run,130,1,130/3,"Leask to Taylor, 1 run",,,3
+140,139,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,23.1,no run,130,0,130/3,"Wheal to Taylor, no run",,,3
+141,140,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,23.2,no run,130,0,130/3,"Wheal to Taylor, no run",,,3
+142,141,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,23.3,no run,130,0,130/3,"Wheal to Taylor, no run",,,3
+143,142,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,23.4,no run,130,0,130/3,"Wheal to Taylor, no run",,,3
+144,143,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,23.5,no run,130,0,130/3,"Wheal to Taylor, no run",,,3
+145,144,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, 1 run ",1st innings,23.6,run,131,1,131/3,"Wheal to Taylor, 1 run",,,3
+146,145,Brendan Taylor,55814,Michael Leask,414966,"Leask to Taylor, 1 run ",1st innings,24.1,run,132,1,132/3,"Leask to Taylor, 1 run",,,3
+147,146,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,24.2,no run,132,0,132/3,"Leask to Ervine, no run",,,3
+148,147,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,24.3,no run,132,0,132/3,"Leask to Ervine, no run",,,3
+149,148,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,24.4,no run,132,0,132/3,"Leask to Ervine, no run",,,3
+150,149,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,24.5,no run,132,0,132/3,"Leask to Ervine, no run",,,3
+151,150,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, FOUR runs ",1st innings,24.6,four,136,4,136/3,"Leask to Ervine, FOUR runs",,,3
+152,151,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, no run ",1st innings,25.1,no run,136,0,136/3,"Wheal to Taylor, no run",,,3
+153,152,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, 1 run ",1st innings,25.2,run,137,1,137/3,"Wheal to Taylor, 1 run",,,3
+154,153,Craig Ervine,55412,Brad Wheal,807535,"Wheal to Ervine, 1 run ",1st innings,25.3,run,138,1,138/3,"Wheal to Ervine, 1 run",,,3
+155,154,Brendan Taylor,55814,Brad Wheal,807535,"Wheal to Taylor, OUT ",1st innings,25.4,out,138,0,138/4,"Wheal to Taylor, OUT",,,4
+156,155,Sikandar Raza,299572,Brad Wheal,807535,"Wheal to Sikandar Raza, 1 run ",1st innings,25.5,run,139,1,139/4,"Wheal to Sikandar Raza, 1 run",,,4
+157,156,Craig Ervine,55412,Brad Wheal,807535,"Wheal to Ervine, 1 run ",1st innings,25.6,run,140,1,140/4,"Wheal to Ervine, 1 run",,,4
+158,157,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,26.1,no run,140,0,140/4,"Leask to Ervine, no run",,,4
+159,158,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,26.2,no run,140,0,140/4,"Leask to Ervine, no run",,,4
+160,159,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 2 runs ",1st innings,26.3,run,142,2,142/4,"Leask to Ervine, 2 runs",,,4
+161,160,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,26.4,no run,142,0,142/4,"Leask to Ervine, no run",,,4
+162,161,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,26.5,run,143,1,143/4,"Leask to Ervine, 1 run",,,4
+163,162,Sikandar Raza,299572,Michael Leask,414966,"Leask to Sikandar Raza, OUT ",1st innings,26.6,out,143,0,143/5,"Leask to Sikandar Raza, OUT",,,5
+164,163,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, no run ",1st innings,27.1,no run,143,0,143/5,"Sole to Williams, no run",,,5
+165,164,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, no run ",1st innings,27.2,no run,143,0,143/5,"Sole to Williams, no run",,,5
+166,165,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, no run ",1st innings,27.3,no run,143,0,143/5,"Sole to Williams, no run",,,5
+167,166,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, no run ",1st innings,27.4,no run,143,0,143/5,"Sole to Williams, no run",,,5
+168,167,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, no run ",1st innings,27.5,no run,143,0,143/5,"Sole to Williams, no run",,,5
+169,168,Sean Williams,55870,Tom Sole,526492,"Sole to Williams, 2 runs ",1st innings,27.6,run,145,2,145/5,"Sole to Williams, 2 runs",,,5
+170,169,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,28.1,no run,145,0,145/5,"Leask to Ervine, no run",,,5
+171,170,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, 1 run ",1st innings,28.2,run,146,1,146/5,"Leask to Ervine, 1 run",,,5
+172,171,Sean Williams,55870,Michael Leask,414966,"Leask to Williams, no run ",1st innings,28.3,no run,146,0,146/5,"Leask to Williams, no run",,,5
+173,172,Sean Williams,55870,Michael Leask,414966,"Leask to Williams, no run ",1st innings,28.4,no run,146,0,146/5,"Leask to Williams, no run",,,5
+174,173,Sean Williams,55870,Michael Leask,414966,"Leask to Williams, FOUR runs ",1st innings,28.5,four,150,4,150/5,"Leask to Williams, FOUR runs",,,5
+175,174,Sean Williams,55870,Michael Leask,414966,"Leask to Williams, no run ",1st innings,28.6,no run,150,0,150/5,"Leask to Williams, no run",,,5
+176,175,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.1,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+177,176,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.2,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+178,177,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.3,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+179,178,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.4,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+180,179,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.5,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+181,180,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,29.6,no run,150,0,150/5,"Sole to Ervine, no run",,,5
+182,181,Sean Williams,55870,Safyaan Sharif,414970,"Sharif to Williams, 1 run ",1st innings,30.1,run,151,1,151/5,"Sharif to Williams, 1 run",,,5
+183,182,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,30.2,no run,151,0,151/5,"Sharif to Ervine, no run",,,5
+184,183,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,30.3,no run,151,0,151/5,"Sharif to Ervine, no run",,,5
+185,184,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, 1 run ",1st innings,30.4,run,152,1,152/5,"Sharif to Ervine, 1 run",,,5
+186,185,Sean Williams,55870,Safyaan Sharif,414970,"Sharif to Williams, no run ",1st innings,30.5,no run,152,0,152/5,"Sharif to Williams, no run",,,5
+187,186,Sean Williams,55870,Safyaan Sharif,414970,"Sharif to Williams, OUT ",1st innings,30.6,out,152,0,152/6,"Sharif to Williams, OUT",,,6
+188,187,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,31.1,no run,152,0,152/6,"Sole to Ervine, no run",,,6
+189,188,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,31.2,no run,152,0,152/6,"Sole to Ervine, no run",,,6
+190,189,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,31.3,no run,152,0,152/6,"Sole to Ervine, no run",,,6
+191,190,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, FOUR runs ",1st innings,31.4,four,156,4,156/6,"Sole to Ervine, FOUR runs",,,6
+192,191,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, FOUR runs ",1st innings,31.5,four,160,4,160/6,"Sole to Ervine, FOUR runs",,,6
+193,192,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, 1 run ",1st innings,31.6,run,161,1,161/6,"Sole to Ervine, 1 run",,,6
+194,193,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,32.1,no run,161,0,161/6,"Sharif to Ervine, no run",,,6
+195,194,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,32.2,no run,161,0,161/6,"Sharif to Ervine, no run",,,6
+196,195,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, 1 run ",1st innings,32.3,run,162,1,162/6,"Sharif to Ervine, 1 run",,,6
+197,196,Graeme Cremer,55346,Safyaan Sharif,414970,"Sharif to Cremer, no run ",1st innings,32.4,no run,162,0,162/6,"Sharif to Cremer, no run",,,6
+198,197,Graeme Cremer,55346,Safyaan Sharif,414970,"Sharif to Cremer, 1 run ",1st innings,32.5,run,163,1,163/6,"Sharif to Cremer, 1 run",,,6
+199,198,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,32.6,no run,163,0,163/6,"Sharif to Ervine, no run",,,6
+200,199,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.1,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+201,200,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.2,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+202,201,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.3,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+203,202,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.4,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+204,203,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.5,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+205,204,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,33.6,no run,163,0,163/6,"Watt to Cremer, no run",,,6
+206,205,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, no run ",1st innings,34.1,no run,163,0,163/6,"MacLeod to Ervine, no run",,,6
+207,206,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, no run ",1st innings,34.2,no run,163,0,163/6,"MacLeod to Ervine, no run",,,6
+208,207,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, 1 run ",1st innings,34.3,run,164,1,164/6,"MacLeod to Ervine, 1 run",,,6
+209,208,Graeme Cremer,55346,Calum MacLeod,232435,"MacLeod to Cremer, 1 run ",1st innings,34.4,run,165,1,165/6,"MacLeod to Cremer, 1 run",,,6
+210,209,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, no run ",1st innings,34.5,no run,165,0,165/6,"MacLeod to Ervine, no run",,,6
+211,210,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, 2 runs ",1st innings,34.6,run,167,2,167/6,"MacLeod to Ervine, 2 runs",,,6
+212,211,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, 1 run ",1st innings,35.1,run,168,1,168/6,"Watt to Cremer, 1 run",,,6
+213,212,Craig Ervine,55412,Mark Watt,659081,"Watt to Ervine, 1 run ",1st innings,35.2,run,169,1,169/6,"Watt to Ervine, 1 run",,,6
+214,213,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,35.3,no run,169,0,169/6,"Watt to Cremer, no run",,,6
+215,214,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,35.4,no run,169,0,169/6,"Watt to Cremer, no run",,,6
+216,215,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,35.5,no run,169,0,169/6,"Watt to Cremer, no run",,,6
+217,216,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, 1 run ",1st innings,35.6,run,170,1,170/6,"Watt to Cremer, 1 run",,,6
+218,217,Graeme Cremer,55346,Calum MacLeod,232435,"MacLeod to Cremer, 1 run ",1st innings,36.1,run,171,1,171/6,"MacLeod to Cremer, 1 run",,,6
+219,218,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, no run ",1st innings,36.2,no run,171,0,171/6,"MacLeod to Ervine, no run",,,6
+220,219,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, SIX runs ",1st innings,36.3,six,177,6,177/6,"MacLeod to Ervine, SIX runs",,,6
+221,220,Craig Ervine,55412,Calum MacLeod,232435,"MacLeod to Ervine, no run ",1st innings,36.4,no run,177,0,177/6,"MacLeod to Ervine, no run",,,6
+222,222,Graeme Cremer,55346,Calum MacLeod,232435,"MacLeod to Cremer, no run ",1st innings,36.6,no run,178,0,178/6,"MacLeod to Cremer, no run",,,6
+223,223,Craig Ervine,55412,Mark Watt,659081,"Watt to Ervine, 1 run ",1st innings,37.1,run,179,1,179/6,"Watt to Ervine, 1 run",,,6
+224,224,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,37.2,no run,179,0,179/6,"Watt to Cremer, no run",,,6
+225,225,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,37.3,no run,179,0,179/6,"Watt to Cremer, no run",,,6
+226,226,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, no run ",1st innings,37.4,no run,179,0,179/6,"Watt to Cremer, no run",,,6
+227,226,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, 1 wide ",1st innings,37.4,wide,180,1,180/6,"Watt to Cremer, 1 wide",,,6
+228,227,Graeme Cremer,55346,Mark Watt,659081,"Watt to Cremer, 3 runs ",1st innings,37.5,run,186,3,186/6,"Watt to Cremer, 3 runs",,,6
+229,229,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,38.1,no run,186,0,186/6,"Sharif to Ervine, no run",,,6
+230,230,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, no run ",1st innings,38.2,no run,186,0,186/6,"Sharif to Ervine, no run",,,6
+231,231,Craig Ervine,55412,Safyaan Sharif,414970,"Sharif to Ervine, 1 run ",1st innings,38.3,run,187,1,187/6,"Sharif to Ervine, 1 run",,,6
+232,232,Graeme Cremer,55346,Safyaan Sharif,414970,"Sharif to Cremer, no run ",1st innings,38.4,no run,187,0,187/6,"Sharif to Cremer, no run",,,6
+233,233,Graeme Cremer,55346,Safyaan Sharif,414970,"Sharif to Cremer, OUT ",1st innings,38.5,out,187,0,187/7,"Sharif to Cremer, OUT",,,7
+234,234,Tendai Chisoro,235519,Safyaan Sharif,414970,"Sharif to Chisoro, no run ",1st innings,38.6,no run,187,0,187/7,"Sharif to Chisoro, no run",,,7
+235,235,Craig Ervine,55412,Brad Wheal,807535,"Wheal to Ervine, 1 run ",1st innings,39.1,run,188,1,188/7,"Wheal to Ervine, 1 run",,,7
+236,236,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,39.2,no run,188,0,188/7,"Wheal to Chisoro, no run",,,7
+237,237,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,39.3,no run,188,0,188/7,"Wheal to Chisoro, no run",,,7
+238,239,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,39.5,no run,188,0,188/7,"Wheal to Chisoro, no run",,,7
+239,240,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, 1 run ",1st innings,39.6,run,189,1,189/7,"Wheal to Chisoro, 1 run",,,7
+240,241,Tendai Chisoro,235519,Tom Sole,526492,"Sole to Chisoro, 1 run ",1st innings,40.1,run,190,1,190/7,"Sole to Chisoro, 1 run",,,7
+241,242,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, 1 run ",1st innings,40.2,run,191,1,191/7,"Sole to Ervine, 1 run",,,7
+242,243,Tendai Chisoro,235519,Tom Sole,526492,"Sole to Chisoro, no run ",1st innings,40.3,no run,191,0,191/7,"Sole to Chisoro, no run",,,7
+243,244,Tendai Chisoro,235519,Tom Sole,526492,"Sole to Chisoro, no run ",1st innings,40.4,no run,191,0,191/7,"Sole to Chisoro, no run",,,7
+244,245,Tendai Chisoro,235519,Tom Sole,526492,"Sole to Chisoro, 1 run ",1st innings,40.5,run,192,1,192/7,"Sole to Chisoro, 1 run",,,7
+245,246,Craig Ervine,55412,Tom Sole,526492,"Sole to Ervine, no run ",1st innings,40.6,no run,192,0,192/7,"Sole to Ervine, no run",,,7
+246,247,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,41.1,no run,192,0,192/7,"Wheal to Chisoro, no run",,,7
+247,248,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, 2 runs ",1st innings,41.2,run,194,2,194/7,"Wheal to Chisoro, 2 runs",,,7
+248,249,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,41.3,no run,194,0,194/7,"Wheal to Chisoro, no run",,,7
+249,250,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,41.4,no run,194,0,194/7,"Wheal to Chisoro, no run",,,7
+250,251,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, no run ",1st innings,41.5,no run,194,0,194/7,"Wheal to Chisoro, no run",,,7
+251,252,Tendai Chisoro,235519,Brad Wheal,807535,"Wheal to Chisoro, 2 runs ",1st innings,41.6,run,196,2,196/7,"Wheal to Chisoro, 2 runs",,,7
+252,253,Craig Ervine,55412,Mark Watt,659081,"Watt to Ervine, 1 run ",1st innings,42.1,run,197,1,197/7,"Watt to Ervine, 1 run",,,7
+253,254,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, no run ",1st innings,42.2,no run,197,0,197/7,"Watt to Chisoro, no run",,,7
+254,255,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, 1 run ",1st innings,42.3,run,198,1,198/7,"Watt to Chisoro, 1 run",,,7
+255,256,Craig Ervine,55412,Mark Watt,659081,"Watt to Ervine, 1 run ",1st innings,42.4,run,199,1,199/7,"Watt to Ervine, 1 run",,,7
+256,257,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, 1 run ",1st innings,42.5,run,200,1,200/7,"Watt to Chisoro, 1 run",,,7
+257,258,Craig Ervine,55412,Mark Watt,659081,"Watt to Ervine, 1 run ",1st innings,42.6,run,197,1,197/7,"Watt to Ervine, 1 run",,,7
+258,259,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, FOUR runs ",1st innings,43.1,four,201,4,201/7,"Leask to Ervine, FOUR runs",,,7
+259,260,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,43.2,no run,201,0,201/7,"Leask to Ervine, no run",,,7
+260,261,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, no run ",1st innings,43.3,no run,201,0,201/7,"Leask to Ervine, no run",,,7
+261,262,Craig Ervine,55412,Michael Leask,414966,"Leask to Ervine, OUT ",1st innings,43.4,out,201,0,201/8,"Leask to Ervine, OUT",,,8
+262,263,Tendai Chatara,425639,Michael Leask,414966,"Leask to Chatara, no run ",1st innings,43.5,no run,201,0,201/8,"Leask to Chatara, no run",,,8
+263,264,Tendai Chatara,425639,Michael Leask,414966,"Leask to Chatara, no run ",1st innings,43.6,no run,201,0,201/8,"Leask to Chatara, no run",,,8
+264,265,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, no run ",1st innings,44.1,no run,201,0,201/8,"Watt to Chisoro, no run",,,8
+265,265,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, 1 wide ",1st innings,44.1,wide,202,1,202/8,"Watt to Chisoro, 1 wide",,,8
+266,266,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, no run ",1st innings,44.2,no run,202,0,202/8,"Watt to Chisoro, no run",,,8
+267,267,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, no run ",1st innings,44.3,no run,202,0,202/8,"Watt to Chisoro, no run",,,8
+268,268,Tendai Chisoro,235519,Mark Watt,659081,"Watt to Chisoro, 1 run ",1st innings,44.4,run,203,1,203/8,"Watt to Chisoro, 1 run",,,8
+269,270,Tendai Chatara,425639,Mark Watt,659081,"Watt to Chatara, no run ",1st innings,44.6,no run,203,0,203/8,"Watt to Chatara, no run",,,8
+270,271,Tendai Chisoro,235519,Michael Leask,414966,"Leask to Chisoro, OUT ",1st innings,45.1,out,203,0,203/9,"Leask to Chisoro, OUT",,,9
+271,272,Blessing Muzarabani,827051,Michael Leask,414966,"Leask to Muzarabani, no run ",1st innings,45.2,no run,203,0,203/9,"Leask to Muzarabani, no run",,,9
+272,273,Blessing Muzarabani,827051,Michael Leask,414966,"Leask to Muzarabani, no run ",1st innings,45.3,no run,203,0,203/9,"Leask to Muzarabani, no run",,,9
+273,274,Blessing Muzarabani,827051,Michael Leask,414966,"Leask to Muzarabani, no run ",1st innings,45.4,no run,203,0,203/9,"Leask to Muzarabani, no run",,,9
+274,275,Blessing Muzarabani,827051,Michael Leask,414966,"Leask to Muzarabani, 2 runs ",1st innings,45.5,run,205,2,205/9,"Leask to Muzarabani, 2 runs",,,9
+275,276,Blessing Muzarabani,827051,Michael Leask,414966,"Leask to Muzarabani, 1 run ",1st innings,45.6,run,206,1,206/9,"Leask to Muzarabani, 1 run",,,9
+276,277,Blessing Muzarabani,827051,Safyaan Sharif,414970,"Sharif to Muzarabani, no run ",1st innings,46.1,no run,206,0,206/9,"Sharif to Muzarabani, no run",,,9
+277,278,Blessing Muzarabani,827051,Safyaan Sharif,414970,"Sharif to Muzarabani, FOUR runs ",1st innings,46.2,four,210,4,210/9,"Sharif to Muzarabani, FOUR runs",,,9
+278,279,Blessing Muzarabani,827051,Safyaan Sharif,414970,"Sharif to Muzarabani, no run ",1st innings,46.3,no run,210,0,210/9,"Sharif to Muzarabani, no run",,,9
+279,280,Blessing Muzarabani,827051,Safyaan Sharif,414970,"Sharif to Muzarabani, OUT ",1st innings,46.4,out,210,0,210/9,"Sharif to Muzarabani, OUT",,,9
+280,1,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,0.1,no run,0,0,0/0,"Chatara to Cross, no run",,,0
+281,2,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,0.2,no run,0,0,0/0,"Chatara to Cross, no run",,,0
+282,3,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, FOUR runs ",2nd innings,0.3,four,4,4,4/0,"Chatara to Cross, FOUR runs",,,0
+283,4,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,0.4,no run,4,0,4/0,"Chatara to Cross, no run",,,0
+284,5,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,0.5,no run,4,0,4/0,"Chatara to Cross, no run",,,0
+285,6,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,0.6,no run,4,0,4/0,"Chatara to Cross, no run",,,0
+286,7,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,1.1,no run,4,0,4/0,"Chisoro to Coetzer, no run",,,0
+287,8,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, 2 runs ",2nd innings,1.2,run,6,2,6/0,"Chisoro to Coetzer, 2 runs",,,0
+288,9,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,1.3,no run,6,0,6/0,"Chisoro to Coetzer, no run",,,0
+289,10,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,1.4,no run,6,0,6/0,"Chisoro to Coetzer, no run",,,0
+290,11,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,1.5,no run,6,0,6/0,"Chisoro to Coetzer, no run",,,0
+291,12,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, 1 run ",2nd innings,1.6,run,7,1,7/0,"Chisoro to Coetzer, 1 run",,,0
+292,13,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, no run ",2nd innings,2.1,no run,7,0,7/0,"Chatara to Coetzer, no run",,,0
+293,14,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, no run ",2nd innings,2.2,no run,7,0,7/0,"Chatara to Coetzer, no run",,,0
+294,15,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, no run ",2nd innings,2.3,no run,7,0,7/0,"Chatara to Coetzer, no run",,,0
+295,16,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, no run ",2nd innings,2.4,no run,7,0,7/0,"Chatara to Coetzer, no run",,,0
+296,17,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, FOUR runs ",2nd innings,2.5,four,11,4,11/0,"Chatara to Coetzer, FOUR runs",,,0
+297,18,Kyle Coetzer,25446,Tendai Chatara,425639,"Chatara to Coetzer, no run ",2nd innings,2.6,no run,11,0,11/0,"Chatara to Coetzer, no run",,,0
+298,19,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, no run ",2nd innings,3.1,no run,11,0,11/0,"Chisoro to Cross, no run",,,0
+299,20,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, no run ",2nd innings,3.2,no run,11,0,11/0,"Chisoro to Cross, no run",,,0
+300,21,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, no run ",2nd innings,3.3,no run,11,0,11/0,"Chisoro to Cross, no run",,,0
+301,22,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, 1 run ",2nd innings,3.4,run,12,1,12/0,"Chisoro to Cross, 1 run",,,0
+302,23,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,3.5,no run,12,0,12/0,"Chisoro to Coetzer, no run",,,0
+303,24,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,3.6,no run,12,0,12/0,"Chisoro to Coetzer, no run",,,0
+304,25,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,4.1,no run,12,0,12/0,"Chatara to Cross, no run",,,0
+305,26,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, 2 runs ",2nd innings,4.2,run,14,2,14/0,"Chatara to Cross, 2 runs",,,0
+306,27,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, SIX runs ",2nd innings,4.3,six,20,6,20/0,"Chatara to Cross, SIX runs",,,0
+307,28,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,4.4,no run,20,0,20/0,"Chatara to Cross, no run",,,0
+308,29,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,4.5,no run,20,0,20/0,"Chatara to Cross, no run",,,0
+309,30,Matthew Cross,417268,Tendai Chatara,425639,"Chatara to Cross, no run ",2nd innings,4.6,no run,20,0,20/0,"Chatara to Cross, no run",,,0
+310,31,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, 1 run ",2nd innings,5.1,run,21,1,21/0,"Chisoro to Coetzer, 1 run",,,0
+311,32,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, no run ",2nd innings,5.2,no run,21,0,21/0,"Chisoro to Cross, no run",,,0
+312,33,Matthew Cross,417268,Tendai Chisoro,235519,"Chisoro to Cross, OUT ",2nd innings,5.3,out,21,0,21/1,"Chisoro to Cross, OUT",,,1
+313,34,Tom Sole,526492,Tendai Chisoro,235519,"Chisoro to Sole, no run ",2nd innings,5.4,no run,21,0,21/1,"Chisoro to Sole, no run",,,1
+314,35,Tom Sole,526492,Tendai Chisoro,235519,"Chisoro to Sole, no run ",2nd innings,5.5,no run,21,0,21/1,"Chisoro to Sole, no run",,,1
+315,36,Tom Sole,526492,Tendai Chisoro,235519,"Chisoro to Sole, no run ",2nd innings,5.6,no run,21,0,21/1,"Chisoro to Sole, no run",,,1
+316,36,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, 1 wide ",2nd innings,6.0,wide,22,1,22/1,"Muzarabani to Coetzer, 1 wide",,,1
+317,37,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,6.1,no run,22,0,22/1,"Muzarabani to Coetzer, no run",,,1
+318,38,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,6.2,no run,22,0,22/1,"Muzarabani to Coetzer, no run",,,1
+319,39,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, SIX runs ",2nd innings,6.3,six,28,6,28/1,"Muzarabani to Coetzer, SIX runs",,,1
+320,39,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, 1 wide ",2nd innings,6.3,wide,29,1,29/1,"Muzarabani to Coetzer, 1 wide",,,1
+321,40,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,6.4,no run,29,0,29/1,"Muzarabani to Coetzer, no run",,,1
+322,41,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,6.5,no run,33,0,33/1,"Muzarabani to Coetzer, no run",,,1
+323,43,Tom Sole,526492,Tendai Chisoro,235519,"Chisoro to Sole, FOUR runs ",2nd innings,7.1,four,37,4,37/1,"Chisoro to Sole, FOUR runs",,,1
+324,44,Tom Sole,526492,Tendai Chisoro,235519,"Chisoro to Sole, OUT ",2nd innings,7.2,out,37,0,37/2,"Chisoro to Sole, OUT",,,2
+325,45,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, no run ",2nd innings,7.3,no run,37,0,37/2,"Chisoro to MacLeod, no run",,,2
+326,46,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, no run ",2nd innings,7.4,no run,37,0,37/2,"Chisoro to MacLeod, no run",,,2
+327,48,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, no run ",2nd innings,7.6,no run,37,0,37/2,"Chisoro to MacLeod, no run",,,2
+328,49,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,8.1,no run,37,0,37/2,"Muzarabani to Coetzer, no run",,,2
+329,49,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, 1 wide ",2nd innings,8.1,wide,38,1,38/2,"Muzarabani to Coetzer, 1 wide",,,2
+330,50,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, 1 run ",2nd innings,8.2,run,39,1,39/2,"Muzarabani to Coetzer, 1 run",,,2
+331,50,Calum MacLeod,232435,Blessing Muzarabani,827051,"Muzarabani to MacLeod, 1 wide ",2nd innings,8.2,wide,40,1,40/2,"Muzarabani to MacLeod, 1 wide",,,2
+332,51,Calum MacLeod,232435,Blessing Muzarabani,827051,"Muzarabani to MacLeod, no run ",2nd innings,8.3,no run,40,0,40/2,"Muzarabani to MacLeod, no run",,,2
+333,53,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,8.5,no run,40,0,40/2,"Muzarabani to Coetzer, no run",,,2
+334,54,Kyle Coetzer,25446,Blessing Muzarabani,827051,"Muzarabani to Coetzer, no run ",2nd innings,8.6,no run,41,0,41/2,"Muzarabani to Coetzer, no run",,,2
+335,55,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, 1 run ",2nd innings,9.1,run,42,1,42/2,"Chisoro to MacLeod, 1 run",,,2
+336,56,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, FOUR runs ",2nd innings,9.2,four,46,4,46/2,"Chisoro to Coetzer, FOUR runs",,,2
+337,57,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, no run ",2nd innings,9.3,no run,46,0,46/2,"Chisoro to Coetzer, no run",,,2
+338,58,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, SIX runs ",2nd innings,9.4,six,52,6,52/2,"Chisoro to Coetzer, SIX runs",,,2
+339,59,Kyle Coetzer,25446,Tendai Chisoro,235519,"Chisoro to Coetzer, 1 run ",2nd innings,9.5,run,53,1,53/2,"Chisoro to Coetzer, 1 run",,,2
+340,59,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, 1 wide ",2nd innings,9.5,wide,54,1,54/2,"Chisoro to MacLeod, 1 wide",,,2
+341,60,Calum MacLeod,232435,Tendai Chisoro,235519,"Chisoro to MacLeod, no run ",2nd innings,9.6,no run,54,0,54/2,"Chisoro to MacLeod, no run",,,2
+342,61,Kyle Coetzer,25446,Sean Williams,55870,"Williams to Coetzer, no run ",2nd innings,10.1,no run,54,0,54/2,"Williams to Coetzer, no run",,,2
+343,62,Kyle Coetzer,25446,Sean Williams,55870,"Williams to Coetzer, 1 run ",2nd innings,10.2,run,55,1,55/2,"Williams to Coetzer, 1 run",,,2
+344,63,Calum MacLeod,232435,Sean Williams,55870,"Williams to MacLeod, no run ",2nd innings,10.3,no run,55,0,55/2,"Williams to MacLeod, no run",,,2
+345,64,Calum MacLeod,232435,Sean Williams,55870,"Williams to MacLeod, OUT ",2nd innings,10.4,out,55,0,55/3,"Williams to MacLeod, OUT",,,3
+346,65,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,10.5,no run,55,0,55/3,"Williams to Berrington, no run",,,3
+347,66,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,10.6,no run,55,0,55/3,"Williams to Berrington, no run",,,3
+348,67,Kyle Coetzer,25446,Graeme Cremer,55346,"Cremer to Coetzer, 1 run ",2nd innings,11.1,run,56,1,56/3,"Cremer to Coetzer, 1 run",,,3
+349,68,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 bye ",2nd innings,11.2,bye,57,1,57/3,"Cremer to Berrington, 1 bye",,,3
+350,70,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,11.4,no run,57,0,57/3,"Cremer to Berrington, no run",,,3
+351,72,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,11.6,run,59,1,59/3,"Cremer to Berrington, 1 run",,,3
+352,73,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 2 byes ",2nd innings,12.1,bye,61,2,61/3,"Williams to Berrington, 2 byes",,,3
+353,74,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,12.2,no run,61,0,61/3,"Williams to Berrington, no run",,,3
+354,75,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,12.3,no run,61,0,61/3,"Williams to Berrington, no run",,,3
+355,76,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,12.4,run,62,1,62/3,"Williams to Berrington, 1 run",,,3
+356,77,Kyle Coetzer,25446,Sean Williams,55870,"Williams to Coetzer, no run ",2nd innings,12.5,no run,62,0,62/3,"Williams to Coetzer, no run",,,3
+357,78,Kyle Coetzer,25446,Sean Williams,55870,"Williams to Coetzer, FOUR runs ",2nd innings,12.6,four,66,4,66/3,"Williams to Coetzer, FOUR runs",,,3
+358,79,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,13.1,no run,66,0,66/3,"Cremer to Berrington, no run",,,3
+359,80,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,13.2,run,67,1,67/3,"Cremer to Berrington, 1 run",,,3
+360,82,Kyle Coetzer,25446,Graeme Cremer,55346,"Cremer to Coetzer, OUT ",2nd innings,13.4,out,67,0,67/4,"Cremer to Coetzer, OUT",,,4
+361,83,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,13.5,no run,67,0,67/4,"Cremer to Munsey, no run",,,4
+362,84,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, 1 run ",2nd innings,13.6,run,70,1,70/4,"Cremer to Munsey, 1 run",,,4
+363,85,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,14.1,no run,70,0,70/4,"Williams to Munsey, no run",,,4
+364,86,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,14.2,no run,70,0,70/4,"Williams to Munsey, no run",,,4
+365,87,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,14.3,run,71,1,71/4,"Williams to Munsey, 1 run",,,4
+366,88,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,14.4,run,72,1,72/4,"Williams to Berrington, 1 run",,,4
+367,89,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,14.5,no run,72,0,72/4,"Williams to Munsey, no run",,,4
+368,90,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,14.6,no run,72,0,72/4,"Williams to Munsey, no run",,,4
+369,91,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,15.1,no run,72,0,72/4,"Cremer to Berrington, no run",,,4
+370,92,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,15.2,run,73,1,73/4,"Cremer to Berrington, 1 run",,,4
+371,93,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,15.3,no run,73,0,73/4,"Cremer to Munsey, no run",,,4
+372,94,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,15.4,no run,73,0,73/4,"Cremer to Munsey, no run",,,4
+373,95,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, 1 leg bye ",2nd innings,15.5,leg bye,74,1,74/4,"Cremer to Munsey, 1 leg bye",,,4
+374,97,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,16.1,no run,74,0,74/4,"Sikandar Raza to Munsey, no run",,,4
+375,98,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,16.2,no run,74,0,74/4,"Sikandar Raza to Munsey, no run",,,4
+376,99,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,16.3,no run,74,0,74/4,"Sikandar Raza to Munsey, no run",,,4
+377,100,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, FOUR runs ",2nd innings,16.4,four,78,4,78/4,"Sikandar Raza to Munsey, FOUR runs",,,4
+378,101,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,16.5,run,79,1,79/4,"Sikandar Raza to Munsey, 1 run",,,4
+379,102,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,16.6,run,80,1,80/4,"Sikandar Raza to Berrington, 1 run",,,4
+380,103,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,17.1,run,81,1,81/4,"Cremer to Berrington, 1 run",,,4
+381,104,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,17.2,no run,81,0,81/4,"Cremer to Munsey, no run",,,4
+382,105,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, 1 run ",2nd innings,17.3,run,82,1,82/4,"Cremer to Munsey, 1 run",,,4
+383,106,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,17.4,no run,82,0,82/4,"Cremer to Berrington, no run",,,4
+384,107,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,17.5,no run,82,0,82/4,"Cremer to Berrington, no run",,,4
+385,108,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,17.6,run,83,1,83/4,"Cremer to Berrington, 1 run",,,4
+386,109,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, FOUR runs ",2nd innings,18.1,four,87,4,87/4,"Sikandar Raza to Berrington, FOUR runs",,,4
+387,110,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,18.2,no run,87,0,87/4,"Sikandar Raza to Berrington, no run",,,4
+388,111,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,18.3,run,88,1,88/4,"Sikandar Raza to Berrington, 1 run",,,4
+389,112,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,18.4,no run,88,0,88/4,"Sikandar Raza to Munsey, no run",,,4
+390,113,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,18.5,no run,88,0,88/4,"Sikandar Raza to Munsey, no run",,,4
+391,114,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,18.6,no run,88,0,88/4,"Sikandar Raza to Munsey, no run",,,4
+392,115,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,19.1,no run,88,0,88/4,"Cremer to Berrington, no run",,,4
+393,116,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,19.2,run,89,1,89/4,"Cremer to Berrington, 1 run",,,4
+394,117,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,19.3,no run,89,0,89/4,"Cremer to Munsey, no run",,,4
+395,118,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,19.4,no run,89,0,89/4,"Cremer to Munsey, no run",,,4
+396,119,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,19.5,no run,89,0,89/4,"Cremer to Munsey, no run",,,4
+397,120,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,19.6,no run,89,0,89/4,"Cremer to Munsey, no run",,,4
+398,121,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,20.1,no run,89,0,89/4,"Sikandar Raza to Berrington, no run",,,4
+399,122,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,20.2,no run,89,0,89/4,"Sikandar Raza to Berrington, no run",,,4
+400,123,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,20.3,no run,89,0,89/4,"Sikandar Raza to Berrington, no run",,,4
+401,124,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 2 runs ",2nd innings,20.4,run,91,2,91/4,"Sikandar Raza to Berrington, 2 runs",,,4
+402,125,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,20.5,no run,91,0,91/4,"Sikandar Raza to Berrington, no run",,,4
+403,126,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,20.6,run,92,1,92/4,"Sikandar Raza to Berrington, 1 run",,,4
+404,127,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,21.1,run,93,1,93/4,"Cremer to Berrington, 1 run",,,4
+405,128,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,21.2,no run,93,0,93/4,"Cremer to Munsey, no run",,,4
+406,129,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,21.3,no run,93,0,93/4,"Cremer to Munsey, no run",,,4
+407,130,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,21.4,no run,93,0,93/4,"Cremer to Munsey, no run",,,4
+408,131,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,21.5,no run,93,0,93/4,"Cremer to Munsey, no run",,,4
+409,132,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,21.6,no run,93,0,93/4,"Cremer to Munsey, no run",,,4
+410,133,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, FOUR runs ",2nd innings,22.1,four,97,4,97/4,"Sikandar Raza to Berrington, FOUR runs",,,4
+411,134,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,22.2,run,98,1,98/4,"Sikandar Raza to Berrington, 1 run",,,4
+412,135,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,22.3,no run,98,0,98/4,"Sikandar Raza to Munsey, no run",,,4
+413,136,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,22.4,no run,98,0,98/4,"Sikandar Raza to Munsey, no run",,,4
+414,137,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,22.5,run,99,1,99/4,"Sikandar Raza to Munsey, 1 run",,,4
+415,138,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,22.6,no run,99,0,99/4,"Sikandar Raza to Berrington, no run",,,4
+416,139,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, no run ",2nd innings,23.1,no run,99,0,99/4,"Chisoro to Munsey, no run",,,4
+417,140,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, 1 run ",2nd innings,23.2,run,100,1,100/4,"Chisoro to Munsey, 1 run",,,4
+418,141,Richie Berrington,25490,Tendai Chisoro,235519,"Chisoro to Berrington, no run ",2nd innings,23.3,no run,100,0,100/4,"Chisoro to Berrington, no run",,,4
+419,142,Richie Berrington,25490,Tendai Chisoro,235519,"Chisoro to Berrington, 1 run ",2nd innings,23.4,run,101,1,101/4,"Chisoro to Berrington, 1 run",,,4
+420,143,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, no run ",2nd innings,23.5,no run,101,0,101/4,"Chisoro to Munsey, no run",,,4
+421,145,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,24.1,no run,101,0,101/4,"Williams to Berrington, no run",,,4
+422,146,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,24.2,run,102,1,102/4,"Williams to Berrington, 1 run",,,4
+423,147,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,24.3,run,103,1,103/4,"Williams to Munsey, 1 run",,,4
+424,148,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,24.4,no run,103,0,103/4,"Williams to Berrington, no run",,,4
+425,149,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,24.5,no run,103,0,103/4,"Williams to Berrington, no run",,,4
+426,150,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, FOUR runs ",2nd innings,24.6,four,107,4,107/4,"Williams to Berrington, FOUR runs",,,4
+427,151,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, 1 run ",2nd innings,25.1,run,108,1,108/4,"Chisoro to Munsey, 1 run",,,4
+428,152,Richie Berrington,25490,Tendai Chisoro,235519,"Chisoro to Berrington, 1 run ",2nd innings,25.2,run,109,1,109/4,"Chisoro to Berrington, 1 run",,,4
+429,153,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, 3 runs ",2nd innings,25.3,run,112,3,112/4,"Chisoro to Munsey, 3 runs",,,4
+430,154,Richie Berrington,25490,Tendai Chisoro,235519,"Chisoro to Berrington, no run ",2nd innings,25.4,no run,112,0,112/4,"Chisoro to Berrington, no run",,,4
+431,155,Richie Berrington,25490,Tendai Chisoro,235519,"Chisoro to Berrington, 1 run ",2nd innings,25.5,run,113,1,113/4,"Chisoro to Berrington, 1 run",,,4
+432,156,George Munsey,671805,Tendai Chisoro,235519,"Chisoro to Munsey, no run ",2nd innings,25.6,no run,113,0,113/4,"Chisoro to Munsey, no run",,,4
+433,157,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,26.1,no run,113,0,113/4,"Williams to Berrington, no run",,,4
+434,158,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,26.2,run,114,1,114/4,"Williams to Berrington, 1 run",,,4
+435,159,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,26.3,run,115,1,115/4,"Williams to Munsey, 1 run",,,4
+436,160,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,26.4,run,116,1,116/4,"Williams to Berrington, 1 run",,,4
+437,161,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,26.5,no run,116,0,116/4,"Williams to Munsey, no run",,,4
+438,162,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,26.6,no run,116,0,116/4,"Williams to Munsey, no run",,,4
+439,163,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, 2 runs ",2nd innings,27.1,run,118,2,118/4,"Muzarabani to Berrington, 2 runs",,,4
+440,164,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, 1 run ",2nd innings,27.2,run,119,1,119/4,"Muzarabani to Berrington, 1 run",,,4
+441,165,George Munsey,671805,Blessing Muzarabani,827051,"Muzarabani to Munsey, no run ",2nd innings,27.3,no run,119,0,119/4,"Muzarabani to Munsey, no run",,,4
+442,166,George Munsey,671805,Blessing Muzarabani,827051,"Muzarabani to Munsey, no run ",2nd innings,27.4,no run,119,0,119/4,"Muzarabani to Munsey, no run",,,4
+443,167,George Munsey,671805,Blessing Muzarabani,827051,"Muzarabani to Munsey, no run ",2nd innings,27.5,no run,119,0,119/4,"Muzarabani to Munsey, no run",,,4
+444,168,George Munsey,671805,Blessing Muzarabani,827051,"Muzarabani to Munsey, 1 run ",2nd innings,27.6,run,120,1,120/4,"Muzarabani to Munsey, 1 run",,,4
+445,169,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,28.1,no run,120,0,120/4,"Sikandar Raza to Munsey, no run",,,4
+446,170,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,28.2,run,121,1,121/4,"Sikandar Raza to Munsey, 1 run",,,4
+447,171,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,28.3,no run,121,0,121/4,"Sikandar Raza to Berrington, no run",,,4
+448,172,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,28.4,no run,121,0,121/4,"Sikandar Raza to Berrington, no run",,,4
+449,173,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,28.5,no run,121,0,121/4,"Sikandar Raza to Berrington, no run",,,4
+450,174,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,28.6,run,123,1,123/4,"Sikandar Raza to Berrington, 1 run",,,4
+451,175,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, no run ",2nd innings,29.1,no run,123,0,123/4,"Muzarabani to Berrington, no run",,,4
+452,176,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, FOUR runs ",2nd innings,29.2,four,127,4,127/4,"Muzarabani to Berrington, FOUR runs",,,4
+453,176,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, 1 wide ",2nd innings,29.2,wide,128,1,128/4,"Muzarabani to Berrington, 1 wide",,,4
+454,177,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, no run ",2nd innings,29.3,no run,128,0,128/4,"Muzarabani to Berrington, no run",,,4
+455,178,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, no run ",2nd innings,29.4,no run,128,0,128/4,"Muzarabani to Berrington, no run",,,4
+456,179,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, no run ",2nd innings,29.5,no run,128,0,128/4,"Muzarabani to Berrington, no run",,,4
+457,180,Richie Berrington,25490,Blessing Muzarabani,827051,"Muzarabani to Berrington, no run ",2nd innings,29.6,no run,127,0,127/4,"Muzarabani to Berrington, no run",,,4
+458,181,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,30.1,no run,127,0,127/4,"Sikandar Raza to Munsey, no run",,,4
+459,182,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,30.2,run,128,1,128/4,"Sikandar Raza to Munsey, 1 run",,,4
+460,183,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,30.3,run,129,1,129/4,"Sikandar Raza to Berrington, 1 run",,,4
+461,184,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,30.4,run,130,1,130/4,"Sikandar Raza to Munsey, 1 run",,,4
+462,185,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,30.5,no run,130,0,130/4,"Sikandar Raza to Berrington, no run",,,4
+463,186,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,30.6,no run,130,0,130/4,"Sikandar Raza to Berrington, no run",,,4
+464,187,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,31.1,no run,130,0,130/4,"Williams to Munsey, no run",,,4
+465,188,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,31.2,no run,130,0,130/4,"Williams to Munsey, no run",,,4
+466,189,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,31.3,no run,130,0,130/4,"Williams to Munsey, no run",,,4
+467,189,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, (no ball) 1 run ",2nd innings,31.3,run,132,2,132/4,"Williams to Munsey, (no ball) 1 run",,,4
+468,190,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,31.4,run,133,1,133/4,"Williams to Berrington, 1 run",,,4
+469,191,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 2 runs ",2nd innings,31.5,run,135,2,135/4,"Williams to Munsey, 2 runs",,,4
+470,192,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,31.6,no run,135,0,135/4,"Williams to Munsey, no run",,,4
+471,193,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,32.1,no run,135,0,135/4,"Sikandar Raza to Berrington, no run",,,4
+472,194,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 2 leg byes ",2nd innings,32.2,leg bye,137,2,137/4,"Sikandar Raza to Berrington, 2 leg byes",,,4
+473,195,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, 1 run ",2nd innings,32.3,run,138,1,138/4,"Sikandar Raza to Berrington, 1 run",,,4
+474,196,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, no run ",2nd innings,32.4,no run,138,0,138/4,"Sikandar Raza to Munsey, no run",,,4
+475,197,George Munsey,671805,Sikandar Raza,299572,"Sikandar Raza to Munsey, 1 run ",2nd innings,32.5,run,139,1,139/4,"Sikandar Raza to Munsey, 1 run",,,4
+476,198,Richie Berrington,25490,Sikandar Raza,299572,"Sikandar Raza to Berrington, no run ",2nd innings,32.6,no run,139,0,139/4,"Sikandar Raza to Berrington, no run",,,4
+477,199,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,33.1,run,140,1,140/4,"Williams to Munsey, 1 run",,,4
+478,200,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,33.2,no run,140,0,140/4,"Williams to Berrington, no run",,,4
+479,201,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, no run ",2nd innings,33.3,no run,140,0,140/4,"Williams to Berrington, no run",,,4
+480,202,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,33.4,run,141,1,141/4,"Williams to Munsey, 1 run",,,4
+481,203,Richie Berrington,25490,Sean Williams,55870,"Williams to Berrington, 1 run ",2nd innings,33.5,run,142,1,142/4,"Williams to Berrington, 1 run",,,4
+482,204,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,33.6,no run,142,0,142/4,"Williams to Munsey, no run",,,4
+483,205,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,34.1,no run,142,0,142/4,"Cremer to Berrington, no run",,,4
+484,206,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, 1 run ",2nd innings,34.2,run,143,1,143/4,"Cremer to Berrington, 1 run",,,4
+485,207,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, 1 run ",2nd innings,34.3,run,144,1,144/4,"Cremer to Munsey, 1 run",,,4
+486,208,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, no run ",2nd innings,34.4,no run,144,0,144/4,"Cremer to Berrington, no run",,,4
+487,209,Richie Berrington,25490,Graeme Cremer,55346,"Cremer to Berrington, OUT ",2nd innings,34.5,out,144,0,144/5,"Cremer to Berrington, OUT",,,5
+488,210,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,34.6,no run,144,0,144/5,"Cremer to Wallace, no run",,,5
+489,211,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,35.1,no run,144,0,144/5,"Williams to Munsey, no run",,,5
+490,212,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,35.2,no run,144,0,144/5,"Williams to Munsey, no run",,,5
+491,213,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,35.3,no run,144,0,144/5,"Williams to Munsey, no run",,,5
+492,214,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,35.4,no run,144,0,144/5,"Williams to Munsey, no run",,,5
+493,215,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, no run ",2nd innings,35.5,no run,144,0,144/5,"Williams to Munsey, no run",,,5
+494,216,George Munsey,671805,Sean Williams,55870,"Williams to Munsey, 1 run ",2nd innings,35.6,run,145,1,145/5,"Williams to Munsey, 1 run",,,5
+495,217,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, 1 run ",2nd innings,36.1,run,146,1,146/5,"Cremer to Munsey, 1 run",,,5
+496,218,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, 1 run ",2nd innings,36.2,run,147,1,147/5,"Cremer to Wallace, 1 run",,,5
+497,219,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, no run ",2nd innings,36.3,no run,147,0,147/5,"Cremer to Munsey, no run",,,5
+498,220,George Munsey,671805,Graeme Cremer,55346,"Cremer to Munsey, OUT ",2nd innings,36.4,out,147,0,147/6,"Cremer to Munsey, OUT",,,6
+499,221,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, no run ",2nd innings,36.5,no run,147,0,147/6,"Cremer to Leask, no run",,,6
+500,222,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, 2 runs ",2nd innings,36.6,run,149,2,149/6,"Cremer to Leask, 2 runs",,,6
+501,223,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, no run ",2nd innings,37.1,no run,149,0,149/6,"Williams to Wallace, no run",,,6
+502,224,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, 1 run ",2nd innings,37.2,run,150,1,150/6,"Williams to Wallace, 1 run",,,6
+503,225,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, 1 run ",2nd innings,37.3,run,151,1,151/6,"Williams to Leask, 1 run",,,6
+504,226,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, 3 runs ",2nd innings,37.4,run,154,3,154/6,"Williams to Wallace, 3 runs",,,6
+505,227,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, 2 runs ",2nd innings,37.5,run,156,2,156/6,"Williams to Leask, 2 runs",,,6
+506,228,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, no run ",2nd innings,37.6,no run,156,0,156/6,"Williams to Leask, no run",,,6
+507,229,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,38.1,no run,156,0,156/6,"Cremer to Wallace, no run",,,6
+508,230,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,38.2,no run,156,0,156/6,"Cremer to Wallace, no run",,,6
+509,231,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, 1 run ",2nd innings,38.3,run,157,1,157/6,"Cremer to Wallace, 1 run",,,6
+510,232,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, 2 runs ",2nd innings,38.4,run,159,2,159/6,"Cremer to Leask, 2 runs",,,6
+511,233,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, no run ",2nd innings,38.5,no run,159,0,159/6,"Cremer to Leask, no run",,,6
+512,234,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, no run ",2nd innings,38.6,no run,158,0,158/6,"Cremer to Leask, no run",,,6
+513,235,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, no run ",2nd innings,39.1,no run,158,0,158/6,"Williams to Wallace, no run",,,6
+514,236,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, no run ",2nd innings,39.2,no run,158,0,158/6,"Williams to Wallace, no run",,,6
+515,237,Craig Wallace,414971,Sean Williams,55870,"Williams to Wallace, 1 run ",2nd innings,39.3,run,159,1,159/6,"Williams to Wallace, 1 run",,,6
+516,238,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, 2 runs ",2nd innings,39.4,run,161,2,161/6,"Williams to Leask, 2 runs",,,6
+517,239,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, no run ",2nd innings,39.5,no run,161,0,161/6,"Williams to Leask, no run",,,6
+518,240,Michael Leask,414966,Sean Williams,55870,"Williams to Leask, no run ",2nd innings,39.6,no run,162,0,162/6,"Williams to Leask, no run",,,6
+519,241,Michael Leask,414966,Graeme Cremer,55346,"Cremer to Leask, no run ",2nd innings,40.1,no run,162,0,162/6,"Cremer to Leask, no run",,,6
+520,242,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,40.2,no run,162,0,162/6,"Cremer to Wallace, no run",,,6
+521,243,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,40.3,no run,162,0,162/6,"Cremer to Wallace, no run",,,6
+522,244,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,40.4,no run,162,0,162/6,"Cremer to Wallace, no run",,,6
+523,245,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, no run ",2nd innings,40.5,no run,162,0,162/6,"Cremer to Wallace, no run",,,6
+524,246,Craig Wallace,414971,Graeme Cremer,55346,"Cremer to Wallace, 1 run ",2nd innings,40.6,run,163,1,163/6,"Cremer to Wallace, 1 run",,,6
+525,247,Craig Wallace,414971,Tendai Chisoro,235519,"Chisoro to Wallace, FOUR runs ",2nd innings,41.1,four,167,4,167/6,"Chisoro to Wallace, FOUR runs",,,6
+526,248,Craig Wallace,414971,Tendai Chisoro,235519,"Chisoro to Wallace, 1 run ",2nd innings,41.2,run,168,1,168/6,"Chisoro to Wallace, 1 run",,,6
+527,249,Michael Leask,414966,Tendai Chisoro,235519,"Chisoro to Leask, 1 run ",2nd innings,41.3,run,169,1,169/6,"Chisoro to Leask, 1 run",,,6
+528,250,Craig Wallace,414971,Tendai Chisoro,235519,"Chisoro to Wallace, OUT ",2nd innings,41.4,out,169,0,169/7,"Chisoro to Wallace, OUT",,,7
+529,251,Safyaan Sharif,414970,Tendai Chisoro,235519,"Chisoro to Sharif, no run ",2nd innings,41.5,no run,169,0,169/7,"Chisoro to Sharif, no run",,,7
+530,252,Safyaan Sharif,414970,Tendai Chisoro,235519,"Chisoro to Sharif, no run ",2nd innings,41.6,no run,168,0,168/7,"Chisoro to Sharif, no run",,,7
+531,253,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 run ",2nd innings,42.1,run,169,1,169/7,"Sikandar Raza to Leask, 1 run",,,7
+532,254,Safyaan Sharif,414970,Sikandar Raza,299572,"Sikandar Raza to Sharif, 1 run ",2nd innings,42.2,run,170,1,170/7,"Sikandar Raza to Sharif, 1 run",,,7
+533,255,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 run ",2nd innings,42.3,run,171,1,171/7,"Sikandar Raza to Leask, 1 run",,,7
+534,256,Safyaan Sharif,414970,Sikandar Raza,299572,"Sikandar Raza to Sharif, OUT ",2nd innings,42.4,out,171,0,171/8,"Sikandar Raza to Sharif, OUT",,,8
+535,258,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, no run ",2nd innings,42.6,no run,171,0,171/8,"Sikandar Raza to Watt, no run",,,8
+536,259,Michael Leask,414966,Tendai Chisoro,235519,"Chisoro to Leask, 1 run ",2nd innings,43.1,run,172,1,172/8,"Chisoro to Leask, 1 run",,,8
+537,260,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, no run ",2nd innings,43.2,no run,172,0,172/8,"Chisoro to Watt, no run",,,8
+538,261,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, no run ",2nd innings,43.3,no run,172,0,172/8,"Chisoro to Watt, no run",,,8
+539,262,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, no run ",2nd innings,43.4,no run,172,0,172/8,"Chisoro to Watt, no run",,,8
+540,263,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, 1 run ",2nd innings,43.5,run,173,1,173/8,"Chisoro to Watt, 1 run",,,8
+541,264,Michael Leask,414966,Tendai Chisoro,235519,"Chisoro to Leask, 1 run ",2nd innings,43.6,run,174,1,174/8,"Chisoro to Leask, 1 run",,,8
+542,265,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, no run ",2nd innings,44.1,no run,174,0,174/8,"Sikandar Raza to Leask, no run",,,8
+543,266,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 run ",2nd innings,44.2,run,175,1,175/8,"Sikandar Raza to Leask, 1 run",,,8
+544,268,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, no run ",2nd innings,44.4,no run,175,0,175/8,"Sikandar Raza to Leask, no run",,,8
+545,269,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 run ",2nd innings,44.5,run,176,1,176/8,"Sikandar Raza to Leask, 1 run",,,8
+546,270,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, 1 run ",2nd innings,44.6,run,178,1,178/8,"Sikandar Raza to Watt, 1 run",,,8
+547,271,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, 1 run ",2nd innings,45.1,run,179,1,179/8,"Chisoro to Watt, 1 run",,,8
+548,272,Michael Leask,414966,Tendai Chisoro,235519,"Chisoro to Leask, 1 run ",2nd innings,45.2,run,180,1,180/8,"Chisoro to Leask, 1 run",,,8
+549,273,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, no run ",2nd innings,45.3,no run,180,0,180/8,"Chisoro to Watt, no run",,,8
+550,274,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, no run ",2nd innings,45.4,no run,180,0,180/8,"Chisoro to Watt, no run",,,8
+551,275,Mark Watt,659081,Tendai Chisoro,235519,"Chisoro to Watt, 1 run ",2nd innings,45.5,run,181,1,181/8,"Chisoro to Watt, 1 run",,,8
+552,276,Michael Leask,414966,Tendai Chisoro,235519,"Chisoro to Leask, no run ",2nd innings,45.6,no run,181,0,181/8,"Chisoro to Leask, no run",,,8
+553,277,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, 1 run ",2nd innings,46.1,run,182,1,182/8,"Sikandar Raza to Watt, 1 run",,,8
+554,278,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 run ",2nd innings,46.2,run,183,1,183/8,"Sikandar Raza to Leask, 1 run",,,8
+555,279,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, no run ",2nd innings,46.3,no run,183,0,183/8,"Sikandar Raza to Watt, no run",,,8
+556,280,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, no run ",2nd innings,46.4,no run,183,0,183/8,"Sikandar Raza to Watt, no run",,,8
+557,281,Mark Watt,659081,Sikandar Raza,299572,"Sikandar Raza to Watt, 1 leg bye ",2nd innings,46.5,leg bye,184,1,184/8,"Sikandar Raza to Watt, 1 leg bye",,,8
+558,282,Michael Leask,414966,Sikandar Raza,299572,"Sikandar Raza to Leask, 1 bye ",2nd innings,46.6,bye,185,1,185/8,"Sikandar Raza to Leask, 1 bye",,,8
+559,283,Michael Leask,414966,Blessing Muzarabani,827051,"Muzarabani to Leask, 1 run ",2nd innings,47.1,run,186,1,186/8,"Muzarabani to Leask, 1 run",,,8
+560,284,Mark Watt,659081,Blessing Muzarabani,827051,"Muzarabani to Watt, 1 run ",2nd innings,47.2,run,187,1,187/8,"Muzarabani to Watt, 1 run",,,8
+561,285,Michael Leask,414966,Blessing Muzarabani,827051,"Muzarabani to Leask, FOUR runs ",2nd innings,47.3,four,191,4,191/8,"Muzarabani to Leask, FOUR runs",,,8
+562,286,Michael Leask,414966,Blessing Muzarabani,827051,"Muzarabani to Leask, 1 run ",2nd innings,47.4,run,192,1,192/8,"Muzarabani to Leask, 1 run",,,8
+563,287,Mark Watt,659081,Blessing Muzarabani,827051,"Muzarabani to Watt, 1 leg bye ",2nd innings,47.5,leg bye,193,1,193/8,"Muzarabani to Watt, 1 leg bye",,,8
+564,288,Michael Leask,414966,Blessing Muzarabani,827051,"Muzarabani to Leask, FOUR runs ",2nd innings,47.6,four,197,4,197/8,"Muzarabani to Leask, FOUR runs",,,8
+565,289,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, no run ",2nd innings,48.1,no run,197,0,197/8,"Chatara to Watt, no run",,,8
+566,290,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, no run ",2nd innings,48.2,no run,197,0,197/8,"Chatara to Watt, no run",,,8
+567,291,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, FOUR runs ",2nd innings,48.3,four,201,4,201/8,"Chatara to Watt, FOUR runs",,,8
+568,292,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, FOUR runs ",2nd innings,48.4,four,205,4,205/8,"Chatara to Watt, FOUR runs",,,8
+569,293,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, 2 runs ",2nd innings,48.5,run,207,2,207/8,"Chatara to Watt, 2 runs",,,8
+570,294,Mark Watt,659081,Tendai Chatara,425639,"Chatara to Watt, OUT ",2nd innings,48.6,out,209,0,209/9,"Chatara to Watt, OUT",,,9
+571,294,Brad Wheal,807535,Blessing Muzarabani,827051,"Muzarabani to Wheal, 1 wide ",2nd innings,49.0,wide,210,1,210/9,"Muzarabani to Wheal, 1 wide",,,9
+572,295,Brad Wheal,807535,Blessing Muzarabani,827051,"Muzarabani to Wheal, OUT ",2nd innings,49.1,out,211,0,211/10,"Muzarabani to Wheal, OUT",,,10

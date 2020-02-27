@@ -1,0 +1,563 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,0.1,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+1,2,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,0.2,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+2,3,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,0.3,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+3,4,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,0.4,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+4,5,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,0.5,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+5,6,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,1.0,no run,0,0,0/0,"Jonkman to Patel, no run",,,0
+6,7,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,1.1,no run,0,0,0/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+7,8,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,1.2,no run,0,0,0/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+8,9,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,1.3,no run,0,0,0/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+9,10,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,1.4,no run,0,0,0/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+10,11,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, 1 run ",1st innings,1.5,run,1,1,1/0,"Mudassar Bukhari to Rizwan Cheema, 1 run",,,0
+11,12,Hiral Patel,414248,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",1st innings,2.0,run,2,1,2/0,"Mudassar Bukhari to Patel, 1 run",,,0
+12,13,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,2.1,no run,2,0,2/0,"Jonkman to Patel, no run",,,0
+13,14,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,2.2,no run,2,0,2/0,"Jonkman to Patel, no run",,,0
+14,15,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,2.3,no run,2,0,2/0,"Jonkman to Patel, no run",,,0
+15,16,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,2.4,no run,2,0,2/0,"Jonkman to Patel, no run",,,0
+16,17,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, 1 run ",1st innings,2.5,run,3,1,3/0,"Jonkman to Patel, 1 run",,,0
+17,18,Rizwan Cheema,361952,Mark Jonkman,245397,"Jonkman to Rizwan Cheema, no run ",1st innings,3.0,no run,3,0,3/0,"Jonkman to Rizwan Cheema, no run",,,0
+18,19,Hiral Patel,414248,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",1st innings,3.1,run,4,1,4/0,"Mudassar Bukhari to Patel, 1 run",,,0
+19,20,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,3.2,no run,4,0,4/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+20,21,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, no run ",1st innings,3.3,no run,4,0,4/0,"Mudassar Bukhari to Rizwan Cheema, no run",,,0
+21,22,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, FOUR runs ",1st innings,3.4,four,8,4,8/0,"Mudassar Bukhari to Rizwan Cheema, FOUR runs",,,0
+22,23,Rizwan Cheema,361952,Mudassar Bukhari,245166,"Mudassar Bukhari to Rizwan Cheema, OUT ",1st innings,3.5,out,8,0,8/1,"Mudassar Bukhari to Rizwan Cheema, OUT",,,1
+23,24,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,4.0,no run,8,0,8/1,"Mudassar Bukhari to Barnett, no run",,,1
+24,25,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, no run ",1st innings,4.1,no run,8,0,8/1,"Jonkman to Patel, no run",,,1
+25,26,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, FOUR runs ",1st innings,4.2,four,12,4,12/1,"Jonkman to Patel, FOUR runs",,,1
+26,27,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, 1 run ",1st innings,4.3,run,13,1,13/1,"Jonkman to Patel, 1 run",,,1
+27,28,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,4.4,no run,13,0,13/1,"Jonkman to Barnett, no run",,,1
+28,28,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, 1 wide ",1st innings,4.4,wide,14,1,14/1,"Jonkman to Barnett, 1 wide",,,1
+29,29,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,4.5,no run,14,0,14/1,"Jonkman to Barnett, no run",,,1
+30,30,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,5.0,no run,14,0,14/1,"Jonkman to Barnett, no run",,,1
+31,31,Hiral Patel,414248,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, no run ",1st innings,5.1,no run,14,0,14/1,"Mudassar Bukhari to Patel, no run",,,1
+32,32,Hiral Patel,414248,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",1st innings,5.2,run,15,1,15/1,"Mudassar Bukhari to Patel, 1 run",,,1
+33,33,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,5.3,no run,15,0,15/1,"Mudassar Bukhari to Barnett, no run",,,1
+34,34,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, FOUR runs ",1st innings,5.4,four,19,4,19/1,"Mudassar Bukhari to Barnett, FOUR runs",,,1
+35,35,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,5.5,no run,19,0,19/1,"Mudassar Bukhari to Barnett, no run",,,1
+36,36,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, 1 run ",1st innings,6.0,run,20,1,20/1,"Mudassar Bukhari to Barnett, 1 run",,,1
+37,37,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,6.1,no run,20,0,20/1,"Jonkman to Barnett, no run",,,1
+38,38,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, FOUR runs ",1st innings,6.2,four,24,4,24/1,"Jonkman to Barnett, FOUR runs",,,1
+39,39,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,6.3,no run,24,0,24/1,"Jonkman to Barnett, no run",,,1
+40,40,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, 1 run ",1st innings,6.4,run,25,1,25/1,"Jonkman to Barnett, 1 run",,,1
+41,41,Hiral Patel,414248,Mark Jonkman,245397,"Jonkman to Patel, OUT ",1st innings,6.5,out,25,0,25/2,"Jonkman to Patel, OUT",,,2
+42,42,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,7.0,no run,25,0,25/2,"Jonkman to Bagai, no run",,,2
+43,43,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,7.1,no run,25,0,25/2,"Mudassar Bukhari to Barnett, no run",,,2
+44,44,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,7.2,no run,25,0,25/2,"Mudassar Bukhari to Barnett, no run",,,2
+45,45,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,7.3,no run,25,0,25/2,"Mudassar Bukhari to Barnett, no run",,,2
+46,46,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, FOUR runs ",1st innings,7.4,four,29,4,29/2,"Mudassar Bukhari to Barnett, FOUR runs",,,2
+47,47,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,7.5,no run,29,0,29/2,"Mudassar Bukhari to Barnett, no run",,,2
+48,48,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, 1 run ",1st innings,8.0,run,30,1,30/2,"Mudassar Bukhari to Barnett, 1 run",,,2
+49,49,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, no run ",1st innings,8.1,no run,30,0,30/2,"Jonkman to Barnett, no run",,,2
+50,50,Geoff Barnett,36383,Mark Jonkman,245397,"Jonkman to Barnett, 3 runs ",1st innings,8.2,run,33,3,33/2,"Jonkman to Barnett, 3 runs",,,2
+51,50,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 wide ",1st innings,8.2,wide,34,1,34/2,"Jonkman to Bagai, 1 wide",,,2
+52,51,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,8.3,no run,34,0,34/2,"Jonkman to Bagai, no run",,,2
+53,52,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, FOUR runs ",1st innings,8.4,four,38,4,38/2,"Jonkman to Bagai, FOUR runs",,,2
+54,53,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,8.5,no run,38,0,38/2,"Jonkman to Bagai, no run",,,2
+55,54,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,9.0,no run,38,0,38/2,"Jonkman to Bagai, no run",,,2
+56,55,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, 1 run ",1st innings,9.1,run,39,1,39/2,"Mudassar Bukhari to Barnett, 1 run",,,2
+57,56,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,9.2,no run,39,0,39/2,"Mudassar Bukhari to Bagai, no run",,,2
+58,57,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,9.3,no run,39,0,39/2,"Mudassar Bukhari to Bagai, no run",,,2
+59,58,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,9.4,no run,39,0,39/2,"Mudassar Bukhari to Bagai, no run",,,2
+60,59,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,9.5,no run,39,0,39/2,"Mudassar Bukhari to Bagai, no run",,,2
+61,60,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,10.0,no run,39,0,39/2,"Mudassar Bukhari to Bagai, no run",,,2
+62,61,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, 1 run ",1st innings,10.1,run,40,1,40/2,"Borren to Barnett, 1 run",,,2
+63,61,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, 1 wide ",1st innings,10.1,wide,41,1,41/2,"Borren to Bagai, 1 wide",,,2
+64,62,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,10.2,no run,41,0,41/2,"Borren to Bagai, no run",,,2
+65,63,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, FOUR runs ",1st innings,10.3,four,45,4,45/2,"Borren to Bagai, FOUR runs",,,2
+66,64,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,10.4,no run,45,0,45/2,"Borren to Bagai, no run",,,2
+67,65,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,10.5,no run,45,0,45/2,"Borren to Bagai, no run",,,2
+68,66,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,11.0,no run,45,0,45/2,"Borren to Bagai, no run",,,2
+69,67,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, no run ",1st innings,11.1,no run,45,0,45/2,"Mudassar Bukhari to Barnett, no run",,,2
+70,68,Geoff Barnett,36383,Mudassar Bukhari,245166,"Mudassar Bukhari to Barnett, 1 run ",1st innings,11.2,run,46,1,46/2,"Mudassar Bukhari to Barnett, 1 run",,,2
+71,69,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,11.3,no run,46,0,46/2,"Mudassar Bukhari to Bagai, no run",,,2
+72,70,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,11.4,no run,46,0,46/2,"Mudassar Bukhari to Bagai, no run",,,2
+73,71,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,11.5,no run,46,0,46/2,"Mudassar Bukhari to Bagai, no run",,,2
+74,72,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,12.0,no run,46,0,46/2,"Mudassar Bukhari to Bagai, no run",,,2
+75,73,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, 1 run ",1st innings,12.1,run,47,1,47/2,"Borren to Barnett, 1 run",,,2
+76,74,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,12.2,no run,47,0,47/2,"Borren to Bagai, no run",,,2
+77,75,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,12.3,no run,47,0,47/2,"Borren to Bagai, no run",,,2
+78,76,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,12.4,no run,47,0,47/2,"Borren to Bagai, no run",,,2
+79,77,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,12.5,no run,47,0,47/2,"Borren to Bagai, no run",,,2
+80,78,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,13.0,no run,47,0,47/2,"Borren to Bagai, no run",,,2
+81,79,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, FOUR runs ",1st innings,13.1,four,51,4,51/2,"Kruger to Barnett, FOUR runs",,,2
+82,80,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,13.2,no run,51,0,51/2,"Kruger to Barnett, no run",,,2
+83,81,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, FOUR runs ",1st innings,13.3,four,55,4,55/2,"Kruger to Barnett, FOUR runs",,,2
+84,82,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,13.4,no run,55,0,55/2,"Kruger to Barnett, no run",,,2
+85,83,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,13.5,no run,55,0,55/2,"Kruger to Barnett, no run",,,2
+86,84,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,14.0,no run,55,0,55/2,"Kruger to Barnett, no run",,,2
+87,85,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, 1 run ",1st innings,14.1,run,56,1,56/2,"Borren to Bagai, 1 run",,,2
+88,86,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, no run ",1st innings,14.2,no run,56,0,56/2,"Borren to Barnett, no run",,,2
+89,87,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, 2 runs ",1st innings,14.3,run,58,2,58/2,"Borren to Barnett, 2 runs",,,2
+90,88,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, no run ",1st innings,14.4,no run,58,0,58/2,"Borren to Barnett, no run",,,2
+91,89,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, no run ",1st innings,14.5,no run,58,0,58/2,"Borren to Barnett, no run",,,2
+92,90,Geoff Barnett,36383,Peter Borren,36592,"Borren to Barnett, 1 run ",1st innings,15.0,run,59,1,59/2,"Borren to Barnett, 1 run",,,2
+93,91,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,15.1,no run,59,0,59/2,"Kruger to Barnett, no run",,,2
+94,92,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, no run ",1st innings,15.2,no run,59,0,59/2,"Kruger to Barnett, no run",,,2
+95,93,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, 1 run ",1st innings,15.3,run,60,1,60/2,"Kruger to Barnett, 1 run",,,2
+96,94,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,15.4,run,61,1,61/2,"Kruger to Bagai, 1 run",,,2
+97,95,Geoff Barnett,36383,Bradley Kruger,297517,"Kruger to Barnett, OUT ",1st innings,15.5,out,61,0,61/3,"Kruger to Barnett, OUT",,,3
+98,96,Zubin Surkari,23803,Bradley Kruger,297517,"Kruger to Surkari, no run ",1st innings,16.0,no run,61,0,61/3,"Kruger to Surkari, no run",,,3
+99,97,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,16.1,no run,61,0,61/3,"Borren to Bagai, no run",,,3
+100,98,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,16.2,no run,61,0,61/3,"Borren to Bagai, no run",,,3
+101,99,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,16.3,no run,61,0,61/3,"Borren to Bagai, no run",,,3
+102,100,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, 2 runs ",1st innings,16.4,run,63,2,63/3,"Borren to Bagai, 2 runs",,,3
+103,101,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, OUT ",1st innings,16.5,out,63,0,63/4,"Borren to Bagai, OUT",,,4
+104,102,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,17.0,no run,63,0,63/4,"Borren to Bagai, no run",,,4
+105,103,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,17.1,no run,63,0,63/4,"Kruger to Bagai, no run",,,4
+106,104,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,17.2,no run,63,0,63/4,"Kruger to Bagai, no run",,,4
+107,105,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,17.3,run,64,1,64/4,"Kruger to Bagai, 1 run",,,4
+108,106,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,17.4,no run,64,0,64/4,"Kruger to Bastiampillai, no run",,,4
+109,107,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,17.5,no run,64,0,64/4,"Kruger to Bastiampillai, no run",,,4
+110,108,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,18.0,run,65,1,65/4,"Kruger to Bagai, 1 run",,,4
+111,109,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,18.1,no run,65,0,65/4,"Borren to Bastiampillai, no run",,,4
+112,110,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,18.2,no run,65,0,65/4,"Borren to Bastiampillai, no run",,,4
+113,111,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,18.3,no run,65,0,65/4,"Borren to Bastiampillai, no run",,,4
+114,112,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, FOUR runs ",1st innings,18.4,four,69,4,69/4,"Borren to Bastiampillai, FOUR runs",,,4
+115,113,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,18.5,no run,69,0,69/4,"Borren to Bastiampillai, no run",,,4
+116,114,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,19.0,no run,69,0,69/4,"Borren to Bastiampillai, no run",,,4
+117,115,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,19.1,no run,69,0,69/4,"Kruger to Bagai, no run",,,4
+118,116,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,19.2,no run,69,0,69/4,"Kruger to Bagai, no run",,,4
+119,117,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,19.3,no run,69,0,69/4,"Kruger to Bagai, no run",,,4
+120,118,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,19.4,run,70,1,70/4,"Kruger to Bagai, 1 run",,,4
+121,119,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,19.5,no run,70,0,70/4,"Kruger to Bastiampillai, no run",,,4
+122,120,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,20.0,no run,70,0,70/4,"Kruger to Bastiampillai, no run",,,4
+123,121,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, 1 run ",1st innings,20.1,run,71,1,71/4,"Borren to Bagai, 1 run",,,4
+124,122,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, no run ",1st innings,20.2,no run,71,0,71/4,"Borren to Bastiampillai, no run",,,4
+125,123,Trevin Bastiampillai,23874,Peter Borren,36592,"Borren to Bastiampillai, 1 run ",1st innings,20.3,run,72,1,72/4,"Borren to Bastiampillai, 1 run",,,4
+126,124,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,20.4,no run,72,0,72/4,"Borren to Bagai, no run",,,4
+127,125,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,20.5,no run,72,0,72/4,"Borren to Bagai, no run",,,4
+128,126,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,21.0,no run,72,0,72/4,"Borren to Bagai, no run",,,4
+129,127,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, 1 run ",1st innings,21.1,run,73,1,73/4,"Kruger to Bastiampillai, 1 run",,,4
+130,128,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,21.2,no run,73,0,73/4,"Kruger to Bagai, no run",,,4
+131,129,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 2 runs ",1st innings,21.3,run,75,2,75/4,"Kruger to Bagai, 2 runs",,,4
+132,130,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,21.4,no run,75,0,75/4,"Kruger to Bagai, no run",,,4
+133,131,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,21.5,no run,75,0,75/4,"Kruger to Bagai, no run",,,4
+134,132,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,22.0,run,76,1,76/4,"Kruger to Bagai, 1 run",,,4
+135,133,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,22.1,no run,76,0,76/4,"Borren to Bagai, no run",,,4
+136,134,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, FOUR runs ",1st innings,22.2,four,80,4,80/4,"Borren to Bagai, FOUR runs",,,4
+137,135,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,22.3,no run,80,0,80/4,"Borren to Bagai, no run",,,4
+138,136,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, FOUR runs ",1st innings,22.4,four,84,4,84/4,"Borren to Bagai, FOUR runs",,,4
+139,137,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,22.5,no run,84,0,84/4,"Borren to Bagai, no run",,,4
+140,138,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, no run ",1st innings,23.0,no run,84,0,84/4,"Borren to Bagai, no run",,,4
+141,139,Trevin Bastiampillai,23874,Adeel Raja,24978,"Adeel Raja to Bastiampillai, no run ",1st innings,23.1,no run,84,0,84/4,"Adeel Raja to Bastiampillai, no run",,,4
+142,140,Trevin Bastiampillai,23874,Adeel Raja,24978,"Adeel Raja to Bastiampillai, no run ",1st innings,23.2,no run,84,0,84/4,"Adeel Raja to Bastiampillai, no run",,,4
+143,141,Trevin Bastiampillai,23874,Adeel Raja,24978,"Adeel Raja to Bastiampillai, 1 run ",1st innings,23.3,run,85,1,85/4,"Adeel Raja to Bastiampillai, 1 run",,,4
+144,142,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,23.4,no run,85,0,85/4,"Adeel Raja to Bagai, no run",,,4
+145,143,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,23.5,no run,85,0,85/4,"Adeel Raja to Bagai, no run",,,4
+146,144,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,24.0,no run,85,0,85/4,"Adeel Raja to Bagai, no run",,,4
+147,145,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, 1 run ",1st innings,24.1,run,86,1,86/4,"Kruger to Bastiampillai, 1 run",,,4
+148,146,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,24.2,no run,86,0,86/4,"Kruger to Bagai, no run",,,4
+149,147,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,24.3,no run,86,0,86/4,"Kruger to Bagai, no run",,,4
+150,148,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,24.4,no run,86,0,86/4,"Kruger to Bagai, no run",,,4
+151,149,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 1 run ",1st innings,24.5,run,87,1,87/4,"Kruger to Bagai, 1 run",,,4
+152,150,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,25.0,no run,87,0,87/4,"Kruger to Bastiampillai, no run",,,4
+153,151,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,25.1,no run,87,0,87/4,"Adeel Raja to Bagai, no run",,,4
+154,152,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,25.2,run,88,1,88/4,"Adeel Raja to Bagai, 1 run",,,4
+155,153,Trevin Bastiampillai,23874,Adeel Raja,24978,"Adeel Raja to Bastiampillai, 1 run ",1st innings,25.3,run,89,1,89/4,"Adeel Raja to Bastiampillai, 1 run",,,4
+156,154,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,25.4,no run,89,0,89/4,"Adeel Raja to Bagai, no run",,,4
+157,155,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,25.5,no run,89,0,89/4,"Adeel Raja to Bagai, no run",,,4
+158,156,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,26.0,no run,89,0,89/4,"Adeel Raja to Bagai, no run",,,4
+159,157,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, no run ",1st innings,26.1,no run,89,0,89/4,"Kruger to Bastiampillai, no run",,,4
+160,158,Trevin Bastiampillai,23874,Bradley Kruger,297517,"Kruger to Bastiampillai, OUT ",1st innings,26.2,out,89,0,89/5,"Kruger to Bastiampillai, OUT",,,5
+161,159,Sunil Dhaniram,51738,Bradley Kruger,297517,"Kruger to Dhaniram, no run ",1st innings,26.3,no run,89,0,89/5,"Kruger to Dhaniram, no run",,,5
+162,160,Sunil Dhaniram,51738,Bradley Kruger,297517,"Kruger to Dhaniram, no run ",1st innings,26.4,no run,89,0,89/5,"Kruger to Dhaniram, no run",,,5
+163,161,Sunil Dhaniram,51738,Bradley Kruger,297517,"Kruger to Dhaniram, no run ",1st innings,26.5,no run,89,0,89/5,"Kruger to Dhaniram, no run",,,5
+164,162,Sunil Dhaniram,51738,Bradley Kruger,297517,"Kruger to Dhaniram, no run ",1st innings,27.0,no run,89,0,89/5,"Kruger to Dhaniram, no run",,,5
+165,163,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,27.1,run,90,1,90/5,"Adeel Raja to Bagai, 1 run",,,5
+166,164,Sunil Dhaniram,51738,Adeel Raja,24978,"Adeel Raja to Dhaniram, no run ",1st innings,27.2,no run,90,0,90/5,"Adeel Raja to Dhaniram, no run",,,5
+167,165,Sunil Dhaniram,51738,Adeel Raja,24978,"Adeel Raja to Dhaniram, no run ",1st innings,27.3,no run,90,0,90/5,"Adeel Raja to Dhaniram, no run",,,5
+168,166,Sunil Dhaniram,51738,Adeel Raja,24978,"Adeel Raja to Dhaniram, no run ",1st innings,27.4,no run,90,0,90/5,"Adeel Raja to Dhaniram, no run",,,5
+169,167,Sunil Dhaniram,51738,Adeel Raja,24978,"Adeel Raja to Dhaniram, OUT ",1st innings,27.5,out,90,0,90/6,"Adeel Raja to Dhaniram, OUT",,,6
+170,168,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, no run ",1st innings,28.0,no run,90,0,90/6,"Adeel Raja to Bhatti, no run",,,6
+171,169,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,28.1,no run,90,0,90/6,"Kruger to Bagai, no run",,,6
+172,170,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,28.2,no run,90,0,90/6,"Kruger to Bagai, no run",,,6
+173,171,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,28.3,no run,90,0,90/6,"Kruger to Bagai, no run",,,6
+174,172,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 2 runs ",1st innings,28.4,run,92,2,92/6,"Kruger to Bagai, 2 runs",,,6
+175,173,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, no run ",1st innings,28.5,no run,92,0,92/6,"Kruger to Bagai, no run",,,6
+176,174,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, 4 leg byes ",1st innings,29.0,leg bye,96,4,96/6,"Kruger to Bagai, 4 leg byes",,,6
+177,174,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, 1 wide ",1st innings,29.0,wide,97,1,97/6,"Adeel Raja to Bhatti, 1 wide",,,6
+178,175,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, no run ",1st innings,29.1,no run,97,0,97/6,"Adeel Raja to Bhatti, no run",,,6
+179,176,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, no run ",1st innings,29.2,no run,97,0,97/6,"Adeel Raja to Bhatti, no run",,,6
+180,177,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, no run ",1st innings,29.3,no run,97,0,97/6,"Adeel Raja to Bhatti, no run",,,6
+181,178,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, no run ",1st innings,29.4,no run,97,0,97/6,"Adeel Raja to Bhatti, no run",,,6
+182,179,Umar Bhatti,23865,Adeel Raja,24978,"Adeel Raja to Bhatti, OUT ",1st innings,29.5,out,97,0,97/7,"Adeel Raja to Bhatti, OUT",,,7
+183,180,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,30.0,no run,97,0,97/7,"Adeel Raja to Hooper, no run",,,7
+184,181,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 run ",1st innings,30.1,run,98,1,98/7,"Jonkman to Bagai, 1 run",,,7
+185,182,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, no run ",1st innings,30.2,no run,98,0,98/7,"Jonkman to Hooper, no run",,,7
+186,183,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, no run ",1st innings,30.3,no run,98,0,98/7,"Jonkman to Hooper, no run",,,7
+187,184,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, no run ",1st innings,30.4,no run,98,0,98/7,"Jonkman to Hooper, no run",,,7
+188,185,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, no run ",1st innings,30.5,no run,98,0,98/7,"Jonkman to Hooper, no run",,,7
+189,186,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, no run ",1st innings,31.0,no run,98,0,98/7,"Jonkman to Hooper, no run",,,7
+190,187,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,31.1,no run,98,0,98/7,"Adeel Raja to Bagai, no run",,,7
+191,187,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 wide ",1st innings,31.1,wide,99,1,99/7,"Adeel Raja to Bagai, 1 wide",,,7
+192,188,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,31.2,run,100,1,100/7,"Adeel Raja to Bagai, 1 run",,,7
+193,189,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,31.3,no run,100,0,100/7,"Adeel Raja to Hooper, no run",,,7
+194,190,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,31.4,no run,100,0,100/7,"Adeel Raja to Hooper, no run",,,7
+195,191,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, 1 run ",1st innings,31.5,run,101,1,101/7,"Adeel Raja to Hooper, 1 run",,,7
+196,192,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,32.0,run,102,1,102/7,"Adeel Raja to Bagai, 1 run",,,7
+197,193,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,32.1,no run,102,0,102/7,"Jonkman to Bagai, no run",,,7
+198,194,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, FOUR runs ",1st innings,32.2,four,106,4,106/7,"Jonkman to Bagai, FOUR runs",,,7
+199,195,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,32.3,no run,106,0,106/7,"Jonkman to Bagai, no run",,,7
+200,196,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,32.4,no run,106,0,106/7,"Jonkman to Bagai, no run",,,7
+201,197,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,32.5,no run,106,0,106/7,"Jonkman to Bagai, no run",,,7
+202,198,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 run ",1st innings,33.0,run,107,1,107/7,"Jonkman to Bagai, 1 run",,,7
+203,199,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,33.1,no run,107,0,107/7,"Adeel Raja to Bagai, no run",,,7
+204,200,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,33.2,run,108,1,108/7,"Adeel Raja to Bagai, 1 run",,,7
+205,201,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,33.3,no run,108,0,108/7,"Adeel Raja to Hooper, no run",,,7
+206,202,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,33.4,no run,108,0,108/7,"Adeel Raja to Hooper, no run",,,7
+207,203,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,33.5,no run,108,0,108/7,"Adeel Raja to Hooper, no run",,,7
+208,204,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, FOUR runs ",1st innings,34.0,four,112,4,112/7,"Adeel Raja to Hooper, FOUR runs",,,7
+209,205,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,34.1,no run,112,0,112/7,"Mudassar Bukhari to Bagai, no run",,,7
+210,206,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,34.2,no run,112,0,112/7,"Mudassar Bukhari to Bagai, no run",,,7
+211,207,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,34.3,run,113,1,113/7,"Mudassar Bukhari to Bagai, 1 run",,,7
+212,208,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,34.4,no run,113,0,113/7,"Mudassar Bukhari to Hooper, no run",,,7
+213,209,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,34.5,no run,113,0,113/7,"Mudassar Bukhari to Hooper, no run",,,7
+214,210,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,35.0,no run,113,0,113/7,"Mudassar Bukhari to Hooper, no run",,,7
+215,211,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,35.1,no run,113,0,113/7,"Adeel Raja to Bagai, no run",,,7
+216,212,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,35.2,no run,113,0,113/7,"Adeel Raja to Bagai, no run",,,7
+217,213,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,35.3,run,114,1,114/7,"Adeel Raja to Bagai, 1 run",,,7
+218,214,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, SIX runs ",1st innings,35.4,six,120,6,120/7,"Adeel Raja to Hooper, SIX runs",,,7
+219,215,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,35.5,no run,120,0,120/7,"Adeel Raja to Hooper, no run",,,7
+220,216,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,36.0,no run,120,0,120/7,"Adeel Raja to Hooper, no run",,,7
+221,217,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,36.1,no run,120,0,120/7,"Mudassar Bukhari to Bagai, no run",,,7
+222,218,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,36.2,no run,120,0,120/7,"Mudassar Bukhari to Bagai, no run",,,7
+223,219,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,36.3,run,121,1,121/7,"Mudassar Bukhari to Bagai, 1 run",,,7
+224,220,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,36.4,no run,121,0,121/7,"Mudassar Bukhari to Hooper, no run",,,7
+225,221,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,36.5,no run,121,0,121/7,"Mudassar Bukhari to Hooper, no run",,,7
+226,222,Calvert Hooper,313430,Mudassar Bukhari,245166,"Mudassar Bukhari to Hooper, no run ",1st innings,37.0,no run,121,0,121/7,"Mudassar Bukhari to Hooper, no run",,,7
+227,223,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,37.1,no run,121,0,121/7,"Adeel Raja to Bagai, no run",,,7
+228,224,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,37.2,run,122,1,122/7,"Adeel Raja to Bagai, 1 run",,,7
+229,225,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,37.3,no run,122,0,122/7,"Adeel Raja to Hooper, no run",,,7
+230,226,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,37.4,no run,122,0,122/7,"Adeel Raja to Hooper, no run",,,7
+231,227,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,37.5,no run,122,0,122/7,"Adeel Raja to Hooper, no run",,,7
+232,228,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,38.0,no run,122,0,122/7,"Adeel Raja to Hooper, no run",,,7
+233,229,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, 1 run ",1st innings,38.1,run,123,1,123/7,"Barresi to Bagai, 1 run",,,7
+234,230,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, no run ",1st innings,38.2,no run,123,0,123/7,"Barresi to Hooper, no run",,,7
+235,231,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, 1 run ",1st innings,38.3,run,124,1,124/7,"Barresi to Hooper, 1 run",,,7
+236,232,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, no run ",1st innings,38.4,no run,124,0,124/7,"Barresi to Bagai, no run",,,7
+237,233,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, no run ",1st innings,38.5,no run,124,0,124/7,"Barresi to Bagai, no run",,,7
+238,234,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, 1 run ",1st innings,39.0,run,125,1,125/7,"Barresi to Bagai, 1 run",,,7
+239,235,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,39.1,no run,125,0,125/7,"Adeel Raja to Bagai, no run",,,7
+240,236,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,39.2,no run,125,0,125/7,"Adeel Raja to Bagai, no run",,,7
+241,237,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,39.3,no run,125,0,125/7,"Adeel Raja to Bagai, no run",,,7
+242,238,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, no run ",1st innings,39.4,no run,125,0,125/7,"Adeel Raja to Bagai, no run",,,7
+243,239,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,39.5,run,126,1,126/7,"Adeel Raja to Bagai, 1 run",,,7
+244,240,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,40.0,no run,126,0,126/7,"Adeel Raja to Hooper, no run",,,7
+245,241,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, 1 run ",1st innings,40.1,run,127,1,127/7,"Barresi to Bagai, 1 run",,,7
+246,242,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, no run ",1st innings,40.2,no run,127,0,127/7,"Barresi to Hooper, no run",,,7
+247,243,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, FOUR runs ",1st innings,40.3,four,131,4,131/7,"Barresi to Hooper, FOUR runs",,,7
+248,244,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, no run ",1st innings,40.4,no run,131,0,131/7,"Barresi to Hooper, no run",,,7
+249,245,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, FOUR runs ",1st innings,40.5,four,135,4,135/7,"Barresi to Hooper, FOUR runs",,,7
+250,246,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, no run ",1st innings,41.0,no run,135,0,135/7,"Barresi to Hooper, no run",,,7
+251,247,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,41.1,run,136,1,136/7,"Adeel Raja to Bagai, 1 run",,,7
+252,248,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,41.2,no run,136,0,136/7,"Adeel Raja to Hooper, no run",,,7
+253,249,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,41.3,no run,136,0,136/7,"Adeel Raja to Hooper, no run",,,7
+254,250,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, no run ",1st innings,41.4,no run,136,0,136/7,"Adeel Raja to Hooper, no run",,,7
+255,251,Calvert Hooper,313430,Adeel Raja,24978,"Adeel Raja to Hooper, 1 run ",1st innings,41.5,run,137,1,137/7,"Adeel Raja to Hooper, 1 run",,,7
+256,252,Ashish Bagai,23797,Adeel Raja,24978,"Adeel Raja to Bagai, 1 run ",1st innings,42.0,run,138,1,138/7,"Adeel Raja to Bagai, 1 run",,,7
+257,253,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, 1 run ",1st innings,42.1,run,139,1,139/7,"Barresi to Bagai, 1 run",,,7
+258,254,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, 1 run ",1st innings,42.2,run,140,1,140/7,"Barresi to Hooper, 1 run",,,7
+259,255,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, 1 run ",1st innings,42.3,run,141,1,141/7,"Barresi to Bagai, 1 run",,,7
+260,256,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, FOUR runs ",1st innings,42.4,four,145,4,145/7,"Barresi to Hooper, FOUR runs",,,7
+261,257,Calvert Hooper,313430,Wesley Barresi,44407,"Barresi to Hooper, 1 run ",1st innings,42.5,run,146,1,146/7,"Barresi to Hooper, 1 run",,,7
+262,258,Ashish Bagai,23797,Wesley Barresi,44407,"Barresi to Bagai, no run ",1st innings,43.0,no run,146,0,146/7,"Barresi to Bagai, no run",,,7
+263,259,Calvert Hooper,313430,Mark Jonkman,245397,"Jonkman to Hooper, OUT ",1st innings,43.1,out,146,0,146/8,"Jonkman to Hooper, OUT",,,8
+264,260,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,43.2,no run,146,0,146/8,"Jonkman to Baidwan, no run",,,8
+265,261,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,43.3,no run,146,0,146/8,"Jonkman to Baidwan, no run",,,8
+266,262,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,43.4,no run,146,0,146/8,"Jonkman to Baidwan, no run",,,8
+267,263,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,43.5,no run,146,0,146/8,"Jonkman to Baidwan, no run",,,8
+268,264,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,44.0,no run,146,0,146/8,"Jonkman to Baidwan, no run",,,8
+269,265,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,44.1,run,147,1,147/8,"Mudassar Bukhari to Bagai, 1 run",,,8
+270,266,Harvir Baidwan,355583,Mudassar Bukhari,245166,"Mudassar Bukhari to Baidwan, 3 runs ",1st innings,44.2,run,150,3,150/8,"Mudassar Bukhari to Baidwan, 3 runs",,,8
+271,267,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,44.3,run,151,1,151/8,"Mudassar Bukhari to Bagai, 1 run",,,8
+272,268,Harvir Baidwan,355583,Mudassar Bukhari,245166,"Mudassar Bukhari to Baidwan, no run ",1st innings,44.4,no run,151,0,151/8,"Mudassar Bukhari to Baidwan, no run",,,8
+273,269,Harvir Baidwan,355583,Mudassar Bukhari,245166,"Mudassar Bukhari to Baidwan, 1 run ",1st innings,44.5,run,152,1,152/8,"Mudassar Bukhari to Baidwan, 1 run",,,8
+274,270,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,45.0,run,153,1,153/8,"Mudassar Bukhari to Bagai, 1 run",,,8
+275,271,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,45.1,no run,153,0,153/8,"Jonkman to Bagai, no run",,,8
+276,272,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 run ",1st innings,45.2,run,154,1,154/8,"Jonkman to Bagai, 1 run",,,8
+277,273,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, no run ",1st innings,45.3,no run,154,0,154/8,"Jonkman to Baidwan, no run",,,8
+278,274,Harvir Baidwan,355583,Mark Jonkman,245397,"Jonkman to Baidwan, OUT ",1st innings,45.4,out,154,0,154/9,"Jonkman to Baidwan, OUT",,,9
+279,275,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,45.5,no run,154,0,154/9,"Jonkman to Bagai, no run",,,9
+280,276,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 run ",1st innings,46.0,run,155,1,155/9,"Jonkman to Bagai, 1 run",,,9
+281,277,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, no run ",1st innings,46.1,no run,155,0,155/9,"Mudassar Bukhari to Bagai, no run",,,9
+282,278,Ashish Bagai,23797,Mudassar Bukhari,245166,"Mudassar Bukhari to Bagai, 1 run ",1st innings,46.2,run,156,1,156/9,"Mudassar Bukhari to Bagai, 1 run",,,9
+283,279,Parth Desai,440977,Mudassar Bukhari,245166,"Mudassar Bukhari to Desai, no run ",1st innings,46.3,no run,156,0,156/9,"Mudassar Bukhari to Desai, no run",,,9
+284,280,Parth Desai,440977,Mudassar Bukhari,245166,"Mudassar Bukhari to Desai, no run ",1st innings,46.4,no run,156,0,156/9,"Mudassar Bukhari to Desai, no run",,,9
+285,281,Parth Desai,440977,Mudassar Bukhari,245166,"Mudassar Bukhari to Desai, no run ",1st innings,46.5,no run,156,0,156/9,"Mudassar Bukhari to Desai, no run",,,9
+286,282,Parth Desai,440977,Mudassar Bukhari,245166,"Mudassar Bukhari to Desai, no run ",1st innings,47.0,no run,156,0,156/9,"Mudassar Bukhari to Desai, no run",,,9
+287,283,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 2 runs ",1st innings,47.1,run,158,2,158/9,"Jonkman to Bagai, 2 runs",,,9
+288,284,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, FOUR runs ",1st innings,47.2,four,162,4,162/9,"Jonkman to Bagai, FOUR runs",,,9
+289,285,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, no run ",1st innings,47.3,no run,162,0,162/9,"Jonkman to Bagai, no run",,,9
+290,286,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, FOUR runs ",1st innings,47.4,four,166,4,166/9,"Jonkman to Bagai, FOUR runs",,,9
+291,287,Ashish Bagai,23797,Mark Jonkman,245397,"Jonkman to Bagai, 1 run ",1st innings,47.5,run,167,1,167/9,"Jonkman to Bagai, 1 run",,,9
+292,288,Parth Desai,440977,Mark Jonkman,245397,"Jonkman to Desai, no run ",1st innings,48.0,no run,167,0,167/9,"Jonkman to Desai, no run",,,9
+293,289,Ashish Bagai,23797,Peter Borren,36592,"Borren to Bagai, 1 run ",1st innings,48.1,run,168,1,168/9,"Borren to Bagai, 1 run",,,9
+294,290,Parth Desai,440977,Peter Borren,36592,"Borren to Desai, no run ",1st innings,48.2,no run,168,0,168/9,"Borren to Desai, no run",,,9
+295,291,Parth Desai,440977,Peter Borren,36592,"Borren to Desai, no run ",1st innings,48.3,no run,168,0,168/9,"Borren to Desai, no run",,,9
+296,292,Parth Desai,440977,Peter Borren,36592,"Borren to Desai, no run ",1st innings,48.4,no run,168,0,168/9,"Borren to Desai, no run",,,9
+297,293,Parth Desai,440977,Peter Borren,36592,"Borren to Desai, no run ",1st innings,48.5,no run,168,0,168/9,"Borren to Desai, no run",,,9
+298,294,Parth Desai,440977,Peter Borren,36592,"Borren to Desai, no run ",1st innings,49.0,no run,168,0,168/9,"Borren to Desai, no run",,,9
+299,295,Ashish Bagai,23797,Bradley Kruger,297517,"Kruger to Bagai, OUT ",1st innings,49.1,out,168,0,168/10,"Kruger to Bagai, OUT",,,10
+300,0,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 wide ",2nd innings,0.0,wide,1,1,1/0,"Baidwan to Szwarczynski, 1 wide",,,0
+301,1,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,0.1,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+302,2,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,0.2,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+303,3,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,0.3,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+304,4,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,0.4,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+305,5,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,0.5,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+306,6,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,1.0,no run,1,0,1/0,"Baidwan to Szwarczynski, no run",,,0
+307,6,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, 1 wide ",2nd innings,1.0,wide,2,1,2/0,"Hooper to de Grooth, 1 wide",,,0
+308,6,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, 1 wide ",2nd innings,1.0,wide,3,1,3/0,"Hooper to de Grooth, 1 wide",,,0
+309,7,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, no run ",2nd innings,1.1,no run,3,0,3/0,"Hooper to de Grooth, no run",,,0
+310,8,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, no run ",2nd innings,1.2,no run,3,0,3/0,"Hooper to de Grooth, no run",,,0
+311,9,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, no run ",2nd innings,1.3,no run,3,0,3/0,"Hooper to de Grooth, no run",,,0
+312,10,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, 1 run ",2nd innings,1.4,run,4,1,4/0,"Hooper to de Grooth, 1 run",,,0
+313,11,Eric Szwarczynski,214696,Calvert Hooper,313430,"Hooper to Szwarczynski, 1 run ",2nd innings,1.5,run,5,1,5/0,"Hooper to Szwarczynski, 1 run",,,0
+314,12,Tom de Grooth,25022,Calvert Hooper,313430,"Hooper to de Grooth, OUT ",2nd innings,2.0,out,5,0,5/1,"Hooper to de Grooth, OUT",,,1
+315,13,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 leg bye ",2nd innings,2.1,leg bye,6,1,6/1,"Baidwan to Szwarczynski, 1 leg bye",,,1
+316,14,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, 1 run ",2nd innings,2.2,run,7,1,7/1,"Baidwan to Cooper, 1 run",,,1
+317,15,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,2.3,no run,7,0,7/1,"Baidwan to Szwarczynski, no run",,,1
+318,16,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,2.4,no run,7,0,7/1,"Baidwan to Szwarczynski, no run",,,1
+319,17,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,2.5,run,8,1,8/1,"Baidwan to Szwarczynski, 1 run",,,1
+320,18,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,3.0,no run,8,0,8/1,"Baidwan to Cooper, no run",,,1
+321,19,Eric Szwarczynski,214696,Calvert Hooper,313430,"Hooper to Szwarczynski, 1 run ",2nd innings,3.1,run,9,1,9/1,"Hooper to Szwarczynski, 1 run",,,1
+322,20,Tom Cooper,219885,Calvert Hooper,313430,"Hooper to Cooper, 2 runs ",2nd innings,3.2,run,11,2,11/1,"Hooper to Cooper, 2 runs",,,1
+323,21,Tom Cooper,219885,Calvert Hooper,313430,"Hooper to Cooper, FOUR runs ",2nd innings,3.3,four,15,4,15/1,"Hooper to Cooper, FOUR runs",,,1
+324,22,Tom Cooper,219885,Calvert Hooper,313430,"Hooper to Cooper, no run ",2nd innings,3.4,no run,15,0,15/1,"Hooper to Cooper, no run",,,1
+325,23,Tom Cooper,219885,Calvert Hooper,313430,"Hooper to Cooper, 2 runs ",2nd innings,3.5,run,17,2,17/1,"Hooper to Cooper, 2 runs",,,1
+326,24,Tom Cooper,219885,Calvert Hooper,313430,"Hooper to Cooper, FOUR runs ",2nd innings,4.0,four,21,4,21/1,"Hooper to Cooper, FOUR runs",,,1
+327,25,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,4.1,no run,21,0,21/1,"Baidwan to Szwarczynski, no run",,,1
+328,26,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,4.2,no run,21,0,21/1,"Baidwan to Szwarczynski, no run",,,1
+329,27,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,4.3,no run,21,0,21/1,"Baidwan to Szwarczynski, no run",,,1
+330,28,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,4.4,no run,21,0,21/1,"Baidwan to Szwarczynski, no run",,,1
+331,29,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, FOUR runs ",2nd innings,4.5,four,25,4,25/1,"Baidwan to Szwarczynski, FOUR runs",,,1
+332,30,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,5.0,no run,25,0,25/1,"Baidwan to Szwarczynski, no run",,,1
+333,31,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, no run ",2nd innings,5.1,no run,25,0,25/1,"Bhatti to Cooper, no run",,,1
+334,32,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, FOUR runs ",2nd innings,5.2,four,29,4,29/1,"Bhatti to Cooper, FOUR runs",,,1
+335,33,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, no run ",2nd innings,5.3,no run,29,0,29/1,"Bhatti to Cooper, no run",,,1
+336,34,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, no run ",2nd innings,5.4,no run,29,0,29/1,"Bhatti to Cooper, no run",,,1
+337,35,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, no run ",2nd innings,5.5,no run,29,0,29/1,"Bhatti to Cooper, no run",,,1
+338,36,Tom Cooper,219885,Umar Bhatti,23865,"Bhatti to Cooper, no run ",2nd innings,6.0,no run,29,0,29/1,"Bhatti to Cooper, no run",,,1
+339,37,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 3 runs ",2nd innings,6.1,run,32,3,32/1,"Baidwan to Szwarczynski, 3 runs",,,1
+340,38,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,6.2,no run,32,0,32/1,"Baidwan to Cooper, no run",,,1
+341,39,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,6.3,no run,32,0,32/1,"Baidwan to Cooper, no run",,,1
+342,40,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,6.4,no run,32,0,32/1,"Baidwan to Cooper, no run",,,1
+343,41,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,6.5,no run,32,0,32/1,"Baidwan to Cooper, no run",,,1
+344,42,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,7.0,no run,32,0,32/1,"Baidwan to Cooper, no run",,,1
+345,43,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,7.1,no run,32,0,32/1,"Bhatti to Szwarczynski, no run",,,1
+346,44,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,7.2,no run,32,0,32/1,"Bhatti to Szwarczynski, no run",,,1
+347,45,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, FOUR runs ",2nd innings,7.3,four,36,4,36/1,"Bhatti to Szwarczynski, FOUR runs",,,1
+348,46,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, FOUR runs ",2nd innings,7.4,four,40,4,40/1,"Bhatti to Szwarczynski, FOUR runs",,,1
+349,47,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,7.5,no run,40,0,40/1,"Bhatti to Szwarczynski, no run",,,1
+350,48,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,8.0,no run,40,0,40/1,"Bhatti to Szwarczynski, no run",,,1
+351,49,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,8.1,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+352,50,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,8.2,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+353,51,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,8.3,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+354,52,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,8.4,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+355,53,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,8.5,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+356,54,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,9.0,no run,40,0,40/1,"Desai to Cooper, no run",,,1
+357,55,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, FOUR runs ",2nd innings,9.1,four,44,4,44/1,"Rizwan Cheema to Szwarczynski, FOUR runs",,,1
+358,56,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,9.2,no run,44,0,44/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+359,57,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,9.3,no run,44,0,44/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+360,58,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,9.4,no run,44,0,44/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+361,59,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,9.5,no run,44,0,44/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+362,60,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,10.0,no run,44,0,44/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+363,61,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,10.1,no run,44,0,44/1,"Desai to Cooper, no run",,,1
+364,62,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,10.2,no run,44,0,44/1,"Desai to Cooper, no run",,,1
+365,63,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, FOUR runs ",2nd innings,10.3,four,48,4,48/1,"Desai to Cooper, FOUR runs",,,1
+366,64,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,10.4,no run,48,0,48/1,"Desai to Cooper, no run",,,1
+367,65,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, no run ",2nd innings,10.5,no run,48,0,48/1,"Desai to Cooper, no run",,,1
+368,66,Tom Cooper,219885,Parth Desai,440977,"Desai to Cooper, 1 run ",2nd innings,11.0,run,49,1,49/1,"Desai to Cooper, 1 run",,,1
+369,67,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,11.1,no run,49,0,49/1,"Rizwan Cheema to Cooper, no run",,,1
+370,68,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,11.2,no run,49,0,49/1,"Rizwan Cheema to Cooper, no run",,,1
+371,69,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, 1 run ",2nd innings,11.3,run,50,1,50/1,"Rizwan Cheema to Cooper, 1 run",,,1
+372,70,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,11.4,no run,50,0,50/1,"Rizwan Cheema to Szwarczynski, no run",,,1
+373,71,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 3 runs ",2nd innings,11.5,run,53,3,53/1,"Rizwan Cheema to Szwarczynski, 3 runs",,,1
+374,72,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,12.0,no run,53,0,53/1,"Rizwan Cheema to Cooper, no run",,,1
+375,73,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,12.1,no run,53,0,53/1,"Desai to Szwarczynski, no run",,,1
+376,74,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, 2 runs ",2nd innings,12.2,run,55,2,55/1,"Desai to Szwarczynski, 2 runs",,,1
+377,75,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,12.3,no run,55,0,55/1,"Desai to Szwarczynski, no run",,,1
+378,76,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,12.4,no run,55,0,55/1,"Desai to Szwarczynski, no run",,,1
+379,77,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,12.5,no run,55,0,55/1,"Desai to Szwarczynski, no run",,,1
+380,78,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, FOUR runs ",2nd innings,13.0,four,59,4,59/1,"Desai to Szwarczynski, FOUR runs",,,1
+381,79,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,13.1,no run,59,0,59/1,"Rizwan Cheema to Cooper, no run",,,1
+382,80,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,13.2,no run,59,0,59/1,"Rizwan Cheema to Cooper, no run",,,1
+383,81,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,13.3,no run,59,0,59/1,"Rizwan Cheema to Cooper, no run",,,1
+384,82,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, FOUR runs ",2nd innings,13.4,four,63,4,63/1,"Rizwan Cheema to Cooper, FOUR runs",,,1
+385,83,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,13.5,no run,63,0,63/1,"Rizwan Cheema to Cooper, no run",,,1
+386,84,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,14.0,no run,63,0,63/1,"Rizwan Cheema to Cooper, no run",,,1
+387,85,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, 2 runs ",2nd innings,14.1,run,65,2,65/1,"Dhaniram to Szwarczynski, 2 runs",,,1
+388,86,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,14.2,no run,65,0,65/1,"Dhaniram to Szwarczynski, no run",,,1
+389,87,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,14.3,no run,65,0,65/1,"Dhaniram to Szwarczynski, no run",,,1
+390,88,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,14.4,no run,65,0,65/1,"Dhaniram to Szwarczynski, no run",,,1
+391,89,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, SIX runs ",2nd innings,14.5,six,71,6,71/1,"Dhaniram to Szwarczynski, SIX runs",,,1
+392,90,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,15.0,no run,71,0,71/1,"Dhaniram to Szwarczynski, no run",,,1
+393,91,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,15.1,no run,71,0,71/1,"Rizwan Cheema to Cooper, no run",,,1
+394,92,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,15.2,no run,71,0,71/1,"Rizwan Cheema to Cooper, no run",,,1
+395,93,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,15.3,no run,71,0,71/1,"Rizwan Cheema to Cooper, no run",,,1
+396,94,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, 2 runs ",2nd innings,15.4,run,73,2,73/1,"Rizwan Cheema to Cooper, 2 runs",,,1
+397,95,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,15.5,no run,73,0,73/1,"Rizwan Cheema to Cooper, no run",,,1
+398,96,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,16.0,no run,73,0,73/1,"Rizwan Cheema to Cooper, no run",,,1
+399,97,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,16.1,no run,73,0,73/1,"Dhaniram to Szwarczynski, no run",,,1
+400,98,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, 1 run ",2nd innings,16.2,run,74,1,74/1,"Dhaniram to Szwarczynski, 1 run",,,1
+401,99,Tom Cooper,219885,Sunil Dhaniram,51738,"Dhaniram to Cooper, 1 run ",2nd innings,16.3,run,75,1,75/1,"Dhaniram to Cooper, 1 run",,,1
+402,100,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, 1 run ",2nd innings,16.4,run,76,1,76/1,"Dhaniram to Szwarczynski, 1 run",,,1
+403,101,Tom Cooper,219885,Sunil Dhaniram,51738,"Dhaniram to Cooper, 1 run ",2nd innings,16.5,run,77,1,77/1,"Dhaniram to Cooper, 1 run",,,1
+404,102,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,17.0,no run,77,0,77/1,"Dhaniram to Szwarczynski, no run",,,1
+405,103,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,17.1,no run,77,0,77/1,"Rizwan Cheema to Cooper, no run",,,1
+406,104,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, no run ",2nd innings,17.2,no run,77,0,77/1,"Rizwan Cheema to Cooper, no run",,,1
+407,105,Tom Cooper,219885,Rizwan Cheema,361952,"Rizwan Cheema to Cooper, 1 run ",2nd innings,17.3,run,78,1,78/1,"Rizwan Cheema to Cooper, 1 run",,,1
+408,106,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 2 runs ",2nd innings,17.4,run,80,2,80/1,"Rizwan Cheema to Szwarczynski, 2 runs",,,1
+409,107,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 2 runs ",2nd innings,17.5,run,82,2,82/1,"Rizwan Cheema to Szwarczynski, 2 runs",,,1
+410,108,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 1 run ",2nd innings,18.0,run,83,1,83/1,"Rizwan Cheema to Szwarczynski, 1 run",,,1
+411,109,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,18.1,no run,83,0,83/1,"Dhaniram to Szwarczynski, no run",,,1
+412,110,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,18.2,no run,83,0,83/1,"Dhaniram to Szwarczynski, no run",,,1
+413,111,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, 1 run ",2nd innings,18.3,run,84,1,84/1,"Dhaniram to Szwarczynski, 1 run",,,1
+414,112,Tom Cooper,219885,Sunil Dhaniram,51738,"Dhaniram to Cooper, 1 run ",2nd innings,18.4,run,85,1,85/1,"Dhaniram to Cooper, 1 run",,,1
+415,113,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, 2 runs ",2nd innings,18.5,run,87,2,87/1,"Dhaniram to Szwarczynski, 2 runs",,,1
+416,114,Eric Szwarczynski,214696,Sunil Dhaniram,51738,"Dhaniram to Szwarczynski, no run ",2nd innings,19.0,no run,87,0,87/1,"Dhaniram to Szwarczynski, no run",,,1
+417,115,Tom Cooper,219885,Hiral Patel,414248,"Patel to Cooper, 1 run ",2nd innings,19.1,run,88,1,88/1,"Patel to Cooper, 1 run",,,1
+418,116,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,19.2,run,89,1,89/1,"Patel to Szwarczynski, 1 run",,,1
+419,117,Tom Cooper,219885,Hiral Patel,414248,"Patel to Cooper, 1 run ",2nd innings,19.3,run,90,1,90/1,"Patel to Cooper, 1 run",,,1
+420,118,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,19.4,run,91,1,91/1,"Patel to Szwarczynski, 1 run",,,1
+421,119,Tom Cooper,219885,Hiral Patel,414248,"Patel to Cooper, 2 runs ",2nd innings,19.5,run,93,2,93/1,"Patel to Cooper, 2 runs",,,1
+422,120,Tom Cooper,219885,Hiral Patel,414248,"Patel to Cooper, 2 runs ",2nd innings,20.0,run,95,2,95/1,"Patel to Cooper, 2 runs",,,1
+423,121,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,20.1,no run,95,0,95/1,"Baidwan to Szwarczynski, no run",,,1
+424,122,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,20.2,run,96,1,96/1,"Baidwan to Szwarczynski, 1 run",,,1
+425,123,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, no run ",2nd innings,20.3,no run,96,0,96/1,"Baidwan to Cooper, no run",,,1
+426,124,Tom Cooper,219885,Harvir Baidwan,355583,"Baidwan to Cooper, OUT ",2nd innings,20.4,out,96,0,96/2,"Baidwan to Cooper, OUT",,,2
+427,125,Wesley Barresi,44407,Harvir Baidwan,355583,"Baidwan to Barresi, no run ",2nd innings,20.5,no run,96,0,96/2,"Baidwan to Barresi, no run",,,2
+428,126,Wesley Barresi,44407,Harvir Baidwan,355583,"Baidwan to Barresi, no run ",2nd innings,21.0,no run,96,0,96/2,"Baidwan to Barresi, no run",,,2
+429,127,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,21.1,no run,96,0,96/2,"Patel to Szwarczynski, no run",,,2
+430,128,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,21.2,no run,96,0,96/2,"Patel to Szwarczynski, no run",,,2
+431,129,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,21.3,run,97,1,97/2,"Patel to Szwarczynski, 1 run",,,2
+432,130,Wesley Barresi,44407,Hiral Patel,414248,"Patel to Barresi, no run ",2nd innings,21.4,no run,97,0,97/2,"Patel to Barresi, no run",,,2
+433,131,Wesley Barresi,44407,Hiral Patel,414248,"Patel to Barresi, no run ",2nd innings,21.5,no run,97,0,97/2,"Patel to Barresi, no run",,,2
+434,132,Wesley Barresi,44407,Hiral Patel,414248,"Patel to Barresi, no run ",2nd innings,22.0,no run,97,0,97/2,"Patel to Barresi, no run",,,2
+435,133,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,22.1,run,98,1,98/2,"Baidwan to Szwarczynski, 1 run",,,2
+436,133,Wesley Barresi,44407,Harvir Baidwan,355583,"Baidwan to Barresi, 1 wide ",2nd innings,22.1,wide,99,1,99/2,"Baidwan to Barresi, 1 wide",,,2
+437,134,Wesley Barresi,44407,Harvir Baidwan,355583,"Baidwan to Barresi, no run ",2nd innings,22.2,no run,99,0,99/2,"Baidwan to Barresi, no run",,,2
+438,135,Wesley Barresi,44407,Harvir Baidwan,355583,"Baidwan to Barresi, OUT ",2nd innings,22.3,out,99,0,99/3,"Baidwan to Barresi, OUT",,,3
+439,136,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 1 run ",2nd innings,22.4,run,100,1,100/3,"Baidwan to Zuiderent, 1 run",,,3
+440,137,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,22.5,no run,100,0,100/3,"Baidwan to Szwarczynski, no run",,,3
+441,138,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,23.0,no run,100,0,100/3,"Baidwan to Szwarczynski, no run",,,3
+442,138,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, 1 wide ",2nd innings,23.0,wide,101,1,101/3,"Patel to Zuiderent, 1 wide",,,3
+443,139,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,23.1,no run,101,0,101/3,"Patel to Zuiderent, no run",,,3
+444,140,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,23.2,no run,101,0,101/3,"Patel to Zuiderent, no run",,,3
+445,141,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, 1 run ",2nd innings,23.3,run,102,1,102/3,"Patel to Zuiderent, 1 run",,,3
+446,142,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,23.4,no run,102,0,102/3,"Patel to Szwarczynski, no run",,,3
+447,143,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,23.5,no run,102,0,102/3,"Patel to Szwarczynski, no run",,,3
+448,144,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,24.0,no run,102,0,102/3,"Patel to Szwarczynski, no run",,,3
+449,145,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,24.1,no run,102,0,102/3,"Baidwan to Zuiderent, no run",,,3
+450,146,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,24.2,no run,102,0,102/3,"Baidwan to Zuiderent, no run",,,3
+451,147,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,24.3,no run,102,0,102/3,"Baidwan to Zuiderent, no run",,,3
+452,148,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 1 run ",2nd innings,24.4,run,103,1,103/3,"Baidwan to Zuiderent, 1 run",,,3
+453,149,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,24.5,run,104,1,104/3,"Baidwan to Szwarczynski, 1 run",,,3
+454,150,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 1 run ",2nd innings,25.0,run,105,1,105/3,"Baidwan to Zuiderent, 1 run",,,3
+455,151,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,25.1,no run,105,0,105/3,"Patel to Zuiderent, no run",,,3
+456,152,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,25.2,no run,105,0,105/3,"Patel to Zuiderent, no run",,,3
+457,153,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, 1 run ",2nd innings,25.3,run,106,1,106/3,"Patel to Zuiderent, 1 run",,,3
+458,154,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,25.4,no run,106,0,106/3,"Patel to Szwarczynski, no run",,,3
+459,155,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,25.5,no run,106,0,106/3,"Patel to Szwarczynski, no run",,,3
+460,156,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,26.0,run,107,1,107/3,"Patel to Szwarczynski, 1 run",,,3
+461,157,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 1 run ",2nd innings,26.1,run,108,1,108/3,"Rizwan Cheema to Szwarczynski, 1 run",,,3
+462,158,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, 2 runs ",2nd innings,26.2,run,110,2,110/3,"Rizwan Cheema to Zuiderent, 2 runs",,,3
+463,159,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, 1 run ",2nd innings,26.3,run,111,1,111/3,"Rizwan Cheema to Zuiderent, 1 run",,,3
+464,160,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 1 run ",2nd innings,26.4,run,112,1,112/3,"Rizwan Cheema to Szwarczynski, 1 run",,,3
+465,161,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, no run ",2nd innings,26.5,no run,112,0,112/3,"Rizwan Cheema to Zuiderent, no run",,,3
+466,162,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, 1 run ",2nd innings,27.0,run,113,1,113/3,"Rizwan Cheema to Zuiderent, 1 run",,,3
+467,163,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,27.1,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+468,164,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,27.2,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+469,165,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,27.3,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+470,166,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,27.4,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+471,167,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,27.5,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+472,168,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,28.0,no run,113,0,113/3,"Patel to Zuiderent, no run",,,3
+473,169,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,28.1,no run,113,0,113/3,"Rizwan Cheema to Szwarczynski, no run",,,3
+474,170,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,28.2,no run,113,0,113/3,"Rizwan Cheema to Szwarczynski, no run",,,3
+475,171,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,28.3,no run,113,0,113/3,"Rizwan Cheema to Szwarczynski, no run",,,3
+476,172,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 1 run ",2nd innings,28.4,run,114,1,114/3,"Rizwan Cheema to Szwarczynski, 1 run",,,3
+477,173,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, no run ",2nd innings,28.5,no run,114,0,114/3,"Rizwan Cheema to Zuiderent, no run",,,3
+478,174,Bas Zuiderent,24990,Rizwan Cheema,361952,"Rizwan Cheema to Zuiderent, no run ",2nd innings,29.0,no run,114,0,114/3,"Rizwan Cheema to Zuiderent, no run",,,3
+479,175,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,29.1,run,115,1,115/3,"Patel to Szwarczynski, 1 run",,,3
+480,176,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,29.2,no run,115,0,115/3,"Patel to Zuiderent, no run",,,3
+481,177,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,29.3,no run,115,0,115/3,"Patel to Zuiderent, no run",,,3
+482,178,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,29.4,no run,115,0,115/3,"Patel to Zuiderent, no run",,,3
+483,179,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,29.5,no run,115,0,115/3,"Patel to Zuiderent, no run",,,3
+484,180,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,30.0,no run,115,0,115/3,"Patel to Zuiderent, no run",,,3
+485,181,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, 1 leg bye ",2nd innings,30.1,leg bye,116,1,116/3,"Bhatti to Szwarczynski, 1 leg bye",,,3
+486,182,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,30.2,no run,116,0,116/3,"Bhatti to Zuiderent, no run",,,3
+487,183,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, 1 run ",2nd innings,30.3,run,117,1,117/3,"Bhatti to Zuiderent, 1 run",,,3
+488,184,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, 1 run ",2nd innings,30.4,run,118,1,118/3,"Bhatti to Szwarczynski, 1 run",,,3
+489,185,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,30.5,no run,118,0,118/3,"Bhatti to Zuiderent, no run",,,3
+490,186,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,31.0,no run,118,0,118/3,"Bhatti to Zuiderent, no run",,,3
+491,187,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,31.1,no run,118,0,118/3,"Patel to Szwarczynski, no run",,,3
+492,188,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,31.2,no run,118,0,118/3,"Patel to Szwarczynski, no run",,,3
+493,189,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,31.3,no run,118,0,118/3,"Patel to Szwarczynski, no run",,,3
+494,190,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,31.4,no run,118,0,118/3,"Patel to Szwarczynski, no run",,,3
+495,191,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, 1 run ",2nd innings,31.5,run,119,1,119/3,"Patel to Szwarczynski, 1 run",,,3
+496,192,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, 2 runs ",2nd innings,32.0,run,121,2,121/3,"Patel to Zuiderent, 2 runs",,,3
+497,193,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, 1 run ",2nd innings,32.1,run,122,1,122/3,"Bhatti to Szwarczynski, 1 run",,,3
+498,194,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,32.2,no run,122,0,122/3,"Bhatti to Zuiderent, no run",,,3
+499,195,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,32.3,no run,122,0,122/3,"Bhatti to Zuiderent, no run",,,3
+500,196,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, 1 leg bye ",2nd innings,32.4,leg bye,123,1,123/3,"Bhatti to Zuiderent, 1 leg bye",,,3
+501,197,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, 1 run ",2nd innings,32.5,run,124,1,124/3,"Bhatti to Szwarczynski, 1 run",,,3
+502,198,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, FOUR runs ",2nd innings,33.0,four,128,4,128/3,"Bhatti to Zuiderent, FOUR runs",,,3
+503,199,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,33.1,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+504,200,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,33.2,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+505,201,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,33.3,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+506,202,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,33.4,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+507,203,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,33.5,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+508,204,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,34.0,no run,128,0,128/3,"Patel to Szwarczynski, no run",,,3
+509,204,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, 1 no ball ",2nd innings,34.0,no ball,129,1,129/3,"Bhatti to Zuiderent, 1 no ball",,,3
+510,205,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, 1 run ",2nd innings,34.1,run,130,1,130/3,"Bhatti to Zuiderent, 1 run",,,3
+511,206,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, 1 run ",2nd innings,34.2,run,131,1,131/3,"Bhatti to Szwarczynski, 1 run",,,3
+512,207,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, no run ",2nd innings,34.3,no run,131,0,131/3,"Bhatti to Zuiderent, no run",,,3
+513,208,Bas Zuiderent,24990,Umar Bhatti,23865,"Bhatti to Zuiderent, 1 run ",2nd innings,34.4,run,132,1,132/3,"Bhatti to Zuiderent, 1 run",,,3
+514,209,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,34.5,no run,132,0,132/3,"Bhatti to Szwarczynski, no run",,,3
+515,210,Eric Szwarczynski,214696,Umar Bhatti,23865,"Bhatti to Szwarczynski, no run ",2nd innings,35.0,no run,132,0,132/3,"Bhatti to Szwarczynski, no run",,,3
+516,211,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,35.1,no run,132,0,132/3,"Patel to Zuiderent, no run",,,3
+517,212,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,35.2,no run,132,0,132/3,"Patel to Zuiderent, no run",,,3
+518,213,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,35.3,no run,132,0,132/3,"Patel to Zuiderent, no run",,,3
+519,214,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, 1 run ",2nd innings,35.4,run,133,1,133/3,"Patel to Zuiderent, 1 run",,,3
+520,215,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, no run ",2nd innings,35.5,no run,133,0,133/3,"Patel to Szwarczynski, no run",,,3
+521,216,Eric Szwarczynski,214696,Hiral Patel,414248,"Patel to Szwarczynski, FOUR runs ",2nd innings,36.0,four,137,4,137/3,"Patel to Szwarczynski, FOUR runs",,,3
+522,217,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,36.1,no run,137,0,137/3,"Baidwan to Zuiderent, no run",,,3
+523,218,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,36.2,no run,137,0,137/3,"Baidwan to Zuiderent, no run",,,3
+524,219,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,36.3,no run,137,0,137/3,"Baidwan to Zuiderent, no run",,,3
+525,220,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 1 run ",2nd innings,36.4,run,138,1,138/3,"Baidwan to Zuiderent, 1 run",,,3
+526,221,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,36.5,no run,138,0,138/3,"Baidwan to Szwarczynski, no run",,,3
+527,222,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,37.0,no run,138,0,138/3,"Baidwan to Szwarczynski, no run",,,3
+528,223,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,37.1,no run,138,0,138/3,"Patel to Zuiderent, no run",,,3
+529,224,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,37.2,no run,138,0,138/3,"Patel to Zuiderent, no run",,,3
+530,225,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, FOUR runs ",2nd innings,37.3,four,142,4,142/3,"Patel to Zuiderent, FOUR runs",,,3
+531,226,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,37.4,no run,142,0,142/3,"Patel to Zuiderent, no run",,,3
+532,227,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,37.5,no run,142,0,142/3,"Patel to Zuiderent, no run",,,3
+533,228,Bas Zuiderent,24990,Hiral Patel,414248,"Patel to Zuiderent, no run ",2nd innings,38.0,no run,142,0,142/3,"Patel to Zuiderent, no run",,,3
+534,229,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,38.1,run,143,1,143/3,"Baidwan to Szwarczynski, 1 run",,,3
+535,230,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, FOUR runs ",2nd innings,38.2,four,147,4,147/3,"Baidwan to Zuiderent, FOUR runs",,,3
+536,231,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,38.3,no run,147,0,147/3,"Baidwan to Zuiderent, no run",,,3
+537,232,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 2 runs ",2nd innings,38.4,run,149,2,149/3,"Baidwan to Zuiderent, 2 runs",,,3
+538,233,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,38.5,no run,149,0,149/3,"Baidwan to Zuiderent, no run",,,3
+539,234,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,39.0,no run,149,0,149/3,"Baidwan to Zuiderent, no run",,,3
+540,235,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,39.1,no run,149,0,149/3,"Desai to Szwarczynski, no run",,,3
+541,236,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,39.2,no run,149,0,149/3,"Desai to Szwarczynski, no run",,,3
+542,237,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,39.3,no run,149,0,149/3,"Desai to Szwarczynski, no run",,,3
+543,238,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,39.4,no run,149,0,149/3,"Desai to Szwarczynski, no run",,,3
+544,239,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, 1 run ",2nd innings,39.5,run,150,1,150/3,"Desai to Szwarczynski, 1 run",,,3
+545,240,Bas Zuiderent,24990,Parth Desai,440977,"Desai to Zuiderent, FOUR runs ",2nd innings,40.0,four,154,4,154/3,"Desai to Zuiderent, FOUR runs",,,3
+546,241,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,40.1,run,155,1,155/3,"Baidwan to Szwarczynski, 1 run",,,3
+547,242,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,40.2,no run,155,0,155/3,"Baidwan to Zuiderent, no run",,,3
+548,243,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, no run ",2nd innings,40.3,no run,155,0,155/3,"Baidwan to Zuiderent, no run",,,3
+549,244,Bas Zuiderent,24990,Harvir Baidwan,355583,"Baidwan to Zuiderent, 1 run ",2nd innings,40.4,run,156,1,156/3,"Baidwan to Zuiderent, 1 run",,,3
+550,245,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, no run ",2nd innings,40.5,no run,156,0,156/3,"Baidwan to Szwarczynski, no run",,,3
+551,246,Eric Szwarczynski,214696,Harvir Baidwan,355583,"Baidwan to Szwarczynski, 1 run ",2nd innings,41.0,run,157,1,157/3,"Baidwan to Szwarczynski, 1 run",,,3
+552,247,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, no run ",2nd innings,41.1,no run,157,0,157/3,"Desai to Szwarczynski, no run",,,3
+553,248,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, 2 runs ",2nd innings,41.2,run,159,2,159/3,"Desai to Szwarczynski, 2 runs",,,3
+554,249,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, FOUR runs ",2nd innings,41.3,four,163,4,163/3,"Desai to Szwarczynski, FOUR runs",,,3
+555,250,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, 1 run ",2nd innings,41.4,run,164,1,164/3,"Desai to Szwarczynski, 1 run",,,3
+556,251,Bas Zuiderent,24990,Parth Desai,440977,"Desai to Zuiderent, 1 leg bye ",2nd innings,41.5,leg bye,165,1,165/3,"Desai to Zuiderent, 1 leg bye",,,3
+557,252,Eric Szwarczynski,214696,Parth Desai,440977,"Desai to Szwarczynski, 1 run ",2nd innings,42.0,run,166,1,166/3,"Desai to Szwarczynski, 1 run",,,3
+558,253,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,42.1,no run,166,0,166/3,"Rizwan Cheema to Szwarczynski, no run",,,3
+559,254,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, no run ",2nd innings,42.2,no run,166,0,166/3,"Rizwan Cheema to Szwarczynski, no run",,,3
+560,255,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 2 runs ",2nd innings,42.3,run,168,2,168/3,"Rizwan Cheema to Szwarczynski, 2 runs",,,3
+561,256,Eric Szwarczynski,214696,Rizwan Cheema,361952,"Rizwan Cheema to Szwarczynski, 1 run ",2nd innings,42.4,run,169,1,169/3,"Rizwan Cheema to Szwarczynski, 1 run",,,3

@@ -1,0 +1,498 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,0.1,no run,0,0,0/0,"Baidwan to Ouma, no run",,,0
+1,2,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,0.2,no run,0,0,0/0,"Baidwan to Ouma, no run",,,0
+2,3,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, FOUR runs ",1st innings,0.3,four,4,4,4/0,"Baidwan to Ouma, FOUR runs",,,0
+3,4,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,0.4,no run,4,0,4/0,"Baidwan to Ouma, no run",,,0
+4,5,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,0.5,no run,4,0,4/0,"Baidwan to Ouma, no run",,,0
+5,6,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,1.0,no run,4,0,4/0,"Baidwan to Ouma, no run",,,0
+6,7,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, 1 leg bye ",1st innings,1.1,leg bye,5,1,5/0,"Bhatti to Obanda, 1 leg bye",,,0
+7,8,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,1.2,no run,5,0,5/0,"Bhatti to Ouma, no run",,,0
+8,9,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, 2 runs ",1st innings,1.3,run,7,2,7/0,"Bhatti to Ouma, 2 runs",,,0
+9,10,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,1.4,no run,7,0,7/0,"Bhatti to Ouma, no run",,,0
+10,11,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,1.5,no run,7,0,7/0,"Bhatti to Ouma, no run",,,0
+11,12,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,2.0,no run,7,0,7/0,"Bhatti to Ouma, no run",,,0
+12,13,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,2.1,no run,7,0,7/0,"Baidwan to Obanda, no run",,,0
+13,14,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,2.2,no run,7,0,7/0,"Baidwan to Obanda, no run",,,0
+14,15,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,2.3,no run,7,0,7/0,"Baidwan to Obanda, no run",,,0
+15,16,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, FOUR runs ",1st innings,2.4,four,11,4,11/0,"Baidwan to Obanda, FOUR runs",,,0
+16,17,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,2.5,no run,11,0,11/0,"Baidwan to Obanda, no run",,,0
+17,18,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, 2 runs ",1st innings,3.0,run,13,2,13/0,"Baidwan to Obanda, 2 runs",,,0
+18,19,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,3.1,no run,13,0,13/0,"Bhatti to Ouma, no run",,,0
+19,20,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, 1 run ",1st innings,3.2,run,14,1,14/0,"Bhatti to Ouma, 1 run",,,0
+20,21,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, no run ",1st innings,3.3,no run,14,0,14/0,"Bhatti to Obanda, no run",,,0
+21,22,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, no run ",1st innings,3.4,no run,14,0,14/0,"Bhatti to Obanda, no run",,,0
+22,23,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, FOUR runs ",1st innings,3.5,four,18,4,18/0,"Bhatti to Obanda, FOUR runs",,,0
+23,24,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, FOUR runs ",1st innings,4.0,four,22,4,22/0,"Bhatti to Obanda, FOUR runs",,,0
+24,25,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, FOUR runs ",1st innings,4.1,four,26,4,26/0,"Baidwan to Ouma, FOUR runs",,,0
+25,26,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,4.2,no run,26,0,26/0,"Baidwan to Ouma, no run",,,0
+26,27,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,4.3,no run,26,0,26/0,"Baidwan to Ouma, no run",,,0
+27,28,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,4.4,no run,26,0,26/0,"Baidwan to Ouma, no run",,,0
+28,29,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, 2 runs ",1st innings,4.5,run,28,2,28/0,"Baidwan to Ouma, 2 runs",,,0
+29,30,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,5.0,no run,28,0,28/0,"Baidwan to Ouma, no run",,,0
+30,31,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, no run ",1st innings,5.1,no run,28,0,28/0,"Bhatti to Obanda, no run",,,0
+31,32,Alex Obanda,291844,Umar Bhatti,23865,"Bhatti to Obanda, 1 leg bye ",1st innings,5.2,leg bye,29,1,29/0,"Bhatti to Obanda, 1 leg bye",,,0
+32,33,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,5.3,no run,29,0,29/0,"Bhatti to Ouma, no run",,,0
+33,34,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,5.4,no run,29,0,29/0,"Bhatti to Ouma, no run",,,0
+34,35,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,5.5,no run,29,0,29/0,"Bhatti to Ouma, no run",,,0
+35,36,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,6.0,no run,29,0,29/0,"Bhatti to Ouma, no run",,,0
+36,37,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,6.1,no run,29,0,29/0,"Baidwan to Obanda, no run",,,0
+37,38,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,6.2,no run,29,0,29/0,"Baidwan to Obanda, no run",,,0
+38,39,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,6.3,no run,29,0,29/0,"Baidwan to Obanda, no run",,,0
+39,40,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,6.4,no run,29,0,29/0,"Baidwan to Obanda, no run",,,0
+40,41,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, no run ",1st innings,6.5,no run,29,0,29/0,"Baidwan to Obanda, no run",,,0
+41,42,Alex Obanda,291844,Harvir Baidwan,355583,"Baidwan to Obanda, OUT ",1st innings,7.0,out,29,0,29/1,"Baidwan to Obanda, OUT",,,1
+42,43,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,7.1,no run,29,0,29/1,"Bhatti to Ouma, no run",,,1
+43,44,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,7.2,no run,29,0,29/1,"Bhatti to Ouma, no run",,,1
+44,45,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,7.3,no run,29,0,29/1,"Bhatti to Ouma, no run",,,1
+45,46,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,7.4,no run,29,0,29/1,"Bhatti to Ouma, no run",,,1
+46,47,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, 2 runs ",1st innings,7.5,run,31,2,31/1,"Bhatti to Ouma, 2 runs",,,1
+47,48,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,8.0,no run,31,0,31/1,"Bhatti to Ouma, no run",,,1
+48,49,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,8.1,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+49,50,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,8.2,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+50,51,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,8.3,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+51,52,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,8.4,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+52,53,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,8.5,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+53,54,Collins Obuya,24752,Harvir Baidwan,355583,"Baidwan to Obuya, no run ",1st innings,9.0,no run,31,0,31/1,"Baidwan to Obuya, no run",,,1
+54,55,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,9.1,no run,31,0,31/1,"Bhatti to Ouma, no run",,,1
+55,56,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,9.2,no run,31,0,31/1,"Bhatti to Ouma, no run",,,1
+56,57,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,9.3,no run,31,0,31/1,"Bhatti to Ouma, no run",,,1
+57,58,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, 3 runs ",1st innings,9.4,run,34,3,34/1,"Bhatti to Ouma, 3 runs",,,1
+58,59,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,9.5,no run,34,0,34/1,"Bhatti to Obuya, no run",,,1
+59,60,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,10.0,no run,34,0,34/1,"Bhatti to Obuya, no run",,,1
+60,61,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,10.1,no run,34,0,34/1,"Baidwan to Ouma, no run",,,1
+61,62,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,10.2,no run,34,0,34/1,"Baidwan to Ouma, no run",,,1
+62,63,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, FOUR runs ",1st innings,10.3,four,38,4,38/1,"Baidwan to Ouma, FOUR runs",,,1
+63,64,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,10.4,no run,38,0,38/1,"Baidwan to Ouma, no run",,,1
+64,65,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,10.5,no run,38,0,38/1,"Baidwan to Ouma, no run",,,1
+65,66,Morris Ouma,24750,Harvir Baidwan,355583,"Baidwan to Ouma, no run ",1st innings,11.0,no run,38,0,38/1,"Baidwan to Ouma, no run",,,1
+66,67,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,11.1,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+67,68,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,11.2,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+68,69,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,11.3,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+69,70,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,11.4,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+70,71,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,11.5,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+71,72,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,12.0,no run,38,0,38/1,"Bhatti to Obuya, no run",,,1
+72,72,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, 1 wide ",1st innings,12.0,wide,39,1,39/1,"Rizwan Cheema to Ouma, 1 wide",,,1
+73,73,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,12.1,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+74,74,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,12.2,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+75,75,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,12.3,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+76,76,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,12.4,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+77,77,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,12.5,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+78,78,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,13.0,no run,39,0,39/1,"Rizwan Cheema to Ouma, no run",,,1
+79,79,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,13.1,no run,39,0,39/1,"Bhatti to Obuya, no run",,,1
+80,80,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,13.2,no run,39,0,39/1,"Bhatti to Obuya, no run",,,1
+81,81,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, no run ",1st innings,13.3,no run,39,0,39/1,"Bhatti to Obuya, no run",,,1
+82,82,Collins Obuya,24752,Umar Bhatti,23865,"Bhatti to Obuya, 1 run ",1st innings,13.4,run,40,1,40/1,"Bhatti to Obuya, 1 run",,,1
+83,83,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,13.5,no run,40,0,40/1,"Bhatti to Ouma, no run",,,1
+84,84,Morris Ouma,24750,Umar Bhatti,23865,"Bhatti to Ouma, no run ",1st innings,14.0,no run,40,0,40/1,"Bhatti to Ouma, no run",,,1
+85,85,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 2 runs ",1st innings,14.1,run,42,2,42/1,"Rizwan Cheema to Obuya, 2 runs",,,1
+86,86,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,14.2,no run,42,0,42/1,"Rizwan Cheema to Obuya, no run",,,1
+87,87,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,14.3,no run,42,0,42/1,"Rizwan Cheema to Obuya, no run",,,1
+88,88,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,14.4,no run,42,0,42/1,"Rizwan Cheema to Obuya, no run",,,1
+89,89,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,14.5,no run,42,0,42/1,"Rizwan Cheema to Obuya, no run",,,1
+90,90,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,15.0,no run,42,0,42/1,"Rizwan Cheema to Obuya, no run",,,1
+91,91,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,15.1,no run,42,0,42/1,"Desai to Ouma, no run",,,1
+92,92,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,15.2,no run,42,0,42/1,"Desai to Ouma, no run",,,1
+93,93,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, FOUR runs ",1st innings,15.3,four,46,4,46/1,"Desai to Ouma, FOUR runs",,,1
+94,94,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,15.4,no run,46,0,46/1,"Desai to Ouma, no run",,,1
+95,95,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,15.5,no run,46,0,46/1,"Desai to Ouma, no run",,,1
+96,96,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,16.0,no run,46,0,46/1,"Desai to Ouma, no run",,,1
+97,97,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 2 runs ",1st innings,16.1,run,48,2,48/1,"Rizwan Cheema to Obuya, 2 runs",,,1
+98,98,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,16.2,no run,48,0,48/1,"Rizwan Cheema to Obuya, no run",,,1
+99,99,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,16.3,no run,48,0,48/1,"Rizwan Cheema to Obuya, no run",,,1
+100,100,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,16.4,no run,48,0,48/1,"Rizwan Cheema to Obuya, no run",,,1
+101,101,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,16.5,no run,48,0,48/1,"Rizwan Cheema to Obuya, no run",,,1
+102,102,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 1 run ",1st innings,17.0,run,49,1,49/1,"Rizwan Cheema to Obuya, 1 run",,,1
+103,103,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,17.1,no run,49,0,49/1,"Desai to Obuya, no run",,,1
+104,104,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 2 runs ",1st innings,17.2,run,51,2,51/1,"Desai to Obuya, 2 runs",,,1
+105,105,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,17.3,no run,51,0,51/1,"Desai to Obuya, no run",,,1
+106,106,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,17.4,no run,51,0,51/1,"Desai to Obuya, no run",,,1
+107,107,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,17.5,no run,51,0,51/1,"Desai to Obuya, no run",,,1
+108,108,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 1 run ",1st innings,18.0,run,52,1,52/1,"Desai to Obuya, 1 run",,,1
+109,109,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, FOUR runs ",1st innings,18.1,four,56,4,56/1,"Rizwan Cheema to Obuya, FOUR runs",,,1
+110,110,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,18.2,no run,56,0,56/1,"Rizwan Cheema to Obuya, no run",,,1
+111,111,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,18.3,no run,56,0,56/1,"Rizwan Cheema to Obuya, no run",,,1
+112,112,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 2 runs ",1st innings,18.4,run,58,2,58/1,"Rizwan Cheema to Obuya, 2 runs",,,1
+113,113,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,18.5,no run,58,0,58/1,"Rizwan Cheema to Obuya, no run",,,1
+114,114,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 1 run ",1st innings,19.0,run,59,1,59/1,"Rizwan Cheema to Obuya, 1 run",,,1
+115,115,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,19.1,no run,59,0,59/1,"Desai to Obuya, no run",,,1
+116,116,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,19.2,no run,59,0,59/1,"Desai to Obuya, no run",,,1
+117,117,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,19.3,no run,59,0,59/1,"Desai to Obuya, no run",,,1
+118,118,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,19.4,no run,59,0,59/1,"Desai to Obuya, no run",,,1
+119,119,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,19.5,no run,59,0,59/1,"Desai to Obuya, no run",,,1
+120,120,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 1 run ",1st innings,20.0,run,60,1,60/1,"Desai to Obuya, 1 run",,,1
+121,121,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,20.1,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+122,122,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,20.2,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+123,123,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,20.3,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+124,124,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,20.4,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+125,125,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,20.5,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+126,126,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,21.0,no run,60,0,60/1,"Rizwan Cheema to Obuya, no run",,,1
+127,127,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, 1 run ",1st innings,21.1,run,61,1,61/1,"Desai to Ouma, 1 run",,,1
+128,128,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,21.2,no run,61,0,61/1,"Desai to Obuya, no run",,,1
+129,129,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 1 run ",1st innings,21.3,run,62,1,62/1,"Desai to Obuya, 1 run",,,1
+130,130,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, 1 run ",1st innings,21.4,run,63,1,63/1,"Desai to Ouma, 1 run",,,1
+131,131,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, no run ",1st innings,21.5,no run,63,0,63/1,"Desai to Obuya, no run",,,1
+132,132,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 1 run ",1st innings,22.0,run,64,1,64/1,"Desai to Obuya, 1 run",,,1
+133,133,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 1 run ",1st innings,22.1,run,65,1,65/1,"Rizwan Cheema to Obuya, 1 run",,,1
+134,134,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, no run ",1st innings,22.2,no run,65,0,65/1,"Rizwan Cheema to Ouma, no run",,,1
+135,135,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, 1 run ",1st innings,22.3,run,66,1,66/1,"Rizwan Cheema to Ouma, 1 run",,,1
+136,136,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,22.4,no run,66,0,66/1,"Rizwan Cheema to Obuya, no run",,,1
+137,137,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,22.5,no run,66,0,66/1,"Rizwan Cheema to Obuya, no run",,,1
+138,138,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,23.0,no run,66,0,66/1,"Rizwan Cheema to Obuya, no run",,,1
+139,139,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,23.1,no run,66,0,66/1,"Desai to Ouma, no run",,,1
+140,140,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, 2 runs ",1st innings,23.2,run,68,2,68/1,"Desai to Ouma, 2 runs",,,1
+141,141,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, 1 run ",1st innings,23.3,run,69,1,69/1,"Desai to Ouma, 1 run",,,1
+142,142,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, 1 run ",1st innings,23.4,run,70,1,70/1,"Desai to Obuya, 1 run",,,1
+143,143,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,23.5,no run,70,0,70/1,"Desai to Ouma, no run",,,1
+144,144,Morris Ouma,24750,Parth Desai,440977,"Desai to Ouma, no run ",1st innings,24.0,no run,70,0,70/1,"Desai to Ouma, no run",,,1
+145,145,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,24.1,no run,70,0,70/1,"Rizwan Cheema to Obuya, no run",,,1
+146,146,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, no run ",1st innings,24.2,no run,70,0,70/1,"Rizwan Cheema to Obuya, no run",,,1
+147,147,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 1 run ",1st innings,24.3,run,71,1,71/1,"Rizwan Cheema to Obuya, 1 run",,,1
+148,148,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, 1 run ",1st innings,24.4,run,72,1,72/1,"Rizwan Cheema to Ouma, 1 run",,,1
+149,149,Collins Obuya,24752,Rizwan Cheema,361952,"Rizwan Cheema to Obuya, 1 run ",1st innings,24.5,run,73,1,73/1,"Rizwan Cheema to Obuya, 1 run",,,1
+150,150,Morris Ouma,24750,Rizwan Cheema,361952,"Rizwan Cheema to Ouma, 2 runs ",1st innings,25.0,run,75,2,75/1,"Rizwan Cheema to Ouma, 2 runs",,,1
+151,151,Collins Obuya,24752,Parth Desai,440977,"Desai to Obuya, OUT ",1st innings,25.1,out,75,0,75/2,"Desai to Obuya, OUT",,,2
+152,152,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,25.2,no run,75,0,75/2,"Desai to Patel, no run",,,2
+153,153,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,25.3,no run,75,0,75/2,"Desai to Patel, no run",,,2
+154,154,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,25.4,no run,75,0,75/2,"Desai to Patel, no run",,,2
+155,155,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,25.5,no run,75,0,75/2,"Desai to Patel, no run",,,2
+156,156,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, FOUR runs ",1st innings,26.0,four,79,4,79/2,"Desai to Patel, FOUR runs",,,2
+157,157,Morris Ouma,24750,Hiral Patel,414248,"Patel to Ouma, 1 run ",1st innings,26.1,run,80,1,80/2,"Patel to Ouma, 1 run",,,2
+158,158,Rakep Patel,267455,Hiral Patel,414248,"Patel to Patel, no run ",1st innings,26.2,no run,80,0,80/2,"Patel to Patel, no run",,,2
+159,159,Rakep Patel,267455,Hiral Patel,414248,"Patel to Patel, no run ",1st innings,26.3,no run,80,0,80/2,"Patel to Patel, no run",,,2
+160,160,Rakep Patel,267455,Hiral Patel,414248,"Patel to Patel, no run ",1st innings,26.4,no run,80,0,80/2,"Patel to Patel, no run",,,2
+161,161,Rakep Patel,267455,Hiral Patel,414248,"Patel to Patel, 2 leg byes ",1st innings,26.5,leg bye,82,2,82/2,"Patel to Patel, 2 leg byes",,,2
+162,162,Rakep Patel,267455,Hiral Patel,414248,"Patel to Patel, 1 run ",1st innings,27.0,run,83,1,83/2,"Patel to Patel, 1 run",,,2
+163,163,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,27.1,no run,83,0,83/2,"Desai to Patel, no run",,,2
+164,164,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,27.2,no run,83,0,83/2,"Desai to Patel, no run",,,2
+165,165,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, no run ",1st innings,27.3,no run,83,0,83/2,"Desai to Patel, no run",,,2
+166,166,Rakep Patel,267455,Parth Desai,440977,"Desai to Patel, OUT ",1st innings,27.4,out,83,0,83/3,"Desai to Patel, OUT",,,3
+167,167,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, SIX runs ",1st innings,27.5,six,89,6,89/3,"Desai to Kamande, SIX runs",,,3
+168,168,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, no run ",1st innings,28.0,no run,89,0,89/3,"Desai to Kamande, no run",,,3
+169,169,Morris Ouma,24750,Hiral Patel,414248,"Patel to Ouma, no run ",1st innings,28.1,no run,89,0,89/3,"Patel to Ouma, no run",,,3
+170,170,Morris Ouma,24750,Hiral Patel,414248,"Patel to Ouma, no run ",1st innings,28.2,no run,89,0,89/3,"Patel to Ouma, no run",,,3
+171,171,Morris Ouma,24750,Hiral Patel,414248,"Patel to Ouma, 1 run ",1st innings,28.3,run,90,1,90/3,"Patel to Ouma, 1 run",,,3
+172,172,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, no run ",1st innings,28.4,no run,90,0,90/3,"Patel to Kamande, no run",,,3
+173,173,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, no run ",1st innings,28.5,no run,90,0,90/3,"Patel to Kamande, no run",,,3
+174,174,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, 1 run ",1st innings,29.0,run,91,1,91/3,"Patel to Kamande, 1 run",,,3
+175,175,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, no run ",1st innings,29.1,no run,91,0,91/3,"Desai to Kamande, no run",,,3
+176,176,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, FOUR runs ",1st innings,29.2,four,95,4,95/3,"Desai to Kamande, FOUR runs",,,3
+177,177,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, no run ",1st innings,29.3,no run,95,0,95/3,"Desai to Kamande, no run",,,3
+178,178,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, no run ",1st innings,29.4,no run,95,0,95/3,"Desai to Kamande, no run",,,3
+179,179,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, 2 runs ",1st innings,29.5,run,97,2,97/3,"Desai to Kamande, 2 runs",,,3
+180,180,Jimmy Kamande,24697,Parth Desai,440977,"Desai to Kamande, 1 run ",1st innings,30.0,run,98,1,98/3,"Desai to Kamande, 1 run",,,3
+181,181,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, no run ",1st innings,30.1,no run,98,0,98/3,"Patel to Kamande, no run",,,3
+182,182,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, no run ",1st innings,30.2,no run,98,0,98/3,"Patel to Kamande, no run",,,3
+183,183,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, 2 runs ",1st innings,30.3,run,100,2,100/3,"Patel to Kamande, 2 runs",,,3
+184,184,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, 2 runs ",1st innings,30.4,run,102,2,102/3,"Patel to Kamande, 2 runs",,,3
+185,185,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, 2 runs ",1st innings,30.5,run,104,2,104/3,"Patel to Kamande, 2 runs",,,3
+186,186,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, no run ",1st innings,31.0,no run,104,0,104/3,"Patel to Kamande, no run",,,3
+187,187,Morris Ouma,24750,Jimmy Hansra,418615,"Hansra to Ouma, no run ",1st innings,31.1,no run,104,0,104/3,"Hansra to Ouma, no run",,,3
+188,188,Morris Ouma,24750,Jimmy Hansra,418615,"Hansra to Ouma, 1 run ",1st innings,31.2,run,105,1,105/3,"Hansra to Ouma, 1 run",,,3
+189,189,Jimmy Kamande,24697,Jimmy Hansra,418615,"Hansra to Kamande, no run ",1st innings,31.3,no run,105,0,105/3,"Hansra to Kamande, no run",,,3
+190,190,Jimmy Kamande,24697,Jimmy Hansra,418615,"Hansra to Kamande, no run ",1st innings,31.4,no run,105,0,105/3,"Hansra to Kamande, no run",,,3
+191,191,Jimmy Kamande,24697,Jimmy Hansra,418615,"Hansra to Kamande, no run ",1st innings,31.5,no run,105,0,105/3,"Hansra to Kamande, no run",,,3
+192,192,Jimmy Kamande,24697,Jimmy Hansra,418615,"Hansra to Kamande, OUT ",1st innings,32.0,out,105,0,105/3,"Hansra to Kamande, OUT",,,3
+193,193,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, 1 run ",1st innings,32.1,run,106,1,106/3,"Patel to Kamande, 1 run",,,3
+194,194,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,32.2,no run,106,0,106/3,"Patel to Odoyo, no run",,,3
+195,195,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 1 run ",1st innings,32.3,run,107,1,107/3,"Patel to Odoyo, 1 run",,,3
+196,196,Jimmy Kamande,24697,Hiral Patel,414248,"Patel to Kamande, OUT ",1st innings,32.4,out,107,0,107/5,"Patel to Kamande, OUT",,,5
+197,197,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, FOUR runs ",1st innings,32.5,four,111,4,111/5,"Patel to Wesonga, FOUR runs",,,5
+198,198,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, no run ",1st innings,33.0,no run,111,0,111/5,"Patel to Wesonga, no run",,,5
+199,199,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, 1 run ",1st innings,33.1,run,112,1,112/5,"Hansra to Odoyo, 1 run",,,5
+200,200,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,33.2,no run,112,0,112/5,"Hansra to Wesonga, no run",,,5
+201,201,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,33.3,no run,112,0,112/5,"Hansra to Wesonga, no run",,,5
+202,202,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,33.4,run,113,1,113/5,"Hansra to Wesonga, 1 run",,,5
+203,203,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,33.5,no run,113,0,113/5,"Hansra to Odoyo, no run",,,5
+204,204,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,34.0,no run,113,0,113/5,"Hansra to Odoyo, no run",,,5
+205,205,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, no run ",1st innings,34.1,no run,113,0,113/5,"Patel to Wesonga, no run",,,5
+206,206,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, no run ",1st innings,34.2,no run,113,0,113/5,"Patel to Wesonga, no run",,,5
+207,207,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 1 run ",1st innings,34.3,run,114,1,114/5,"Patel to Wesonga, 1 run",,,5
+208,208,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,34.4,no run,114,0,114/5,"Patel to Odoyo, no run",,,5
+209,209,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,34.5,no run,114,0,114/5,"Patel to Odoyo, no run",,,5
+210,210,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,35.0,no run,114,0,114/5,"Patel to Odoyo, no run",,,5
+211,211,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,35.1,no run,114,0,114/5,"Hansra to Wesonga, no run",,,5
+212,212,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,35.2,no run,114,0,114/5,"Hansra to Wesonga, no run",,,5
+213,213,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,35.3,run,115,1,115/5,"Hansra to Wesonga, 1 run",,,5
+214,214,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,35.4,no run,115,0,115/5,"Hansra to Odoyo, no run",,,5
+215,215,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,35.5,no run,115,0,115/5,"Hansra to Odoyo, no run",,,5
+216,216,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,36.0,no run,115,0,115/5,"Hansra to Odoyo, no run",,,5
+217,217,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 1 run ",1st innings,36.1,run,116,1,116/5,"Patel to Wesonga, 1 run",,,5
+218,218,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 1 run ",1st innings,36.2,run,117,1,117/5,"Patel to Odoyo, 1 run",,,5
+219,219,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 2 runs ",1st innings,36.3,run,119,2,119/5,"Patel to Wesonga, 2 runs",,,5
+220,220,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, no run ",1st innings,36.4,no run,119,0,119/5,"Patel to Wesonga, no run",,,5
+221,221,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 1 run ",1st innings,36.5,run,120,1,120/5,"Patel to Wesonga, 1 run",,,5
+222,222,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,37.0,no run,120,0,120/5,"Patel to Odoyo, no run",,,5
+223,223,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,37.1,no run,120,0,120/5,"Hansra to Wesonga, no run",,,5
+224,224,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,37.2,run,121,1,121/5,"Hansra to Wesonga, 1 run",,,5
+225,225,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, 1 run ",1st innings,37.3,run,122,1,122/5,"Hansra to Odoyo, 1 run",,,5
+226,226,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,37.4,run,123,1,123/5,"Hansra to Wesonga, 1 run",,,5
+227,227,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,37.5,no run,123,0,123/5,"Hansra to Odoyo, no run",,,5
+228,228,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,38.0,no run,123,0,123/5,"Hansra to Odoyo, no run",,,5
+229,229,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, no run ",1st innings,38.1,no run,123,0,123/5,"Patel to Wesonga, no run",,,5
+230,230,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 3 runs ",1st innings,38.2,run,126,3,126/5,"Patel to Wesonga, 3 runs",,,5
+231,231,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,38.3,no run,126,0,126/5,"Patel to Odoyo, no run",,,5
+232,232,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 1 run ",1st innings,38.4,run,127,1,127/5,"Patel to Odoyo, 1 run",,,5
+233,233,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 1 run ",1st innings,38.5,run,128,1,128/5,"Patel to Wesonga, 1 run",,,5
+234,233,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 1 wide ",1st innings,38.5,wide,129,1,129/5,"Patel to Odoyo, 1 wide",,,5
+235,234,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 1 run ",1st innings,39.0,run,130,1,130/5,"Patel to Odoyo, 1 run",,,5
+236,235,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,39.1,no run,130,0,130/5,"Hansra to Odoyo, no run",,,5
+237,236,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,39.2,no run,130,0,130/5,"Hansra to Odoyo, no run",,,5
+238,237,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, 1 run ",1st innings,39.3,run,131,1,131/5,"Hansra to Odoyo, 1 run",,,5
+239,238,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,39.4,run,132,1,132/5,"Hansra to Wesonga, 1 run",,,5
+240,239,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, 1 run ",1st innings,39.5,run,133,1,133/5,"Hansra to Odoyo, 1 run",,,5
+241,240,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,40.0,no run,133,0,133/5,"Hansra to Wesonga, no run",,,5
+242,241,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,40.1,no run,133,0,133/5,"Patel to Odoyo, no run",,,5
+243,242,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,40.2,no run,133,0,133/5,"Patel to Odoyo, no run",,,5
+244,243,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,40.3,no run,133,0,133/5,"Patel to Odoyo, no run",,,5
+245,244,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, 3 runs ",1st innings,40.4,run,136,3,136/5,"Patel to Odoyo, 3 runs",,,5
+246,245,Dominic Wesonga,315051,Hiral Patel,414248,"Patel to Wesonga, 1 run ",1st innings,40.5,run,137,1,137/5,"Patel to Wesonga, 1 run",,,5
+247,246,Thomas Odoyo,24705,Hiral Patel,414248,"Patel to Odoyo, no run ",1st innings,41.0,no run,137,0,137/5,"Patel to Odoyo, no run",,,5
+248,247,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,41.1,no run,137,0,137/5,"Hansra to Wesonga, no run",,,5
+249,248,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, no run ",1st innings,41.2,no run,137,0,137/5,"Hansra to Wesonga, no run",,,5
+250,249,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 2 runs ",1st innings,41.3,run,139,2,139/5,"Hansra to Wesonga, 2 runs",,,5
+251,250,Dominic Wesonga,315051,Jimmy Hansra,418615,"Hansra to Wesonga, 1 run ",1st innings,41.4,run,140,1,140/5,"Hansra to Wesonga, 1 run",,,5
+252,251,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,41.5,no run,140,0,140/5,"Hansra to Odoyo, no run",,,5
+253,252,Thomas Odoyo,24705,Jimmy Hansra,418615,"Hansra to Odoyo, no run ",1st innings,42.0,no run,140,0,140/5,"Hansra to Odoyo, no run",,,5
+254,253,Dominic Wesonga,315051,Harvir Baidwan,355583,"Baidwan to Wesonga, no run ",1st innings,42.1,no run,140,0,140/5,"Baidwan to Wesonga, no run",,,5
+255,254,Dominic Wesonga,315051,Harvir Baidwan,355583,"Baidwan to Wesonga, OUT ",1st innings,42.2,out,140,0,140/6,"Baidwan to Wesonga, OUT",,,6
+256,255,Nelson Odhiambo,308418,Harvir Baidwan,355583,"Baidwan to Odhiambo, no run ",1st innings,42.3,no run,140,0,140/6,"Baidwan to Odhiambo, no run",,,6
+257,256,Nelson Odhiambo,308418,Harvir Baidwan,355583,"Baidwan to Odhiambo, 1 run ",1st innings,42.4,run,141,1,141/6,"Baidwan to Odhiambo, 1 run",,,6
+258,257,Thomas Odoyo,24705,Harvir Baidwan,355583,"Baidwan to Odoyo, 1 run ",1st innings,42.5,run,142,1,142/6,"Baidwan to Odoyo, 1 run",,,6
+259,258,Nelson Odhiambo,308418,Harvir Baidwan,355583,"Baidwan to Odhiambo, 1 run ",1st innings,43.0,run,143,1,143/6,"Baidwan to Odhiambo, 1 run",,,6
+260,259,Nelson Odhiambo,308418,Rizwan Cheema,361952,"Rizwan Cheema to Odhiambo, no run ",1st innings,43.1,no run,143,0,143/6,"Rizwan Cheema to Odhiambo, no run",,,6
+261,260,Nelson Odhiambo,308418,Rizwan Cheema,361952,"Rizwan Cheema to Odhiambo, 1 run ",1st innings,43.2,run,144,1,144/6,"Rizwan Cheema to Odhiambo, 1 run",,,6
+262,261,Thomas Odoyo,24705,Rizwan Cheema,361952,"Rizwan Cheema to Odoyo, 1 run ",1st innings,43.3,run,145,1,145/6,"Rizwan Cheema to Odoyo, 1 run",,,6
+263,262,Shem Ngoche,308515,Rizwan Cheema,361952,"Rizwan Cheema to SO Ngoche, no run ",1st innings,43.4,no run,146,0,146/7,"Rizwan Cheema to SO Ngoche, no run",,,7
+264,263,Shem Ngoche,308515,Rizwan Cheema,361952,"Rizwan Cheema to SO Ngoche, no run ",1st innings,43.5,no run,146,0,146/7,"Rizwan Cheema to SO Ngoche, no run",,,7
+265,264,Shem Ngoche,308515,Rizwan Cheema,361952,"Rizwan Cheema to SO Ngoche, 1 run ",1st innings,44.0,run,147,1,147/7,"Rizwan Cheema to SO Ngoche, 1 run",,,7
+266,265,Shem Ngoche,308515,Harvir Baidwan,355583,"Baidwan to SO Ngoche, no run ",1st innings,44.1,no run,147,0,147/7,"Baidwan to SO Ngoche, no run",,,7
+267,266,Shem Ngoche,308515,Harvir Baidwan,355583,"Baidwan to SO Ngoche, no run ",1st innings,44.2,no run,147,0,147/7,"Baidwan to SO Ngoche, no run",,,7
+268,267,Shem Ngoche,308515,Harvir Baidwan,355583,"Baidwan to SO Ngoche, no run ",1st innings,44.3,no run,147,0,147/7,"Baidwan to SO Ngoche, no run",,,7
+269,268,Shem Ngoche,308515,Harvir Baidwan,355583,"Baidwan to SO Ngoche, 1 run ",1st innings,44.4,run,148,1,148/7,"Baidwan to SO Ngoche, 1 run",,,7
+270,269,Thomas Odoyo,24705,Harvir Baidwan,355583,"Baidwan to Odoyo, OUT ",1st innings,44.5,out,148,0,148/8,"Baidwan to Odoyo, OUT",,,8
+271,270,James Ngoche,308691,Harvir Baidwan,355583,"Baidwan to JO Ngoche, no run ",1st innings,45.0,no run,148,0,148/8,"Baidwan to JO Ngoche, no run",,,8
+272,271,Shem Ngoche,308515,Rizwan Cheema,361952,"Rizwan Cheema to SO Ngoche, FOUR runs ",1st innings,45.1,four,152,4,152/8,"Rizwan Cheema to SO Ngoche, FOUR runs",,,8
+273,271,Shem Ngoche,308515,Rizwan Cheema,361952,"Rizwan Cheema to SO Ngoche, 1 wide, OUT ",1st innings,45.1,wide,153,1,153/9,"Rizwan Cheema to SO Ngoche, 1 wide, OUT",,,9
+274,272,James Ngoche,308691,Rizwan Cheema,361952,"Rizwan Cheema to JO Ngoche, OUT ",1st innings,45.2,out,153,0,153/10,"Rizwan Cheema to JO Ngoche, OUT",,,10
+275,0,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, 1 wide ",2nd innings,0.0,wide,1,1,1/0,"Odhiambo to Patel, 1 wide",,,0
+276,1,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,0.1,no run,1,0,1/0,"Odhiambo to Patel, no run",,,0
+277,2,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,0.2,no run,1,0,1/0,"Odhiambo to Patel, no run",,,0
+278,3,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,0.3,no run,1,0,1/0,"Odhiambo to Patel, no run",,,0
+279,4,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,0.4,no run,1,0,1/0,"Odhiambo to Patel, no run",,,0
+280,5,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, 1 run ",2nd innings,0.5,run,2,1,2/0,"Odhiambo to Patel, 1 run",,,0
+281,6,Trevin Bastiampillai,23874,Nelson Odhiambo,308418,"Odhiambo to Bastiampillai, 1 run ",2nd innings,1.0,run,3,1,3/0,"Odhiambo to Bastiampillai, 1 run",,,0
+282,7,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,1.1,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+283,8,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,1.2,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+284,9,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,1.3,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+285,10,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,1.4,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+286,11,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,1.5,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+287,12,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,2.0,no run,3,0,3/0,"Luseno to Bastiampillai, no run",,,0
+288,13,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,2.1,no run,3,0,3/0,"Odhiambo to Patel, no run",,,0
+289,14,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, 1 leg bye ",2nd innings,2.2,leg bye,4,1,4/0,"Odhiambo to Patel, 1 leg bye",,,0
+290,15,Trevin Bastiampillai,23874,Nelson Odhiambo,308418,"Odhiambo to Bastiampillai, no run ",2nd innings,2.3,no run,4,0,4/0,"Odhiambo to Bastiampillai, no run",,,0
+291,16,Trevin Bastiampillai,23874,Nelson Odhiambo,308418,"Odhiambo to Bastiampillai, FOUR runs ",2nd innings,2.4,four,8,4,8/0,"Odhiambo to Bastiampillai, FOUR runs",,,0
+292,17,Trevin Bastiampillai,23874,Nelson Odhiambo,308418,"Odhiambo to Bastiampillai, no run ",2nd innings,2.5,no run,8,0,8/0,"Odhiambo to Bastiampillai, no run",,,0
+293,18,Trevin Bastiampillai,23874,Nelson Odhiambo,308418,"Odhiambo to Bastiampillai, no run ",2nd innings,3.0,no run,8,0,8/0,"Odhiambo to Bastiampillai, no run",,,0
+294,18,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, 1 wide ",2nd innings,3.0,wide,9,1,9/0,"Luseno to Patel, 1 wide",,,0
+295,19,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, 1 run ",2nd innings,3.1,run,10,1,10/0,"Luseno to Patel, 1 run",,,0
+296,20,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,3.2,no run,10,0,10/0,"Luseno to Bastiampillai, no run",,,0
+297,21,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,3.3,no run,10,0,10/0,"Luseno to Bastiampillai, no run",,,0
+298,22,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,3.4,no run,10,0,10/0,"Luseno to Bastiampillai, no run",,,0
+299,23,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,3.5,no run,10,0,10/0,"Luseno to Bastiampillai, no run",,,0
+300,24,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,4.0,no run,10,0,10/0,"Luseno to Bastiampillai, no run",,,0
+301,25,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,4.1,no run,10,0,10/0,"Odhiambo to Patel, no run",,,0
+302,26,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,4.2,no run,10,0,10/0,"Odhiambo to Patel, no run",,,0
+303,27,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, FOUR runs ",2nd innings,4.3,four,14,4,14/0,"Odhiambo to Patel, FOUR runs",,,0
+304,28,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, FOUR runs ",2nd innings,4.4,four,18,4,18/0,"Odhiambo to Patel, FOUR runs",,,0
+305,29,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, FOUR runs ",2nd innings,4.5,four,22,4,22/0,"Odhiambo to Patel, FOUR runs",,,0
+306,30,Hiral Patel,414248,Nelson Odhiambo,308418,"Odhiambo to Patel, no run ",2nd innings,5.0,no run,22,0,22/0,"Odhiambo to Patel, no run",,,0
+307,31,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,5.1,no run,22,0,22/0,"Luseno to Bastiampillai, no run",,,0
+308,32,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,5.2,no run,22,0,22/0,"Luseno to Bastiampillai, no run",,,0
+309,33,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, no run ",2nd innings,5.3,no run,22,0,22/0,"Luseno to Bastiampillai, no run",,,0
+310,34,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, 2 runs ",2nd innings,5.4,run,24,2,24/0,"Luseno to Bastiampillai, 2 runs",,,0
+311,35,Trevin Bastiampillai,23874,Alfred Luseno,24703,"Luseno to Bastiampillai, 1 run ",2nd innings,5.5,run,25,1,25/0,"Luseno to Bastiampillai, 1 run",,,0
+312,36,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, FOUR runs ",2nd innings,6.0,four,29,4,29/0,"Luseno to Patel, FOUR runs",,,0
+313,36,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, 1 wide ",2nd innings,6.0,wide,30,1,30/0,"Odoyo to Bastiampillai, 1 wide",,,0
+314,37,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,6.1,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+315,38,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,6.2,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+316,39,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,6.3,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+317,40,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,6.4,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+318,41,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,6.5,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+319,42,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,7.0,no run,30,0,30/0,"Odoyo to Bastiampillai, no run",,,0
+320,43,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, no run ",2nd innings,7.1,no run,30,0,30/0,"Luseno to Patel, no run",,,0
+321,44,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, no run ",2nd innings,7.2,no run,30,0,30/0,"Luseno to Patel, no run",,,0
+322,45,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, no run ",2nd innings,7.3,no run,30,0,30/0,"Luseno to Patel, no run",,,0
+323,46,Hiral Patel,414248,Alfred Luseno,24703,"Luseno to Patel, OUT ",2nd innings,7.4,out,30,0,30/1,"Luseno to Patel, OUT",,,1
+324,47,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,7.5,no run,30,0,30/1,"Luseno to Barnett, no run",,,1
+325,47,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, 1 wide ",2nd innings,7.5,wide,31,1,31/1,"Luseno to Barnett, 1 wide",,,1
+326,48,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,8.0,no run,31,0,31/1,"Luseno to Barnett, no run",,,1
+327,49,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, 1 run ",2nd innings,8.1,run,32,1,32/1,"Odoyo to Bastiampillai, 1 run",,,1
+328,50,Geoff Barnett,36383,Thomas Odoyo,24705,"Odoyo to Barnett, no run ",2nd innings,8.2,no run,32,0,32/1,"Odoyo to Barnett, no run",,,1
+329,51,Geoff Barnett,36383,Thomas Odoyo,24705,"Odoyo to Barnett, 1 run ",2nd innings,8.3,run,33,1,33/1,"Odoyo to Barnett, 1 run",,,1
+330,52,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,8.4,no run,33,0,33/1,"Odoyo to Bastiampillai, no run",,,1
+331,52,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, 1 no ball ",2nd innings,8.4,no ball,34,1,34/1,"Odoyo to Bastiampillai, 1 no ball",,,1
+332,53,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, 1 run ",2nd innings,8.5,run,35,1,35/1,"Odoyo to Bastiampillai, 1 run",,,1
+333,54,Geoff Barnett,36383,Thomas Odoyo,24705,"Odoyo to Barnett, 1 run ",2nd innings,9.0,run,36,1,36/1,"Odoyo to Barnett, 1 run",,,1
+334,55,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,9.1,no run,36,0,36/1,"Luseno to Barnett, no run",,,1
+335,56,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,9.2,no run,36,0,36/1,"Luseno to Barnett, no run",,,1
+336,57,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,9.3,no run,36,0,36/1,"Luseno to Barnett, no run",,,1
+337,58,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, FOUR runs ",2nd innings,9.4,four,40,4,40/1,"Luseno to Barnett, FOUR runs",,,1
+338,59,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,9.5,no run,40,0,40/1,"Luseno to Barnett, no run",,,1
+339,60,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,10.0,no run,40,0,40/1,"Luseno to Barnett, no run",,,1
+340,61,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, no run ",2nd innings,10.1,no run,40,0,40/1,"Odoyo to Bastiampillai, no run",,,1
+341,62,Trevin Bastiampillai,23874,Thomas Odoyo,24705,"Odoyo to Bastiampillai, OUT ",2nd innings,10.2,out,40,0,40/2,"Odoyo to Bastiampillai, OUT",,,2
+342,63,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,10.3,no run,40,0,40/2,"Odoyo to Kumar, no run",,,2
+343,64,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,10.4,no run,40,0,40/2,"Odoyo to Kumar, no run",,,2
+344,65,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,10.5,no run,40,0,40/2,"Odoyo to Kumar, no run",,,2
+345,66,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, 2 runs ",2nd innings,11.0,run,42,2,42/2,"Odoyo to Kumar, 2 runs",,,2
+346,67,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,11.1,no run,42,0,42/2,"Luseno to Barnett, no run",,,2
+347,68,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, 1 run ",2nd innings,11.2,run,43,1,43/2,"Luseno to Barnett, 1 run",,,2
+348,69,Nitish Kumar,348129,Alfred Luseno,24703,"Luseno to Kumar, no run ",2nd innings,11.3,no run,43,0,43/2,"Luseno to Kumar, no run",,,2
+349,70,Nitish Kumar,348129,Alfred Luseno,24703,"Luseno to Kumar, 2 runs ",2nd innings,11.4,run,45,2,45/2,"Luseno to Kumar, 2 runs",,,2
+350,71,Nitish Kumar,348129,Alfred Luseno,24703,"Luseno to Kumar, no run ",2nd innings,11.5,no run,45,0,45/2,"Luseno to Kumar, no run",,,2
+351,72,Nitish Kumar,348129,Alfred Luseno,24703,"Luseno to Kumar, 1 run ",2nd innings,12.0,run,48,1,48/2,"Luseno to Kumar, 1 run",,,2
+352,73,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,12.1,no run,48,0,48/2,"Odoyo to Kumar, no run",,,2
+353,74,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,12.2,no run,48,0,48/2,"Odoyo to Kumar, no run",,,2
+354,75,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,12.3,no run,48,0,48/2,"Odoyo to Kumar, no run",,,2
+355,76,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, no run ",2nd innings,12.4,no run,48,0,48/2,"Odoyo to Kumar, no run",,,2
+356,77,Nitish Kumar,348129,Thomas Odoyo,24705,"Odoyo to Kumar, OUT ",2nd innings,12.5,out,48,0,48/3,"Odoyo to Kumar, OUT",,,3
+357,78,Ashish Bagai,23797,Thomas Odoyo,24705,"Odoyo to Bagai, no run ",2nd innings,13.0,no run,48,0,48/3,"Odoyo to Bagai, no run",,,3
+358,79,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,13.1,no run,48,0,48/3,"Luseno to Barnett, no run",,,3
+359,80,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, FOUR runs ",2nd innings,13.2,four,52,4,52/3,"Luseno to Barnett, FOUR runs",,,3
+360,81,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,13.3,no run,52,0,52/3,"Luseno to Barnett, no run",,,3
+361,82,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, SIX runs ",2nd innings,13.4,six,58,6,58/3,"Luseno to Barnett, SIX runs",,,3
+362,83,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,13.5,no run,58,0,58/3,"Luseno to Barnett, no run",,,3
+363,84,Geoff Barnett,36383,Alfred Luseno,24703,"Luseno to Barnett, no run ",2nd innings,14.0,no run,58,0,58/3,"Luseno to Barnett, no run",,,3
+364,85,Ashish Bagai,23797,Thomas Odoyo,24705,"Odoyo to Bagai, FOUR runs ",2nd innings,14.1,four,62,4,62/3,"Odoyo to Bagai, FOUR runs",,,3
+365,86,Ashish Bagai,23797,Thomas Odoyo,24705,"Odoyo to Bagai, no run ",2nd innings,14.2,no run,62,0,62/3,"Odoyo to Bagai, no run",,,3
+366,87,Ashish Bagai,23797,Thomas Odoyo,24705,"Odoyo to Bagai, 1 run ",2nd innings,14.3,run,63,1,63/3,"Odoyo to Bagai, 1 run",,,3
+367,88,Geoff Barnett,36383,Thomas Odoyo,24705,"Odoyo to Barnett, no run ",2nd innings,14.4,no run,63,0,63/3,"Odoyo to Barnett, no run",,,3
+368,89,Geoff Barnett,36383,Thomas Odoyo,24705,"Odoyo to Barnett, 1 run ",2nd innings,14.5,run,64,1,64/3,"Odoyo to Barnett, 1 run",,,3
+369,90,Ashish Bagai,23797,Thomas Odoyo,24705,"Odoyo to Bagai, no run ",2nd innings,15.0,no run,63,0,63/3,"Odoyo to Bagai, no run",,,3
+370,91,Geoff Barnett,36383,Nelson Odhiambo,308418,"Odhiambo to Barnett, no run ",2nd innings,15.1,no run,63,0,63/3,"Odhiambo to Barnett, no run",,,3
+371,92,Geoff Barnett,36383,Nelson Odhiambo,308418,"Odhiambo to Barnett, 3 runs ",2nd innings,15.2,run,66,3,66/3,"Odhiambo to Barnett, 3 runs",,,3
+372,93,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, FOUR runs ",2nd innings,15.3,four,70,4,70/3,"Odhiambo to Bagai, FOUR runs",,,3
+373,94,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,15.4,no run,70,0,70/3,"Odhiambo to Bagai, no run",,,3
+374,95,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,15.5,no run,70,0,70/3,"Odhiambo to Bagai, no run",,,3
+375,96,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,16.0,no run,71,0,71/3,"Odhiambo to Bagai, no run",,,3
+376,97,Geoff Barnett,36383,James Ngoche,308691,"JO Ngoche to Barnett, no run ",2nd innings,16.1,no run,71,0,71/3,"JO Ngoche to Barnett, no run",,,3
+377,98,Geoff Barnett,36383,James Ngoche,308691,"JO Ngoche to Barnett, no run ",2nd innings,16.2,no run,71,0,71/3,"JO Ngoche to Barnett, no run",,,3
+378,99,Geoff Barnett,36383,James Ngoche,308691,"JO Ngoche to Barnett, no run ",2nd innings,16.3,no run,71,0,71/3,"JO Ngoche to Barnett, no run",,,3
+379,100,Geoff Barnett,36383,James Ngoche,308691,"JO Ngoche to Barnett, OUT ",2nd innings,16.4,out,71,0,71/4,"JO Ngoche to Barnett, OUT",,,4
+380,101,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,16.5,no run,71,0,71/4,"JO Ngoche to Surkari, no run",,,4
+381,102,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,17.0,no run,71,0,71/4,"JO Ngoche to Surkari, no run",,,4
+382,103,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,17.1,no run,71,0,71/4,"Odhiambo to Bagai, no run",,,4
+383,104,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,17.2,no run,71,0,71/4,"Odhiambo to Bagai, no run",,,4
+384,105,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,17.3,no run,71,0,71/4,"Odhiambo to Bagai, no run",,,4
+385,106,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,17.4,no run,71,0,71/4,"Odhiambo to Bagai, no run",,,4
+386,107,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, 2 runs ",2nd innings,17.5,run,73,2,73/4,"Odhiambo to Bagai, 2 runs",,,4
+387,108,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,18.0,no run,73,0,73/4,"Odhiambo to Bagai, no run",,,4
+388,109,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,18.1,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+389,110,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,18.2,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+390,111,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,18.3,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+391,112,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,18.4,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+392,113,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,18.5,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+393,114,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,19.0,no run,73,0,73/4,"JO Ngoche to Surkari, no run",,,4
+394,115,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,19.1,no run,73,0,73/4,"Odhiambo to Bagai, no run",,,4
+395,116,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, 1 run ",2nd innings,19.2,run,74,1,74/4,"Odhiambo to Bagai, 1 run",,,4
+396,117,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, no run ",2nd innings,19.3,no run,74,0,74/4,"Odhiambo to Surkari, no run",,,4
+397,118,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, no run ",2nd innings,19.4,no run,74,0,74/4,"Odhiambo to Surkari, no run",,,4
+398,119,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, no run ",2nd innings,19.5,no run,74,0,74/4,"Odhiambo to Surkari, no run",,,4
+399,120,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, 3 runs ",2nd innings,20.0,run,77,3,77/4,"Odhiambo to Surkari, 3 runs",,,4
+400,121,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,20.1,no run,77,0,77/4,"JO Ngoche to Surkari, no run",,,4
+401,122,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,20.2,no run,77,0,77/4,"JO Ngoche to Surkari, no run",,,4
+402,123,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,20.3,no run,77,0,77/4,"JO Ngoche to Surkari, no run",,,4
+403,124,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,20.4,no run,77,0,77/4,"JO Ngoche to Surkari, no run",,,4
+404,125,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, 1 leg bye ",2nd innings,20.5,leg bye,78,1,78/4,"JO Ngoche to Surkari, 1 leg bye",,,4
+405,126,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,21.0,no run,78,0,78/4,"JO Ngoche to Bagai, no run",,,4
+406,127,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, no run ",2nd innings,21.1,no run,78,0,78/4,"Odhiambo to Surkari, no run",,,4
+407,128,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, 1 run ",2nd innings,21.2,run,79,1,79/4,"Odhiambo to Surkari, 1 run",,,4
+408,129,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,21.3,no run,79,0,79/4,"Odhiambo to Bagai, no run",,,4
+409,130,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, FOUR runs ",2nd innings,21.4,four,83,4,83/4,"Odhiambo to Bagai, FOUR runs",,,4
+410,131,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, 1 run ",2nd innings,21.5,run,84,1,84/4,"Odhiambo to Bagai, 1 run",,,4
+411,132,Zubin Surkari,23803,Nelson Odhiambo,308418,"Odhiambo to Surkari, no run ",2nd innings,22.0,no run,84,0,84/4,"Odhiambo to Surkari, no run",,,4
+412,133,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,22.1,no run,84,0,84/4,"JO Ngoche to Bagai, no run",,,4
+413,134,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,22.2,no run,84,0,84/4,"JO Ngoche to Bagai, no run",,,4
+414,135,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,22.3,no run,84,0,84/4,"JO Ngoche to Bagai, no run",,,4
+415,136,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,22.4,no run,84,0,84/4,"JO Ngoche to Bagai, no run",,,4
+416,137,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, 1 run ",2nd innings,22.5,run,85,1,85/4,"JO Ngoche to Bagai, 1 run",,,4
+417,138,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,23.0,no run,85,0,85/4,"JO Ngoche to Surkari, no run",,,4
+418,139,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,23.1,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+419,140,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,23.2,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+420,141,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,23.3,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+421,142,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,23.4,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+422,143,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,23.5,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+423,144,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,24.0,no run,85,0,85/4,"SO Ngoche to Bagai, no run",,,4
+424,145,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,24.1,no run,85,0,85/4,"JO Ngoche to Surkari, no run",,,4
+425,146,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,24.2,no run,85,0,85/4,"JO Ngoche to Surkari, no run",,,4
+426,147,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,24.3,no run,85,0,85/4,"JO Ngoche to Surkari, no run",,,4
+427,148,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,24.4,no run,85,0,85/4,"JO Ngoche to Surkari, no run",,,4
+428,149,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, 2 runs ",2nd innings,24.5,run,87,2,87/4,"JO Ngoche to Surkari, 2 runs",,,4
+429,150,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,25.0,no run,87,0,87/4,"JO Ngoche to Surkari, no run",,,4
+430,151,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, 1 run ",2nd innings,25.1,run,88,1,88/4,"SO Ngoche to Bagai, 1 run",,,4
+431,152,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,25.2,no run,88,0,88/4,"SO Ngoche to Surkari, no run",,,4
+432,153,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,25.3,no run,88,0,88/4,"SO Ngoche to Surkari, no run",,,4
+433,154,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, FOUR runs ",2nd innings,25.4,four,92,4,92/4,"SO Ngoche to Surkari, FOUR runs",,,4
+434,155,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,25.5,no run,92,0,92/4,"SO Ngoche to Surkari, no run",,,4
+435,156,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,26.0,no run,92,0,92/4,"SO Ngoche to Surkari, no run",,,4
+436,157,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,26.1,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+437,158,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,26.2,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+438,159,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,26.3,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+439,160,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,26.4,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+440,161,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,26.5,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+441,162,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,27.0,no run,92,0,92/4,"JO Ngoche to Bagai, no run",,,4
+442,163,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,27.1,no run,92,0,92/4,"SO Ngoche to Surkari, no run",,,4
+443,164,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, 1 run ",2nd innings,27.2,run,93,1,93/4,"SO Ngoche to Surkari, 1 run",,,4
+444,165,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,27.3,no run,93,0,93/4,"SO Ngoche to Bagai, no run",,,4
+445,166,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,27.4,no run,93,0,93/4,"SO Ngoche to Bagai, no run",,,4
+446,167,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,27.5,no run,93,0,93/4,"SO Ngoche to Bagai, no run",,,4
+447,168,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,28.0,no run,93,0,93/4,"SO Ngoche to Bagai, no run",,,4
+448,169,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, 1 run ",2nd innings,28.1,run,94,1,94/4,"JO Ngoche to Surkari, 1 run",,,4
+449,170,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, 3 runs ",2nd innings,28.2,run,97,3,97/4,"JO Ngoche to Bagai, 3 runs",,,4
+450,171,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,28.3,no run,97,0,97/4,"JO Ngoche to Surkari, no run",,,4
+451,172,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,28.4,no run,97,0,97/4,"JO Ngoche to Surkari, no run",,,4
+452,173,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,28.5,no run,97,0,97/4,"JO Ngoche to Surkari, no run",,,4
+453,174,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, FOUR runs ",2nd innings,29.0,four,101,4,101/4,"JO Ngoche to Surkari, FOUR runs",,,4
+454,175,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, 1 run ",2nd innings,29.1,run,102,1,102/4,"SO Ngoche to Bagai, 1 run",,,4
+455,176,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, 4 leg byes ",2nd innings,29.2,leg bye,106,4,106/4,"SO Ngoche to Surkari, 4 leg byes",,,4
+456,177,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, no run ",2nd innings,29.3,no run,106,0,106/4,"SO Ngoche to Surkari, no run",,,4
+457,178,Zubin Surkari,23803,Shem Ngoche,308515,"SO Ngoche to Surkari, 1 run ",2nd innings,29.4,run,107,1,107/4,"SO Ngoche to Surkari, 1 run",,,4
+458,179,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,29.5,no run,107,0,107/4,"SO Ngoche to Bagai, no run",,,4
+459,180,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, 1 run ",2nd innings,30.0,run,108,1,108/4,"SO Ngoche to Bagai, 1 run",,,4
+460,181,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,30.1,no run,108,0,108/4,"JO Ngoche to Bagai, no run",,,4
+461,182,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, no run ",2nd innings,30.2,no run,108,0,108/4,"JO Ngoche to Bagai, no run",,,4
+462,183,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, FOUR runs ",2nd innings,30.3,four,112,4,112/4,"JO Ngoche to Bagai, FOUR runs",,,4
+463,184,Ashish Bagai,23797,James Ngoche,308691,"JO Ngoche to Bagai, 1 run ",2nd innings,30.4,run,113,1,113/4,"JO Ngoche to Bagai, 1 run",,,4
+464,185,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, FOUR runs ",2nd innings,30.5,four,117,4,117/4,"JO Ngoche to Surkari, FOUR runs",,,4
+465,186,Zubin Surkari,23803,James Ngoche,308691,"JO Ngoche to Surkari, no run ",2nd innings,31.0,no run,117,0,117/4,"JO Ngoche to Surkari, no run",,,4
+466,187,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,31.1,no run,117,0,117/4,"SO Ngoche to Bagai, no run",,,4
+467,188,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,31.2,no run,117,0,117/4,"SO Ngoche to Bagai, no run",,,4
+468,189,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,31.3,no run,117,0,117/4,"SO Ngoche to Bagai, no run",,,4
+469,190,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, no run ",2nd innings,31.4,no run,117,0,117/4,"SO Ngoche to Bagai, no run",,,4
+470,190,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, 1 wide ",2nd innings,31.4,wide,118,1,118/4,"SO Ngoche to Bagai, 1 wide",,,4
+471,191,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, FOUR runs ",2nd innings,31.5,four,122,4,122/4,"SO Ngoche to Bagai, FOUR runs",,,4
+472,192,Ashish Bagai,23797,Shem Ngoche,308515,"SO Ngoche to Bagai, FOUR runs ",2nd innings,32.0,four,126,4,126/4,"SO Ngoche to Bagai, FOUR runs",,,4
+473,193,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,32.1,no run,126,0,126/4,"Kamande to Surkari, no run",,,4
+474,193,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, 1 wide ",2nd innings,32.1,wide,127,1,127/4,"Kamande to Surkari, 1 wide",,,4
+475,194,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,32.2,no run,127,0,127/4,"Kamande to Surkari, no run",,,4
+476,195,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,32.3,no run,127,0,127/4,"Kamande to Surkari, no run",,,4
+477,196,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,32.4,no run,127,0,127/4,"Kamande to Surkari, no run",,,4
+478,197,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,32.5,no run,127,0,127/4,"Kamande to Surkari, no run",,,4
+479,198,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, FOUR runs ",2nd innings,33.0,four,131,4,131/4,"Kamande to Surkari, FOUR runs",,,4
+480,199,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,33.1,no run,131,0,131/4,"Odhiambo to Bagai, no run",,,4
+481,200,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, FOUR runs ",2nd innings,33.2,four,135,4,135/4,"Odhiambo to Bagai, FOUR runs",,,4
+482,201,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, FOUR runs ",2nd innings,33.3,four,139,4,139/4,"Odhiambo to Bagai, FOUR runs",,,4
+483,202,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, no run ",2nd innings,33.4,no run,139,0,139/4,"Odhiambo to Bagai, no run",,,4
+484,203,Ashish Bagai,23797,Nelson Odhiambo,308418,"Odhiambo to Bagai, 1 run ",2nd innings,33.5,run,140,1,140/4,"Odhiambo to Bagai, 1 run",,,4
+485,204,Zubin Surkari,23803,Nehemiah Odhiambo,238612,"Odhiambo to Surkari, 1 run ",2nd innings,34.0,run,141,1,141/4,"Odhiambo to Surkari, 1 run",,,4
+486,205,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,34.1,no run,141,0,141/4,"Kamande to Surkari, no run",,,4
+487,206,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, FOUR runs ",2nd innings,34.2,four,145,4,145/4,"Kamande to Surkari, FOUR runs",,,4
+488,207,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,34.3,no run,145,0,145/4,"Kamande to Surkari, no run",,,4
+489,208,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, no run ",2nd innings,34.4,no run,145,0,145/4,"Kamande to Surkari, no run",,,4
+490,209,Zubin Surkari,23803,Jimmy Kamande,24697,"Kamande to Surkari, 1 run ",2nd innings,34.5,run,146,1,146/4,"Kamande to Surkari, 1 run",,,4
+491,210,Ashish Bagai,23797,Jimmy Kamande,24697,"Kamande to Bagai, no run ",2nd innings,35.0,no run,146,0,146/4,"Kamande to Bagai, no run",,,4
+492,211,Ashish Bagai,23797,Nehemiah Odhiambo,238612,"Odhiambo to Bagai, no run ",2nd innings,35.1,no run,146,0,146/4,"Odhiambo to Bagai, no run",,,4
+493,212,Ashish Bagai,23797,Nehemiah Odhiambo,238612,"Odhiambo to Bagai, no run ",2nd innings,35.2,no run,146,0,146/4,"Odhiambo to Bagai, no run",,,4
+494,213,Ashish Bagai,23797,Nehemiah Odhiambo,238612,"Odhiambo to Bagai, no run ",2nd innings,35.3,no run,146,0,146/4,"Odhiambo to Bagai, no run",,,4
+495,214,Ashish Bagai,23797,Nehemiah Odhiambo,238612,"Odhiambo to Bagai, FOUR runs ",2nd innings,35.4,four,150,4,150/4,"Odhiambo to Bagai, FOUR runs",,,4
+496,215,Ashish Bagai,23797,Nehemiah Odhiambo,238612,"Odhiambo to Bagai, 2 runs ",2nd innings,35.5,run,152,2,152/4,"Odhiambo to Bagai, 2 runs",,,4

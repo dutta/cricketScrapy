@@ -1,0 +1,473 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, FOUR runs ",1st innings,0.1,four,4,4,4/0,"Pokana to Marshall, FOUR runs",,,0
+1,2,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, 2 runs ",1st innings,0.2,run,6,2,6/0,"Pokana to Marshall, 2 runs",,,0
+2,3,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, 1 run ",1st innings,0.3,run,7,1,7/0,"Pokana to Marshall, 1 run",,,0
+3,4,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, 2 runs ",1st innings,0.4,run,9,2,9/0,"Pokana to MD Patel, 2 runs",,,0
+4,5,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, FOUR runs ",1st innings,0.5,four,13,4,13/0,"Pokana to MD Patel, FOUR runs",,,0
+5,6,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, 1 run ",1st innings,1.0,run,14,1,14/0,"Pokana to MD Patel, 1 run",,,0
+6,7,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,1.1,no run,14,0,14/0,"Ravu to MD Patel, no run",,,0
+7,7,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 wide ",1st innings,1.1,wide,15,1,15/0,"Ravu to MD Patel, 1 wide",,,0
+8,8,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,1.2,no run,15,0,15/0,"Ravu to MD Patel, no run",,,0
+9,9,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,1.3,no run,15,0,15/0,"Ravu to MD Patel, no run",,,0
+10,10,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,1.4,no run,15,0,15/0,"Ravu to MD Patel, no run",,,0
+11,11,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,1.5,no run,15,0,15/0,"Ravu to MD Patel, no run",,,0
+12,11,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 wide ",1st innings,1.5,wide,16,1,16/0,"Ravu to MD Patel, 1 wide",,,0
+13,12,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 2 runs ",1st innings,2.0,run,18,2,18/0,"Ravu to MD Patel, 2 runs",,,0
+14,13,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, no run ",1st innings,2.1,no run,18,0,18/0,"Pokana to Marshall, no run",,,0
+15,14,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, FOUR runs ",1st innings,2.2,four,22,4,22/0,"Pokana to Marshall, FOUR runs",,,0
+16,15,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, no run ",1st innings,2.3,no run,22,0,22/0,"Pokana to Marshall, no run",,,0
+17,16,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, no run ",1st innings,2.4,no run,22,0,22/0,"Pokana to Marshall, no run",,,0
+18,17,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, no run ",1st innings,2.5,no run,22,0,22/0,"Pokana to Marshall, no run",,,0
+19,18,Xavier Marshall,52626,Nosaina Pokana,646181,"Pokana to Marshall, OUT ",1st innings,3.0,out,22,0,22/1,"Pokana to Marshall, OUT",,,1
+20,19,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, FOUR runs ",1st innings,3.1,four,26,4,26/1,"Ravu to MD Patel, FOUR runs",,,1
+21,19,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 no ball ",1st innings,3.1,no ball,27,1,27/1,"Ravu to MD Patel, 1 no ball",,,1
+22,20,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,3.2,no run,27,0,27/1,"Ravu to MD Patel, no run",,,1
+23,21,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,3.3,no run,27,0,27/1,"Ravu to MD Patel, no run",,,1
+24,22,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,3.4,no run,27,0,27/1,"Ravu to MD Patel, no run",,,1
+25,23,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,3.5,no run,27,0,27/1,"Ravu to MD Patel, no run",,,1
+26,24,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,4.0,no run,27,0,27/1,"Ravu to MD Patel, no run",,,1
+27,25,Steven Taylor,348133,Nosaina Pokana,646181,"Pokana to Taylor, OUT ",1st innings,4.1,out,27,0,27/2,"Pokana to Taylor, OUT",,,2
+28,26,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, no run ",1st innings,4.2,no run,27,0,27/2,"Pokana to Aaron Jones, no run",,,2
+29,27,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, no run ",1st innings,4.3,no run,27,0,27/2,"Pokana to Aaron Jones, no run",,,2
+30,28,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, no run ",1st innings,4.4,no run,27,0,27/2,"Pokana to Aaron Jones, no run",,,2
+31,29,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, no run ",1st innings,4.5,no run,27,0,27/2,"Pokana to Aaron Jones, no run",,,2
+32,30,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, no run ",1st innings,5.0,no run,27,0,27/2,"Pokana to Aaron Jones, no run",,,2
+33,31,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,5.1,no run,27,0,27/2,"Ravu to MD Patel, no run",,,2
+34,32,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,5.2,no run,27,0,27/2,"Ravu to MD Patel, no run",,,2
+35,33,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,5.3,no run,27,0,27/2,"Ravu to MD Patel, no run",,,2
+36,34,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, FOUR runs ",1st innings,5.4,four,31,4,31/2,"Ravu to MD Patel, FOUR runs",,,2
+37,34,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 wide ",1st innings,5.4,wide,32,1,32/2,"Ravu to MD Patel, 1 wide",,,2
+38,35,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,5.5,no run,32,0,32/2,"Ravu to MD Patel, no run",,,2
+39,36,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,6.0,no run,32,0,32/2,"Ravu to MD Patel, no run",,,2
+40,37,Aaron Jones,957645,Nosaina Pokana,646181,"Pokana to Aaron Jones, 1 run ",1st innings,6.1,run,33,1,33/2,"Pokana to Aaron Jones, 1 run",,,2
+41,38,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,6.2,no run,33,0,33/2,"Pokana to MD Patel, no run",,,2
+42,39,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,6.3,no run,33,0,33/2,"Pokana to MD Patel, no run",,,2
+43,40,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,6.4,no run,33,0,33/2,"Pokana to MD Patel, no run",,,2
+44,41,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,6.5,no run,33,0,33/2,"Pokana to MD Patel, no run",,,2
+45,42,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,7.0,no run,33,0,33/2,"Pokana to MD Patel, no run",,,2
+46,43,Aaron Jones,957645,Norman Vanua,524253,"Vanua to Aaron Jones, no run ",1st innings,7.1,no run,33,0,33/2,"Vanua to Aaron Jones, no run",,,2
+47,44,Aaron Jones,957645,Norman Vanua,524253,"Vanua to Aaron Jones, 1 run ",1st innings,7.2,run,34,1,34/2,"Vanua to Aaron Jones, 1 run",,,2
+48,45,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, 1 run ",1st innings,7.3,run,35,1,35/2,"Vanua to MD Patel, 1 run",,,2
+49,46,Aaron Jones,957645,Norman Vanua,524253,"Vanua to Aaron Jones, no run ",1st innings,7.4,no run,35,0,35/2,"Vanua to Aaron Jones, no run",,,2
+50,47,Aaron Jones,957645,Norman Vanua,524253,"Vanua to Aaron Jones, OUT ",1st innings,7.5,out,35,0,35/3,"Vanua to Aaron Jones, OUT",,,3
+51,48,Jaskaran Malhotra,430105,Norman Vanua,524253,"Vanua to Malhotra, OUT ",1st innings,8.0,out,35,0,35/4,"Vanua to Malhotra, OUT",,,4
+52,49,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,8.1,no run,35,0,35/4,"Pokana to MD Patel, no run",,,4
+53,50,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, no run ",1st innings,8.2,no run,35,0,35/4,"Pokana to MD Patel, no run",,,4
+54,51,Monank Patel,1159641,Nosaina Pokana,646181,"Pokana to MD Patel, 1 run ",1st innings,8.3,run,36,1,36/4,"Pokana to MD Patel, 1 run",,,4
+55,52,Hayden Walsh,443263,Nosaina Pokana,646181,"Pokana to Walsh, no run ",1st innings,8.4,no run,36,0,36/4,"Pokana to Walsh, no run",,,4
+56,53,Hayden Walsh,443263,Nosaina Pokana,646181,"Pokana to Walsh, no run ",1st innings,8.5,no run,36,0,36/4,"Pokana to Walsh, no run",,,4
+57,54,Hayden Walsh,443263,Nosaina Pokana,646181,"Pokana to Walsh, no run ",1st innings,9.0,no run,36,0,36/4,"Pokana to Walsh, no run",,,4
+58,55,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,9.1,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+59,56,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,9.2,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+60,57,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,9.3,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+61,58,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,9.4,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+62,59,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,9.5,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+63,60,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,10.0,no run,36,0,36/4,"Vanua to MD Patel, no run",,,4
+64,61,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, FOUR runs ",1st innings,10.1,four,40,4,40/4,"Soper to Walsh, FOUR runs",,,4
+65,62,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,10.2,no run,40,0,40/4,"Soper to Walsh, no run",,,4
+66,63,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,10.3,no run,40,0,40/4,"Soper to Walsh, no run",,,4
+67,64,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,10.4,no run,40,0,40/4,"Soper to Walsh, no run",,,4
+68,65,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,10.5,no run,40,0,40/4,"Soper to Walsh, no run",,,4
+69,66,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,11.0,no run,40,0,40/4,"Soper to Walsh, no run",,,4
+70,67,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, no run ",1st innings,11.1,no run,40,0,40/4,"Vanua to MD Patel, no run",,,4
+71,68,Monank Patel,1159641,Norman Vanua,524253,"Vanua to MD Patel, 1 run ",1st innings,11.2,run,41,1,41/4,"Vanua to MD Patel, 1 run",,,4
+72,68,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, 1 wide ",1st innings,11.2,wide,42,1,42/4,"Vanua to Walsh, 1 wide",,,4
+73,69,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, FOUR runs ",1st innings,11.3,four,46,4,46/4,"Vanua to Walsh, FOUR runs",,,4
+74,70,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,11.4,no run,46,0,46/4,"Vanua to Walsh, no run",,,4
+75,71,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,11.5,no run,46,0,46/4,"Vanua to Walsh, no run",,,4
+76,72,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, 1 run ",1st innings,12.0,run,47,1,47/4,"Vanua to Walsh, 1 run",,,4
+77,72,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 1 wide ",1st innings,12.0,wide,48,1,48/4,"Soper to Walsh, 1 wide",,,4
+78,73,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,12.1,no run,48,0,48/4,"Soper to Walsh, no run",,,4
+79,74,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,12.2,no run,48,0,48/4,"Soper to Walsh, no run",,,4
+80,75,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,12.3,no run,48,0,48/4,"Soper to Walsh, no run",,,4
+81,76,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,12.4,no run,48,0,48/4,"Soper to Walsh, no run",,,4
+82,77,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 2 runs ",1st innings,12.5,run,50,2,50/4,"Soper to Walsh, 2 runs",,,4
+83,78,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 1 run ",1st innings,13.0,run,51,1,51/4,"Soper to Walsh, 1 run",,,4
+84,79,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,13.1,no run,51,0,51/4,"Vanua to Walsh, no run",,,4
+85,80,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,13.2,no run,51,0,51/4,"Vanua to Walsh, no run",,,4
+86,81,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, FOUR runs ",1st innings,13.3,four,55,4,55/4,"Vanua to Walsh, FOUR runs",,,4
+87,82,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,13.4,no run,55,0,55/4,"Vanua to Walsh, no run",,,4
+88,83,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, FOUR runs ",1st innings,13.5,four,59,4,59/4,"Vanua to Walsh, FOUR runs",,,4
+89,84,Hayden Walsh,443263,Norman Vanua,524253,"Vanua to Walsh, no run ",1st innings,14.0,no run,59,0,59/4,"Vanua to Walsh, no run",,,4
+90,85,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, no run ",1st innings,14.1,no run,59,0,59/4,"Soper to MD Patel, no run",,,4
+91,86,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, 1 leg bye ",1st innings,14.2,leg bye,60,1,60/4,"Soper to MD Patel, 1 leg bye",,,4
+92,87,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 1 run ",1st innings,14.3,run,61,1,61/4,"Soper to Walsh, 1 run",,,4
+93,88,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, no run ",1st innings,14.4,no run,61,0,61/4,"Soper to MD Patel, no run",,,4
+94,89,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, no run ",1st innings,14.5,no run,61,0,61/4,"Soper to MD Patel, no run",,,4
+95,90,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, 1 run ",1st innings,15.0,run,62,1,62/4,"Soper to MD Patel, 1 run",,,4
+96,91,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, 1 run ",1st innings,15.1,run,63,1,63/4,"Vala to MD Patel, 1 run",,,4
+97,92,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, 1 run ",1st innings,15.2,run,64,1,64/4,"Vala to Walsh, 1 run",,,4
+98,93,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, no run ",1st innings,15.3,no run,64,0,64/4,"Vala to MD Patel, no run",,,4
+99,94,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, 1 run ",1st innings,15.4,run,65,1,65/4,"Vala to MD Patel, 1 run",,,4
+100,95,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, 1 run ",1st innings,15.5,run,66,1,66/4,"Vala to Walsh, 1 run",,,4
+101,96,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, 1 run ",1st innings,16.0,run,67,1,67/4,"Vala to MD Patel, 1 run",,,4
+102,97,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, 1 run ",1st innings,16.1,run,68,1,68/4,"Soper to MD Patel, 1 run",,,4
+103,97,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 2 wides ",1st innings,16.1,wide,70,2,70/4,"Soper to Walsh, 2 wides",,,4
+104,98,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, 2 runs ",1st innings,16.2,run,72,2,72/4,"Soper to MD Patel, 2 runs",,,4
+105,99,Monank Patel,1159641,Chad Soper,574287,"Soper to MD Patel, 1 run ",1st innings,16.3,run,73,1,73/4,"Soper to MD Patel, 1 run",,,4
+106,100,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,16.4,no run,73,0,73/4,"Soper to Walsh, no run",,,4
+107,101,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, no run ",1st innings,16.5,no run,73,0,73/4,"Soper to Walsh, no run",,,4
+108,102,Hayden Walsh,443263,Chad Soper,574287,"Soper to Walsh, 1 run ",1st innings,17.0,run,74,1,74/4,"Soper to Walsh, 1 run",,,4
+109,103,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, no run ",1st innings,17.1,no run,74,0,74/4,"Vala to Walsh, no run",,,4
+110,104,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, 1 run ",1st innings,17.2,run,75,1,75/4,"Vala to Walsh, 1 run",,,4
+111,105,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, no run ",1st innings,17.3,no run,75,0,75/4,"Vala to MD Patel, no run",,,4
+112,106,Monank Patel,1159641,Assad Vala,25056,"Vala to MD Patel, 1 run ",1st innings,17.4,run,76,1,76/4,"Vala to MD Patel, 1 run",,,4
+113,107,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, 2 runs ",1st innings,17.5,run,78,2,78/4,"Vala to Walsh, 2 runs",,,4
+114,108,Hayden Walsh,443263,Assad Vala,25056,"Vala to Walsh, OUT ",1st innings,18.0,out,78,0,78/5,"Vala to Walsh, OUT",,,5
+115,109,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, no run ",1st innings,18.1,no run,78,0,78/5,"Amini to MD Patel, no run",,,5
+116,110,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, no run ",1st innings,18.2,no run,78,0,78/5,"Amini to MD Patel, no run",,,5
+117,111,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, no run ",1st innings,18.3,no run,78,0,78/5,"Amini to MD Patel, no run",,,5
+118,112,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, 1 run ",1st innings,18.4,run,79,1,79/5,"Amini to MD Patel, 1 run",,,5
+119,113,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,18.5,no run,79,0,79/5,"Amini to TK Patel, no run",,,5
+120,114,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, FOUR runs ",1st innings,19.0,four,83,4,83/5,"Amini to TK Patel, FOUR runs",,,5
+121,114,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 wide ",1st innings,19.0,wide,84,1,84/5,"Ravu to MD Patel, 1 wide",,,5
+122,115,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 run ",1st innings,19.1,run,85,1,85/5,"Ravu to MD Patel, 1 run",,,5
+123,116,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, FOUR runs ",1st innings,19.2,four,89,4,89/5,"Ravu to TK Patel, FOUR runs",,,5
+124,117,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,19.3,no run,89,0,89/5,"Ravu to TK Patel, no run",,,5
+125,118,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,19.4,no run,89,0,89/5,"Ravu to TK Patel, no run",,,5
+126,119,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,19.5,no run,89,0,89/5,"Ravu to TK Patel, no run",,,5
+127,120,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,20.0,no run,89,0,89/5,"Ravu to TK Patel, no run",,,5
+128,121,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, no run ",1st innings,20.1,no run,89,0,89/5,"Amini to MD Patel, no run",,,5
+129,122,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, no run ",1st innings,20.2,no run,89,0,89/5,"Amini to MD Patel, no run",,,5
+130,123,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, 1 run ",1st innings,20.3,run,90,1,90/5,"Amini to MD Patel, 1 run",,,5
+131,124,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,20.4,no run,90,0,90/5,"Amini to TK Patel, no run",,,5
+132,125,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,20.5,no run,90,0,90/5,"Amini to TK Patel, no run",,,5
+133,126,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,21.0,no run,90,0,90/5,"Amini to TK Patel, no run",,,5
+134,127,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,21.1,no run,90,0,90/5,"Ravu to MD Patel, no run",,,5
+135,128,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, no run ",1st innings,21.2,no run,90,0,90/5,"Ravu to MD Patel, no run",,,5
+136,129,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 2 runs ",1st innings,21.3,run,92,2,92/5,"Ravu to MD Patel, 2 runs",,,5
+137,130,Monank Patel,1159641,Damien Ravu,1122557,"Ravu to MD Patel, 1 run ",1st innings,21.4,run,93,1,93/5,"Ravu to MD Patel, 1 run",,,5
+138,131,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,21.5,no run,93,0,93/5,"Ravu to TK Patel, no run",,,5
+139,132,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, no run ",1st innings,22.0,no run,93,0,93/5,"Ravu to TK Patel, no run",,,5
+140,133,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, FOUR runs ",1st innings,22.1,four,97,4,97/5,"Amini to MD Patel, FOUR runs",,,5
+141,134,Monank Patel,1159641,Charles Amini,332980,"Amini to MD Patel, OUT ",1st innings,22.2,out,97,0,97/6,"Amini to MD Patel, OUT",,,6
+142,135,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, no run ",1st innings,22.3,no run,97,0,97/6,"Amini to Gore, no run",,,6
+143,136,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, no run ",1st innings,22.4,no run,97,0,97/6,"Amini to Gore, no run",,,6
+144,137,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, FOUR runs ",1st innings,22.5,four,101,4,101/6,"Amini to Gore, FOUR runs",,,6
+145,138,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, no run ",1st innings,23.0,no run,101,0,101/6,"Amini to Gore, no run",,,6
+146,139,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,23.1,no run,101,0,101/6,"Vanua to TK Patel, no run",,,6
+147,140,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 1 run ",1st innings,23.2,run,102,1,102/6,"Vanua to TK Patel, 1 run",,,6
+148,141,Karima Gore,1139028,Norman Vanua,524253,"Vanua to Gore, no run ",1st innings,23.3,no run,102,0,102/6,"Vanua to Gore, no run",,,6
+149,142,Karima Gore,1139028,Norman Vanua,524253,"Vanua to Gore, no run ",1st innings,23.4,no run,102,0,102/6,"Vanua to Gore, no run",,,6
+150,143,Karima Gore,1139028,Norman Vanua,524253,"Vanua to Gore, no run ",1st innings,23.5,no run,102,0,102/6,"Vanua to Gore, no run",,,6
+151,144,Karima Gore,1139028,Norman Vanua,524253,"Vanua to Gore, 1 run ",1st innings,24.0,run,103,1,103/6,"Vanua to Gore, 1 run",,,6
+152,145,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, no run ",1st innings,24.1,no run,103,0,103/6,"Amini to Gore, no run",,,6
+153,146,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, no run ",1st innings,24.2,no run,103,0,103/6,"Amini to Gore, no run",,,6
+154,147,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, 1 run ",1st innings,24.3,run,104,1,104/6,"Amini to Gore, 1 run",,,6
+155,148,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,24.4,no run,104,0,104/6,"Amini to TK Patel, no run",,,6
+156,149,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,24.5,run,105,1,105/6,"Amini to TK Patel, 1 run",,,6
+157,150,Karima Gore,1139028,Charles Amini,332980,"Amini to Gore, OUT ",1st innings,25.0,out,105,0,105/7,"Amini to Gore, OUT",,,7
+158,151,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,25.1,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+159,152,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,25.2,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+160,153,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,25.3,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+161,154,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,25.4,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+162,155,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,25.5,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+163,156,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,26.0,no run,105,0,105/7,"Vanua to Jasdeep Singh, no run",,,7
+164,157,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,26.1,no run,105,0,105/7,"Amini to TK Patel, no run",,,7
+165,158,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 2 runs ",1st innings,26.2,run,107,2,107/7,"Amini to TK Patel, 2 runs",,,7
+166,159,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,26.3,no run,107,0,107/7,"Amini to TK Patel, no run",,,7
+167,160,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,26.4,run,108,1,108/7,"Amini to TK Patel, 1 run",,,7
+168,161,Jessy Singh,772471,Charles Amini,332980,"Amini to Jasdeep Singh, no run ",1st innings,26.5,no run,108,0,108/7,"Amini to Jasdeep Singh, no run",,,7
+169,162,Jessy Singh,772471,Charles Amini,332980,"Amini to Jasdeep Singh, no run ",1st innings,27.0,no run,108,0,108/7,"Amini to Jasdeep Singh, no run",,,7
+170,163,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 1 run ",1st innings,27.1,run,109,1,109/7,"Vanua to TK Patel, 1 run",,,7
+171,164,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,27.2,no run,109,0,109/7,"Vanua to Jasdeep Singh, no run",,,7
+172,165,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,27.3,no run,109,0,109/7,"Vanua to Jasdeep Singh, no run",,,7
+173,166,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, no run ",1st innings,27.4,no run,109,0,109/7,"Vanua to Jasdeep Singh, no run",,,7
+174,167,Jessy Singh,772471,Norman Vanua,524253,"Vanua to Jasdeep Singh, OUT ",1st innings,27.5,out,109,0,109/8,"Vanua to Jasdeep Singh, OUT",,,8
+175,168,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, 1 run ",1st innings,28.0,run,110,1,110/8,"Vanua to Netravalkar, 1 run",,,8
+176,169,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, FOUR runs ",1st innings,28.1,four,114,4,114/8,"Amini to Netravalkar, FOUR runs",,,8
+177,170,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,28.2,no run,114,0,114/8,"Amini to Netravalkar, no run",,,8
+178,171,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,28.3,no run,114,0,114/8,"Amini to Netravalkar, no run",,,8
+179,172,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,28.4,no run,114,0,114/8,"Amini to Netravalkar, no run",,,8
+180,173,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,28.5,no run,114,0,114/8,"Amini to Netravalkar, no run",,,8
+181,174,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,29.0,no run,114,0,114/8,"Amini to Netravalkar, no run",,,8
+182,175,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,29.1,no run,114,0,114/8,"Vanua to TK Patel, no run",,,8
+183,176,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 1 run ",1st innings,29.2,run,115,1,115/8,"Vanua to TK Patel, 1 run",,,8
+184,177,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, 2 runs ",1st innings,29.3,run,117,2,117/8,"Vanua to Netravalkar, 2 runs",,,8
+185,178,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, no run ",1st innings,29.4,no run,117,0,117/8,"Vanua to Netravalkar, no run",,,8
+186,179,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, no run ",1st innings,29.5,no run,117,0,117/8,"Vanua to Netravalkar, no run",,,8
+187,180,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, no run ",1st innings,30.0,no run,117,0,117/8,"Vanua to Netravalkar, no run",,,8
+188,181,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,30.1,no run,117,0,117/8,"Amini to TK Patel, no run",,,8
+189,182,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,30.2,no run,117,0,117/8,"Amini to TK Patel, no run",,,8
+190,183,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,30.3,no run,117,0,117/8,"Amini to TK Patel, no run",,,8
+191,184,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,30.4,no run,117,0,117/8,"Amini to TK Patel, no run",,,8
+192,185,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, FOUR runs ",1st innings,30.5,four,121,4,121/8,"Amini to TK Patel, FOUR runs",,,8
+193,186,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 2 runs ",1st innings,31.0,run,123,2,123/8,"Amini to TK Patel, 2 runs",,,8
+194,187,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,31.1,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+195,188,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,31.2,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+196,189,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,31.3,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+197,190,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,31.4,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+198,191,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,31.5,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+199,192,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,32.0,no run,123,0,123/8,"Pokana to Netravalkar, no run",,,8
+200,193,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,32.1,no run,123,0,123/8,"Soper to TK Patel, no run",,,8
+201,194,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,32.2,no run,123,0,123/8,"Soper to TK Patel, no run",,,8
+202,195,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,32.3,no run,123,0,123/8,"Soper to TK Patel, no run",,,8
+203,196,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, 4 byes ",1st innings,32.4,bye,127,4,127/8,"Soper to TK Patel, 4 byes",,,8
+204,197,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,32.5,no run,127,0,127/8,"Soper to TK Patel, no run",,,8
+205,198,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,33.0,no run,127,0,127/8,"Soper to TK Patel, no run",,,8
+206,199,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,33.1,no run,127,0,127/8,"Pokana to Netravalkar, no run",,,8
+207,200,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, no run ",1st innings,33.2,no run,127,0,127/8,"Pokana to Netravalkar, no run",,,8
+208,201,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, 1 run ",1st innings,33.3,run,128,1,128/8,"Pokana to Netravalkar, 1 run",,,8
+209,202,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,33.4,no run,128,0,128/8,"Pokana to TK Patel, no run",,,8
+210,203,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,33.5,no run,128,0,128/8,"Pokana to TK Patel, no run",,,8
+211,204,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,34.0,no run,128,0,128/8,"Pokana to TK Patel, no run",,,8
+212,205,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,34.1,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+213,206,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,34.2,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+214,207,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,34.3,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+215,208,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,34.4,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+216,209,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,34.5,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+217,210,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, no run ",1st innings,35.0,no run,128,0,128/8,"Soper to Netravalkar, no run",,,8
+218,211,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,35.1,no run,128,0,128/8,"Pokana to TK Patel, no run",,,8
+219,212,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, FOUR runs ",1st innings,35.2,four,132,4,132/8,"Pokana to TK Patel, FOUR runs",,,8
+220,213,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,35.3,no run,132,0,132/8,"Pokana to TK Patel, no run",,,8
+221,214,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, no run ",1st innings,35.4,no run,132,0,132/8,"Pokana to TK Patel, no run",,,8
+222,215,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, 1 run ",1st innings,35.5,run,133,1,133/8,"Pokana to TK Patel, 1 run",,,8
+223,216,Saurabh Netravalkar,398513,Nosaina Pokana,646181,"Pokana to Netravalkar, 1 run ",1st innings,36.0,run,134,1,134/8,"Pokana to Netravalkar, 1 run",,,8
+224,217,Saurabh Netravalkar,398513,Chad Soper,574287,"Soper to Netravalkar, 1 run ",1st innings,36.1,run,135,1,135/8,"Soper to Netravalkar, 1 run",,,8
+225,218,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,36.2,no run,135,0,135/8,"Soper to TK Patel, no run",,,8
+226,219,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,36.3,no run,135,0,135/8,"Soper to TK Patel, no run",,,8
+227,220,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,36.4,no run,135,0,135/8,"Soper to TK Patel, no run",,,8
+228,221,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, no run ",1st innings,36.5,no run,135,0,135/8,"Soper to TK Patel, no run",,,8
+229,222,Timil Patel,32257,Chad Soper,574287,"Soper to TK Patel, 1 run ",1st innings,37.0,run,136,1,136/8,"Soper to TK Patel, 1 run",,,8
+230,223,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,37.1,no run,136,0,136/8,"Amini to TK Patel, no run",,,8
+231,224,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,37.2,run,137,1,137/8,"Amini to TK Patel, 1 run",,,8
+232,225,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, 1 run ",1st innings,37.3,run,138,1,138/8,"Amini to Netravalkar, 1 run",,,8
+233,226,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,37.4,no run,138,0,138/8,"Amini to TK Patel, no run",,,8
+234,227,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,37.5,no run,138,0,138/8,"Amini to TK Patel, no run",,,8
+235,228,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,38.0,run,139,1,139/8,"Amini to TK Patel, 1 run",,,8
+236,229,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, FOUR runs ",1st innings,38.1,four,143,4,143/8,"Vanua to TK Patel, FOUR runs",,,8
+237,230,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,38.2,no run,143,0,143/8,"Vanua to TK Patel, no run",,,8
+238,231,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,38.3,no run,143,0,143/8,"Vanua to TK Patel, no run",,,8
+239,232,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 2 runs ",1st innings,38.4,run,145,2,145/8,"Vanua to TK Patel, 2 runs",,,8
+240,233,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,38.5,no run,145,0,145/8,"Vanua to TK Patel, no run",,,8
+241,234,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 1 run ",1st innings,39.0,run,146,1,146/8,"Vanua to TK Patel, 1 run",,,8
+242,235,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,39.1,no run,146,0,146/8,"Amini to TK Patel, no run",,,8
+243,236,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,39.2,no run,146,0,146/8,"Amini to TK Patel, no run",,,8
+244,237,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,39.3,no run,146,0,146/8,"Amini to TK Patel, no run",,,8
+245,238,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,39.4,no run,146,0,146/8,"Amini to TK Patel, no run",,,8
+246,239,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,39.5,run,147,1,147/8,"Amini to TK Patel, 1 run",,,8
+247,240,Saurabh Netravalkar,398513,Charles Amini,332980,"Amini to Netravalkar, no run ",1st innings,40.0,no run,147,0,147/8,"Amini to Netravalkar, no run",,,8
+248,241,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, 1 run ",1st innings,40.1,run,148,1,148/8,"Vanua to TK Patel, 1 run",,,8
+249,242,Saurabh Netravalkar,398513,Norman Vanua,524253,"Vanua to Netravalkar, OUT ",1st innings,40.2,out,148,0,148/9,"Vanua to Netravalkar, OUT",,,9
+250,243,Ali Khan,927119,Norman Vanua,524253,"Vanua to Ali Khan, 1 run ",1st innings,40.3,run,149,1,149/9,"Vanua to Ali Khan, 1 run",,,9
+251,244,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,40.4,no run,149,0,149/9,"Vanua to TK Patel, no run",,,9
+252,245,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, FOUR runs ",1st innings,40.5,four,153,4,153/9,"Vanua to TK Patel, FOUR runs",,,9
+253,246,Timil Patel,32257,Norman Vanua,524253,"Vanua to TK Patel, no run ",1st innings,41.0,no run,153,0,153/9,"Vanua to TK Patel, no run",,,9
+254,247,Ali Khan,927119,Charles Amini,332980,"Amini to Ali Khan, 1 run ",1st innings,41.1,run,154,1,154/9,"Amini to Ali Khan, 1 run",,,9
+255,248,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, no run ",1st innings,41.2,no run,154,0,154/9,"Amini to TK Patel, no run",,,9
+256,249,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, FOUR runs ",1st innings,41.3,four,158,4,158/9,"Amini to TK Patel, FOUR runs",,,9
+257,250,Timil Patel,32257,Charles Amini,332980,"Amini to TK Patel, 1 run ",1st innings,41.4,run,159,1,159/9,"Amini to TK Patel, 1 run",,,9
+258,251,Ali Khan,927119,Charles Amini,332980,"Amini to Ali Khan, no run ",1st innings,41.5,no run,159,0,159/9,"Amini to Ali Khan, no run",,,9
+259,252,Ali Khan,927119,Charles Amini,332980,"Amini to Ali Khan, no run ",1st innings,42.0,no run,159,0,159/9,"Amini to Ali Khan, no run",,,9
+260,253,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, 1 run ",1st innings,42.1,run,160,1,160/9,"Ravu to TK Patel, 1 run",,,9
+261,254,Ali Khan,927119,Damien Ravu,1122557,"Ravu to Ali Khan, no run ",1st innings,42.2,no run,160,0,160/9,"Ravu to Ali Khan, no run",,,9
+262,255,Ali Khan,927119,Damien Ravu,1122557,"Ravu to Ali Khan, 1 run ",1st innings,42.3,run,161,1,161/9,"Ravu to Ali Khan, 1 run",,,9
+263,255,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, 1 wide ",1st innings,42.3,wide,162,1,162/9,"Ravu to TK Patel, 1 wide",,,9
+264,256,Timil Patel,32257,Damien Ravu,1122557,"Ravu to TK Patel, 1 run ",1st innings,42.4,run,163,1,163/9,"Ravu to TK Patel, 1 run",,,9
+265,257,Ali Khan,927119,Damien Ravu,1122557,"Ravu to Ali Khan, no run ",1st innings,42.5,no run,163,0,163/9,"Ravu to Ali Khan, no run",,,9
+266,258,Ali Khan,927119,Damien Ravu,1122557,"Ravu to Ali Khan, no run ",1st innings,43.0,no run,163,0,163/9,"Ravu to Ali Khan, no run",,,9
+267,259,Timil Patel,32257,Nosaina Pokana,646181,"Pokana to TK Patel, 1 run ",1st innings,43.1,run,164,1,164/9,"Pokana to TK Patel, 1 run",,,9
+268,260,Ali Khan,927119,Nosaina Pokana,646181,"Pokana to Ali Khan, no run ",1st innings,43.2,no run,164,0,164/9,"Pokana to Ali Khan, no run",,,9
+269,261,Ali Khan,927119,Nosaina Pokana,646181,"Pokana to Ali Khan, no run ",1st innings,43.3,no run,164,0,164/9,"Pokana to Ali Khan, no run",,,9
+270,262,Ali Khan,927119,Nosaina Pokana,646181,"Pokana to Ali Khan, OUT ",1st innings,43.4,out,164,0,164/10,"Pokana to Ali Khan, OUT",,,10
+271,1,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,0.1,no run,0,0,0/0,"Netravalkar to Vala, no run",,,0
+272,2,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,0.2,no run,0,0,0/0,"Netravalkar to Vala, no run",,,0
+273,3,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,0.3,no run,0,0,0/0,"Netravalkar to Vala, no run",,,0
+274,4,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, 1 run ",2nd innings,0.4,run,1,1,1/0,"Netravalkar to Vala, 1 run",,,0
+275,5,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,0.5,no run,1,0,1/0,"Netravalkar to Ura, no run",,,0
+276,6,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, 3 runs ",2nd innings,1.0,run,4,3,4/0,"Netravalkar to Ura, 3 runs",,,0
+277,7,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,1.1,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+278,8,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,1.2,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+279,9,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,1.3,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+280,10,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,1.4,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+281,11,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,1.5,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+282,12,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,2.0,no run,4,0,4/0,"Ali Khan to Ura, no run",,,0
+283,13,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,2.1,no run,4,0,4/0,"Netravalkar to Vala, no run",,,0
+284,14,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, 1 run ",2nd innings,2.2,run,5,1,5/0,"Netravalkar to Vala, 1 run",,,0
+285,15,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,2.3,no run,5,0,5/0,"Netravalkar to Ura, no run",,,0
+286,16,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,2.4,no run,5,0,5/0,"Netravalkar to Ura, no run",,,0
+287,17,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, FOUR runs ",2nd innings,2.5,four,9,4,9/0,"Netravalkar to Ura, FOUR runs",,,0
+288,18,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,3.0,no run,9,0,9/0,"Netravalkar to Ura, no run",,,0
+289,19,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, FOUR runs ",2nd innings,3.1,four,13,4,13/0,"Ali Khan to Vala, FOUR runs",,,0
+290,20,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, no run ",2nd innings,3.2,no run,13,0,13/0,"Ali Khan to Vala, no run",,,0
+291,21,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, no run ",2nd innings,3.3,no run,13,0,13/0,"Ali Khan to Vala, no run",,,0
+292,22,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, FOUR runs ",2nd innings,3.4,four,17,4,17/0,"Ali Khan to Vala, FOUR runs",,,0
+293,23,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, no run ",2nd innings,3.5,no run,17,0,17/0,"Ali Khan to Vala, no run",,,0
+294,24,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, no run ",2nd innings,4.0,no run,17,0,17/0,"Ali Khan to Vala, no run",,,0
+295,25,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,4.1,no run,17,0,17/0,"Netravalkar to Ura, no run",,,0
+296,26,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,4.2,no run,17,0,17/0,"Netravalkar to Ura, no run",,,0
+297,27,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, no run ",2nd innings,4.3,no run,17,0,17/0,"Netravalkar to Ura, no run",,,0
+298,28,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, 1 run ",2nd innings,4.4,run,18,1,18/0,"Netravalkar to Ura, 1 run",,,0
+299,29,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,4.5,no run,18,0,18/0,"Netravalkar to Vala, no run",,,0
+300,30,Assad Vala,25056,Saurabh Netravalkar,398513,"Netravalkar to Vala, no run ",2nd innings,5.0,no run,18,0,18/0,"Netravalkar to Vala, no run",,,0
+301,31,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, 2 runs ",2nd innings,5.1,run,20,2,20/0,"Ali Khan to Ura, 2 runs",,,0
+302,32,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, FOUR runs ",2nd innings,5.2,four,24,4,24/0,"Ali Khan to Ura, FOUR runs",,,0
+303,33,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,5.3,no run,24,0,24/0,"Ali Khan to Ura, no run",,,0
+304,34,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,5.4,no run,24,0,24/0,"Ali Khan to Ura, no run",,,0
+305,35,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, no run ",2nd innings,5.5,no run,24,0,24/0,"Ali Khan to Ura, no run",,,0
+306,36,Tony Ura,302845,Ali Khan,927119,"Ali Khan to Ura, 1 run ",2nd innings,6.0,run,25,1,25/0,"Ali Khan to Ura, 1 run",,,0
+307,37,Tony Ura,302845,Saurabh Netravalkar,398513,"Netravalkar to Ura, OUT ",2nd innings,6.1,out,25,0,25/1,"Netravalkar to Ura, OUT",,,1
+308,38,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,6.2,no run,25,0,25/1,"Netravalkar to Amini, no run",,,1
+309,39,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,6.3,no run,25,0,25/1,"Netravalkar to Amini, no run",,,1
+310,40,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,6.4,no run,25,0,25/1,"Netravalkar to Amini, no run",,,1
+311,41,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,6.5,no run,25,0,25/1,"Netravalkar to Amini, no run",,,1
+312,42,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,7.0,no run,25,0,25/1,"Netravalkar to Amini, no run",,,1
+313,43,Assad Vala,25056,Ali Khan,927119,"Ali Khan to Vala, OUT ",2nd innings,7.1,out,25,0,25/2,"Ali Khan to Vala, OUT",,,2
+314,44,Chad Soper,574287,Ali Khan,927119,"Ali Khan to Soper, no run ",2nd innings,7.2,no run,25,0,25/2,"Ali Khan to Soper, no run",,,2
+315,45,Chad Soper,574287,Ali Khan,927119,"Ali Khan to Soper, no run ",2nd innings,7.3,no run,25,0,25/2,"Ali Khan to Soper, no run",,,2
+316,46,Chad Soper,574287,Ali Khan,927119,"Ali Khan to Soper, no run ",2nd innings,7.4,no run,25,0,25/2,"Ali Khan to Soper, no run",,,2
+317,47,Chad Soper,574287,Ali Khan,927119,"Ali Khan to Soper, no run ",2nd innings,7.5,no run,25,0,25/2,"Ali Khan to Soper, no run",,,2
+318,48,Chad Soper,574287,Ali Khan,927119,"Ali Khan to Soper, FOUR runs ",2nd innings,8.0,four,29,4,29/2,"Ali Khan to Soper, FOUR runs",,,2
+319,49,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,8.1,no run,29,0,29/2,"Netravalkar to Amini, no run",,,2
+320,50,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,8.2,no run,29,0,29/2,"Netravalkar to Amini, no run",,,2
+321,51,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, 1 run ",2nd innings,8.3,run,30,1,30/2,"Netravalkar to Amini, 1 run",,,2
+322,52,Chad Soper,574287,Saurabh Netravalkar,398513,"Netravalkar to Soper, no run ",2nd innings,8.4,no run,30,0,30/2,"Netravalkar to Soper, no run",,,2
+323,52,Chad Soper,574287,Saurabh Netravalkar,398513,"Netravalkar to Soper, 1 wide ",2nd innings,8.4,wide,31,1,31/2,"Netravalkar to Soper, 1 wide",,,2
+324,53,Chad Soper,574287,Saurabh Netravalkar,398513,"Netravalkar to Soper, no run ",2nd innings,8.5,no run,31,0,31/2,"Netravalkar to Soper, no run",,,2
+325,54,Chad Soper,574287,Saurabh Netravalkar,398513,"Netravalkar to Soper, no run ",2nd innings,9.0,no run,31,0,31/2,"Netravalkar to Soper, no run",,,2
+326,55,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, no run ",2nd innings,9.1,no run,31,0,31/2,"Ali Khan to Amini, no run",,,2
+327,56,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, no run ",2nd innings,9.2,no run,31,0,31/2,"Ali Khan to Amini, no run",,,2
+328,57,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, no run ",2nd innings,9.3,no run,31,0,31/2,"Ali Khan to Amini, no run",,,2
+329,58,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, no run ",2nd innings,9.4,no run,31,0,31/2,"Ali Khan to Amini, no run",,,2
+330,59,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, 2 runs ",2nd innings,9.5,run,33,2,33/2,"Ali Khan to Amini, 2 runs",,,2
+331,59,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, 1 wide ",2nd innings,9.5,wide,34,1,34/2,"Ali Khan to Amini, 1 wide",,,2
+332,60,Charles Amini,332980,Ali Khan,927119,"Ali Khan to Amini, 1 run ",2nd innings,10.0,run,35,1,35/2,"Ali Khan to Amini, 1 run",,,2
+333,61,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,10.1,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+334,62,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,10.2,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+335,63,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,10.3,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+336,64,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,10.4,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+337,65,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,10.5,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+338,66,Charles Amini,332980,Saurabh Netravalkar,398513,"Netravalkar to Amini, no run ",2nd innings,11.0,no run,35,0,35/2,"Netravalkar to Amini, no run",,,2
+339,67,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,11.1,no run,35,0,35/2,"Jasdeep Singh to Soper, no run",,,2
+340,68,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,11.2,no run,35,0,35/2,"Jasdeep Singh to Soper, no run",,,2
+341,69,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,11.3,no run,35,0,35/2,"Jasdeep Singh to Soper, no run",,,2
+342,70,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, 2 runs ",2nd innings,11.4,run,37,2,37/2,"Jasdeep Singh to Soper, 2 runs",,,2
+343,71,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,11.5,no run,37,0,37/2,"Jasdeep Singh to Soper, no run",,,2
+344,72,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,12.0,no run,37,0,37/2,"Jasdeep Singh to Soper, no run",,,2
+345,73,Charles Amini,332980,Karima Gore,1139028,"Gore to Amini, no run ",2nd innings,12.1,no run,37,0,37/2,"Gore to Amini, no run",,,2
+346,74,Charles Amini,332980,Karima Gore,1139028,"Gore to Amini, no run ",2nd innings,12.2,no run,37,0,37/2,"Gore to Amini, no run",,,2
+347,75,Charles Amini,332980,Karima Gore,1139028,"Gore to Amini, 1 run ",2nd innings,12.3,run,38,1,38/2,"Gore to Amini, 1 run",,,2
+348,76,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,12.4,no run,38,0,38/2,"Gore to Soper, no run",,,2
+349,77,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, 1 run ",2nd innings,12.5,run,39,1,39/2,"Gore to Soper, 1 run",,,2
+350,78,Charles Amini,332980,Karima Gore,1139028,"Gore to Amini, no run ",2nd innings,13.0,no run,39,0,39/2,"Gore to Amini, no run",,,2
+351,79,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, no run ",2nd innings,13.1,no run,39,0,39/2,"Jasdeep Singh to Soper, no run",,,2
+352,80,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, 1 run ",2nd innings,13.2,run,40,1,40/2,"Jasdeep Singh to Soper, 1 run",,,2
+353,81,Charles Amini,332980,Jessy Singh,772471,"Jasdeep Singh to Amini, OUT ",2nd innings,13.3,out,40,0,40/3,"Jasdeep Singh to Amini, OUT",,,3
+354,82,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,13.4,no run,40,0,40/3,"Jasdeep Singh to Siaka, no run",,,3
+355,83,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, FOUR runs ",2nd innings,13.5,four,44,4,44/3,"Jasdeep Singh to Siaka, FOUR runs",,,3
+356,84,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,14.0,no run,44,0,44/3,"Jasdeep Singh to Siaka, no run",,,3
+357,85,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, 1 run ",2nd innings,14.1,run,45,1,45/3,"Gore to Soper, 1 run",,,3
+358,86,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, 1 run ",2nd innings,14.2,run,46,1,46/3,"Gore to Siaka, 1 run",,,3
+359,87,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,14.3,no run,46,0,46/3,"Gore to Soper, no run",,,3
+360,88,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,14.4,no run,46,0,46/3,"Gore to Soper, no run",,,3
+361,89,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,14.5,no run,46,0,46/3,"Gore to Soper, no run",,,3
+362,90,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,15.0,no run,46,0,46/3,"Gore to Soper, no run",,,3
+363,91,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,15.1,no run,46,0,46/3,"Jasdeep Singh to Siaka, no run",,,3
+364,92,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, 1 run ",2nd innings,15.2,run,47,1,47/3,"Jasdeep Singh to Siaka, 1 run",,,3
+365,93,Chad Soper,574287,Jessy Singh,772471,"Jasdeep Singh to Soper, 1 run ",2nd innings,15.3,run,48,1,48/3,"Jasdeep Singh to Soper, 1 run",,,3
+366,94,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,15.4,no run,48,0,48/3,"Jasdeep Singh to Siaka, no run",,,3
+367,95,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,15.5,no run,48,0,48/3,"Jasdeep Singh to Siaka, no run",,,3
+368,96,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,16.0,no run,48,0,48/3,"Jasdeep Singh to Siaka, no run",,,3
+369,97,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,16.1,no run,48,0,48/3,"Gore to Soper, no run",,,3
+370,98,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, 1 run ",2nd innings,16.2,run,49,1,49/3,"Gore to Soper, 1 run",,,3
+371,99,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, 1 run ",2nd innings,16.3,run,50,1,50/3,"Gore to Siaka, 1 run",,,3
+372,100,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, 2 runs ",2nd innings,16.4,run,52,2,52/3,"Gore to Soper, 2 runs",,,3
+373,101,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,16.5,no run,52,0,52/3,"Gore to Soper, no run",,,3
+374,102,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,17.0,no run,52,0,52/3,"Gore to Soper, no run",,,3
+375,103,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,17.1,no run,52,0,52/3,"Jasdeep Singh to Siaka, no run",,,3
+376,104,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,17.2,no run,52,0,52/3,"Jasdeep Singh to Siaka, no run",,,3
+377,105,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, FOUR runs ",2nd innings,17.3,four,56,4,56/3,"Jasdeep Singh to Siaka, FOUR runs",,,3
+378,106,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, FOUR runs ",2nd innings,17.4,four,60,4,60/3,"Jasdeep Singh to Siaka, FOUR runs",,,3
+379,107,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, SIX runs ",2nd innings,17.5,six,66,6,66/3,"Jasdeep Singh to Siaka, SIX runs",,,3
+380,108,Lega Siaka,440990,Jessy Singh,772471,"Jasdeep Singh to Siaka, no run ",2nd innings,18.0,no run,66,0,66/3,"Jasdeep Singh to Siaka, no run",,,3
+381,109,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, no run ",2nd innings,18.1,no run,66,0,66/3,"Gore to Soper, no run",,,3
+382,110,Chad Soper,574287,Karima Gore,1139028,"Gore to Soper, 1 run ",2nd innings,18.2,run,67,1,67/3,"Gore to Soper, 1 run",,,3
+383,111,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, no run ",2nd innings,18.3,no run,67,0,67/3,"Gore to Siaka, no run",,,3
+384,112,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, FOUR runs ",2nd innings,18.4,four,71,4,71/3,"Gore to Siaka, FOUR runs",,,3
+385,113,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, 2 runs ",2nd innings,18.5,run,73,2,73/3,"Gore to Siaka, 2 runs",,,3
+386,114,Lega Siaka,440990,Karima Gore,1139028,"Gore to Siaka, no run ",2nd innings,19.0,no run,73,0,73/3,"Gore to Siaka, no run",,,3
+387,115,Chad Soper,574287,Timil Patel,32257,"TK Patel to Soper, 1 run ",2nd innings,19.1,run,74,1,74/3,"TK Patel to Soper, 1 run",,,3
+388,116,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 1 run ",2nd innings,19.2,run,75,1,75/3,"TK Patel to Siaka, 1 run",,,3
+389,117,Chad Soper,574287,Timil Patel,32257,"TK Patel to Soper, no run ",2nd innings,19.3,no run,75,0,75/3,"TK Patel to Soper, no run",,,3
+390,118,Chad Soper,574287,Timil Patel,32257,"TK Patel to Soper, OUT ",2nd innings,19.4,out,75,0,75/4,"TK Patel to Soper, OUT",,,4
+391,119,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,19.5,no run,75,0,75/4,"TK Patel to Bau, no run",,,4
+392,120,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 1 run ",2nd innings,20.0,run,76,1,76/4,"TK Patel to Bau, 1 run",,,4
+393,121,Sese Bau,420427,Saurabh Netravalkar,398513,"Netravalkar to Bau, 1 run ",2nd innings,20.1,run,77,1,77/4,"Netravalkar to Bau, 1 run",,,4
+394,122,Lega Siaka,440990,Saurabh Netravalkar,398513,"Netravalkar to Siaka, no run ",2nd innings,20.2,no run,77,0,77/4,"Netravalkar to Siaka, no run",,,4
+395,123,Lega Siaka,440990,Saurabh Netravalkar,398513,"Netravalkar to Siaka, no run ",2nd innings,20.3,no run,77,0,77/4,"Netravalkar to Siaka, no run",,,4
+396,124,Lega Siaka,440990,Saurabh Netravalkar,398513,"Netravalkar to Siaka, FOUR runs ",2nd innings,20.4,four,81,4,81/4,"Netravalkar to Siaka, FOUR runs",,,4
+397,125,Lega Siaka,440990,Saurabh Netravalkar,398513,"Netravalkar to Siaka, FOUR runs ",2nd innings,20.5,four,85,4,85/4,"Netravalkar to Siaka, FOUR runs",,,4
+398,126,Lega Siaka,440990,Saurabh Netravalkar,398513,"Netravalkar to Siaka, no run ",2nd innings,21.0,no run,85,0,85/4,"Netravalkar to Siaka, no run",,,4
+399,127,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,21.1,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+400,128,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,21.2,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+401,129,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,21.3,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+402,130,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,21.4,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+403,131,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,21.5,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+404,132,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,22.0,no run,85,0,85/4,"TK Patel to Bau, no run",,,4
+405,133,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, 1 run ",2nd innings,22.1,run,86,1,86/4,"Taylor to Siaka, 1 run",,,4
+406,134,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,22.2,no run,86,0,86/4,"Taylor to Bau, no run",,,4
+407,135,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, 1 run ",2nd innings,22.3,run,87,1,87/4,"Taylor to Bau, 1 run",,,4
+408,136,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, 1 run ",2nd innings,22.4,run,88,1,88/4,"Taylor to Siaka, 1 run",,,4
+409,137,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,22.5,no run,88,0,88/4,"Taylor to Bau, no run",,,4
+410,138,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,23.0,no run,88,0,88/4,"Taylor to Bau, no run",,,4
+411,139,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 1 run ",2nd innings,23.1,run,89,1,89/4,"TK Patel to Siaka, 1 run",,,4
+412,140,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 2 runs ",2nd innings,23.2,run,91,2,91/4,"TK Patel to Bau, 2 runs",,,4
+413,141,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,23.3,no run,91,0,91/4,"TK Patel to Bau, no run",,,4
+414,142,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 1 run ",2nd innings,23.4,run,92,1,92/4,"TK Patel to Bau, 1 run",,,4
+415,143,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, FOUR runs ",2nd innings,23.5,four,96,4,96/4,"TK Patel to Siaka, FOUR runs",,,4
+416,144,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, no run ",2nd innings,24.0,no run,96,0,96/4,"TK Patel to Siaka, no run",,,4
+417,145,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, 1 run ",2nd innings,24.1,run,97,1,97/4,"Taylor to Bau, 1 run",,,4
+418,146,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, no run ",2nd innings,24.2,no run,97,0,97/4,"Taylor to Siaka, no run",,,4
+419,147,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, no run ",2nd innings,24.3,no run,97,0,97/4,"Taylor to Siaka, no run",,,4
+420,148,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, 1 run ",2nd innings,24.4,run,98,1,98/4,"Taylor to Siaka, 1 run",,,4
+421,149,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,24.5,no run,98,0,98/4,"Taylor to Bau, no run",,,4
+422,150,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,25.0,no run,98,0,98/4,"Taylor to Bau, no run",,,4
+423,151,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 2 runs ",2nd innings,25.1,run,100,2,100/4,"TK Patel to Siaka, 2 runs",,,4
+424,152,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 1 run ",2nd innings,25.2,run,101,1,101/4,"TK Patel to Siaka, 1 run",,,4
+425,153,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 2 runs ",2nd innings,25.3,run,103,2,103/4,"TK Patel to Bau, 2 runs",,,4
+426,154,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 2 runs ",2nd innings,25.4,run,105,2,105/4,"TK Patel to Bau, 2 runs",,,4
+427,155,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,25.5,no run,105,0,105/4,"TK Patel to Bau, no run",,,4
+428,155,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 1 wide ",2nd innings,25.5,wide,106,1,106/4,"TK Patel to Bau, 1 wide",,,4
+429,156,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,26.0,no run,106,0,106/4,"TK Patel to Bau, no run",,,4
+430,157,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, no run ",2nd innings,26.1,no run,106,0,106/4,"Taylor to Siaka, no run",,,4
+431,158,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, 1 run ",2nd innings,26.2,run,107,1,107/4,"Taylor to Siaka, 1 run",,,4
+432,159,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,26.3,no run,107,0,107/4,"Taylor to Bau, no run",,,4
+433,160,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, no run ",2nd innings,26.4,no run,107,0,107/4,"Taylor to Bau, no run",,,4
+434,161,Sese Bau,420427,Steven Taylor,348133,"Taylor to Bau, 1 run ",2nd innings,26.5,run,108,1,108/4,"Taylor to Bau, 1 run",,,4
+435,162,Lega Siaka,440990,Steven Taylor,348133,"Taylor to Siaka, FOUR runs ",2nd innings,27.0,four,112,4,112/4,"Taylor to Siaka, FOUR runs",,,4
+436,163,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 1 run ",2nd innings,27.1,run,113,1,113/4,"TK Patel to Bau, 1 run",,,4
+437,164,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, no run ",2nd innings,27.2,no run,113,0,113/4,"TK Patel to Siaka, no run",,,4
+438,165,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, no run ",2nd innings,27.3,no run,113,0,113/4,"TK Patel to Siaka, no run",,,4
+439,166,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, no run ",2nd innings,27.4,no run,113,0,113/4,"TK Patel to Siaka, no run",,,4
+440,167,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 2 runs ",2nd innings,27.5,run,115,2,115/4,"TK Patel to Siaka, 2 runs",,,4
+441,168,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 1 run ",2nd innings,28.0,run,116,1,116/4,"TK Patel to Siaka, 1 run",,,4
+442,169,Lega Siaka,440990,Hayden Walsh,443263,"Walsh to Siaka, 1 run ",2nd innings,28.1,run,117,1,117/4,"Walsh to Siaka, 1 run",,,4
+443,170,Sese Bau,420427,Hayden Walsh,443263,"Walsh to Bau, no run ",2nd innings,28.2,no run,117,0,117/4,"Walsh to Bau, no run",,,4
+444,171,Sese Bau,420427,Hayden Walsh,443263,"Walsh to Bau, FOUR runs ",2nd innings,28.3,four,121,4,121/4,"Walsh to Bau, FOUR runs",,,4
+445,172,Sese Bau,420427,Hayden Walsh,443263,"Walsh to Bau, 3 runs ",2nd innings,28.4,run,124,3,124/4,"Walsh to Bau, 3 runs",,,4
+446,173,Lega Siaka,440990,Hayden Walsh,443263,"Walsh to Siaka, no run ",2nd innings,28.5,no run,124,0,124/4,"Walsh to Siaka, no run",,,4
+447,174,Lega Siaka,440990,Hayden Walsh,443263,"Walsh to Siaka, 1 run ",2nd innings,29.0,run,125,1,125/4,"Walsh to Siaka, 1 run",,,4
+448,175,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, 1 run ",2nd innings,29.1,run,126,1,126/4,"TK Patel to Siaka, 1 run",,,4
+449,176,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, 1 run ",2nd innings,29.2,run,127,1,127/4,"TK Patel to Bau, 1 run",,,4
+450,177,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, FOUR runs ",2nd innings,29.3,four,131,4,131/4,"TK Patel to Siaka, FOUR runs",,,4
+451,178,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, no run ",2nd innings,29.4,no run,131,0,131/4,"TK Patel to Siaka, no run",,,4
+452,179,Lega Siaka,440990,Timil Patel,32257,"TK Patel to Siaka, OUT ",2nd innings,29.5,out,131,0,131/5,"TK Patel to Siaka, OUT",,,5
+453,180,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, no run ",2nd innings,30.0,no run,131,0,131/5,"TK Patel to Vanua, no run",,,5
+454,181,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, no run ",2nd innings,30.1,no run,131,0,131/5,"Gore to Bau, no run",,,5
+455,182,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, 2 runs ",2nd innings,30.2,run,133,2,133/5,"Gore to Bau, 2 runs",,,5
+456,183,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, FOUR runs ",2nd innings,30.3,four,137,4,137/5,"Gore to Bau, FOUR runs",,,5
+457,184,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, no run ",2nd innings,30.4,no run,137,0,137/5,"Gore to Bau, no run",,,5
+458,185,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, no run ",2nd innings,30.5,no run,137,0,137/5,"Gore to Bau, no run",,,5
+459,186,Sese Bau,420427,Karima Gore,1139028,"Gore to Bau, no run ",2nd innings,31.0,no run,137,0,137/5,"Gore to Bau, no run",,,5
+460,187,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, FOUR runs ",2nd innings,31.1,four,141,4,141/5,"TK Patel to Vanua, FOUR runs",,,5
+461,188,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, no run ",2nd innings,31.2,no run,141,0,141/5,"TK Patel to Vanua, no run",,,5
+462,189,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, no run ",2nd innings,31.3,no run,141,0,141/5,"TK Patel to Vanua, no run",,,5
+463,190,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, no run ",2nd innings,31.4,no run,141,0,141/5,"TK Patel to Vanua, no run",,,5
+464,191,Norman Vanua,524253,Timil Patel,32257,"TK Patel to Vanua, 1 run ",2nd innings,31.5,run,142,1,142/5,"TK Patel to Vanua, 1 run",,,5
+465,192,Sese Bau,420427,Timil Patel,32257,"TK Patel to Bau, no run ",2nd innings,32.0,no run,142,0,142/5,"TK Patel to Bau, no run",,,5
+466,193,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, FOUR runs ",2nd innings,32.1,four,146,4,146/5,"Gore to Vanua, FOUR runs",,,5
+467,194,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, SIX runs ",2nd innings,32.2,six,152,6,152/5,"Gore to Vanua, SIX runs",,,5
+468,195,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, no run ",2nd innings,32.3,no run,152,0,152/5,"Gore to Vanua, no run",,,5
+469,196,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, SIX runs ",2nd innings,32.4,six,158,6,158/5,"Gore to Vanua, SIX runs",,,5
+470,197,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, SIX runs ",2nd innings,32.5,six,164,6,164/5,"Gore to Vanua, SIX runs",,,5
+471,198,Norman Vanua,524253,Karima Gore,1139028,"Gore to Vanua, 1 run ",2nd innings,33.0,run,165,1,165/5,"Gore to Vanua, 1 run",,,5

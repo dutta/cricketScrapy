@@ -1,0 +1,617 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Irfan Ahmed,208253,Norman Vanua,524253,"Vanua to Irfan Ahmed, 1 run ",1st innings,0.1,run,1,1,1/0,"Vanua to Irfan Ahmed, 1 run",,,0
+1,2,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 1 run ",1st innings,0.2,run,2,1,2/0,"Vanua to Waqas Barkat, 1 run",,,0
+2,3,Irfan Ahmed,208253,Norman Vanua,524253,"Vanua to Irfan Ahmed, no run ",1st innings,0.3,no run,2,0,2/0,"Vanua to Irfan Ahmed, no run",,,0
+3,4,Irfan Ahmed,208253,Norman Vanua,524253,"Vanua to Irfan Ahmed, OUT ",1st innings,0.4,out,2,0,2/1,"Vanua to Irfan Ahmed, OUT",,,1
+4,5,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,0.5,no run,2,0,2/1,"Vanua to Anshuman Rath, no run",,,1
+5,6,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,1.0,no run,2,0,2/1,"Vanua to Anshuman Rath, no run",,,1
+6,7,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,1.1,no run,2,0,2/1,"Gavera to Waqas Barkat, no run",,,1
+7,8,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,1.2,no run,2,0,2/1,"Gavera to Waqas Barkat, no run",,,1
+8,9,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, 1 run ",1st innings,1.3,run,3,1,3/1,"Gavera to Waqas Barkat, 1 run",,,1
+9,9,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, 1 wide ",1st innings,1.3,wide,4,1,4/1,"Gavera to Anshuman Rath, 1 wide",,,1
+10,10,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, FOUR runs ",1st innings,1.4,four,8,4,8/1,"Gavera to Anshuman Rath, FOUR runs",,,1
+11,11,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, FOUR runs ",1st innings,1.5,four,12,4,12/1,"Gavera to Anshuman Rath, FOUR runs",,,1
+12,12,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,2.0,no run,12,0,12/1,"Gavera to Anshuman Rath, no run",,,1
+13,12,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 1 wide ",1st innings,2.0,wide,13,1,13/1,"Vanua to Waqas Barkat, 1 wide",,,1
+14,13,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 2 runs ",1st innings,2.1,run,15,2,15/1,"Vanua to Waqas Barkat, 2 runs",,,1
+15,14,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, no run ",1st innings,2.2,no run,15,0,15/1,"Vanua to Waqas Barkat, no run",,,1
+16,15,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 1 run ",1st innings,2.3,run,16,1,16/1,"Vanua to Waqas Barkat, 1 run",,,1
+17,16,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,2.4,no run,16,0,16/1,"Vanua to Anshuman Rath, no run",,,1
+18,17,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,2.5,no run,16,0,16/1,"Vanua to Anshuman Rath, no run",,,1
+19,18,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, FOUR runs ",1st innings,3.0,four,20,4,20/1,"Vanua to Anshuman Rath, FOUR runs",,,1
+20,19,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,3.1,no run,20,0,20/1,"Gavera to Waqas Barkat, no run",,,1
+21,19,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, 1 wide ",1st innings,3.1,wide,21,1,21/1,"Gavera to Waqas Barkat, 1 wide",,,1
+22,20,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,3.2,no run,21,0,21/1,"Gavera to Waqas Barkat, no run",,,1
+23,21,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, 1 run ",1st innings,3.3,run,22,1,22/1,"Gavera to Waqas Barkat, 1 run",,,1
+24,22,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,3.4,no run,22,0,22/1,"Gavera to Anshuman Rath, no run",,,1
+25,23,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,3.5,no run,22,0,22/1,"Gavera to Anshuman Rath, no run",,,1
+26,24,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, 2 runs ",1st innings,4.0,run,24,2,24/1,"Gavera to Anshuman Rath, 2 runs",,,1
+27,25,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 2 leg byes ",1st innings,4.1,leg bye,26,2,26/1,"Vanua to Waqas Barkat, 2 leg byes",,,1
+28,26,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, FOUR runs ",1st innings,4.2,four,30,4,30/1,"Vanua to Waqas Barkat, FOUR runs",,,1
+29,27,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, no run ",1st innings,4.3,no run,30,0,30/1,"Vanua to Waqas Barkat, no run",,,1
+30,27,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 1 wide ",1st innings,4.3,wide,31,1,31/1,"Vanua to Waqas Barkat, 1 wide",,,1
+31,28,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, no run ",1st innings,4.4,no run,31,0,31/1,"Vanua to Waqas Barkat, no run",,,1
+32,29,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, no run ",1st innings,4.5,no run,31,0,31/1,"Vanua to Waqas Barkat, no run",,,1
+33,30,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, no run ",1st innings,5.0,no run,31,0,31/1,"Vanua to Waqas Barkat, no run",,,1
+34,31,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, 1 run ",1st innings,5.1,run,32,1,32/1,"Gavera to Anshuman Rath, 1 run",,,1
+35,32,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,5.2,no run,32,0,32/1,"Gavera to Waqas Barkat, no run",,,1
+36,33,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,5.3,no run,32,0,32/1,"Gavera to Waqas Barkat, no run",,,1
+37,34,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,5.4,no run,32,0,32/1,"Gavera to Waqas Barkat, no run",,,1
+38,35,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,5.5,no run,32,0,32/1,"Gavera to Waqas Barkat, no run",,,1
+39,36,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, FOUR runs ",1st innings,6.0,four,36,4,36/1,"Gavera to Waqas Barkat, FOUR runs",,,1
+40,37,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, no run ",1st innings,6.1,no run,36,0,36/1,"CR Amini to Anshuman Rath, no run",,,1
+41,38,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, no run ",1st innings,6.2,no run,36,0,36/1,"CR Amini to Anshuman Rath, no run",,,1
+42,39,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, 1 run ",1st innings,6.3,run,37,1,37/1,"CR Amini to Anshuman Rath, 1 run",,,1
+43,40,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,6.4,no run,37,0,37/1,"CR Amini to Waqas Barkat, no run",,,1
+44,41,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,6.5,no run,37,0,37/1,"CR Amini to Waqas Barkat, no run",,,1
+45,42,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,7.0,no run,37,0,37/1,"CR Amini to Waqas Barkat, no run",,,1
+46,43,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,7.1,no run,37,0,37/1,"Gavera to Anshuman Rath, no run",,,1
+47,44,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,7.2,no run,37,0,37/1,"Gavera to Anshuman Rath, no run",,,1
+48,45,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, 1 run ",1st innings,7.3,run,38,1,38/1,"Gavera to Anshuman Rath, 1 run",,,1
+49,46,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, no run ",1st innings,7.4,no run,38,0,38/1,"Gavera to Waqas Barkat, no run",,,1
+50,47,Waqas Barkat,350632,Willie Gavera,302850,"Gavera to Waqas Barkat, 1 run ",1st innings,7.5,run,39,1,39/1,"Gavera to Waqas Barkat, 1 run",,,1
+51,48,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, 1 run ",1st innings,8.0,run,40,1,40/1,"Gavera to Anshuman Rath, 1 run",,,1
+52,49,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, 1 run ",1st innings,8.1,run,41,1,41/1,"CR Amini to Anshuman Rath, 1 run",,,1
+53,50,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,8.2,no run,41,0,41/1,"CR Amini to Waqas Barkat, no run",,,1
+54,51,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,8.3,no run,41,0,41/1,"CR Amini to Waqas Barkat, no run",,,1
+55,52,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,8.4,no run,41,0,41/1,"CR Amini to Waqas Barkat, no run",,,1
+56,53,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, FOUR runs ",1st innings,8.5,four,45,4,45/1,"CR Amini to Waqas Barkat, FOUR runs",,,1
+57,54,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,9.0,no run,45,0,45/1,"CR Amini to Waqas Barkat, no run",,,1
+58,55,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, FOUR runs ",1st innings,9.1,four,49,4,49/1,"Gavera to Anshuman Rath, FOUR runs",,,1
+59,56,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,9.2,no run,49,0,49/1,"Gavera to Anshuman Rath, no run",,,1
+60,57,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,9.3,no run,49,0,49/1,"Gavera to Anshuman Rath, no run",,,1
+61,58,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,9.4,no run,49,0,49/1,"Gavera to Anshuman Rath, no run",,,1
+62,59,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,9.5,no run,49,0,49/1,"Gavera to Anshuman Rath, no run",,,1
+63,60,Anshy Rath,452472,Willie Gavera,302850,"Gavera to Anshuman Rath, no run ",1st innings,10.0,no run,49,0,49/1,"Gavera to Anshuman Rath, no run",,,1
+64,60,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, 1 wide ",1st innings,10.0,wide,50,1,50/1,"CR Amini to Waqas Barkat, 1 wide",,,1
+65,61,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,10.1,no run,50,0,50/1,"CR Amini to Waqas Barkat, no run",,,1
+66,62,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, 1 run ",1st innings,10.2,run,51,1,51/1,"CR Amini to Waqas Barkat, 1 run",,,1
+67,63,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, no run ",1st innings,10.3,no run,51,0,51/1,"CR Amini to Anshuman Rath, no run",,,1
+68,64,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, 1 run ",1st innings,10.4,run,52,1,52/1,"CR Amini to Anshuman Rath, 1 run",,,1
+69,65,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,10.5,no run,52,0,52/1,"CR Amini to Waqas Barkat, no run",,,1
+70,65,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, 1 wide ",1st innings,10.5,wide,53,1,53/1,"CR Amini to Waqas Barkat, 1 wide",,,1
+71,66,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, 1 run ",1st innings,11.0,run,54,1,54/1,"CR Amini to Waqas Barkat, 1 run",,,1
+72,67,Waqas Barkat,350632,Norman Vanua,524253,"Vanua to Waqas Barkat, 1 run ",1st innings,11.1,run,55,1,55/1,"Vanua to Waqas Barkat, 1 run",,,1
+73,68,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,11.2,no run,55,0,55/1,"Vanua to Anshuman Rath, no run",,,1
+74,69,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, 2 runs ",1st innings,11.3,run,57,2,57/1,"Vanua to Anshuman Rath, 2 runs",,,1
+75,70,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,11.4,no run,57,0,57/1,"Vanua to Anshuman Rath, no run",,,1
+76,71,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, no run ",1st innings,11.5,no run,57,0,57/1,"Vanua to Anshuman Rath, no run",,,1
+77,72,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, 1 run ",1st innings,12.0,run,58,1,58/1,"Vanua to Anshuman Rath, 1 run",,,1
+78,73,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,12.1,run,59,1,59/1,"CJA Amini to Anshuman Rath, 1 run",,,1
+79,74,Waqas Barkat,350632,Charles Amini,332980,"CJA Amini to Waqas Barkat, no run ",1st innings,12.2,no run,59,0,59/1,"CJA Amini to Waqas Barkat, no run",,,1
+80,75,Waqas Barkat,350632,Charles Amini,332980,"CJA Amini to Waqas Barkat, 1 run ",1st innings,12.3,run,60,1,60/1,"CJA Amini to Waqas Barkat, 1 run",,,1
+81,76,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,12.4,no run,60,0,60/1,"CJA Amini to Anshuman Rath, no run",,,1
+82,77,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,12.5,run,61,1,61/1,"CJA Amini to Anshuman Rath, 1 run",,,1
+83,78,Waqas Barkat,350632,Charles Amini,332980,"CJA Amini to Waqas Barkat, 1 run ",1st innings,13.0,run,62,1,62/1,"CJA Amini to Waqas Barkat, 1 run",,,1
+84,79,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, no run ",1st innings,13.1,no run,62,0,62/1,"CR Amini to Waqas Barkat, no run",,,1
+85,80,Waqas Barkat,350632,Chris Amini,25053,"CR Amini to Waqas Barkat, OUT ",1st innings,13.2,out,62,0,62/2,"CR Amini to Waqas Barkat, OUT",,,2
+86,81,Anshy Rath,452472,Chris Amini,25053,"CR Amini to Anshuman Rath, 1 run ",1st innings,13.3,run,63,1,63/2,"CR Amini to Anshuman Rath, 1 run",,,2
+87,82,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,13.4,no run,63,0,63/2,"CR Amini to Atkinson, no run",,,2
+88,83,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,13.5,no run,63,0,63/2,"CR Amini to Atkinson, no run",,,2
+89,84,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,14.0,no run,63,0,63/2,"CR Amini to Atkinson, no run",,,2
+90,85,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,14.1,no run,63,0,63/2,"CJA Amini to Anshuman Rath, no run",,,2
+91,86,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,14.2,no run,63,0,63/2,"CJA Amini to Anshuman Rath, no run",,,2
+92,87,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,14.3,no run,63,0,63/2,"CJA Amini to Anshuman Rath, no run",,,2
+93,88,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,14.4,run,64,1,64/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+94,89,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, no run ",1st innings,14.5,no run,64,0,64/2,"CJA Amini to Atkinson, no run",,,2
+95,90,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, 1 run ",1st innings,15.0,run,65,1,65/2,"CJA Amini to Atkinson, 1 run",,,2
+96,91,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,15.1,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+97,92,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,15.2,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+98,93,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,15.3,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+99,94,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,15.4,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+100,95,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,15.5,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+101,96,Jamie Atkinson,292152,Chris Amini,25053,"CR Amini to Atkinson, no run ",1st innings,16.0,no run,65,0,65/2,"CR Amini to Atkinson, no run",,,2
+102,97,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,16.1,no run,65,0,65/2,"CJA Amini to Anshuman Rath, no run",,,2
+103,98,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,16.2,no run,65,0,65/2,"CJA Amini to Anshuman Rath, no run",,,2
+104,99,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,16.3,run,66,1,66/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+105,99,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, 1 wide ",1st innings,16.3,wide,67,1,67/2,"CJA Amini to Atkinson, 1 wide",,,2
+106,100,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, 1 run ",1st innings,16.4,run,68,1,68/2,"CJA Amini to Atkinson, 1 run",,,2
+107,101,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,16.5,run,69,1,69/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+108,102,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, no run ",1st innings,17.0,no run,69,0,69/2,"CJA Amini to Atkinson, no run",,,2
+109,103,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,17.1,no run,69,0,69/2,"Dai to Anshuman Rath, no run",,,2
+110,104,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,17.2,no run,69,0,69/2,"Dai to Anshuman Rath, no run",,,2
+111,105,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,17.3,run,70,1,70/2,"Dai to Anshuman Rath, 1 run",,,2
+112,106,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, 1 run ",1st innings,17.4,run,71,1,71/2,"Dai to Atkinson, 1 run",,,2
+113,107,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,17.5,run,72,1,72/2,"Dai to Anshuman Rath, 1 run",,,2
+114,108,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, FOUR runs ",1st innings,18.0,four,76,4,76/2,"Dai to Atkinson, FOUR runs",,,2
+115,109,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,18.1,run,77,1,77/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+116,109,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, 1 wide ",1st innings,18.1,wide,78,1,78/2,"CJA Amini to Atkinson, 1 wide",,,2
+117,110,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, 3 runs ",1st innings,18.2,run,81,3,81/2,"CJA Amini to Atkinson, 3 runs",,,2
+118,111,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,18.3,no run,81,0,81/2,"CJA Amini to Anshuman Rath, no run",,,2
+119,112,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,18.4,no run,81,0,81/2,"CJA Amini to Anshuman Rath, no run",,,2
+120,113,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,18.5,run,82,1,82/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+121,114,Jamie Atkinson,292152,Charles Amini,332980,"CJA Amini to Atkinson, no run ",1st innings,19.0,no run,82,0,82/2,"CJA Amini to Atkinson, no run",,,2
+122,115,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,19.1,no run,82,0,82/2,"Dai to Anshuman Rath, no run",,,2
+123,116,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,19.2,no run,82,0,82/2,"Dai to Anshuman Rath, no run",,,2
+124,117,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,19.3,no run,82,0,82/2,"Dai to Anshuman Rath, no run",,,2
+125,118,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,19.4,no run,82,0,82/2,"Dai to Anshuman Rath, no run",,,2
+126,119,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,19.5,no run,82,0,82/2,"Dai to Anshuman Rath, no run",,,2
+127,120,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,20.0,run,83,1,83/2,"Dai to Anshuman Rath, 1 run",,,2
+128,121,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, FOUR runs ",1st innings,20.1,four,87,4,87/2,"CJA Amini to Anshuman Rath, FOUR runs",,,2
+129,122,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,20.2,no run,87,0,87/2,"CJA Amini to Anshuman Rath, no run",,,2
+130,123,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,20.3,no run,87,0,87/2,"CJA Amini to Anshuman Rath, no run",,,2
+131,124,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,20.4,no run,87,0,87/2,"CJA Amini to Anshuman Rath, no run",,,2
+132,125,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, no run ",1st innings,20.5,no run,87,0,87/2,"CJA Amini to Anshuman Rath, no run",,,2
+133,126,Anshy Rath,452472,Charles Amini,332980,"CJA Amini to Anshuman Rath, 1 run ",1st innings,21.0,run,88,1,88/2,"CJA Amini to Anshuman Rath, 1 run",,,2
+134,127,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,21.1,run,89,1,89/2,"Dai to Anshuman Rath, 1 run",,,2
+135,128,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, 2 runs ",1st innings,21.2,run,91,2,91/2,"Dai to Atkinson, 2 runs",,,2
+136,129,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, no run ",1st innings,21.3,no run,91,0,91/2,"Dai to Atkinson, no run",,,2
+137,130,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, 1 leg bye ",1st innings,21.4,leg bye,92,1,92/2,"Dai to Atkinson, 1 leg bye",,,2
+138,131,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,21.5,no run,92,0,92/2,"Dai to Anshuman Rath, no run",,,2
+139,132,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,22.0,no run,92,0,92/2,"Dai to Anshuman Rath, no run",,,2
+140,133,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, no run ",1st innings,22.1,no run,92,0,92/2,"Siaka to Atkinson, no run",,,2
+141,134,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, 1 run ",1st innings,22.2,run,93,1,93/2,"Siaka to Atkinson, 1 run",,,2
+142,135,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, no run ",1st innings,22.3,no run,93,0,93/2,"Siaka to Anshuman Rath, no run",,,2
+143,136,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, 2 runs ",1st innings,22.4,run,95,2,95/2,"Siaka to Anshuman Rath, 2 runs",,,2
+144,137,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, no run ",1st innings,22.5,no run,95,0,95/2,"Siaka to Anshuman Rath, no run",,,2
+145,138,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, 1 run ",1st innings,23.0,run,96,1,96/2,"Siaka to Anshuman Rath, 1 run",,,2
+146,139,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,23.1,no run,96,0,96/2,"Dai to Anshuman Rath, no run",,,2
+147,140,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,23.2,no run,96,0,96/2,"Dai to Anshuman Rath, no run",,,2
+148,141,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,23.3,run,97,1,97/2,"Dai to Anshuman Rath, 1 run",,,2
+149,142,Jamie Atkinson,292152,Mahuru Dai,25051,"Dai to Atkinson, 1 run ",1st innings,23.4,run,98,1,98/2,"Dai to Atkinson, 1 run",,,2
+150,143,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,23.5,no run,98,0,98/2,"Dai to Anshuman Rath, no run",,,2
+151,144,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, FOUR runs ",1st innings,24.0,four,102,4,102/2,"Dai to Anshuman Rath, FOUR runs",,,2
+152,145,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, 1 run ",1st innings,24.1,run,103,1,103/2,"Siaka to Atkinson, 1 run",,,2
+153,146,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, 1 run ",1st innings,24.2,run,104,1,104/2,"Siaka to Anshuman Rath, 1 run",,,2
+154,147,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, FOUR runs ",1st innings,24.3,four,108,4,108/2,"Siaka to Atkinson, FOUR runs",,,2
+155,148,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, no run ",1st innings,24.4,no run,108,0,108/2,"Siaka to Atkinson, no run",,,2
+156,149,Jamie Atkinson,292152,Lega Siaka,440990,"Siaka to Atkinson, 1 run ",1st innings,24.5,run,109,1,109/2,"Siaka to Atkinson, 1 run",,,2
+157,150,Anshy Rath,452472,Lega Siaka,440990,"Siaka to Anshuman Rath, no run ",1st innings,25.0,no run,109,0,109/2,"Siaka to Anshuman Rath, no run",,,2
+158,151,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, no run ",1st innings,25.1,no run,109,0,109/2,"Vanua to Atkinson, no run",,,2
+159,151,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, 3 wides ",1st innings,25.1,wide,112,3,112/2,"Vanua to Atkinson, 3 wides",,,2
+160,152,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, no run ",1st innings,25.2,no run,112,0,112/2,"Vanua to Atkinson, no run",,,2
+161,153,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, 1 run ",1st innings,25.3,run,113,1,113/2,"Vanua to Atkinson, 1 run",,,2
+162,153,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, 1 wide ",1st innings,25.3,wide,114,1,114/2,"Vanua to Anshuman Rath, 1 wide",,,2
+163,154,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, 2 runs ",1st innings,25.4,run,116,2,116/2,"Vanua to Anshuman Rath, 2 runs",,,2
+164,155,Anshy Rath,452472,Norman Vanua,524253,"Vanua to Anshuman Rath, OUT ",1st innings,25.5,out,116,0,116/3,"Vanua to Anshuman Rath, OUT",,,3
+165,156,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, no run ",1st innings,26.0,no run,116,0,116/3,"Vanua to Atkinson, no run",,,3
+166,157,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,26.1,no run,116,0,116/3,"Vala to Babar Hayat, no run",,,3
+167,158,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,26.2,no run,116,0,116/3,"Vala to Babar Hayat, no run",,,3
+168,159,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,26.3,run,117,1,117/3,"Vala to Babar Hayat, 1 run",,,3
+169,160,Jamie Atkinson,292152,Assad Vala,25056,"Vala to Atkinson, no run ",1st innings,26.4,no run,117,0,117/3,"Vala to Atkinson, no run",,,3
+170,161,Jamie Atkinson,292152,Assad Vala,25056,"Vala to Atkinson, no run ",1st innings,26.5,no run,117,0,117/3,"Vala to Atkinson, no run",,,3
+171,162,Jamie Atkinson,292152,Assad Vala,25056,"Vala to Atkinson, 1 run ",1st innings,27.0,run,118,1,118/3,"Vala to Atkinson, 1 run",,,3
+172,163,Jamie Atkinson,292152,Norman Vanua,524253,"Vanua to Atkinson, OUT ",1st innings,27.1,out,118,0,118/4,"Vanua to Atkinson, OUT",,,4
+173,164,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, no run ",1st innings,27.2,no run,118,0,118/4,"Vanua to Shah, no run",,,4
+174,165,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, no run ",1st innings,27.3,no run,118,0,118/4,"Vanua to Shah, no run",,,4
+175,166,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, 2 runs ",1st innings,27.4,run,120,2,120/4,"Vanua to Shah, 2 runs",,,4
+176,167,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, no run ",1st innings,27.5,no run,120,0,120/4,"Vanua to Shah, no run",,,4
+177,167,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, (no ball) FOUR runs ",1st innings,27.5,four,125,5,125/4,"Vanua to Shah, (no ball) FOUR runs",,,4
+178,168,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, 1 leg bye ",1st innings,28.0,leg bye,126,1,126/4,"Vanua to Shah, 1 leg bye",,,4
+179,169,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, no run ",1st innings,28.1,no run,126,0,126/4,"Vala to Shah, no run",,,4
+180,170,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, no run ",1st innings,28.2,no run,126,0,126/4,"Vala to Shah, no run",,,4
+181,171,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, 1 run ",1st innings,28.3,run,127,1,127/4,"Vala to Shah, 1 run",,,4
+182,172,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,28.4,no run,127,0,127/4,"Vala to Babar Hayat, no run",,,4
+183,173,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,28.5,no run,127,0,127/4,"Vala to Babar Hayat, no run",,,4
+184,174,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,29.0,run,128,1,128/4,"Vala to Babar Hayat, 1 run",,,4
+185,174,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, 1 run ",1st innings,29.0,run,129,1,129/4,"Vala to Shah, 1 run",,,4
+186,175,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, 1 run ",1st innings,29.1,run,130,1,130/4,"Vanua to Shah, 1 run",,,4
+187,176,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, no run ",1st innings,29.2,no run,130,0,130/4,"Vanua to Babar Hayat, no run",,,4
+188,177,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, no run ",1st innings,29.3,no run,130,0,130/4,"Vanua to Babar Hayat, no run",,,4
+189,178,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, no run ",1st innings,29.4,no run,130,0,130/4,"Vanua to Babar Hayat, no run",,,4
+190,179,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, 1 run ",1st innings,29.5,run,131,1,131/4,"Vanua to Babar Hayat, 1 run",,,4
+191,180,Kinchit Shah,401537,Norman Vanua,524253,"Vanua to Shah, no run ",1st innings,30.0,no run,131,0,131/4,"Vanua to Shah, no run",,,4
+192,181,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,30.1,run,132,1,132/4,"Vala to Babar Hayat, 1 run",,,4
+193,182,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, no run ",1st innings,30.2,no run,132,0,132/4,"Vala to Shah, no run",,,4
+194,183,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, no run ",1st innings,30.3,no run,132,0,132/4,"Vala to Shah, no run",,,4
+195,184,Kinchit Shah,401537,Assad Vala,25056,"Vala to Shah, 1 run ",1st innings,30.4,run,133,1,133/4,"Vala to Shah, 1 run",,,4
+196,185,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, FOUR runs ",1st innings,30.5,four,137,4,137/4,"Vala to Babar Hayat, FOUR runs",,,4
+197,186,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,31.0,run,138,1,138/4,"Vala to Babar Hayat, 1 run",,,4
+198,187,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, 1 run ",1st innings,31.1,run,139,1,139/4,"CJA Amini to Babar Hayat, 1 run",,,4
+199,188,Kinchit Shah,401537,Charles Amini,332980,"CJA Amini to Shah, no run ",1st innings,31.2,no run,139,0,139/4,"CJA Amini to Shah, no run",,,4
+200,189,Kinchit Shah,401537,Charles Amini,332980,"CJA Amini to Shah, 1 run ",1st innings,31.3,run,140,1,140/4,"CJA Amini to Shah, 1 run",,,4
+201,190,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, 1 run ",1st innings,31.4,run,141,1,141/4,"CJA Amini to Babar Hayat, 1 run",,,4
+202,191,Kinchit Shah,401537,Charles Amini,332980,"CJA Amini to Shah, 1 run ",1st innings,31.5,run,142,1,142/4,"CJA Amini to Shah, 1 run",,,4
+203,192,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, no run ",1st innings,32.0,no run,142,0,142/4,"CJA Amini to Babar Hayat, no run",,,4
+204,193,Kinchit Shah,401537,Mahuru Dai,25051,"Dai to Shah, OUT ",1st innings,32.1,out,142,0,142/5,"Dai to Shah, OUT",,,5
+205,194,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, no run ",1st innings,32.2,no run,142,0,142/5,"Dai to Aizaz Khan, no run",,,5
+206,195,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,32.3,run,143,1,143/5,"Dai to Aizaz Khan, 1 run",,,5
+207,196,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,32.4,no run,143,0,143/5,"Dai to Babar Hayat, no run",,,5
+208,197,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,32.5,no run,143,0,143/5,"Dai to Babar Hayat, no run",,,5
+209,198,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,33.0,no run,143,0,143/5,"Dai to Babar Hayat, no run",,,5
+210,199,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, 1 run ",1st innings,33.1,run,144,1,144/5,"Gavera to Aizaz Khan, 1 run",,,5
+211,200,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, 1 run ",1st innings,33.2,run,145,1,145/5,"Gavera to Babar Hayat, 1 run",,,5
+212,201,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,33.3,no run,145,0,145/5,"Gavera to Aizaz Khan, no run",,,5
+213,202,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,33.4,no run,145,0,145/5,"Gavera to Aizaz Khan, no run",,,5
+214,203,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,33.5,no run,145,0,145/5,"Gavera to Aizaz Khan, no run",,,5
+215,204,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,34.0,no run,145,0,145/5,"Gavera to Aizaz Khan, no run",,,5
+216,205,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 2 runs ",1st innings,34.1,run,147,2,147/5,"Dai to Babar Hayat, 2 runs",,,5
+217,206,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,34.2,run,148,1,148/5,"Dai to Babar Hayat, 1 run",,,5
+218,207,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, no run ",1st innings,34.3,no run,148,0,148/5,"Dai to Aizaz Khan, no run",,,5
+219,208,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,34.4,run,149,1,149/5,"Dai to Aizaz Khan, 1 run",,,5
+220,209,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,34.5,no run,149,0,149/5,"Dai to Babar Hayat, no run",,,5
+221,210,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,35.0,no run,149,0,149/5,"Dai to Babar Hayat, no run",,,5
+222,211,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, 1 run ",1st innings,35.1,run,150,1,150/5,"Gavera to Aizaz Khan, 1 run",,,5
+223,212,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, 1 run ",1st innings,35.2,run,151,1,151/5,"Gavera to Babar Hayat, 1 run",,,5
+224,213,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,35.3,no run,151,0,151/5,"Gavera to Aizaz Khan, no run",,,5
+225,214,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,35.4,no run,151,0,151/5,"Gavera to Aizaz Khan, no run",,,5
+226,215,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, no run ",1st innings,35.5,no run,151,0,151/5,"Gavera to Aizaz Khan, no run",,,5
+227,216,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, 1 run ",1st innings,36.0,run,148,1,148/5,"Gavera to Aizaz Khan, 1 run",,,5
+228,217,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, no run ",1st innings,36.1,no run,148,0,148/5,"Dai to Aizaz Khan, no run",,,5
+229,218,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, no run ",1st innings,36.2,no run,148,0,148/5,"Dai to Aizaz Khan, no run",,,5
+230,219,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,36.3,run,149,1,149/5,"Dai to Aizaz Khan, 1 run",,,5
+231,220,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,36.4,run,150,1,150/5,"Dai to Babar Hayat, 1 run",,,5
+232,221,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,36.5,run,151,1,151/5,"Dai to Aizaz Khan, 1 run",,,5
+233,222,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,37.0,run,146,1,146/5,"Dai to Babar Hayat, 1 run",,,5
+234,223,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, no run ",1st innings,37.1,no run,146,0,146/5,"Gavera to Babar Hayat, no run",,,5
+235,224,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, 1 run ",1st innings,37.2,run,147,1,147/5,"Gavera to Babar Hayat, 1 run",,,5
+236,225,Aizaz Khan,401540,Willie Gavera,302850,"Gavera to Aizaz Khan, 1 run ",1st innings,37.3,run,148,1,148/5,"Gavera to Aizaz Khan, 1 run",,,5
+237,226,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, FOUR runs ",1st innings,37.4,four,152,4,152/5,"Gavera to Babar Hayat, FOUR runs",,,5
+238,227,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, no run ",1st innings,37.5,no run,152,0,152/5,"Gavera to Babar Hayat, no run",,,5
+239,228,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, no run ",1st innings,38.0,no run,156,0,156/5,"Gavera to Babar Hayat, no run",,,5
+240,229,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,38.1,run,157,1,157/5,"Dai to Aizaz Khan, 1 run",,,5
+241,230,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,38.2,run,158,1,158/5,"Dai to Babar Hayat, 1 run",,,5
+242,231,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, no run ",1st innings,38.3,no run,158,0,158/5,"Dai to Aizaz Khan, no run",,,5
+243,232,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, 1 run ",1st innings,38.4,run,159,1,159/5,"Dai to Aizaz Khan, 1 run",,,5
+244,233,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,38.5,run,160,1,160/5,"Dai to Babar Hayat, 1 run",,,5
+245,234,Aizaz Khan,401540,Mahuru Dai,25051,"Dai to Aizaz Khan, FOUR runs ",1st innings,39.0,four,164,4,164/5,"Dai to Aizaz Khan, FOUR runs",,,5
+246,235,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, FOUR runs ",1st innings,39.1,four,168,4,168/5,"CR Amini to Babar Hayat, FOUR runs",,,5
+247,236,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,39.2,no run,168,0,168/5,"CR Amini to Babar Hayat, no run",,,5
+248,237,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,39.3,no run,168,0,168/5,"CR Amini to Babar Hayat, no run",,,5
+249,238,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,39.4,no run,168,0,168/5,"CR Amini to Babar Hayat, no run",,,5
+250,239,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, SIX runs ",1st innings,39.5,six,174,6,174/5,"CR Amini to Babar Hayat, SIX runs",,,5
+251,240,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,40.0,no run,174,0,174/5,"CR Amini to Babar Hayat, no run",,,5
+252,241,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, FOUR runs ",1st innings,40.1,four,178,4,178/5,"CJA Amini to Babar Hayat, FOUR runs",,,5
+253,242,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, no run ",1st innings,40.2,no run,178,0,178/5,"CJA Amini to Babar Hayat, no run",,,5
+254,243,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, no run ",1st innings,40.3,no run,178,0,178/5,"CJA Amini to Babar Hayat, no run",,,5
+255,244,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, no run ",1st innings,40.4,no run,178,0,178/5,"CJA Amini to Babar Hayat, no run",,,5
+256,245,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, 1 run ",1st innings,40.5,run,179,1,179/5,"CJA Amini to Babar Hayat, 1 run",,,5
+257,246,Aizaz Khan,401540,Charles Amini,332980,"CJA Amini to Aizaz Khan, 1 run ",1st innings,41.0,run,180,1,180/5,"CJA Amini to Aizaz Khan, 1 run",,,5
+258,247,Aizaz Khan,401540,Chris Amini,25053,"CR Amini to Aizaz Khan, 2 runs ",1st innings,41.1,run,182,2,182/5,"CR Amini to Aizaz Khan, 2 runs",,,5
+259,248,Aizaz Khan,401540,Chris Amini,25053,"CR Amini to Aizaz Khan, no run ",1st innings,41.2,no run,182,0,182/5,"CR Amini to Aizaz Khan, no run",,,5
+260,249,Aizaz Khan,401540,Chris Amini,25053,"CR Amini to Aizaz Khan, 1 run ",1st innings,41.3,run,183,1,183/5,"CR Amini to Aizaz Khan, 1 run",,,5
+261,250,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, FOUR runs ",1st innings,41.4,four,187,4,187/5,"CR Amini to Babar Hayat, FOUR runs",,,5
+262,251,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,41.5,no run,187,0,187/5,"CR Amini to Babar Hayat, no run",,,5
+263,252,Babar Hayat,539304,Chris Amini,25053,"CR Amini to Babar Hayat, no run ",1st innings,42.0,no run,192,0,192/5,"CR Amini to Babar Hayat, no run",,,5
+264,253,Aizaz Khan,401540,Charles Amini,332980,"CJA Amini to Aizaz Khan, no run ",1st innings,42.1,no run,192,0,192/5,"CJA Amini to Aizaz Khan, no run",,,5
+265,254,Aizaz Khan,401540,Charles Amini,332980,"CJA Amini to Aizaz Khan, 2 runs ",1st innings,42.2,run,194,2,194/5,"CJA Amini to Aizaz Khan, 2 runs",,,5
+266,255,Aizaz Khan,401540,Charles Amini,332980,"CJA Amini to Aizaz Khan, 1 run ",1st innings,42.3,run,195,1,195/5,"CJA Amini to Aizaz Khan, 1 run",,,5
+267,256,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, 1 run ",1st innings,42.4,run,196,1,196/5,"CJA Amini to Babar Hayat, 1 run",,,5
+268,257,Aizaz Khan,401540,Charles Amini,332980,"CJA Amini to Aizaz Khan, 1 run ",1st innings,42.5,run,197,1,197/5,"CJA Amini to Aizaz Khan, 1 run",,,5
+269,258,Babar Hayat,539304,Charles Amini,332980,"CJA Amini to Babar Hayat, 1 run ",1st innings,43.0,run,198,1,198/5,"CJA Amini to Babar Hayat, 1 run",,,5
+270,259,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, 1 run ",1st innings,43.1,run,199,1,199/5,"Vanua to Babar Hayat, 1 run",,,5
+271,260,Aizaz Khan,401540,Norman Vanua,524253,"Vanua to Aizaz Khan, 1 run ",1st innings,43.2,run,200,1,200/5,"Vanua to Aizaz Khan, 1 run",,,5
+272,261,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, FOUR runs ",1st innings,43.3,four,204,4,204/5,"Vanua to Babar Hayat, FOUR runs",,,5
+273,262,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, 1 run ",1st innings,43.4,run,205,1,205/5,"Vanua to Babar Hayat, 1 run",,,5
+274,263,Aizaz Khan,401540,Norman Vanua,524253,"Vanua to Aizaz Khan, 2 runs ",1st innings,43.5,run,207,2,207/5,"Vanua to Aizaz Khan, 2 runs",,,5
+275,264,Aizaz Khan,401540,Norman Vanua,524253,"Vanua to Aizaz Khan, OUT ",1st innings,44.0,out,207,0,207/6,"Vanua to Aizaz Khan, OUT",,,6
+276,265,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, FOUR runs ",1st innings,44.1,four,211,4,211/6,"Vala to Babar Hayat, FOUR runs",,,6
+277,266,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,44.2,no run,211,0,211/6,"Vala to Babar Hayat, no run",,,6
+278,267,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,44.3,run,212,1,212/6,"Vala to Babar Hayat, 1 run",,,6
+279,268,Haseeb Amjad,539305,Assad Vala,25056,"Vala to Haseeb Amjad, no run ",1st innings,44.4,no run,212,0,212/6,"Vala to Haseeb Amjad, no run",,,6
+280,269,Haseeb Amjad,539305,Assad Vala,25056,"Vala to Haseeb Amjad, 1 run ",1st innings,44.5,run,213,1,213/6,"Vala to Haseeb Amjad, 1 run",,,6
+281,270,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 2 runs ",1st innings,45.0,run,215,2,215/6,"Vala to Babar Hayat, 2 runs",,,6
+282,271,Haseeb Amjad,539305,Norman Vanua,524253,"Vanua to Haseeb Amjad, SIX runs ",1st innings,45.1,six,221,6,221/6,"Vanua to Haseeb Amjad, SIX runs",,,6
+283,272,Haseeb Amjad,539305,Norman Vanua,524253,"Vanua to Haseeb Amjad, FOUR runs ",1st innings,45.2,four,225,4,225/6,"Vanua to Haseeb Amjad, FOUR runs",,,6
+284,273,Haseeb Amjad,539305,Norman Vanua,524253,"Vanua to Haseeb Amjad, 1 run ",1st innings,45.3,run,226,1,226/6,"Vanua to Haseeb Amjad, 1 run",,,6
+285,274,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, 1 run ",1st innings,45.4,run,227,1,227/6,"Vanua to Babar Hayat, 1 run",,,6
+286,275,Haseeb Amjad,539305,Norman Vanua,524253,"Vanua to Haseeb Amjad, 1 run ",1st innings,45.5,run,228,1,228/6,"Vanua to Haseeb Amjad, 1 run",,,6
+287,276,Babar Hayat,539304,Norman Vanua,524253,"Vanua to Babar Hayat, no run ",1st innings,46.0,no run,228,0,228/6,"Vanua to Babar Hayat, no run",,,6
+288,277,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, no run ",1st innings,46.1,no run,228,0,228/6,"Gavera to Haseeb Amjad, no run",,,6
+289,278,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, no run ",1st innings,46.2,no run,228,0,228/6,"Gavera to Haseeb Amjad, no run",,,6
+290,279,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, no run ",1st innings,46.3,no run,228,0,228/6,"Gavera to Haseeb Amjad, no run",,,6
+291,280,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, SIX runs ",1st innings,46.4,six,234,6,234/6,"Gavera to Haseeb Amjad, SIX runs",,,6
+292,281,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, FOUR runs ",1st innings,46.5,four,238,4,238/6,"Gavera to Haseeb Amjad, FOUR runs",,,6
+293,282,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, 1 run ",1st innings,47.0,run,239,1,239/6,"Gavera to Haseeb Amjad, 1 run",,,6
+294,283,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, no run ",1st innings,47.1,no run,239,0,239/6,"CR Amini to Haseeb Amjad, no run",,,6
+295,284,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, FOUR runs ",1st innings,47.2,four,243,4,243/6,"CR Amini to Haseeb Amjad, FOUR runs",,,6
+296,285,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, SIX runs ",1st innings,47.3,six,249,6,249/6,"CR Amini to Haseeb Amjad, SIX runs",,,6
+297,286,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, no run ",1st innings,47.4,no run,249,0,249/6,"CR Amini to Haseeb Amjad, no run",,,6
+298,287,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, 2 runs ",1st innings,47.5,run,251,2,251/6,"CR Amini to Haseeb Amjad, 2 runs",,,6
+299,288,Haseeb Amjad,539305,Chris Amini,25053,"CR Amini to Haseeb Amjad, SIX runs ",1st innings,48.0,six,257,6,257/6,"CR Amini to Haseeb Amjad, SIX runs",,,6
+300,289,Babar Hayat,539304,Willie Gavera,302850,"Gavera to Babar Hayat, OUT ",1st innings,48.1,out,257,0,257/7,"Gavera to Babar Hayat, OUT",,,7
+301,290,Tanwir Afzal,260036,Willie Gavera,302850,"Gavera to Tanwir Afzal, OUT ",1st innings,48.2,out,257,0,257/8,"Gavera to Tanwir Afzal, OUT",,,8
+302,291,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, no run ",1st innings,48.3,no run,257,0,257/8,"Gavera to Haseeb Amjad, no run",,,8
+303,292,Haseeb Amjad,539305,Willie Gavera,302850,"Gavera to Haseeb Amjad, OUT ",1st innings,48.4,out,257,0,257/9,"Gavera to Haseeb Amjad, OUT",,,9
+304,293,Nadeem Ahmed,24230,Willie Gavera,302850,"Gavera to Nadeem Ahmed, no run ",1st innings,48.5,no run,257,0,257/9,"Gavera to Nadeem Ahmed, no run",,,9
+305,294,Nadeem Ahmed,24230,Willie Gavera,302850,"Gavera to Nadeem Ahmed, 1 run ",1st innings,49.0,run,258,1,258/9,"Gavera to Nadeem Ahmed, 1 run",,,9
+306,295,Nadeem Ahmed,24230,Norman Vanua,524253,"Vanua to Nadeem Ahmed, 1 run ",1st innings,49.1,run,259,1,259/9,"Vanua to Nadeem Ahmed, 1 run",,,9
+307,295,Ankur Vasishta,717099,Norman Vanua,524253,"Vanua to Ankur Vasishta, 1 wide ",1st innings,49.1,wide,260,1,260/9,"Vanua to Ankur Vasishta, 1 wide",,,9
+308,296,Ankur Vasishta,717099,Norman Vanua,524253,"Vanua to Ankur Vasishta, 1 run ",1st innings,49.2,run,261,1,261/9,"Vanua to Ankur Vasishta, 1 run",,,9
+309,297,Nadeem Ahmed,24230,Norman Vanua,524253,"Vanua to Nadeem Ahmed, OUT ",1st innings,49.3,out,261,0,261/10,"Vanua to Nadeem Ahmed, OUT",,,10
+310,1,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,0.1,run,1,1,1/0,"Tanwir Afzal to Vala, 1 run",,,0
+311,2,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,0.2,no run,1,0,1/0,"Tanwir Afzal to Ura, no run",,,0
+312,3,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,0.3,no run,1,0,1/0,"Tanwir Afzal to Ura, no run",,,0
+313,4,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,0.4,run,2,1,2/0,"Tanwir Afzal to Ura, 1 run",,,0
+314,5,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,0.5,run,3,1,3/0,"Tanwir Afzal to Vala, 1 run",,,0
+315,6,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,1.0,no run,3,0,3/0,"Tanwir Afzal to Ura, no run",,,0
+316,7,Assad Vala,25056,Haseeb Amjad,539305,"Haseeb Amjad to Vala, 3 runs ",2nd innings,1.1,run,6,3,6/0,"Haseeb Amjad to Vala, 3 runs",,,0
+317,8,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,1.2,no run,6,0,6/0,"Haseeb Amjad to Ura, no run",,,0
+318,9,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,1.3,no run,6,0,6/0,"Haseeb Amjad to Ura, no run",,,0
+319,10,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,1.4,no run,6,0,6/0,"Haseeb Amjad to Ura, no run",,,0
+320,11,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,1.5,no run,6,0,6/0,"Haseeb Amjad to Ura, no run",,,0
+321,12,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,2.0,no run,6,0,6/0,"Haseeb Amjad to Ura, no run",,,0
+322,13,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,2.1,run,7,1,7/0,"Tanwir Afzal to Vala, 1 run",,,0
+323,14,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,2.2,no run,7,0,7/0,"Tanwir Afzal to Ura, no run",,,0
+324,15,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,2.3,no run,7,0,7/0,"Tanwir Afzal to Ura, no run",,,0
+325,16,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,2.4,no run,7,0,7/0,"Tanwir Afzal to Ura, no run",,,0
+326,17,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,2.5,run,8,1,8/0,"Tanwir Afzal to Ura, 1 run",,,0
+327,18,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,3.0,no run,8,0,8/0,"Tanwir Afzal to Vala, no run",,,0
+328,19,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,3.1,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+329,20,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,3.2,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+330,21,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,3.3,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+331,22,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,3.4,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+332,23,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,3.5,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+333,24,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, no run ",2nd innings,4.0,no run,8,0,8/0,"Haseeb Amjad to Ura, no run",,,0
+334,25,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,4.1,no run,8,0,8/0,"Tanwir Afzal to Vala, no run",,,0
+335,26,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, OUT ",2nd innings,4.2,out,8,0,8/1,"Tanwir Afzal to Vala, OUT",,,1
+336,27,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,4.3,no run,8,0,8/1,"Tanwir Afzal to Siaka, no run",,,1
+337,28,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,4.4,run,9,1,9/1,"Tanwir Afzal to Siaka, 1 run",,,1
+338,29,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,4.5,no run,9,0,9/1,"Tanwir Afzal to Ura, no run",,,1
+339,30,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,5.0,no run,9,0,9/1,"Tanwir Afzal to Ura, no run",,,1
+340,31,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, 2 runs ",2nd innings,5.1,run,11,2,11/1,"Haseeb Amjad to Siaka, 2 runs",,,1
+341,32,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, FOUR runs ",2nd innings,5.2,four,15,4,15/1,"Haseeb Amjad to Siaka, FOUR runs",,,1
+342,33,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, 1 run ",2nd innings,5.3,run,16,1,16/1,"Haseeb Amjad to Siaka, 1 run",,,1
+343,34,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, FOUR runs ",2nd innings,5.4,four,20,4,20/1,"Haseeb Amjad to Ura, FOUR runs",,,1
+344,35,Tony Ura,302845,Haseeb Amjad,539305,"Haseeb Amjad to Ura, 3 runs ",2nd innings,5.5,run,23,3,23/1,"Haseeb Amjad to Ura, 3 runs",,,1
+345,36,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, no run ",2nd innings,6.0,no run,23,0,23/1,"Haseeb Amjad to Siaka, no run",,,1
+346,37,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 2 runs ",2nd innings,6.1,run,25,2,25/1,"Tanwir Afzal to Ura, 2 runs",,,1
+347,38,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, no run ",2nd innings,6.2,no run,25,0,25/1,"Tanwir Afzal to Ura, no run",,,1
+348,39,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,6.3,run,26,1,26/1,"Tanwir Afzal to Ura, 1 run",,,1
+349,40,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,6.4,no run,26,0,26/1,"Tanwir Afzal to Siaka, no run",,,1
+350,41,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,6.5,no run,26,0,26/1,"Tanwir Afzal to Siaka, no run",,,1
+351,42,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, SIX runs ",2nd innings,7.0,six,32,6,32/1,"Tanwir Afzal to Siaka, SIX runs",,,1
+352,43,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,7.1,no run,32,0,32/1,"Nadeem Ahmed to Ura, no run",,,1
+353,44,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, 1 run ",2nd innings,7.2,run,33,1,33/1,"Nadeem Ahmed to Ura, 1 run",,,1
+354,45,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 3 runs ",2nd innings,7.3,run,36,3,36/1,"Nadeem Ahmed to Siaka, 3 runs",,,1
+355,46,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,7.4,no run,36,0,36/1,"Nadeem Ahmed to Ura, no run",,,1
+356,47,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,7.5,no run,36,0,36/1,"Nadeem Ahmed to Ura, no run",,,1
+357,48,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,8.0,no run,36,0,36/1,"Nadeem Ahmed to Ura, no run",,,1
+358,49,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 3 runs ",2nd innings,8.1,run,39,3,39/1,"Aizaz Khan to Siaka, 3 runs",,,1
+359,50,Tony Ura,302845,Aizaz Khan,401540,"Aizaz Khan to Ura, 1 run ",2nd innings,8.2,run,40,1,40/1,"Aizaz Khan to Ura, 1 run",,,1
+360,51,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,8.3,no run,40,0,40/1,"Aizaz Khan to Siaka, no run",,,1
+361,52,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,8.4,no run,40,0,40/1,"Aizaz Khan to Siaka, no run",,,1
+362,53,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 2 runs ",2nd innings,8.5,run,42,2,42/1,"Aizaz Khan to Siaka, 2 runs",,,1
+363,54,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,9.0,run,43,1,43/1,"Aizaz Khan to Siaka, 1 run",,,1
+364,55,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,9.1,no run,43,0,43/1,"Nadeem Ahmed to Siaka, no run",,,1
+365,56,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, FOUR runs ",2nd innings,9.2,four,47,4,47/1,"Nadeem Ahmed to Siaka, FOUR runs",,,1
+366,57,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,9.3,no run,47,0,47/1,"Nadeem Ahmed to Siaka, no run",,,1
+367,58,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,9.4,no run,47,0,47/1,"Nadeem Ahmed to Siaka, no run",,,1
+368,59,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,9.5,no run,47,0,47/1,"Nadeem Ahmed to Siaka, no run",,,1
+369,60,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,10.0,no run,47,0,47/1,"Nadeem Ahmed to Siaka, no run",,,1
+370,61,Tony Ura,302845,Aizaz Khan,401540,"Aizaz Khan to Ura, 1 run ",2nd innings,10.1,run,48,1,48/1,"Aizaz Khan to Ura, 1 run",,,1
+371,62,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,10.2,run,49,1,49/1,"Aizaz Khan to Siaka, 1 run",,,1
+372,63,Tony Ura,302845,Aizaz Khan,401540,"Aizaz Khan to Ura, OUT ",2nd innings,10.3,out,49,0,49/2,"Aizaz Khan to Ura, OUT",,,2
+373,63,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, 1 wide ",2nd innings,10.3,wide,50,1,50/2,"Aizaz Khan to Jones, 1 wide",,,2
+374,64,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,10.4,no run,50,0,50/2,"Aizaz Khan to Jones, no run",,,2
+375,65,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,10.5,no run,50,0,50/2,"Aizaz Khan to Jones, no run",,,2
+376,66,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,11.0,no run,50,0,50/2,"Aizaz Khan to Jones, no run",,,2
+377,67,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,11.1,no run,50,0,50/2,"Tanwir Afzal to Siaka, no run",,,2
+378,68,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,11.2,run,51,1,51/2,"Tanwir Afzal to Siaka, 1 run",,,2
+379,69,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,11.3,no run,51,0,51/2,"Tanwir Afzal to Jones, no run",,,2
+380,70,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,11.4,no run,51,0,51/2,"Tanwir Afzal to Jones, no run",,,2
+381,70,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 1 no ball ",2nd innings,11.4,no ball,52,1,52/2,"Tanwir Afzal to Jones, 1 no ball",,,2
+382,70,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 1 wide ",2nd innings,11.4,wide,53,1,53/2,"Tanwir Afzal to Jones, 1 wide",,,2
+383,71,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, FOUR runs ",2nd innings,11.5,four,57,4,57/2,"Tanwir Afzal to Jones, FOUR runs",,,2
+384,72,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,12.0,no run,57,0,57/2,"Tanwir Afzal to Jones, no run",,,2
+385,73,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,12.1,no run,57,0,57/2,"Aizaz Khan to Siaka, no run",,,2
+386,74,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,12.2,no run,57,0,57/2,"Aizaz Khan to Siaka, no run",,,2
+387,75,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 2 runs ",2nd innings,12.3,run,59,2,59/2,"Aizaz Khan to Siaka, 2 runs",,,2
+388,76,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,12.4,run,60,1,60/2,"Aizaz Khan to Siaka, 1 run",,,2
+389,77,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,12.5,no run,60,0,60/2,"Aizaz Khan to Jones, no run",,,2
+390,78,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,13.0,no run,60,0,60/2,"Aizaz Khan to Jones, no run",,,2
+391,79,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,13.1,run,61,1,61/2,"Tanwir Afzal to Siaka, 1 run",,,2
+392,80,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,13.2,no run,61,0,61/2,"Tanwir Afzal to Jones, no run",,,2
+393,81,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,13.3,no run,61,0,61/2,"Tanwir Afzal to Jones, no run",,,2
+394,82,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 1 run ",2nd innings,13.4,run,62,1,62/2,"Tanwir Afzal to Jones, 1 run",,,2
+395,83,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,13.5,no run,62,0,62/2,"Tanwir Afzal to Siaka, no run",,,2
+396,84,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, no run ",2nd innings,14.0,no run,62,0,62/2,"Tanwir Afzal to Siaka, no run",,,2
+397,85,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,14.1,no run,62,0,62/2,"Aizaz Khan to Jones, no run",,,2
+398,86,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,14.2,no run,62,0,62/2,"Aizaz Khan to Jones, no run",,,2
+399,87,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,14.3,no run,62,0,62/2,"Aizaz Khan to Jones, no run",,,2
+400,88,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, 1 run ",2nd innings,14.4,run,63,1,63/2,"Aizaz Khan to Jones, 1 run",,,2
+401,89,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,14.5,no run,63,0,63/2,"Aizaz Khan to Siaka, no run",,,2
+402,90,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,15.0,no run,63,0,63/2,"Aizaz Khan to Siaka, no run",,,2
+403,91,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,15.1,no run,63,0,63/2,"Tanwir Afzal to Jones, no run",,,2
+404,92,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, no run ",2nd innings,15.2,no run,63,0,63/2,"Tanwir Afzal to Jones, no run",,,2
+405,93,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 2 runs ",2nd innings,15.3,run,65,2,65/2,"Tanwir Afzal to Jones, 2 runs",,,2
+406,94,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 1 run ",2nd innings,15.4,run,66,1,66/2,"Tanwir Afzal to Jones, 1 run",,,2
+407,95,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,15.5,run,67,1,67/2,"Tanwir Afzal to Siaka, 1 run",,,2
+408,96,Geraint Jones,15501,Tanwir Afzal,260036,"Tanwir Afzal to Jones, 1 run ",2nd innings,16.0,run,68,1,68/2,"Tanwir Afzal to Jones, 1 run",,,2
+409,97,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,16.1,no run,68,0,68/2,"Aizaz Khan to Jones, no run",,,2
+410,98,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, no run ",2nd innings,16.2,no run,68,0,68/2,"Aizaz Khan to Jones, no run",,,2
+411,99,Geraint Jones,15501,Aizaz Khan,401540,"Aizaz Khan to Jones, 1 run ",2nd innings,16.3,run,69,1,69/2,"Aizaz Khan to Jones, 1 run",,,2
+412,100,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, FOUR runs ",2nd innings,16.4,four,73,4,73/2,"Aizaz Khan to Siaka, FOUR runs",,,2
+413,101,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,16.5,no run,73,0,73/2,"Aizaz Khan to Siaka, no run",,,2
+414,102,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,17.0,no run,73,0,73/2,"Aizaz Khan to Siaka, no run",,,2
+415,103,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,17.1,no run,73,0,73/2,"Nadeem Ahmed to Jones, no run",,,2
+416,104,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,17.2,no run,73,0,73/2,"Nadeem Ahmed to Jones, no run",,,2
+417,105,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, 1 run ",2nd innings,17.3,run,74,1,74/2,"Nadeem Ahmed to Jones, 1 run",,,2
+418,106,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,17.4,no run,74,0,74/2,"Nadeem Ahmed to Siaka, no run",,,2
+419,107,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 3 runs ",2nd innings,17.5,run,77,3,77/2,"Nadeem Ahmed to Siaka, 3 runs",,,2
+420,108,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,18.0,no run,77,0,77/2,"Nadeem Ahmed to Jones, no run",,,2
+421,109,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, FOUR runs ",2nd innings,18.1,four,81,4,81/2,"Irfan Ahmed to Siaka, FOUR runs",,,2
+422,110,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,18.2,no run,81,0,81/2,"Irfan Ahmed to Siaka, no run",,,2
+423,111,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,18.3,no run,81,0,81/2,"Irfan Ahmed to Siaka, no run",,,2
+424,112,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,18.4,no run,81,0,81/2,"Irfan Ahmed to Siaka, no run",,,2
+425,113,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,18.5,no run,81,0,81/2,"Irfan Ahmed to Siaka, no run",,,2
+426,114,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,19.0,no run,81,0,81/2,"Irfan Ahmed to Siaka, no run",,,2
+427,115,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, 1 run ",2nd innings,19.1,run,82,1,82/2,"Nadeem Ahmed to Jones, 1 run",,,2
+428,116,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 1 run ",2nd innings,19.2,run,83,1,83/2,"Nadeem Ahmed to Siaka, 1 run",,,2
+429,117,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,19.3,no run,83,0,83/2,"Nadeem Ahmed to Jones, no run",,,2
+430,118,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, 1 run ",2nd innings,19.4,run,84,1,84/2,"Nadeem Ahmed to Jones, 1 run",,,2
+431,119,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,19.5,no run,84,0,84/2,"Nadeem Ahmed to Siaka, no run",,,2
+432,120,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,20.0,no run,84,0,84/2,"Nadeem Ahmed to Siaka, no run",,,2
+433,121,Geraint Jones,15501,Irfan Ahmed,208253,"Irfan Ahmed to Jones, 1 run ",2nd innings,20.1,run,85,1,85/2,"Irfan Ahmed to Jones, 1 run",,,2
+434,122,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,20.2,no run,85,0,85/2,"Irfan Ahmed to Siaka, no run",,,2
+435,123,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, FOUR runs ",2nd innings,20.3,four,89,4,89/2,"Irfan Ahmed to Siaka, FOUR runs",,,2
+436,124,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,20.4,run,90,1,90/2,"Irfan Ahmed to Siaka, 1 run",,,2
+437,125,Geraint Jones,15501,Irfan Ahmed,208253,"Irfan Ahmed to Jones, no run ",2nd innings,20.5,no run,90,0,90/2,"Irfan Ahmed to Jones, no run",,,2
+438,126,Geraint Jones,15501,Irfan Ahmed,208253,"Irfan Ahmed to Jones, no run ",2nd innings,21.0,no run,90,0,90/2,"Irfan Ahmed to Jones, no run",,,2
+439,127,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,21.1,no run,90,0,90/2,"Nadeem Ahmed to Siaka, no run",,,2
+440,128,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 1 run ",2nd innings,21.2,run,91,1,91/2,"Nadeem Ahmed to Siaka, 1 run",,,2
+441,129,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, 1 run ",2nd innings,21.3,run,92,1,92/2,"Nadeem Ahmed to Jones, 1 run",,,2
+442,130,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 1 run ",2nd innings,21.4,run,93,1,93/2,"Nadeem Ahmed to Siaka, 1 run",,,2
+443,131,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,21.5,no run,93,0,93/2,"Nadeem Ahmed to Jones, no run",,,2
+444,132,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,22.0,no run,93,0,93/2,"Nadeem Ahmed to Jones, no run",,,2
+445,133,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 2 runs ",2nd innings,22.1,run,95,2,95/2,"Irfan Ahmed to Siaka, 2 runs",,,2
+446,134,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,22.2,run,96,1,96/2,"Irfan Ahmed to Siaka, 1 run",,,2
+447,135,Geraint Jones,15501,Irfan Ahmed,208253,"Irfan Ahmed to Jones, 1 run ",2nd innings,22.3,run,97,1,97/2,"Irfan Ahmed to Jones, 1 run",,,2
+448,136,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,22.4,run,98,1,98/2,"Irfan Ahmed to Siaka, 1 run",,,2
+449,137,Geraint Jones,15501,Irfan Ahmed,208253,"Irfan Ahmed to Jones, 1 run ",2nd innings,22.5,run,99,1,99/2,"Irfan Ahmed to Jones, 1 run",,,2
+450,138,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,23.0,no run,99,0,99/2,"Irfan Ahmed to Siaka, no run",,,2
+451,139,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,23.1,no run,99,0,99/2,"Nadeem Ahmed to Jones, no run",,,2
+452,140,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,23.2,no run,99,0,99/2,"Nadeem Ahmed to Jones, no run",,,2
+453,141,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,23.3,no run,99,0,99/2,"Nadeem Ahmed to Jones, no run",,,2
+454,142,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,23.4,no run,99,0,99/2,"Nadeem Ahmed to Jones, no run",,,2
+455,143,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, no run ",2nd innings,23.5,no run,99,0,99/2,"Nadeem Ahmed to Jones, no run",,,2
+456,144,Geraint Jones,15501,Nadeem Ahmed,24230,"Nadeem Ahmed to Jones, 1 run ",2nd innings,24.0,run,100,1,100/2,"Nadeem Ahmed to Jones, 1 run",,,2
+457,145,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, no run ",2nd innings,24.1,no run,100,0,100/2,"Haseeb Amjad to Jones, no run",,,2
+458,146,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, no run ",2nd innings,24.2,no run,100,0,100/2,"Haseeb Amjad to Jones, no run",,,2
+459,147,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, no run ",2nd innings,24.3,no run,100,0,100/2,"Haseeb Amjad to Jones, no run",,,2
+460,148,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, 1 run ",2nd innings,24.4,run,101,1,101/2,"Haseeb Amjad to Jones, 1 run",,,2
+461,149,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, SIX runs ",2nd innings,24.5,six,107,6,107/2,"Haseeb Amjad to Siaka, SIX runs",,,2
+462,150,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, 1 run ",2nd innings,25.0,run,108,1,108/2,"Haseeb Amjad to Siaka, 1 run",,,2
+463,151,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,25.1,run,109,1,109/2,"Waqas Barkat to Siaka, 1 run",,,2
+464,152,Geraint Jones,15501,Waqas Barkat,350632,"Waqas Barkat to Jones, no run ",2nd innings,25.2,no run,109,0,109/2,"Waqas Barkat to Jones, no run",,,2
+465,153,Geraint Jones,15501,Waqas Barkat,350632,"Waqas Barkat to Jones, 1 run ",2nd innings,25.3,run,110,1,110/2,"Waqas Barkat to Jones, 1 run",,,2
+466,154,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,25.4,no run,110,0,110/2,"Waqas Barkat to Siaka, no run",,,2
+467,155,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,25.5,no run,110,0,110/2,"Waqas Barkat to Siaka, no run",,,2
+468,156,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 2 leg byes ",2nd innings,26.0,leg bye,112,2,112/2,"Waqas Barkat to Siaka, 2 leg byes",,,2
+469,157,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, 2 runs ",2nd innings,26.1,run,114,2,114/2,"Haseeb Amjad to Jones, 2 runs",,,2
+470,158,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, no run ",2nd innings,26.2,no run,114,0,114/2,"Haseeb Amjad to Jones, no run",,,2
+471,159,Geraint Jones,15501,Haseeb Amjad,539305,"Haseeb Amjad to Jones, OUT ",2nd innings,26.3,out,114,0,114/3,"Haseeb Amjad to Jones, OUT",,,3
+472,160,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,26.4,no run,114,0,114/3,"Haseeb Amjad to Morea, no run",,,3
+473,161,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,26.5,run,115,1,115/3,"Haseeb Amjad to Morea, 1 run",,,3
+474,162,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, no run ",2nd innings,27.0,no run,115,0,115/3,"Haseeb Amjad to Siaka, no run",,,3
+475,163,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,27.1,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+476,164,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,27.2,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+477,165,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,27.3,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+478,166,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,27.4,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+479,167,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,27.5,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+480,168,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,28.0,no run,115,0,115/3,"Waqas Barkat to Morea, no run",,,3
+481,169,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,28.1,run,116,1,116/3,"Irfan Ahmed to Siaka, 1 run",,,3
+482,170,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, no run ",2nd innings,28.2,no run,116,0,116/3,"Irfan Ahmed to Morea, no run",,,3
+483,171,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 run ",2nd innings,28.3,run,117,1,117/3,"Irfan Ahmed to Morea, 1 run",,,3
+484,172,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, FOUR runs ",2nd innings,28.4,four,121,4,121/3,"Irfan Ahmed to Siaka, FOUR runs",,,3
+485,173,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,28.5,no run,121,0,121/3,"Irfan Ahmed to Siaka, no run",,,3
+486,174,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,29.0,run,122,1,122/3,"Irfan Ahmed to Siaka, 1 run",,,3
+487,175,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,29.1,run,123,1,123/3,"Waqas Barkat to Siaka, 1 run",,,3
+488,176,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,29.2,no run,123,0,123/3,"Waqas Barkat to Morea, no run",,,3
+489,177,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, 1 run ",2nd innings,29.3,run,124,1,124/3,"Waqas Barkat to Morea, 1 run",,,3
+490,178,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,29.4,run,125,1,125/3,"Waqas Barkat to Siaka, 1 run",,,3
+491,179,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, 1 run ",2nd innings,29.5,run,126,1,126/3,"Waqas Barkat to Morea, 1 run",,,3
+492,180,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,30.0,no run,126,0,126/3,"Waqas Barkat to Siaka, no run",,,3
+493,181,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, no run ",2nd innings,30.1,no run,126,0,126/3,"Irfan Ahmed to Morea, no run",,,3
+494,182,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, no run ",2nd innings,30.2,no run,126,0,126/3,"Irfan Ahmed to Morea, no run",,,3
+495,183,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, no run ",2nd innings,30.3,no run,126,0,126/3,"Irfan Ahmed to Morea, no run",,,3
+496,184,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, FOUR runs ",2nd innings,30.4,four,130,4,130/3,"Irfan Ahmed to Morea, FOUR runs",,,3
+497,185,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 run ",2nd innings,30.5,run,131,1,131/3,"Irfan Ahmed to Morea, 1 run",,,3
+498,186,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,31.0,no run,131,0,131/3,"Irfan Ahmed to Siaka, no run",,,3
+499,187,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, 1 run ",2nd innings,31.1,run,132,1,132/3,"Waqas Barkat to Morea, 1 run",,,3
+500,188,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,31.2,no run,132,0,132/3,"Waqas Barkat to Siaka, no run",,,3
+501,189,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,31.3,run,133,1,133/3,"Waqas Barkat to Siaka, 1 run",,,3
+502,190,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, no run ",2nd innings,31.4,no run,133,0,133/3,"Waqas Barkat to Morea, no run",,,3
+503,191,Vani Morea,387435,Waqas Barkat,350632,"Waqas Barkat to Morea, 1 run ",2nd innings,31.5,run,134,1,134/3,"Waqas Barkat to Morea, 1 run",,,3
+504,192,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,32.0,run,135,1,135/3,"Waqas Barkat to Siaka, 1 run",,,3
+505,193,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,32.1,no run,135,0,135/3,"Aizaz Khan to Siaka, no run",,,3
+506,194,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,32.2,run,136,1,136/3,"Aizaz Khan to Siaka, 1 run",,,3
+507,195,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 1 run ",2nd innings,32.3,run,137,1,137/3,"Aizaz Khan to Morea, 1 run",,,3
+508,196,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 2 runs ",2nd innings,32.4,run,139,2,139/3,"Aizaz Khan to Siaka, 2 runs",,,3
+509,197,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,32.5,run,140,1,140/3,"Aizaz Khan to Siaka, 1 run",,,3
+510,198,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, no run ",2nd innings,33.0,no run,140,0,140/3,"Aizaz Khan to Morea, no run",,,3
+511,199,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, FOUR runs ",2nd innings,33.1,four,144,4,144/3,"Waqas Barkat to Siaka, FOUR runs",,,3
+512,200,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,33.2,no run,144,0,144/3,"Waqas Barkat to Siaka, no run",,,3
+513,201,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,33.3,no run,144,0,144/3,"Waqas Barkat to Siaka, no run",,,3
+514,202,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 2 runs ",2nd innings,33.4,run,146,2,146/3,"Waqas Barkat to Siaka, 2 runs",,,3
+515,203,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, no run ",2nd innings,33.5,no run,146,0,146/3,"Waqas Barkat to Siaka, no run",,,3
+516,204,Lega Siaka,440990,Waqas Barkat,350632,"Waqas Barkat to Siaka, 1 run ",2nd innings,34.0,run,147,1,147/3,"Waqas Barkat to Siaka, 1 run",,,3
+517,205,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,34.1,no run,147,0,147/3,"Aizaz Khan to Siaka, no run",,,3
+518,206,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,34.2,no run,147,0,147/3,"Aizaz Khan to Siaka, no run",,,3
+519,207,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,34.3,no run,147,0,147/3,"Aizaz Khan to Siaka, no run",,,3
+520,208,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 3 runs ",2nd innings,34.4,run,150,3,150/3,"Aizaz Khan to Siaka, 3 runs",,,3
+521,209,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 1 run ",2nd innings,34.5,run,151,1,151/3,"Aizaz Khan to Morea, 1 run",,,3
+522,210,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,35.0,no run,151,0,151/3,"Aizaz Khan to Siaka, no run",,,3
+523,210,Vani Morea,387435,Tanwir Afzal,260036,"Tanwir Afzal to Morea, (no ball) 2 runs ",2nd innings,35.0,run,154,3,154/3,"Tanwir Afzal to Morea, (no ball) 2 runs",,,3
+524,211,Vani Morea,387435,Tanwir Afzal,260036,"Tanwir Afzal to Morea, 2 runs ",2nd innings,35.1,run,156,2,156/3,"Tanwir Afzal to Morea, 2 runs",,,3
+525,212,Vani Morea,387435,Tanwir Afzal,260036,"Tanwir Afzal to Morea, 1 run ",2nd innings,35.2,run,157,1,157/3,"Tanwir Afzal to Morea, 1 run",,,3
+526,213,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,35.3,run,158,1,158/3,"Tanwir Afzal to Siaka, 1 run",,,3
+527,214,Vani Morea,387435,Tanwir Afzal,260036,"Tanwir Afzal to Morea, 1 run ",2nd innings,35.4,run,159,1,159/3,"Tanwir Afzal to Morea, 1 run",,,3
+528,215,Lega Siaka,440990,Tanwir Afzal,260036,"Tanwir Afzal to Siaka, 1 run ",2nd innings,35.5,run,160,1,160/3,"Tanwir Afzal to Siaka, 1 run",,,3
+529,216,Vani Morea,387435,Tanwir Afzal,260036,"Tanwir Afzal to Morea, 1 run ",2nd innings,36.0,run,161,1,161/3,"Tanwir Afzal to Morea, 1 run",,,3
+530,216,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 wide ",2nd innings,36.0,wide,162,1,162/3,"Haseeb Amjad to Morea, 1 wide",,,3
+531,217,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,36.1,run,163,1,163/3,"Haseeb Amjad to Morea, 1 run",,,3
+532,218,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, 1 run ",2nd innings,36.2,run,164,1,164/3,"Haseeb Amjad to Siaka, 1 run",,,3
+533,219,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,36.3,run,165,1,165/3,"Haseeb Amjad to Morea, 1 run",,,3
+534,220,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, FOUR runs ",2nd innings,36.4,four,169,4,169/3,"Haseeb Amjad to Siaka, FOUR runs",,,3
+535,221,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, no run ",2nd innings,36.5,no run,169,0,169/3,"Haseeb Amjad to Siaka, no run",,,3
+536,222,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, no run ",2nd innings,37.0,no run,169,0,169/3,"Haseeb Amjad to Siaka, no run",,,3
+537,223,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,37.1,no run,169,0,169/3,"Nadeem Ahmed to Morea, no run",,,3
+538,224,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, 1 leg bye ",2nd innings,37.2,leg bye,170,1,170/3,"Nadeem Ahmed to Morea, 1 leg bye",,,3
+539,225,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,37.3,no run,170,0,170/3,"Nadeem Ahmed to Siaka, no run",,,3
+540,226,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, FOUR runs ",2nd innings,37.4,four,174,4,174/3,"Nadeem Ahmed to Siaka, FOUR runs",,,3
+541,227,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 1 run ",2nd innings,37.5,run,175,1,175/3,"Nadeem Ahmed to Siaka, 1 run",,,3
+542,228,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, 1 run ",2nd innings,38.0,run,176,1,176/3,"Nadeem Ahmed to Morea, 1 run",,,3
+543,229,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,38.1,no run,176,0,176/3,"Haseeb Amjad to Morea, no run",,,3
+544,230,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,38.2,no run,176,0,176/3,"Haseeb Amjad to Morea, no run",,,3
+545,231,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 3 runs ",2nd innings,38.3,run,179,3,179/3,"Haseeb Amjad to Morea, 3 runs",,,3
+546,232,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, no run ",2nd innings,38.4,no run,179,0,179/3,"Haseeb Amjad to Siaka, no run",,,3
+547,233,Lega Siaka,440990,Haseeb Amjad,539305,"Haseeb Amjad to Siaka, 1 run ",2nd innings,38.5,run,180,1,180/3,"Haseeb Amjad to Siaka, 1 run",,,3
+548,234,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,39.0,no run,180,0,180/3,"Haseeb Amjad to Morea, no run",,,3
+549,235,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,39.1,no run,180,0,180/3,"Nadeem Ahmed to Siaka, no run",,,3
+550,236,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, no run ",2nd innings,39.2,no run,180,0,180/3,"Nadeem Ahmed to Siaka, no run",,,3
+551,237,Lega Siaka,440990,Nadeem Ahmed,24230,"Nadeem Ahmed to Siaka, 1 run ",2nd innings,39.3,run,181,1,181/3,"Nadeem Ahmed to Siaka, 1 run",,,3
+552,238,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,39.4,no run,181,0,181/3,"Nadeem Ahmed to Morea, no run",,,3
+553,239,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,39.5,no run,181,0,181/3,"Nadeem Ahmed to Morea, no run",,,3
+554,240,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,40.0,no run,181,0,181/3,"Nadeem Ahmed to Morea, no run",,,3
+555,241,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, no run ",2nd innings,40.1,no run,181,0,181/3,"Irfan Ahmed to Siaka, no run",,,3
+556,242,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,40.2,run,182,1,182/3,"Irfan Ahmed to Siaka, 1 run",,,3
+557,242,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 wide ",2nd innings,40.2,wide,183,1,183/3,"Irfan Ahmed to Morea, 1 wide",,,3
+558,243,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 run ",2nd innings,40.3,run,184,1,184/3,"Irfan Ahmed to Morea, 1 run",,,3
+559,244,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,40.4,run,185,1,185/3,"Irfan Ahmed to Siaka, 1 run",,,3
+560,245,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 run ",2nd innings,40.5,run,186,1,186/3,"Irfan Ahmed to Morea, 1 run",,,3
+561,246,Lega Siaka,440990,Irfan Ahmed,208253,"Irfan Ahmed to Siaka, 1 run ",2nd innings,41.0,run,187,1,187/3,"Irfan Ahmed to Siaka, 1 run",,,3
+562,247,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 2 runs ",2nd innings,41.1,run,189,2,189/3,"Aizaz Khan to Siaka, 2 runs",,,3
+563,248,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run ",2nd innings,41.2,run,190,1,190/3,"Aizaz Khan to Siaka, 1 run",,,3
+564,249,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 1 run ",2nd innings,41.3,run,191,1,191/3,"Aizaz Khan to Morea, 1 run",,,3
+565,250,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 2 runs ",2nd innings,41.4,run,193,2,193/3,"Aizaz Khan to Siaka, 2 runs",,,3
+566,251,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, no run ",2nd innings,41.5,no run,193,0,193/3,"Aizaz Khan to Siaka, no run",,,3
+567,252,Lega Siaka,440990,Aizaz Khan,401540,"Aizaz Khan to Siaka, 1 run, OUT ",2nd innings,42.0,run,194,1,194/3,"Aizaz Khan to Siaka, 1 run, OUT",,,3
+568,253,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 2 runs ",2nd innings,42.1,run,196,2,196/3,"Irfan Ahmed to Morea, 2 runs",,,3
+569,254,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, no run ",2nd innings,42.2,no run,196,0,196/3,"Irfan Ahmed to Morea, no run",,,3
+570,255,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, FOUR runs ",2nd innings,42.3,four,200,4,200/3,"Irfan Ahmed to Morea, FOUR runs",,,3
+571,256,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, 1 run ",2nd innings,42.4,run,201,1,201/3,"Irfan Ahmed to Morea, 1 run",,,3
+572,257,Mahuru Dai,25051,Irfan Ahmed,208253,"Irfan Ahmed to Dai, FOUR runs ",2nd innings,42.5,four,205,4,205/3,"Irfan Ahmed to Dai, FOUR runs",,,3
+573,258,Mahuru Dai,25051,Irfan Ahmed,208253,"Irfan Ahmed to Dai, 1 leg bye ",2nd innings,43.0,leg bye,206,1,206/4,"Irfan Ahmed to Dai, 1 leg bye",,,4
+574,258,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 wide ",2nd innings,43.0,wide,207,1,207/4,"Aizaz Khan to Dai, 1 wide",,,4
+575,259,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 run ",2nd innings,43.1,run,208,1,208/4,"Aizaz Khan to Dai, 1 run",,,4
+576,260,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 2 runs ",2nd innings,43.2,run,210,2,210/4,"Aizaz Khan to Morea, 2 runs",,,4
+577,260,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 1 wide ",2nd innings,43.2,wide,211,1,211/4,"Aizaz Khan to Morea, 1 wide",,,4
+578,261,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 2 runs ",2nd innings,43.3,run,213,2,213/4,"Aizaz Khan to Morea, 2 runs",,,4
+579,262,Vani Morea,387435,Aizaz Khan,401540,"Aizaz Khan to Morea, 1 run ",2nd innings,43.4,run,214,1,214/4,"Aizaz Khan to Morea, 1 run",,,4
+580,263,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, FOUR runs ",2nd innings,43.5,four,218,4,218/4,"Aizaz Khan to Dai, FOUR runs",,,4
+581,264,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,44.0,no run,218,0,218/4,"Aizaz Khan to Dai, no run",,,4
+582,265,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,44.1,run,219,1,219/4,"Haseeb Amjad to Morea, 1 run",,,4
+583,266,Mahuru Dai,25051,Haseeb Amjad,539305,"Haseeb Amjad to Dai, no run ",2nd innings,44.2,no run,219,0,219/4,"Haseeb Amjad to Dai, no run",,,4
+584,267,Mahuru Dai,25051,Haseeb Amjad,539305,"Haseeb Amjad to Dai, FOUR runs ",2nd innings,44.3,four,223,4,223/4,"Haseeb Amjad to Dai, FOUR runs",,,4
+585,268,Mahuru Dai,25051,Haseeb Amjad,539305,"Haseeb Amjad to Dai, 1 run ",2nd innings,44.4,run,224,1,224/4,"Haseeb Amjad to Dai, 1 run",,,4
+586,269,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,44.5,run,225,1,225/4,"Haseeb Amjad to Morea, 1 run",,,4
+587,270,Mahuru Dai,25051,Haseeb Amjad,539305,"Haseeb Amjad to Dai, 1 run ",2nd innings,45.0,run,226,1,226/4,"Haseeb Amjad to Dai, 1 run",,,4
+588,271,Mahuru Dai,25051,Nadeem Ahmed,24230,"Nadeem Ahmed to Dai, no run ",2nd innings,45.1,no run,226,0,226/4,"Nadeem Ahmed to Dai, no run",,,4
+589,272,Mahuru Dai,25051,Nadeem Ahmed,24230,"Nadeem Ahmed to Dai, 2 runs ",2nd innings,45.2,run,228,2,228/4,"Nadeem Ahmed to Dai, 2 runs",,,4
+590,273,Mahuru Dai,25051,Nadeem Ahmed,24230,"Nadeem Ahmed to Dai, OUT ",2nd innings,45.3,out,228,0,228/5,"Nadeem Ahmed to Dai, OUT",,,5
+591,274,Charles Amini,332980,Nadeem Ahmed,24230,"Nadeem Ahmed to CJA Amini, OUT ",2nd innings,45.4,out,228,0,228/6,"Nadeem Ahmed to CJA Amini, OUT",,,6
+592,275,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, no run ",2nd innings,45.5,no run,228,0,228/6,"Nadeem Ahmed to Vare, no run",,,6
+593,276,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, 1 run ",2nd innings,46.0,run,229,1,229/6,"Nadeem Ahmed to Vare, 1 run",,,6
+594,277,Jack Vare,25065,Haseeb Amjad,539305,"Haseeb Amjad to Vare, FOUR runs ",2nd innings,46.1,four,233,4,233/6,"Haseeb Amjad to Vare, FOUR runs",,,6
+595,278,Jack Vare,25065,Haseeb Amjad,539305,"Haseeb Amjad to Vare, FOUR runs ",2nd innings,46.2,four,237,4,237/6,"Haseeb Amjad to Vare, FOUR runs",,,6
+596,279,Jack Vare,25065,Haseeb Amjad,539305,"Haseeb Amjad to Vare, OUT ",2nd innings,46.3,out,237,0,237/7,"Haseeb Amjad to Vare, OUT",,,7
+597,280,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, FOUR runs ",2nd innings,46.4,four,241,4,241/7,"Haseeb Amjad to Morea, FOUR runs",,,7
+598,281,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,46.5,no run,241,0,241/7,"Haseeb Amjad to Morea, no run",,,7
+599,282,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,47.0,run,242,1,242/7,"Haseeb Amjad to Morea, 1 run",,,7
+600,283,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,47.1,no run,242,0,242/7,"Nadeem Ahmed to Morea, no run",,,7
+601,284,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,47.2,no run,242,0,242/7,"Nadeem Ahmed to Morea, no run",,,7
+602,285,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, FOUR runs ",2nd innings,47.3,four,246,4,246/7,"Nadeem Ahmed to Morea, FOUR runs",,,7
+603,286,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, 2 runs ",2nd innings,47.4,run,248,2,248/7,"Nadeem Ahmed to Morea, 2 runs",,,7
+604,286,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, (no ball) 2 runs ",2nd innings,47.4,run,251,3,251/7,"Nadeem Ahmed to Morea, (no ball) 2 runs",,,7
+605,287,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,47.5,no run,251,0,251/7,"Nadeem Ahmed to Morea, no run",,,7
+606,288,Vani Morea,387435,Nadeem Ahmed,24230,"Nadeem Ahmed to Morea, no run ",2nd innings,48.0,no run,251,0,251/7,"Nadeem Ahmed to Morea, no run",,,7
+607,289,Chris Amini,25053,Haseeb Amjad,539305,"Haseeb Amjad to CR Amini, 1 run ",2nd innings,48.1,run,252,1,252/7,"Haseeb Amjad to CR Amini, 1 run",,,7
+608,290,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, no run ",2nd innings,48.2,no run,252,0,252/7,"Haseeb Amjad to Morea, no run",,,7
+609,291,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 2 runs ",2nd innings,48.3,run,254,2,254/7,"Haseeb Amjad to Morea, 2 runs",,,7
+610,291,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 wide ",2nd innings,48.3,wide,255,1,255/7,"Haseeb Amjad to Morea, 1 wide",,,7
+611,292,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 1 run ",2nd innings,48.4,run,256,1,256/7,"Haseeb Amjad to Morea, 1 run",,,7
+612,293,Chris Amini,25053,Haseeb Amjad,539305,"Haseeb Amjad to CR Amini, 1 run ",2nd innings,48.5,run,257,1,257/7,"Haseeb Amjad to CR Amini, 1 run",,,7
+613,294,Vani Morea,387435,Haseeb Amjad,539305,"Haseeb Amjad to Morea, 2 runs ",2nd innings,49.0,run,259,2,259/7,"Haseeb Amjad to Morea, 2 runs",,,7
+614,295,Chris Amini,25053,Irfan Ahmed,208253,"Irfan Ahmed to CR Amini, 1 run ",2nd innings,49.1,run,260,1,260/7,"Irfan Ahmed to CR Amini, 1 run",,,7
+615,296,Vani Morea,387435,Irfan Ahmed,208253,"Irfan Ahmed to Morea, FOUR runs ",2nd innings,49.2,four,264,4,264/7,"Irfan Ahmed to Morea, FOUR runs",,,7

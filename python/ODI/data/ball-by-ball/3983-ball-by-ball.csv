@@ -1,0 +1,592 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,0.1,no run,0,0,0/0,"Wheal to Mohammad Shahzad, no run",,,0
+1,2,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, 1 run ",1st innings,0.2,run,1,1,1/0,"Wheal to Mohammad Shahzad, 1 run",,,0
+2,3,Ihsanullah,703323,Brad Wheal,807535,"Wheal to Ihsanullah, no run ",1st innings,0.3,no run,1,0,1/0,"Wheal to Ihsanullah, no run",,,0
+3,4,Ihsanullah,703323,Brad Wheal,807535,"Wheal to Ihsanullah, no run ",1st innings,0.4,no run,1,0,1/0,"Wheal to Ihsanullah, no run",,,0
+4,5,Ihsanullah,703323,Brad Wheal,807535,"Wheal to Ihsanullah, no run ",1st innings,0.5,no run,1,0,1/0,"Wheal to Ihsanullah, no run",,,0
+5,6,Ihsanullah,703323,Brad Wheal,807535,"Wheal to Ihsanullah, OUT ",1st innings,1.0,out,1,0,1/1,"Wheal to Ihsanullah, OUT",,,1
+6,7,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,1.1,no run,1,0,1/1,"Sharif to Mohammad Shahzad, no run",,,1
+7,8,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 1 run ",1st innings,1.2,run,2,1,2/1,"Sharif to Mohammad Shahzad, 1 run",,,1
+8,9,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, no run ",1st innings,1.3,no run,2,0,2/1,"Sharif to Rahmat Shah, no run",,,1
+9,10,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, no run ",1st innings,1.4,no run,2,0,2/1,"Sharif to Rahmat Shah, no run",,,1
+10,11,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, no run ",1st innings,1.5,no run,2,0,2/1,"Sharif to Rahmat Shah, no run",,,1
+11,12,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, no run ",1st innings,2.0,no run,2,0,2/1,"Sharif to Rahmat Shah, no run",,,1
+12,13,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,2.1,no run,2,0,2/1,"Wheal to Mohammad Shahzad, no run",,,1
+13,14,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,2.2,no run,2,0,2/1,"Wheal to Mohammad Shahzad, no run",,,1
+14,15,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,2.3,no run,2,0,2/1,"Wheal to Mohammad Shahzad, no run",,,1
+15,16,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,2.4,no run,2,0,2/1,"Wheal to Mohammad Shahzad, no run",,,1
+16,17,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, 1 run ",1st innings,2.5,run,3,1,3/1,"Wheal to Mohammad Shahzad, 1 run",,,1
+17,18,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, no run ",1st innings,3.0,no run,3,0,3/1,"Wheal to Rahmat Shah, no run",,,1
+18,19,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 1 leg bye ",1st innings,3.1,leg bye,4,1,4/1,"Sharif to Mohammad Shahzad, 1 leg bye",,,1
+19,20,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, no run ",1st innings,3.2,no run,4,0,4/1,"Sharif to Rahmat Shah, no run",,,1
+20,21,Rahmat Shah,533956,Safyaan Sharif,414970,"Sharif to Rahmat Shah, 3 runs ",1st innings,3.3,run,7,3,7/1,"Sharif to Rahmat Shah, 3 runs",,,1
+21,22,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,3.4,no run,7,0,7/1,"Sharif to Mohammad Shahzad, no run",,,1
+22,23,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,3.5,no run,7,0,7/1,"Sharif to Mohammad Shahzad, no run",,,1
+23,24,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,4.0,no run,7,0,7/1,"Sharif to Mohammad Shahzad, no run",,,1
+24,25,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, no run ",1st innings,4.1,no run,7,0,7/1,"Wheal to Rahmat Shah, no run",,,1
+25,26,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, no run ",1st innings,4.2,no run,7,0,7/1,"Wheal to Rahmat Shah, no run",,,1
+26,27,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, 2 runs ",1st innings,4.3,run,9,2,9/1,"Wheal to Rahmat Shah, 2 runs",,,1
+27,28,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, no run ",1st innings,4.4,no run,9,0,9/1,"Wheal to Rahmat Shah, no run",,,1
+28,29,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, 2 runs ",1st innings,4.5,run,11,2,11/1,"Wheal to Rahmat Shah, 2 runs",,,1
+29,30,Rahmat Shah,533956,Brad Wheal,807535,"Wheal to Rahmat Shah, no run ",1st innings,5.0,no run,11,0,11/1,"Wheal to Rahmat Shah, no run",,,1
+30,31,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,5.1,no run,11,0,11/1,"Sharif to Mohammad Shahzad, no run",,,1
+31,32,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,5.2,no run,11,0,11/1,"Sharif to Mohammad Shahzad, no run",,,1
+32,33,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, FOUR runs ",1st innings,5.3,four,15,4,15/1,"Sharif to Mohammad Shahzad, FOUR runs",,,1
+33,34,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,5.4,no run,15,0,15/1,"Sharif to Mohammad Shahzad, no run",,,1
+34,35,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,5.5,no run,15,0,15/1,"Sharif to Mohammad Shahzad, no run",,,1
+35,36,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 2 runs ",1st innings,6.0,run,17,2,17/1,"Sharif to Mohammad Shahzad, 2 runs",,,1
+36,37,Rahmat Shah,533956,Richie Berrington,25490,"Berrington to Rahmat Shah, OUT ",1st innings,6.1,out,17,0,17/2,"Berrington to Rahmat Shah, OUT",,,2
+37,38,Nasir Jamal,524048,Richie Berrington,25490,"Berrington to Nasir Jamal, no run ",1st innings,6.2,no run,17,0,17/2,"Berrington to Nasir Jamal, no run",,,2
+38,39,Nasir Jamal,524048,Richie Berrington,25490,"Berrington to Nasir Jamal, 1 run ",1st innings,6.3,run,18,1,18/2,"Berrington to Nasir Jamal, 1 run",,,2
+39,40,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,6.4,no run,18,0,18/2,"Berrington to Mohammad Shahzad, no run",,,2
+40,41,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,6.5,no run,18,0,18/2,"Berrington to Mohammad Shahzad, no run",,,2
+41,42,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,7.0,no run,18,0,18/2,"Berrington to Mohammad Shahzad, no run",,,2
+42,43,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,7.1,no run,18,0,18/2,"Watt to Nasir Jamal, no run",,,2
+43,44,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,7.2,no run,18,0,18/2,"Watt to Nasir Jamal, no run",,,2
+44,45,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, 2 runs ",1st innings,7.3,run,20,2,20/2,"Watt to Nasir Jamal, 2 runs",,,2
+45,46,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,7.4,no run,20,0,20/2,"Watt to Nasir Jamal, no run",,,2
+46,47,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,7.5,no run,20,0,20/2,"Watt to Nasir Jamal, no run",,,2
+47,48,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,8.0,no run,20,0,20/2,"Watt to Nasir Jamal, no run",,,2
+48,49,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,8.1,no run,20,0,20/2,"Wheal to Mohammad Shahzad, no run",,,2
+49,50,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,8.2,no run,20,0,20/2,"Wheal to Mohammad Shahzad, no run",,,2
+50,51,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, 1 run ",1st innings,8.3,run,21,1,21/2,"Wheal to Mohammad Shahzad, 1 run",,,2
+51,52,Nasir Jamal,524048,Brad Wheal,807535,"Wheal to Nasir Jamal, no run ",1st innings,8.4,no run,21,0,21/2,"Wheal to Nasir Jamal, no run",,,2
+52,53,Nasir Jamal,524048,Brad Wheal,807535,"Wheal to Nasir Jamal, no run ",1st innings,8.5,no run,21,0,21/2,"Wheal to Nasir Jamal, no run",,,2
+53,54,Nasir Jamal,524048,Brad Wheal,807535,"Wheal to Nasir Jamal, no run ",1st innings,9.0,no run,21,0,21/2,"Wheal to Nasir Jamal, no run",,,2
+54,54,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 1 wide ",1st innings,9.0,wide,22,1,22/2,"Sharif to Mohammad Shahzad, 1 wide",,,2
+55,55,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,9.1,no run,22,0,22/2,"Sharif to Mohammad Shahzad, no run",,,2
+56,56,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, no run ",1st innings,9.2,no run,22,0,22/2,"Sharif to Mohammad Shahzad, no run",,,2
+57,57,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 1 run ",1st innings,9.3,run,23,1,23/2,"Sharif to Mohammad Shahzad, 1 run",,,2
+58,58,Nasir Jamal,524048,Safyaan Sharif,414970,"Sharif to Nasir Jamal, no run ",1st innings,9.4,no run,23,0,23/2,"Sharif to Nasir Jamal, no run",,,2
+59,59,Nasir Jamal,524048,Safyaan Sharif,414970,"Sharif to Nasir Jamal, no run ",1st innings,9.5,no run,23,0,23/2,"Sharif to Nasir Jamal, no run",,,2
+60,60,Nasir Jamal,524048,Safyaan Sharif,414970,"Sharif to Nasir Jamal, FOUR runs ",1st innings,10.0,four,27,4,27/2,"Sharif to Nasir Jamal, FOUR runs",,,2
+61,61,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,10.1,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+62,62,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,10.2,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+63,63,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,10.3,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+64,64,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,10.4,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+65,65,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,10.5,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+66,66,Mohammad Shahzad,419873,Brad Wheal,807535,"Wheal to Mohammad Shahzad, no run ",1st innings,11.0,no run,27,0,27/2,"Wheal to Mohammad Shahzad, no run",,,2
+67,67,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,11.1,no run,27,0,27/2,"Watt to Nasir Jamal, no run",,,2
+68,68,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,11.2,no run,27,0,27/2,"Watt to Nasir Jamal, no run",,,2
+69,69,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,11.3,no run,27,0,27/2,"Watt to Nasir Jamal, no run",,,2
+70,70,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,11.4,no run,27,0,27/2,"Watt to Nasir Jamal, no run",,,2
+71,71,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, 2 leg byes ",1st innings,11.5,leg bye,29,2,29/2,"Watt to Nasir Jamal, 2 leg byes",,,2
+72,72,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, 1 run ",1st innings,12.0,run,30,1,30/2,"Watt to Nasir Jamal, 1 run",,,2
+73,73,Nasir Jamal,524048,Richie Berrington,25490,"Berrington to Nasir Jamal, 1 run ",1st innings,12.1,run,31,1,31/2,"Berrington to Nasir Jamal, 1 run",,,2
+74,74,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, 2 runs ",1st innings,12.2,run,33,2,33/2,"Berrington to Mohammad Shahzad, 2 runs",,,2
+75,75,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,12.3,no run,33,0,33/2,"Berrington to Mohammad Shahzad, no run",,,2
+76,76,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,12.4,no run,33,0,33/2,"Berrington to Mohammad Shahzad, no run",,,2
+77,77,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,12.5,no run,33,0,33/2,"Berrington to Mohammad Shahzad, no run",,,2
+78,78,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, 1 run ",1st innings,13.0,run,34,1,34/2,"Berrington to Mohammad Shahzad, 1 run",,,2
+79,79,Mohammad Shahzad,419873,Mark Watt,659081,"Watt to Mohammad Shahzad, FOUR runs ",1st innings,13.1,four,38,4,38/2,"Watt to Mohammad Shahzad, FOUR runs",,,2
+80,80,Mohammad Shahzad,419873,Mark Watt,659081,"Watt to Mohammad Shahzad, no run ",1st innings,13.2,no run,38,0,38/2,"Watt to Mohammad Shahzad, no run",,,2
+81,81,Mohammad Shahzad,419873,Mark Watt,659081,"Watt to Mohammad Shahzad, 1 run ",1st innings,13.3,run,39,1,39/2,"Watt to Mohammad Shahzad, 1 run",,,2
+82,82,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, FOUR runs ",1st innings,13.4,four,43,4,43/2,"Watt to Nasir Jamal, FOUR runs",,,2
+83,83,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, no run ",1st innings,13.5,no run,43,0,43/2,"Watt to Nasir Jamal, no run",,,2
+84,84,Nasir Jamal,524048,Mark Watt,659081,"Watt to Nasir Jamal, 1 run ",1st innings,14.0,run,44,1,44/2,"Watt to Nasir Jamal, 1 run",,,2
+85,85,Nasir Jamal,524048,Richie Berrington,25490,"Berrington to Nasir Jamal, 1 run ",1st innings,14.1,run,45,1,45/2,"Berrington to Nasir Jamal, 1 run",,,2
+86,86,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,14.2,no run,45,0,45/2,"Berrington to Mohammad Shahzad, no run",,,2
+87,87,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, no run ",1st innings,14.3,no run,45,0,45/2,"Berrington to Mohammad Shahzad, no run",,,2
+88,88,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, 1 run ",1st innings,14.4,run,46,1,46/2,"Berrington to Mohammad Shahzad, 1 run",,,2
+89,89,Nasir Jamal,524048,Richie Berrington,25490,"Berrington to Nasir Jamal, OUT ",1st innings,14.5,out,46,0,46/3,"Berrington to Nasir Jamal, OUT",,,3
+90,89,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 wide ",1st innings,14.5,wide,47,1,47/3,"Berrington to Mohammad Nabi, 1 wide",,,3
+91,90,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 2 runs ",1st innings,15.0,run,49,2,49/3,"Berrington to Mohammad Nabi, 2 runs",,,3
+92,90,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, 1 wide ",1st innings,15.0,wide,50,1,50/3,"Sole to Mohammad Shahzad, 1 wide",,,3
+93,91,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, no run ",1st innings,15.1,no run,50,0,50/3,"Sole to Mohammad Shahzad, no run",,,3
+94,92,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, no run ",1st innings,15.2,no run,50,0,50/3,"Sole to Mohammad Shahzad, no run",,,3
+95,93,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, FOUR runs ",1st innings,15.3,four,54,4,54/3,"Sole to Mohammad Shahzad, FOUR runs",,,3
+96,94,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, no run ",1st innings,15.4,no run,54,0,54/3,"Sole to Mohammad Shahzad, no run",,,3
+97,95,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, no run ",1st innings,15.5,no run,54,0,54/3,"Sole to Mohammad Shahzad, no run",,,3
+98,96,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, 1 run ",1st innings,16.0,run,55,1,55/3,"Sole to Mohammad Shahzad, 1 run",,,3
+99,97,Mohammad Shahzad,419873,Safyaan Sharif,414970,"Sharif to Mohammad Shahzad, 1 run ",1st innings,16.1,run,56,1,56/3,"Sharif to Mohammad Shahzad, 1 run",,,3
+100,98,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, no run ",1st innings,16.2,no run,56,0,56/3,"Sharif to Mohammad Nabi, no run",,,3
+101,99,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, no run ",1st innings,16.3,no run,56,0,56/3,"Sharif to Mohammad Nabi, no run",,,3
+102,100,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, FOUR runs ",1st innings,16.4,four,60,4,60/3,"Sharif to Mohammad Nabi, FOUR runs",,,3
+103,101,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, no run ",1st innings,16.5,no run,60,0,60/3,"Sharif to Mohammad Nabi, no run",,,3
+104,102,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, 1 run ",1st innings,17.0,run,61,1,61/3,"Sharif to Mohammad Nabi, 1 run",,,3
+105,103,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,17.1,no run,61,0,61/3,"Sole to Mohammad Nabi, no run",,,3
+106,104,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,17.2,no run,61,0,61/3,"Sole to Mohammad Nabi, no run",,,3
+107,105,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, FOUR runs ",1st innings,17.3,four,65,4,65/3,"Sole to Mohammad Nabi, FOUR runs",,,3
+108,106,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,17.4,no run,65,0,65/3,"Sole to Mohammad Nabi, no run",,,3
+109,107,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,17.5,run,66,1,66/3,"Sole to Mohammad Nabi, 1 run",,,3
+110,108,Mohammad Shahzad,419873,Tom Sole,526492,"Sole to Mohammad Shahzad, FOUR runs ",1st innings,18.0,four,70,4,70/3,"Sole to Mohammad Shahzad, FOUR runs",,,3
+111,109,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, no run ",1st innings,18.1,no run,70,0,70/3,"Berrington to Mohammad Nabi, no run",,,3
+112,110,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, no run ",1st innings,18.2,no run,70,0,70/3,"Berrington to Mohammad Nabi, no run",,,3
+113,111,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,18.3,run,71,1,71/3,"Berrington to Mohammad Nabi, 1 run",,,3
+114,112,Mohammad Shahzad,419873,Richie Berrington,25490,"Berrington to Mohammad Shahzad, OUT ",1st innings,18.4,out,71,0,71/4,"Berrington to Mohammad Shahzad, OUT",,,4
+115,113,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,18.5,no run,71,0,71/4,"Berrington to Najibullah Zadran, no run",,,4
+116,114,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,19.0,no run,71,0,71/4,"Berrington to Najibullah Zadran, no run",,,4
+117,115,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,19.1,no run,71,0,71/4,"Sole to Mohammad Nabi, no run",,,4
+118,116,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,19.2,run,72,1,72/4,"Sole to Mohammad Nabi, 1 run",,,4
+119,117,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,19.3,no run,72,0,72/4,"Sole to Najibullah Zadran, no run",,,4
+120,118,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 run ",1st innings,19.4,run,73,1,73/4,"Sole to Najibullah Zadran, 1 run",,,4
+121,119,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,19.5,no run,73,0,73/4,"Sole to Mohammad Nabi, no run",,,4
+122,120,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, FOUR runs ",1st innings,20.0,four,77,4,77/4,"Sole to Mohammad Nabi, FOUR runs",,,4
+123,121,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,20.1,no run,77,0,77/4,"Berrington to Najibullah Zadran, no run",,,4
+124,122,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,20.2,no run,77,0,77/4,"Berrington to Najibullah Zadran, no run",,,4
+125,123,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, FOUR runs ",1st innings,20.3,four,81,4,81/4,"Berrington to Najibullah Zadran, FOUR runs",,,4
+126,124,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,20.4,run,82,1,82/4,"Berrington to Najibullah Zadran, 1 run",,,4
+127,125,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,20.5,run,83,1,83/4,"Berrington to Mohammad Nabi, 1 run",,,4
+128,125,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 wide ",1st innings,20.5,wide,84,1,84/4,"Berrington to Najibullah Zadran, 1 wide",,,4
+129,125,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 wide ",1st innings,20.5,wide,85,1,85/4,"Berrington to Najibullah Zadran, 1 wide",,,4
+130,126,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,21.0,no run,85,0,85/4,"Berrington to Najibullah Zadran, no run",,,4
+131,127,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,21.1,no run,85,0,85/4,"Sole to Mohammad Nabi, no run",,,4
+132,128,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,21.2,no run,85,0,85/4,"Sole to Mohammad Nabi, no run",,,4
+133,129,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,21.3,no run,85,0,85/4,"Sole to Mohammad Nabi, no run",,,4
+134,130,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,21.4,no run,85,0,85/4,"Sole to Mohammad Nabi, no run",,,4
+135,131,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,21.5,run,86,1,86/4,"Sole to Mohammad Nabi, 1 run",,,4
+136,131,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 wide ",1st innings,21.5,wide,87,1,87/4,"Sole to Najibullah Zadran, 1 wide",,,4
+137,132,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,22.0,no run,87,0,87/4,"Sole to Najibullah Zadran, no run",,,4
+138,133,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, no run ",1st innings,22.1,no run,87,0,87/4,"Leask to Mohammad Nabi, no run",,,4
+139,134,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, FOUR runs ",1st innings,22.2,four,91,4,91/4,"Leask to Mohammad Nabi, FOUR runs",,,4
+140,135,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, 1 run ",1st innings,22.3,run,92,1,92/4,"Leask to Mohammad Nabi, 1 run",,,4
+141,136,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, 1 run ",1st innings,22.4,run,93,1,93/4,"Leask to Najibullah Zadran, 1 run",,,4
+142,137,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, no run ",1st innings,22.5,no run,93,0,93/4,"Leask to Mohammad Nabi, no run",,,4
+143,138,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, no run ",1st innings,23.0,no run,93,0,93/4,"Leask to Mohammad Nabi, no run",,,4
+144,139,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,23.1,no run,93,0,93/4,"Watt to Najibullah Zadran, no run",,,4
+145,140,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 1 run ",1st innings,23.2,run,94,1,94/4,"Watt to Najibullah Zadran, 1 run",,,4
+146,141,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 3 runs ",1st innings,23.3,run,97,3,97/4,"Watt to Mohammad Nabi, 3 runs",,,4
+147,142,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,23.4,no run,97,0,97/4,"Watt to Najibullah Zadran, no run",,,4
+148,143,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 1 run ",1st innings,23.5,run,98,1,98/4,"Watt to Najibullah Zadran, 1 run",,,4
+149,144,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 1 run ",1st innings,24.0,run,99,1,99/4,"Watt to Mohammad Nabi, 1 run",,,4
+150,145,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, 2 runs ",1st innings,24.1,run,101,2,101/4,"Leask to Mohammad Nabi, 2 runs",,,4
+151,146,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, no run ",1st innings,24.2,no run,101,0,101/4,"Leask to Mohammad Nabi, no run",,,4
+152,147,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, 1 run ",1st innings,24.3,run,102,1,102/4,"Leask to Mohammad Nabi, 1 run",,,4
+153,148,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, no run ",1st innings,24.4,no run,102,0,102/4,"Leask to Najibullah Zadran, no run",,,4
+154,149,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, 1 run ",1st innings,24.5,run,103,1,103/4,"Leask to Najibullah Zadran, 1 run",,,4
+155,150,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, 1 run ",1st innings,25.0,run,104,1,104/4,"Leask to Mohammad Nabi, 1 run",,,4
+156,151,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, no run ",1st innings,25.1,no run,104,0,104/4,"Watt to Mohammad Nabi, no run",,,4
+157,152,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, no run ",1st innings,25.2,no run,104,0,104/4,"Watt to Mohammad Nabi, no run",,,4
+158,153,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 2 runs ",1st innings,25.3,run,106,2,106/4,"Watt to Mohammad Nabi, 2 runs",,,4
+159,154,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, no run ",1st innings,25.4,no run,106,0,106/4,"Watt to Mohammad Nabi, no run",,,4
+160,155,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, no run ",1st innings,25.5,no run,106,0,106/4,"Watt to Mohammad Nabi, no run",,,4
+161,156,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, no run ",1st innings,26.0,no run,106,0,106/4,"Watt to Mohammad Nabi, no run",,,4
+162,157,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, 1 run ",1st innings,26.1,run,107,1,107/4,"Leask to Najibullah Zadran, 1 run",,,4
+163,158,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, no run ",1st innings,26.2,no run,107,0,107/4,"Leask to Mohammad Nabi, no run",,,4
+164,159,Mohammad Nabi,25913,Michael Leask,414966,"Leask to Mohammad Nabi, 1 run ",1st innings,26.3,run,108,1,108/4,"Leask to Mohammad Nabi, 1 run",,,4
+165,160,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, no run ",1st innings,26.4,no run,108,0,108/4,"Leask to Najibullah Zadran, no run",,,4
+166,161,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, no run ",1st innings,26.5,no run,108,0,108/4,"Leask to Najibullah Zadran, no run",,,4
+167,162,Najibullah Zadran,524049,Michael Leask,414966,"Leask to Najibullah Zadran, 1 run ",1st innings,27.0,run,109,1,109/4,"Leask to Najibullah Zadran, 1 run",,,4
+168,163,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,27.1,no run,109,0,109/4,"Watt to Najibullah Zadran, no run",,,4
+169,164,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,27.2,no run,109,0,109/4,"Watt to Najibullah Zadran, no run",,,4
+170,165,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 1 run ",1st innings,27.3,run,110,1,110/4,"Watt to Najibullah Zadran, 1 run",,,4
+171,166,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 1 run ",1st innings,27.4,run,111,1,111/4,"Watt to Mohammad Nabi, 1 run",,,4
+172,167,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,27.5,no run,111,0,111/4,"Watt to Najibullah Zadran, no run",,,4
+173,168,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 1 run ",1st innings,28.0,run,112,1,112/4,"Watt to Najibullah Zadran, 1 run",,,4
+174,169,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, 1 run ",1st innings,28.1,run,113,1,113/4,"Wheal to Najibullah Zadran, 1 run",,,4
+175,170,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, no run ",1st innings,28.2,no run,113,0,113/4,"Wheal to Mohammad Nabi, no run",,,4
+176,171,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, FOUR runs ",1st innings,28.3,four,117,4,117/4,"Wheal to Mohammad Nabi, FOUR runs",,,4
+177,172,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, no run ",1st innings,28.4,no run,117,0,117/4,"Wheal to Mohammad Nabi, no run",,,4
+178,173,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, 1 run ",1st innings,28.5,run,118,1,118/4,"Wheal to Mohammad Nabi, 1 run",,,4
+179,174,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, no run ",1st innings,29.0,no run,118,0,118/4,"Wheal to Najibullah Zadran, no run",,,4
+180,175,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 1 run ",1st innings,29.1,run,119,1,119/4,"Watt to Mohammad Nabi, 1 run",,,4
+181,176,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, no run ",1st innings,29.2,no run,119,0,119/4,"Watt to Najibullah Zadran, no run",,,4
+182,177,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, SIX runs ",1st innings,29.3,six,125,6,125/4,"Watt to Najibullah Zadran, SIX runs",,,4
+183,178,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 1 run ",1st innings,29.4,run,126,1,126/4,"Watt to Najibullah Zadran, 1 run",,,4
+184,179,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 1 run ",1st innings,29.5,run,127,1,127/4,"Watt to Mohammad Nabi, 1 run",,,4
+185,180,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 3 runs ",1st innings,30.0,run,130,3,130/4,"Watt to Najibullah Zadran, 3 runs",,,4
+186,181,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, no run ",1st innings,30.1,no run,130,0,130/4,"Wheal to Najibullah Zadran, no run",,,4
+187,182,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, no run ",1st innings,30.2,no run,130,0,130/4,"Wheal to Najibullah Zadran, no run",,,4
+188,183,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, no run ",1st innings,30.3,no run,130,0,130/4,"Wheal to Najibullah Zadran, no run",,,4
+189,184,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, FOUR runs ",1st innings,30.4,four,134,4,134/4,"Wheal to Najibullah Zadran, FOUR runs",,,4
+190,185,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, 1 run ",1st innings,30.5,run,135,1,135/4,"Wheal to Najibullah Zadran, 1 run",,,4
+191,186,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, 1 run ",1st innings,31.0,run,136,1,136/4,"Wheal to Mohammad Nabi, 1 run",,,4
+192,187,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 2 runs ",1st innings,31.1,run,138,2,138/4,"Sole to Mohammad Nabi, 2 runs",,,4
+193,188,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,31.2,run,139,1,139/4,"Sole to Mohammad Nabi, 1 run",,,4
+194,189,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,31.3,no run,139,0,139/4,"Sole to Najibullah Zadran, no run",,,4
+195,190,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,31.4,no run,139,0,139/4,"Sole to Najibullah Zadran, no run",,,4
+196,191,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,31.5,no run,139,0,139/4,"Sole to Najibullah Zadran, no run",,,4
+197,192,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,32.0,no run,139,0,139/4,"Sole to Najibullah Zadran, no run",,,4
+198,193,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,32.1,run,140,1,140/4,"Berrington to Mohammad Nabi, 1 run",,,4
+199,194,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,32.2,run,141,1,141/4,"Berrington to Najibullah Zadran, 1 run",,,4
+200,195,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, FOUR runs ",1st innings,32.3,four,145,4,145/4,"Berrington to Mohammad Nabi, FOUR runs",,,4
+201,196,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,32.4,run,146,1,146/4,"Berrington to Mohammad Nabi, 1 run",,,4
+202,197,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,32.5,no run,146,0,146/4,"Berrington to Najibullah Zadran, no run",,,4
+203,198,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,33.0,no run,146,0,146/4,"Berrington to Najibullah Zadran, no run",,,4
+204,199,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,33.1,no run,146,0,146/4,"Sole to Mohammad Nabi, no run",,,4
+205,200,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,33.2,no run,146,0,146/4,"Sole to Mohammad Nabi, no run",,,4
+206,201,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,33.3,no run,146,0,146/4,"Sole to Mohammad Nabi, no run",,,4
+207,202,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, no run ",1st innings,33.4,no run,146,0,146/4,"Sole to Mohammad Nabi, no run",,,4
+208,203,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,33.5,run,147,1,147/4,"Sole to Mohammad Nabi, 1 run",,,4
+209,204,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,34.0,no run,147,0,147/4,"Sole to Najibullah Zadran, no run",,,4
+210,205,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,34.1,run,148,1,148/4,"Berrington to Mohammad Nabi, 1 run",,,4
+211,206,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,34.2,no run,148,0,148/4,"Berrington to Najibullah Zadran, no run",,,4
+212,207,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,34.3,run,149,1,149/4,"Berrington to Najibullah Zadran, 1 run",,,4
+213,208,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,34.4,run,150,1,150/4,"Berrington to Mohammad Nabi, 1 run",,,4
+214,209,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,34.5,run,151,1,151/4,"Berrington to Najibullah Zadran, 1 run",,,4
+215,210,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, no run ",1st innings,35.0,no run,151,0,151/4,"Berrington to Mohammad Nabi, no run",,,4
+216,210,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 wide ",1st innings,35.0,wide,152,1,152/4,"Sole to Najibullah Zadran, 1 wide",,,4
+217,211,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 run ",1st innings,35.1,run,153,1,153/4,"Sole to Najibullah Zadran, 1 run",,,4
+218,212,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 2 runs ",1st innings,35.2,run,155,2,155/4,"Sole to Mohammad Nabi, 2 runs",,,4
+219,213,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,35.3,run,156,1,156/4,"Sole to Mohammad Nabi, 1 run",,,4
+220,214,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, FOUR runs ",1st innings,35.4,four,160,4,160/4,"Sole to Najibullah Zadran, FOUR runs",,,4
+221,215,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,35.5,no run,160,0,160/4,"Sole to Najibullah Zadran, no run",,,4
+222,216,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 run ",1st innings,36.0,run,161,1,161/4,"Sole to Najibullah Zadran, 1 run",,,4
+223,217,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,36.1,run,162,1,162/4,"Berrington to Najibullah Zadran, 1 run",,,4
+224,218,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, 1 run ",1st innings,36.2,run,163,1,163/4,"Berrington to Mohammad Nabi, 1 run",,,4
+225,219,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, no run ",1st innings,36.3,no run,163,0,163/4,"Berrington to Najibullah Zadran, no run",,,4
+226,220,Najibullah Zadran,524049,Richie Berrington,25490,"Berrington to Najibullah Zadran, 1 run ",1st innings,36.4,run,164,1,164/4,"Berrington to Najibullah Zadran, 1 run",,,4
+227,221,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, FOUR runs ",1st innings,36.5,four,168,4,168/4,"Berrington to Mohammad Nabi, FOUR runs",,,4
+228,222,Mohammad Nabi,25913,Richie Berrington,25490,"Berrington to Mohammad Nabi, no run ",1st innings,37.0,no run,168,0,168/4,"Berrington to Mohammad Nabi, no run",,,4
+229,223,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, FOUR runs ",1st innings,37.1,four,172,4,172/4,"Sole to Najibullah Zadran, FOUR runs",,,4
+230,224,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, no run ",1st innings,37.2,no run,172,0,172/4,"Sole to Najibullah Zadran, no run",,,4
+231,225,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, 1 run ",1st innings,37.3,run,173,1,173/4,"Sole to Najibullah Zadran, 1 run",,,4
+232,226,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, SIX runs ",1st innings,37.4,six,179,6,179/4,"Sole to Mohammad Nabi, SIX runs",,,4
+233,227,Mohammad Nabi,25913,Tom Sole,526492,"Sole to Mohammad Nabi, 1 run ",1st innings,37.5,run,180,1,180/4,"Sole to Mohammad Nabi, 1 run",,,4
+234,228,Najibullah Zadran,524049,Tom Sole,526492,"Sole to Najibullah Zadran, FOUR runs ",1st innings,38.0,four,184,4,184/4,"Sole to Najibullah Zadran, FOUR runs",,,4
+235,229,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, no run ",1st innings,38.1,no run,184,0,184/4,"Sharif to Mohammad Nabi, no run",,,4
+236,230,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, no run ",1st innings,38.2,no run,184,0,184/4,"Sharif to Mohammad Nabi, no run",,,4
+237,231,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, SIX runs ",1st innings,38.3,six,190,6,190/4,"Sharif to Mohammad Nabi, SIX runs",,,4
+238,232,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, 1 run ",1st innings,38.4,run,191,1,191/4,"Sharif to Mohammad Nabi, 1 run",,,4
+239,233,Najibullah Zadran,524049,Safyaan Sharif,414970,"Sharif to Najibullah Zadran, no run ",1st innings,38.5,no run,191,0,191/4,"Sharif to Najibullah Zadran, no run",,,4
+240,234,Najibullah Zadran,524049,Safyaan Sharif,414970,"Sharif to Najibullah Zadran, no run ",1st innings,39.0,no run,191,0,191/4,"Sharif to Najibullah Zadran, no run",,,4
+241,235,Mohammad Nabi,25913,Mark Watt,659081,"Watt to Mohammad Nabi, 1 run ",1st innings,39.1,run,192,1,192/4,"Watt to Mohammad Nabi, 1 run",,,4
+242,236,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 2 runs ",1st innings,39.2,run,194,2,194/4,"Watt to Najibullah Zadran, 2 runs",,,4
+243,237,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, FOUR runs ",1st innings,39.3,four,198,4,198/4,"Watt to Najibullah Zadran, FOUR runs",,,4
+244,238,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, SIX runs ",1st innings,39.4,six,204,6,204/4,"Watt to Najibullah Zadran, SIX runs",,,4
+245,239,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 2 runs ",1st innings,39.5,run,206,2,206/4,"Watt to Najibullah Zadran, 2 runs",,,4
+246,240,Najibullah Zadran,524049,Mark Watt,659081,"Watt to Najibullah Zadran, 2 runs ",1st innings,40.0,run,208,2,208/4,"Watt to Najibullah Zadran, 2 runs",,,4
+247,241,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, SIX runs ",1st innings,40.1,six,214,6,214/4,"Sharif to Mohammad Nabi, SIX runs",,,4
+248,242,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, 1 run ",1st innings,40.2,run,215,1,215/4,"Sharif to Mohammad Nabi, 1 run",,,4
+249,243,Najibullah Zadran,524049,Safyaan Sharif,414970,"Sharif to Najibullah Zadran, no run ",1st innings,40.3,no run,215,0,215/4,"Sharif to Najibullah Zadran, no run",,,4
+250,244,Najibullah Zadran,524049,Safyaan Sharif,414970,"Sharif to Najibullah Zadran, 1 run ",1st innings,40.4,run,216,1,216/4,"Sharif to Najibullah Zadran, 1 run",,,4
+251,245,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, 2 runs ",1st innings,40.5,run,218,2,218/4,"Sharif to Mohammad Nabi, 2 runs",,,4
+252,246,Mohammad Nabi,25913,Safyaan Sharif,414970,"Sharif to Mohammad Nabi, 1 run ",1st innings,41.0,run,219,1,219/4,"Sharif to Mohammad Nabi, 1 run",,,4
+253,247,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, 1 run ",1st innings,41.1,run,220,1,220/4,"Wheal to Mohammad Nabi, 1 run",,,4
+254,248,Najibullah Zadran,524049,Brad Wheal,807535,"Wheal to Najibullah Zadran, OUT ",1st innings,41.2,out,220,0,220/5,"Wheal to Najibullah Zadran, OUT",,,5
+255,249,Mohammad Nabi,25913,Brad Wheal,807535,"Wheal to Mohammad Nabi, OUT ",1st innings,41.3,out,220,0,220/6,"Wheal to Mohammad Nabi, OUT",,,6
+256,250,Sharafuddin Ashraf,633362,Brad Wheal,807535,"Wheal to Sharafuddin Ashraf, no run ",1st innings,41.4,no run,220,0,220/6,"Wheal to Sharafuddin Ashraf, no run",,,6
+257,251,Sharafuddin Ashraf,633362,Brad Wheal,807535,"Wheal to Sharafuddin Ashraf, no run ",1st innings,41.5,no run,220,0,220/6,"Wheal to Sharafuddin Ashraf, no run",,,6
+258,252,Sharafuddin Ashraf,633362,Brad Wheal,807535,"Wheal to Sharafuddin Ashraf, 1 run ",1st innings,42.0,run,221,1,221/6,"Wheal to Sharafuddin Ashraf, 1 run",,,6
+259,253,Sharafuddin Ashraf,633362,Safyaan Sharif,414970,"Sharif to Sharafuddin Ashraf, no run ",1st innings,42.1,no run,221,0,221/6,"Sharif to Sharafuddin Ashraf, no run",,,6
+260,254,Sharafuddin Ashraf,633362,Safyaan Sharif,414970,"Sharif to Sharafuddin Ashraf, no run ",1st innings,42.2,no run,221,0,221/6,"Sharif to Sharafuddin Ashraf, no run",,,6
+261,255,Sharafuddin Ashraf,633362,Safyaan Sharif,414970,"Sharif to Sharafuddin Ashraf, 1 run ",1st innings,42.3,run,222,1,222/6,"Sharif to Sharafuddin Ashraf, 1 run",,,6
+262,256,Gulbadin Naib,352048,Safyaan Sharif,414970,"Sharif to Gulbadin Naib, no run ",1st innings,42.4,no run,222,0,222/6,"Sharif to Gulbadin Naib, no run",,,6
+263,257,Gulbadin Naib,352048,Safyaan Sharif,414970,"Sharif to Gulbadin Naib, no run ",1st innings,42.5,no run,222,0,222/6,"Sharif to Gulbadin Naib, no run",,,6
+264,258,Gulbadin Naib,352048,Safyaan Sharif,414970,"Sharif to Gulbadin Naib, 1 run ",1st innings,43.0,run,223,1,223/6,"Sharif to Gulbadin Naib, 1 run",,,6
+265,259,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, 1 run ",1st innings,43.1,run,224,1,224/6,"Watt to Gulbadin Naib, 1 run",,,6
+266,260,Sharafuddin Ashraf,633362,Mark Watt,659081,"Watt to Sharafuddin Ashraf, 1 run ",1st innings,43.2,run,225,1,225/6,"Watt to Sharafuddin Ashraf, 1 run",,,6
+267,261,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, no run ",1st innings,43.3,no run,225,0,225/6,"Watt to Gulbadin Naib, no run",,,6
+268,262,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, 1 run ",1st innings,43.4,run,226,1,226/6,"Watt to Gulbadin Naib, 1 run",,,6
+269,263,Sharafuddin Ashraf,633362,Mark Watt,659081,"Watt to Sharafuddin Ashraf, no run ",1st innings,43.5,no run,226,0,226/6,"Watt to Sharafuddin Ashraf, no run",,,6
+270,264,Sharafuddin Ashraf,633362,Mark Watt,659081,"Watt to Sharafuddin Ashraf, no run ",1st innings,44.0,no run,226,0,226/6,"Watt to Sharafuddin Ashraf, no run",,,6
+271,265,Gulbadin Naib,352048,Richie Berrington,25490,"Berrington to Gulbadin Naib, 1 run ",1st innings,44.1,run,227,1,227/6,"Berrington to Gulbadin Naib, 1 run",,,6
+272,266,Sharafuddin Ashraf,633362,Richie Berrington,25490,"Berrington to Sharafuddin Ashraf, 1 run ",1st innings,44.2,run,228,1,228/6,"Berrington to Sharafuddin Ashraf, 1 run",,,6
+273,267,Gulbadin Naib,352048,Richie Berrington,25490,"Berrington to Gulbadin Naib, 1 run ",1st innings,44.3,run,229,1,229/6,"Berrington to Gulbadin Naib, 1 run",,,6
+274,268,Sharafuddin Ashraf,633362,Richie Berrington,25490,"Berrington to Sharafuddin Ashraf, no run ",1st innings,44.4,no run,229,0,229/6,"Berrington to Sharafuddin Ashraf, no run",,,6
+275,269,Sharafuddin Ashraf,633362,Richie Berrington,25490,"Berrington to Sharafuddin Ashraf, 1 run ",1st innings,44.5,run,230,1,230/6,"Berrington to Sharafuddin Ashraf, 1 run",,,6
+276,270,Gulbadin Naib,352048,Richie Berrington,25490,"Berrington to Gulbadin Naib, 1 run ",1st innings,45.0,run,232,1,232/6,"Berrington to Gulbadin Naib, 1 run",,,6
+277,271,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, no run ",1st innings,45.1,no run,232,0,232/6,"Watt to Gulbadin Naib, no run",,,6
+278,272,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, 1 run ",1st innings,45.2,run,233,1,233/6,"Watt to Gulbadin Naib, 1 run",,,6
+279,273,Sharafuddin Ashraf,633362,Mark Watt,659081,"Watt to Sharafuddin Ashraf, 1 run ",1st innings,45.3,run,234,1,234/6,"Watt to Sharafuddin Ashraf, 1 run",,,6
+280,274,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, no run ",1st innings,45.4,no run,234,0,234/6,"Watt to Gulbadin Naib, no run",,,6
+281,275,Gulbadin Naib,352048,Mark Watt,659081,"Watt to Gulbadin Naib, 1 run ",1st innings,45.5,run,235,1,235/6,"Watt to Gulbadin Naib, 1 run",,,6
+282,276,Sharafuddin Ashraf,633362,Mark Watt,659081,"Watt to Sharafuddin Ashraf, OUT ",1st innings,45.6,out,235,0,235/7,"Watt to Sharafuddin Ashraf, OUT",,,7
+283,277,Gulbadin Naib,352048,Safyaan Sharif,414970,"Sharif to Gulbadin Naib, 1 run ",1st innings,46.1,run,236,1,236/7,"Sharif to Gulbadin Naib, 1 run",,,7
+284,278,Rashid Khan,793463,Safyaan Sharif,414970,"Sharif to Rashid Khan, OUT ",1st innings,46.2,out,236,0,236/8,"Sharif to Rashid Khan, OUT",,,8
+285,279,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, no run ",1st innings,46.3,no run,236,0,236/8,"Sharif to Dawlat Zadran, no run",,,8
+286,280,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, no run ",1st innings,46.4,no run,236,0,236/8,"Sharif to Dawlat Zadran, no run",,,8
+287,281,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, no run ",1st innings,46.5,no run,236,0,236/8,"Sharif to Dawlat Zadran, no run",,,8
+288,282,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, no run ",1st innings,46.6,no run,236,0,236/8,"Sharif to Dawlat Zadran, no run",,,8
+289,283,Gulbadin Naib,352048,Brad Wheal,807535,"Wheal to Gulbadin Naib, 1 leg bye ",1st innings,47.1,leg bye,237,1,237/8,"Wheal to Gulbadin Naib, 1 leg bye",,,8
+290,284,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, 3 runs ",1st innings,47.2,run,240,3,240/8,"Wheal to Dawlat Zadran, 3 runs",,,8
+291,285,Gulbadin Naib,352048,Brad Wheal,807535,"Wheal to Gulbadin Naib, 1 run ",1st innings,47.3,run,241,1,241/8,"Wheal to Gulbadin Naib, 1 run",,,8
+292,286,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, 1 run ",1st innings,47.4,run,242,1,242/8,"Wheal to Dawlat Zadran, 1 run",,,8
+293,287,Gulbadin Naib,352048,Brad Wheal,807535,"Wheal to Gulbadin Naib, 1 run ",1st innings,47.5,run,243,1,243/8,"Wheal to Gulbadin Naib, 1 run",,,8
+294,288,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, 1 run ",1st innings,47.6,run,243,1,243/8,"Wheal to Dawlat Zadran, 1 run",,,8
+295,289,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, no run ",1st innings,48.1,no run,243,0,243/8,"Sharif to Dawlat Zadran, no run",,,8
+296,290,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, 2 runs ",1st innings,48.2,run,245,2,245/8,"Sharif to Dawlat Zadran, 2 runs",,,8
+297,291,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, 1 leg bye ",1st innings,48.3,leg bye,246,1,246/8,"Sharif to Dawlat Zadran, 1 leg bye",,,8
+298,292,Gulbadin Naib,352048,Safyaan Sharif,414970,"Sharif to Gulbadin Naib, OUT ",1st innings,48.4,out,246,0,246/9,"Sharif to Gulbadin Naib, OUT",,,9
+299,293,Dawlat Zadran,516561,Safyaan Sharif,414970,"Sharif to Dawlat Zadran, 1 run ",1st innings,48.5,run,247,1,247/9,"Sharif to Dawlat Zadran, 1 run",,,9
+300,294,Mujeeb Ur Rahman,974109,Safyaan Sharif,414970,"Sharif to Mujeeb Ur Rahman, no run ",1st innings,48.6,no run,248,0,248/9,"Sharif to Mujeeb Ur Rahman, no run",,,9
+301,295,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, no run ",1st innings,49.1,no run,248,0,248/9,"Wheal to Dawlat Zadran, no run",,,9
+302,296,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, SIX runs ",1st innings,49.2,six,254,6,254/9,"Wheal to Dawlat Zadran, SIX runs",,,9
+303,297,Dawlat Zadran,516561,Brad Wheal,807535,"Wheal to Dawlat Zadran, 1 run ",1st innings,49.3,run,255,1,255/9,"Wheal to Dawlat Zadran, 1 run",,,9
+304,298,Mujeeb Ur Rahman,974109,Brad Wheal,807535,"Wheal to Mujeeb Ur Rahman, OUT ",1st innings,49.4,out,255,0,255/10,"Wheal to Mujeeb Ur Rahman, OUT",,,10
+305,1,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,0.1,no run,0,0,0/0,"Dawlat Zadran to Cross, no run",,,0
+306,2,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,0.2,no run,0,0,0/0,"Dawlat Zadran to Cross, no run",,,0
+307,3,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, 2 runs ",2nd innings,0.3,run,2,2,2/0,"Dawlat Zadran to Cross, 2 runs",,,0
+308,4,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,0.4,no run,2,0,2/0,"Dawlat Zadran to Cross, no run",,,0
+309,5,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, 1 run ",2nd innings,0.5,run,3,1,3/0,"Dawlat Zadran to Cross, 1 run",,,0
+310,6,Kyle Coetzer,25446,Dawlat Zadran,516561,"Dawlat Zadran to Coetzer, 1 run ",2nd innings,0.6,run,4,1,4/0,"Dawlat Zadran to Coetzer, 1 run",,,0
+311,7,Kyle Coetzer,25446,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Coetzer, 1 run ",2nd innings,1.1,run,5,1,5/0,"Mujeeb Ur Rahman to Coetzer, 1 run",,,0
+312,8,Matthew Cross,417268,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Cross, 2 runs ",2nd innings,1.2,run,7,2,7/0,"Mujeeb Ur Rahman to Cross, 2 runs",,,0
+313,9,Matthew Cross,417268,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Cross, no run ",2nd innings,1.3,no run,7,0,7/0,"Mujeeb Ur Rahman to Cross, no run",,,0
+314,10,Matthew Cross,417268,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Cross, no run ",2nd innings,1.4,no run,7,0,7/0,"Mujeeb Ur Rahman to Cross, no run",,,0
+315,11,Matthew Cross,417268,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Cross, 1 run ",2nd innings,1.5,run,8,1,8/0,"Mujeeb Ur Rahman to Cross, 1 run",,,0
+316,12,Kyle Coetzer,25446,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Coetzer, no run ",2nd innings,1.6,no run,8,0,8/0,"Mujeeb Ur Rahman to Coetzer, no run",,,0
+317,13,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,2.1,no run,8,0,8/0,"Dawlat Zadran to Cross, no run",,,0
+318,14,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,2.2,no run,8,0,8/0,"Dawlat Zadran to Cross, no run",,,0
+319,15,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,2.3,no run,8,0,8/0,"Dawlat Zadran to Cross, no run",,,0
+320,16,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, FOUR runs ",2nd innings,2.4,four,12,4,12/0,"Dawlat Zadran to Cross, FOUR runs",,,0
+321,17,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,2.5,no run,12,0,12/0,"Dawlat Zadran to Cross, no run",,,0
+322,18,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, FOUR runs ",2nd innings,2.6,four,16,4,16/0,"Dawlat Zadran to Cross, FOUR runs",,,0
+323,19,Kyle Coetzer,25446,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Coetzer, no run ",2nd innings,3.1,no run,16,0,16/0,"Mujeeb Ur Rahman to Coetzer, no run",,,0
+324,20,Kyle Coetzer,25446,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Coetzer, no run ",2nd innings,3.2,no run,16,0,16/0,"Mujeeb Ur Rahman to Coetzer, no run",,,0
+325,21,Kyle Coetzer,25446,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Coetzer, OUT ",2nd innings,3.3,out,16,0,16/1,"Mujeeb Ur Rahman to Coetzer, OUT",,,1
+326,22,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,3.4,no run,16,0,16/1,"Mujeeb Ur Rahman to MacLeod, no run",,,1
+327,23,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,3.5,no run,16,0,16/1,"Mujeeb Ur Rahman to MacLeod, no run",,,1
+328,24,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,3.6,no run,16,0,16/1,"Mujeeb Ur Rahman to MacLeod, no run",,,1
+329,25,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,4.1,no run,16,0,16/1,"Dawlat Zadran to Cross, no run",,,1
+330,26,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,4.2,no run,16,0,16/1,"Dawlat Zadran to Cross, no run",,,1
+331,27,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,4.3,no run,16,0,16/1,"Dawlat Zadran to Cross, no run",,,1
+332,28,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, FOUR runs ",2nd innings,4.4,four,20,4,20/1,"Dawlat Zadran to Cross, FOUR runs",,,1
+333,29,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,4.5,no run,20,0,20/1,"Dawlat Zadran to Cross, no run",,,1
+334,30,Matthew Cross,417268,Dawlat Zadran,516561,"Dawlat Zadran to Cross, no run ",2nd innings,4.6,no run,20,0,20/1,"Dawlat Zadran to Cross, no run",,,1
+335,31,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,5.1,no run,20,0,20/1,"Mujeeb Ur Rahman to MacLeod, no run",,,1
+336,32,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,5.2,run,21,1,21/1,"Mujeeb Ur Rahman to MacLeod, 1 run",,,1
+337,33,Matthew Cross,417268,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Cross, OUT ",2nd innings,5.3,out,21,0,21/2,"Mujeeb Ur Rahman to Cross, OUT",,,2
+338,34,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,5.4,no run,21,0,21/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+339,35,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,5.5,no run,21,0,21/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+340,36,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,5.6,no run,21,0,21/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+341,37,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,6.1,no run,21,0,21/2,"Dawlat Zadran to MacLeod, no run",,,2
+342,38,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,6.2,no run,21,0,21/2,"Dawlat Zadran to MacLeod, no run",,,2
+343,39,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, 1 run ",2nd innings,6.3,run,22,1,22/2,"Dawlat Zadran to MacLeod, 1 run",,,2
+344,40,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,6.4,no run,22,0,22/2,"Dawlat Zadran to Berrington, no run",,,2
+345,41,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,6.5,no run,22,0,22/2,"Dawlat Zadran to Berrington, no run",,,2
+346,42,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,6.6,no run,22,0,22/2,"Dawlat Zadran to Berrington, no run",,,2
+347,43,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, FOUR runs ",2nd innings,7.1,four,26,4,26/2,"Mujeeb Ur Rahman to MacLeod, FOUR runs",,,2
+348,44,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,7.2,no run,26,0,26/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+349,45,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, FOUR runs ",2nd innings,7.3,four,30,4,30/2,"Mujeeb Ur Rahman to MacLeod, FOUR runs",,,2
+350,46,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,7.4,no run,30,0,30/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+351,47,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,7.5,run,31,1,31/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+352,48,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,7.6,no run,31,0,31/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+353,49,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,8.1,no run,31,0,31/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+354,50,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,8.2,run,32,1,32/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+355,51,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,8.3,no run,32,0,32/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+356,52,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,8.4,run,33,1,33/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+357,53,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,8.5,no run,33,0,33/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+358,54,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,8.6,run,34,1,34/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+359,55,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, FOUR runs ",2nd innings,9.1,four,38,4,38/2,"Mujeeb Ur Rahman to MacLeod, FOUR runs",,,2
+360,56,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,9.2,run,39,1,39/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+361,57,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,9.3,run,40,1,40/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+362,58,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,9.4,run,41,1,41/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+363,59,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,9.5,no run,41,0,41/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+364,60,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, FOUR runs ",2nd innings,9.6,four,45,4,45/2,"Mujeeb Ur Rahman to Berrington, FOUR runs",,,2
+365,61,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,10.1,run,46,1,46/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+366,62,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,10.2,no run,46,0,46/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+367,63,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,10.3,no run,46,0,46/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+368,64,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,10.4,run,47,1,47/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+369,65,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,10.5,no run,47,0,47/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+370,66,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, FOUR runs ",2nd innings,10.6,four,51,4,51/2,"Sharafuddin Ashraf to MacLeod, FOUR runs",,,2
+371,67,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,11.1,no run,51,0,51/2,"Mohammad Nabi to Berrington, no run",,,2
+372,68,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,11.2,run,52,1,52/2,"Mohammad Nabi to Berrington, 1 run",,,2
+373,69,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,11.3,no run,52,0,52/2,"Mohammad Nabi to MacLeod, no run",,,2
+374,70,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, FOUR runs ",2nd innings,11.4,four,56,4,56/2,"Mohammad Nabi to MacLeod, FOUR runs",,,2
+375,71,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,11.5,run,57,1,57/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+376,72,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,11.6,run,58,1,58/2,"Mohammad Nabi to Berrington, 1 run",,,2
+377,73,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,12.1,no run,58,0,58/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+378,74,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,12.2,no run,58,0,58/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+379,75,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,12.3,no run,58,0,58/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+380,76,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,12.4,run,59,1,59/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+381,77,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,12.5,no run,59,0,59/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+382,78,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,12.6,no run,59,0,59/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+383,79,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 3 runs ",2nd innings,13.1,run,62,3,62/2,"Mohammad Nabi to Berrington, 3 runs",,,2
+384,80,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,13.2,run,63,1,63/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+385,81,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,13.3,run,64,1,64/2,"Mohammad Nabi to Berrington, 1 run",,,2
+386,82,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,13.4,no run,64,0,64/2,"Mohammad Nabi to MacLeod, no run",,,2
+387,83,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,13.5,run,65,1,65/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+388,84,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,13.6,no run,65,0,65/2,"Mohammad Nabi to Berrington, no run",,,2
+389,85,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, FOUR runs ",2nd innings,14.1,four,69,4,69/2,"Sharafuddin Ashraf to MacLeod, FOUR runs",,,2
+390,86,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,14.2,no run,69,0,69/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+391,87,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,14.3,no run,69,0,69/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+392,88,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,14.4,run,70,1,70/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+393,89,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,14.5,no run,70,0,70/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+394,90,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,14.6,no run,70,0,70/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+395,91,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,15.1,no run,70,0,70/2,"Gulbadin Naib to MacLeod, no run",,,2
+396,92,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,15.2,no run,70,0,70/2,"Gulbadin Naib to MacLeod, no run",,,2
+397,93,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,15.3,no run,70,0,70/2,"Gulbadin Naib to MacLeod, no run",,,2
+398,94,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, 1 run ",2nd innings,15.4,run,71,1,71/2,"Gulbadin Naib to MacLeod, 1 run",,,2
+399,95,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, no run ",2nd innings,15.5,no run,71,0,71/2,"Gulbadin Naib to Berrington, no run",,,2
+400,96,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, no run ",2nd innings,15.6,no run,71,0,71/2,"Gulbadin Naib to Berrington, no run",,,2
+401,97,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,16.1,no run,71,0,71/2,"Rashid Khan to MacLeod, no run",,,2
+402,98,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,16.2,four,75,4,75/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+403,99,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,16.3,no run,75,0,75/2,"Rashid Khan to MacLeod, no run",,,2
+404,100,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,16.4,run,76,1,76/2,"Rashid Khan to MacLeod, 1 run",,,2
+405,101,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,16.5,run,77,1,77/2,"Rashid Khan to Berrington, 1 run",,,2
+406,102,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,16.6,four,81,4,81/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+407,103,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, 1 run ",2nd innings,17.1,run,82,1,82/2,"Gulbadin Naib to Berrington, 1 run",,,2
+408,104,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, 1 run ",2nd innings,17.2,run,83,1,83/2,"Gulbadin Naib to MacLeod, 1 run",,,2
+409,105,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, no run ",2nd innings,17.3,no run,83,0,83/2,"Gulbadin Naib to Berrington, no run",,,2
+410,106,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, no run ",2nd innings,17.4,no run,83,0,83/2,"Gulbadin Naib to Berrington, no run",,,2
+411,107,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, 2 runs ",2nd innings,17.5,run,85,2,85/2,"Gulbadin Naib to Berrington, 2 runs",,,2
+412,108,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, 1 run ",2nd innings,17.6,run,86,1,86/2,"Gulbadin Naib to Berrington, 1 run",,,2
+413,109,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,18.1,run,87,1,87/2,"Rashid Khan to Berrington, 1 run",,,2
+414,110,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,18.2,no run,87,0,87/2,"Rashid Khan to MacLeod, no run",,,2
+415,111,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,18.3,no run,87,0,87/2,"Rashid Khan to MacLeod, no run",,,2
+416,112,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,18.4,run,88,1,88/2,"Rashid Khan to MacLeod, 1 run",,,2
+417,113,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,18.5,run,89,1,89/2,"Rashid Khan to Berrington, 1 run",,,2
+418,114,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,18.6,run,90,1,90/2,"Rashid Khan to MacLeod, 1 run",,,2
+419,115,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, 1 run ",2nd innings,19.1,run,91,1,91/2,"Gulbadin Naib to MacLeod, 1 run",,,2
+420,116,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, no run ",2nd innings,19.2,no run,91,0,91/2,"Gulbadin Naib to Berrington, no run",,,2
+421,117,Richie Berrington,25490,Gulbadin Naib,352048,"Gulbadin Naib to Berrington, 1 run ",2nd innings,19.3,run,92,1,92/2,"Gulbadin Naib to Berrington, 1 run",,,2
+422,118,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, FOUR runs ",2nd innings,19.4,four,96,4,96/2,"Gulbadin Naib to MacLeod, FOUR runs",,,2
+423,119,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,19.5,no run,96,0,96/2,"Gulbadin Naib to MacLeod, no run",,,2
+424,120,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,19.6,no run,96,0,96/2,"Gulbadin Naib to MacLeod, no run",,,2
+425,121,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, 1 run ",2nd innings,20.1,run,97,1,97/2,"Dawlat Zadran to Berrington, 1 run",,,2
+426,122,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,20.2,no run,97,0,97/2,"Dawlat Zadran to MacLeod, no run",,,2
+427,123,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,20.3,no run,97,0,97/2,"Dawlat Zadran to MacLeod, no run",,,2
+428,124,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, FOUR runs ",2nd innings,20.4,four,101,4,101/2,"Dawlat Zadran to MacLeod, FOUR runs",,,2
+429,125,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,20.5,no run,101,0,101/2,"Dawlat Zadran to MacLeod, no run",,,2
+430,126,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, 1 run ",2nd innings,20.6,run,102,1,102/2,"Dawlat Zadran to MacLeod, 1 run",,,2
+431,127,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,21.1,no run,102,0,102/2,"Gulbadin Naib to MacLeod, no run",,,2
+432,128,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, FOUR runs ",2nd innings,21.2,four,106,4,106/2,"Gulbadin Naib to MacLeod, FOUR runs",,,2
+433,129,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, FOUR runs ",2nd innings,21.3,four,110,4,110/2,"Gulbadin Naib to MacLeod, FOUR runs",,,2
+434,130,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,21.4,no run,110,0,110/2,"Gulbadin Naib to MacLeod, no run",,,2
+435,131,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, no run ",2nd innings,21.5,no run,110,0,110/2,"Gulbadin Naib to MacLeod, no run",,,2
+436,132,Calum MacLeod,232435,Gulbadin Naib,352048,"Gulbadin Naib to MacLeod, 1 run ",2nd innings,21.6,run,111,1,111/2,"Gulbadin Naib to MacLeod, 1 run",,,2
+437,133,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, FOUR runs ",2nd innings,22.1,four,115,4,115/2,"Dawlat Zadran to MacLeod, FOUR runs",,,2
+438,134,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,22.2,no run,115,0,115/2,"Dawlat Zadran to MacLeod, no run",,,2
+439,135,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,22.3,no run,115,0,115/2,"Dawlat Zadran to MacLeod, no run",,,2
+440,136,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,22.4,no run,115,0,115/2,"Dawlat Zadran to MacLeod, no run",,,2
+441,137,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,22.5,no run,115,0,115/2,"Dawlat Zadran to MacLeod, no run",,,2
+442,138,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, 1 run ",2nd innings,22.6,run,116,1,116/2,"Dawlat Zadran to MacLeod, 1 run",,,2
+443,139,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,23.1,run,117,1,117/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+444,140,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,23.2,run,118,1,118/2,"Mohammad Nabi to Berrington, 1 run",,,2
+445,141,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,23.3,no run,118,0,118/2,"Mohammad Nabi to MacLeod, no run",,,2
+446,142,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,23.4,no run,118,0,118/2,"Mohammad Nabi to MacLeod, no run",,,2
+447,143,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,23.5,no run,118,0,118/2,"Mohammad Nabi to MacLeod, no run",,,2
+448,144,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,23.6,no run,118,0,118/2,"Mohammad Nabi to MacLeod, no run",,,2
+449,145,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,24.1,no run,118,0,118/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+450,146,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,24.2,run,119,1,119/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+451,147,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,24.3,run,120,1,120/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+452,148,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,24.4,run,121,1,121/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+453,149,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, FOUR runs ",2nd innings,24.5,four,125,4,125/2,"Sharafuddin Ashraf to MacLeod, FOUR runs",,,2
+454,150,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,24.6,run,126,1,126/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+455,151,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,25.1,no run,126,0,126/2,"Mohammad Nabi to MacLeod, no run",,,2
+456,152,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,25.2,no run,126,0,126/2,"Mohammad Nabi to MacLeod, no run",,,2
+457,153,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,25.3,run,127,1,127/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+458,154,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,25.4,run,128,1,128/2,"Mohammad Nabi to Berrington, 1 run",,,2
+459,155,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,25.5,no run,128,0,128/2,"Mohammad Nabi to MacLeod, no run",,,2
+460,156,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,25.6,no run,128,0,128/2,"Mohammad Nabi to MacLeod, no run",,,2
+461,157,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, FOUR runs ",2nd innings,26.1,four,132,4,132/2,"Rashid Khan to Berrington, FOUR runs",,,2
+462,158,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,26.2,run,133,1,133/2,"Rashid Khan to Berrington, 1 run",,,2
+463,159,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,26.3,four,137,4,137/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+464,160,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,26.4,run,138,1,138/2,"Rashid Khan to MacLeod, 1 run",,,2
+465,161,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,26.5,run,139,1,139/2,"Rashid Khan to Berrington, 1 run",,,2
+466,162,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,26.6,no run,139,0,139/2,"Rashid Khan to MacLeod, no run",,,2
+467,163,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,27.1,no run,139,0,139/2,"Mohammad Nabi to Berrington, no run",,,2
+468,164,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,27.2,run,140,1,140/2,"Mohammad Nabi to Berrington, 1 run",,,2
+469,165,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,27.3,no run,140,0,140/2,"Mohammad Nabi to MacLeod, no run",,,2
+470,166,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,27.4,no run,140,0,140/2,"Mohammad Nabi to MacLeod, no run",,,2
+471,167,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,27.5,no run,140,0,140/2,"Mohammad Nabi to MacLeod, no run",,,2
+472,168,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,27.6,run,141,1,141/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+473,169,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,28.1,run,142,1,142/2,"Rashid Khan to MacLeod, 1 run",,,2
+474,170,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,28.2,run,143,1,143/2,"Rashid Khan to Berrington, 1 run",,,2
+475,171,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,28.3,four,147,4,147/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+476,172,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,28.4,run,148,1,148/2,"Rashid Khan to MacLeod, 1 run",,,2
+477,173,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, no run ",2nd innings,28.5,no run,148,0,148/2,"Rashid Khan to Berrington, no run",,,2
+478,174,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 2 runs ",2nd innings,28.6,run,150,2,150/2,"Rashid Khan to Berrington, 2 runs",,,2
+479,175,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,29.1,no run,150,0,150/2,"Mohammad Nabi to MacLeod, no run",,,2
+480,176,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,29.2,no run,150,0,150/2,"Mohammad Nabi to MacLeod, no run",,,2
+481,177,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 2 runs ",2nd innings,29.3,run,152,2,152/2,"Mohammad Nabi to MacLeod, 2 runs",,,2
+482,178,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,29.4,run,153,1,153/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+483,179,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,29.5,no run,153,0,153/2,"Mohammad Nabi to Berrington, no run",,,2
+484,180,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,29.6,no run,153,0,153/2,"Mohammad Nabi to Berrington, no run",,,2
+485,181,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,30.1,no run,153,0,153/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+486,182,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, FOUR runs ",2nd innings,30.2,four,157,4,157/2,"Mujeeb Ur Rahman to MacLeod, FOUR runs",,,2
+487,183,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,30.3,no run,157,0,157/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+488,184,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,30.4,run,158,1,158/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+489,185,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,30.5,no run,158,0,158/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+490,186,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,30.6,run,159,1,159/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+491,187,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,31.1,no run,159,0,159/2,"Mohammad Nabi to Berrington, no run",,,2
+492,188,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,31.2,run,160,1,160/2,"Mohammad Nabi to Berrington, 1 run",,,2
+493,189,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,31.3,run,161,1,161/2,"Mohammad Nabi to MacLeod, 1 run",,,2
+494,190,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, no run ",2nd innings,31.4,no run,161,0,161/2,"Mohammad Nabi to Berrington, no run",,,2
+495,191,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, FOUR runs ",2nd innings,31.5,four,165,4,165/2,"Mohammad Nabi to Berrington, FOUR runs",,,2
+496,192,Richie Berrington,25490,Mohammad Nabi,25913,"Mohammad Nabi to Berrington, 1 run ",2nd innings,31.6,run,166,1,166/2,"Mohammad Nabi to Berrington, 1 run",,,2
+497,193,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,32.1,no run,166,0,166/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+498,194,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,32.2,no run,166,0,166/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+499,195,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,32.3,no run,166,0,166/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+500,196,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,32.4,run,167,1,167/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+501,197,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,32.5,no run,167,0,167/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+502,198,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,32.6,run,168,1,168/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+503,199,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, no run ",2nd innings,33.1,no run,168,0,168/2,"Rahmat Shah to MacLeod, no run",,,2
+504,200,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, 1 run ",2nd innings,33.2,run,169,1,169/2,"Rahmat Shah to MacLeod, 1 run",,,2
+505,201,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, 1 run ",2nd innings,33.3,run,170,1,170/2,"Rahmat Shah to Berrington, 1 run",,,2
+506,202,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, 1 run ",2nd innings,33.4,run,171,1,171/2,"Rahmat Shah to MacLeod, 1 run",,,2
+507,203,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, FOUR runs ",2nd innings,33.5,four,175,4,175/2,"Rahmat Shah to Berrington, FOUR runs",,,2
+508,204,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, 1 run ",2nd innings,33.6,run,176,1,176/2,"Rahmat Shah to Berrington, 1 run",,,2
+509,205,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,34.1,run,177,1,177/2,"Rashid Khan to Berrington, 1 run",,,2
+510,206,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,34.2,four,181,4,181/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+511,207,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,34.3,run,182,1,182/2,"Rashid Khan to MacLeod, 1 run",,,2
+512,208,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,34.4,run,183,1,183/2,"Rashid Khan to Berrington, 1 run",,,2
+513,209,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,34.5,run,184,1,184/2,"Rashid Khan to MacLeod, 1 run",,,2
+514,210,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,34.6,run,185,1,185/2,"Rashid Khan to Berrington, 1 run",,,2
+515,211,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, 1 run ",2nd innings,35.1,run,186,1,186/2,"Rahmat Shah to Berrington, 1 run",,,2
+516,212,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, 1 run ",2nd innings,35.2,run,187,1,187/2,"Rahmat Shah to MacLeod, 1 run",,,2
+517,213,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, no run ",2nd innings,35.3,no run,187,0,187/2,"Rahmat Shah to Berrington, no run",,,2
+518,214,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, no run ",2nd innings,35.4,no run,187,0,187/2,"Rahmat Shah to Berrington, no run",,,2
+519,215,Richie Berrington,25490,Rahmat Shah,533956,"Rahmat Shah to Berrington, 1 run ",2nd innings,35.5,run,188,1,188/2,"Rahmat Shah to Berrington, 1 run",,,2
+520,215,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, 1 no ball ",2nd innings,35.5,no ball,189,1,189/2,"Rahmat Shah to MacLeod, 1 no ball",,,2
+521,216,Calum MacLeod,232435,Rahmat Shah,533956,"Rahmat Shah to MacLeod, SIX runs ",2nd innings,35.6,six,195,6,195/2,"Rahmat Shah to MacLeod, SIX runs",,,2
+522,217,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,36.1,no run,195,0,195/2,"Dawlat Zadran to Berrington, no run",,,2
+523,218,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,36.2,no run,195,0,195/2,"Dawlat Zadran to Berrington, no run",,,2
+524,219,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, no run ",2nd innings,36.3,no run,195,0,195/2,"Dawlat Zadran to Berrington, no run",,,2
+525,220,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, 1 run ",2nd innings,36.4,run,196,1,196/2,"Dawlat Zadran to Berrington, 1 run",,,2
+526,221,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,36.5,no run,196,0,196/2,"Dawlat Zadran to MacLeod, no run",,,2
+527,222,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, 1 run ",2nd innings,36.6,run,197,1,197/2,"Dawlat Zadran to MacLeod, 1 run",,,2
+528,223,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,37.1,run,198,1,198/2,"Rashid Khan to MacLeod, 1 run",,,2
+529,224,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,37.2,run,199,1,199/2,"Rashid Khan to Berrington, 1 run",,,2
+530,225,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,37.3,run,200,1,200/2,"Rashid Khan to MacLeod, 1 run",,,2
+531,226,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,37.4,run,201,1,201/2,"Rashid Khan to Berrington, 1 run",,,2
+532,227,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 2 runs ",2nd innings,37.5,run,203,2,203/2,"Rashid Khan to MacLeod, 2 runs",,,2
+533,228,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,37.6,four,207,4,207/2,"Rashid Khan to MacLeod, FOUR runs",,,2
+534,229,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, 1 run ",2nd innings,38.1,run,208,1,208/2,"Dawlat Zadran to Berrington, 1 run",,,2
+535,230,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,38.2,no run,208,0,208/2,"Dawlat Zadran to MacLeod, no run",,,2
+536,231,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, FOUR runs ",2nd innings,38.3,four,212,4,212/2,"Dawlat Zadran to MacLeod, FOUR runs",,,2
+537,232,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, no run ",2nd innings,38.4,no run,212,0,212/2,"Dawlat Zadran to MacLeod, no run",,,2
+538,233,Calum MacLeod,232435,Dawlat Zadran,516561,"Dawlat Zadran to MacLeod, 1 run ",2nd innings,38.5,run,213,1,213/2,"Dawlat Zadran to MacLeod, 1 run",,,2
+539,234,Richie Berrington,25490,Dawlat Zadran,516561,"Dawlat Zadran to Berrington, 1 run ",2nd innings,38.6,run,214,1,214/2,"Dawlat Zadran to Berrington, 1 run",,,2
+540,235,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,39.1,no run,214,0,214/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+541,236,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,39.2,no run,214,0,214/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+542,237,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, no run ",2nd innings,39.3,no run,214,0,214/2,"Mujeeb Ur Rahman to Berrington, no run",,,2
+543,238,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,39.4,run,215,1,215/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+544,239,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,39.5,no run,215,0,215/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+545,240,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,39.6,no run,215,0,215/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+546,241,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,40.1,run,216,1,216/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+547,242,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, FOUR runs ",2nd innings,40.2,four,220,4,220/2,"Sharafuddin Ashraf to MacLeod, FOUR runs",,,2
+548,243,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, 1 run ",2nd innings,40.3,run,221,1,221/2,"Sharafuddin Ashraf to MacLeod, 1 run",,,2
+549,244,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, no run ",2nd innings,40.4,no run,221,0,221/2,"Sharafuddin Ashraf to Berrington, no run",,,2
+550,245,Richie Berrington,25490,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to Berrington, 1 run ",2nd innings,40.5,run,222,1,222/2,"Sharafuddin Ashraf to Berrington, 1 run",,,2
+551,246,Calum MacLeod,232435,Sharafuddin Ashraf,633362,"Sharafuddin Ashraf to MacLeod, no run ",2nd innings,40.6,no run,222,0,222/2,"Sharafuddin Ashraf to MacLeod, no run",,,2
+552,247,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,41.1,run,223,1,223/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+553,248,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,41.2,no run,223,0,223/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+554,249,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 2 runs ",2nd innings,41.3,run,225,2,225/2,"Mujeeb Ur Rahman to MacLeod, 2 runs",,,2
+555,250,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,41.4,run,226,1,226/2,"Mujeeb Ur Rahman to MacLeod, 1 run",,,2
+556,251,Richie Berrington,25490,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Berrington, 1 run ",2nd innings,41.5,run,227,1,227/2,"Mujeeb Ur Rahman to Berrington, 1 run",,,2
+557,252,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, no run ",2nd innings,41.6,no run,227,0,227/2,"Mujeeb Ur Rahman to MacLeod, no run",,,2
+558,253,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, 1 run ",2nd innings,42.1,run,228,1,228/2,"Rashid Khan to Berrington, 1 run",,,2
+559,254,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,42.2,no run,228,0,228/2,"Rashid Khan to MacLeod, no run",,,2
+560,255,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,42.3,run,229,1,229/2,"Rashid Khan to MacLeod, 1 run",,,2
+561,256,Richie Berrington,25490,Rashid Khan,793463,"Rashid Khan to Berrington, OUT ",2nd innings,42.4,out,229,0,229/3,"Rashid Khan to Berrington, OUT",,,3
+562,257,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,42.5,no run,229,0,229/3,"Rashid Khan to Munsey, no run",,,3
+563,258,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,42.6,no run,229,0,229/3,"Rashid Khan to Munsey, no run",,,3
+564,259,Calum MacLeod,232435,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to MacLeod, 1 run ",2nd innings,43.1,run,230,1,230/3,"Mujeeb Ur Rahman to MacLeod, 1 run",,,3
+565,259,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, 1 wide ",2nd innings,43.1,wide,231,1,231/3,"Mujeeb Ur Rahman to Munsey, 1 wide",,,3
+566,260,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, FOUR runs ",2nd innings,43.2,four,235,4,235/3,"Mujeeb Ur Rahman to Munsey, FOUR runs",,,3
+567,261,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, no run ",2nd innings,43.3,no run,235,0,235/3,"Mujeeb Ur Rahman to Munsey, no run",,,3
+568,262,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, no run ",2nd innings,43.4,no run,235,0,235/3,"Mujeeb Ur Rahman to Munsey, no run",,,3
+569,263,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, 2 runs ",2nd innings,43.5,run,237,2,237/3,"Mujeeb Ur Rahman to Munsey, 2 runs",,,3
+570,264,George Munsey,671805,Mujeeb Ur Rahman,974109,"Mujeeb Ur Rahman to Munsey, no run ",2nd innings,43.6,no run,237,0,237/3,"Mujeeb Ur Rahman to Munsey, no run",,,3
+571,265,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 2 runs ",2nd innings,44.1,run,239,2,239/3,"Rashid Khan to MacLeod, 2 runs",,,3
+572,266,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,44.2,run,240,1,240/3,"Rashid Khan to MacLeod, 1 run",,,3
+573,267,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, 1 run ",2nd innings,44.3,run,241,1,241/3,"Rashid Khan to Munsey, 1 run",,,3
+574,268,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,44.4,four,245,4,245/3,"Rashid Khan to MacLeod, FOUR runs",,,3
+575,269,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, FOUR runs ",2nd innings,44.5,four,249,4,249/3,"Rashid Khan to MacLeod, FOUR runs",,,3
+576,270,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,44.6,no run,249,0,249/3,"Rashid Khan to MacLeod, no run",,,3
+577,271,George Munsey,671805,Mohammad Nabi,25913,"Mohammad Nabi to Munsey, 1 run ",2nd innings,45.1,run,250,1,250/3,"Mohammad Nabi to Munsey, 1 run",,,3
+578,272,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,45.2,run,251,1,251/3,"Mohammad Nabi to MacLeod, 1 run",,,3
+579,273,George Munsey,671805,Mohammad Nabi,25913,"Mohammad Nabi to Munsey, no run ",2nd innings,45.3,no run,251,0,251/3,"Mohammad Nabi to Munsey, no run",,,3
+580,274,George Munsey,671805,Mohammad Nabi,25913,"Mohammad Nabi to Munsey, 1 run ",2nd innings,45.4,run,252,1,252/3,"Mohammad Nabi to Munsey, 1 run",,,3
+581,275,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, no run ",2nd innings,45.5,no run,252,0,252/3,"Mohammad Nabi to MacLeod, no run",,,3
+582,276,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,45.6,run,253,1,253/3,"Mohammad Nabi to MacLeod, 1 run",,,3
+583,277,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, no run ",2nd innings,46.1,no run,253,0,253/3,"Rashid Khan to MacLeod, no run",,,3
+584,278,Calum MacLeod,232435,Rashid Khan,793463,"Rashid Khan to MacLeod, 1 run ",2nd innings,46.2,run,254,1,254/3,"Rashid Khan to MacLeod, 1 run",,,3
+585,279,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,46.3,no run,254,0,254/3,"Rashid Khan to Munsey, no run",,,3
+586,280,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,46.4,no run,254,0,254/3,"Rashid Khan to Munsey, no run",,,3
+587,281,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,46.5,no run,254,0,254/3,"Rashid Khan to Munsey, no run",,,3
+588,282,George Munsey,671805,Rashid Khan,793463,"Rashid Khan to Munsey, no run ",2nd innings,46.6,no run,254,0,254/3,"Rashid Khan to Munsey, no run",,,3
+589,283,Calum MacLeod,232435,Mohammad Nabi,25913,"Mohammad Nabi to MacLeod, 1 run ",2nd innings,47.1,run,255,1,255/3,"Mohammad Nabi to MacLeod, 1 run",,,3
+590,284,George Munsey,671805,Mohammad Nabi,25913,"Mohammad Nabi to Munsey, 1 run ",2nd innings,47.2,run,255,1,255/3,"Mohammad Nabi to Munsey, 1 run",,,3

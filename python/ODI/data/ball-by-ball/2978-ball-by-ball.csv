@@ -1,0 +1,575 @@
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,0.1,no run,0,0,0/0,"Rampaul to Porterfield, no run",,,0
+1,2,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, FOUR runs ",1st innings,0.2,four,4,4,4/0,"Rampaul to Porterfield, FOUR runs",,,0
+2,3,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,0.3,no run,4,0,4/0,"Rampaul to Porterfield, no run",,,0
+3,4,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,0.4,no run,4,0,4/0,"Rampaul to Porterfield, no run",,,0
+4,5,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,0.5,no run,4,0,4/0,"Rampaul to Porterfield, no run",,,0
+5,6,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,1.0,no run,4,0,4/0,"Rampaul to Porterfield, no run",,,0
+6,7,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,1.1,no run,4,0,4/0,"Bernard to Stirling, no run",,,0
+7,8,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, FOUR runs ",1st innings,1.2,four,8,4,8/0,"Bernard to Stirling, FOUR runs",,,0
+8,9,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,1.3,no run,8,0,8/0,"Bernard to Stirling, no run",,,0
+9,10,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,1.4,no run,8,0,8/0,"Bernard to Stirling, no run",,,0
+10,10,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 wide ",1st innings,1.4,wide,9,1,9/0,"Bernard to Stirling, 1 wide",,,0
+11,11,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,1.5,no run,9,0,9/0,"Bernard to Stirling, no run",,,0
+12,12,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,2.0,no run,9,0,9/0,"Bernard to Stirling, no run",,,0
+13,13,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,2.1,no run,9,0,9/0,"Rampaul to Porterfield, no run",,,0
+14,14,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,2.2,no run,9,0,9/0,"Rampaul to Porterfield, no run",,,0
+15,15,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,2.3,no run,9,0,9/0,"Rampaul to Porterfield, no run",,,0
+16,16,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, no run ",1st innings,2.4,no run,9,0,9/0,"Rampaul to Porterfield, no run",,,0
+17,17,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, FOUR runs ",1st innings,2.5,four,13,4,13/0,"Rampaul to Porterfield, FOUR runs",,,0
+18,18,William Porterfield,24611,Ravi Rampaul,52912,"Rampaul to Porterfield, 2 runs ",1st innings,3.0,run,15,2,15/0,"Rampaul to Porterfield, 2 runs",,,0
+19,19,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,3.1,no run,15,0,15/0,"Bernard to Stirling, no run",,,0
+20,20,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 leg bye ",1st innings,3.2,leg bye,16,1,16/0,"Bernard to Stirling, 1 leg bye",,,0
+21,21,William Porterfield,24611,David Bernard,51300,"Bernard to Porterfield, no run ",1st innings,3.3,no run,16,0,16/0,"Bernard to Porterfield, no run",,,0
+22,22,William Porterfield,24611,David Bernard,51300,"Bernard to Porterfield, OUT ",1st innings,3.4,out,16,0,16/1,"Bernard to Porterfield, OUT",,,1
+23,23,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, no run ",1st innings,3.5,no run,16,0,16/1,"Bernard to Botha, no run",,,1
+24,24,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, no run ",1st innings,4.0,no run,16,0,16/1,"Bernard to Botha, no run",,,1
+25,25,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,4.1,no run,16,0,16/1,"Rampaul to Stirling, no run",,,1
+26,25,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 wide ",1st innings,4.1,wide,17,1,17/1,"Rampaul to Stirling, 1 wide",,,1
+27,26,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,4.2,no run,17,0,17/1,"Rampaul to Stirling, no run",,,1
+28,27,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,4.3,no run,17,0,17/1,"Rampaul to Stirling, no run",,,1
+29,28,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,4.4,no run,17,0,17/1,"Rampaul to Stirling, no run",,,1
+30,29,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,4.5,no run,17,0,17/1,"Rampaul to Stirling, no run",,,1
+31,29,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 no ball ",1st innings,4.5,no ball,18,1,18/1,"Rampaul to Stirling, 1 no ball",,,1
+32,30,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 run ",1st innings,5.0,run,19,1,19/1,"Rampaul to Stirling, 1 run",,,1
+33,31,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,5.1,no run,19,0,19/1,"Bernard to Stirling, no run",,,1
+34,32,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,5.2,no run,19,0,19/1,"Bernard to Stirling, no run",,,1
+35,33,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, FOUR runs ",1st innings,5.3,four,23,4,23/1,"Bernard to Stirling, FOUR runs",,,1
+36,33,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 wide ",1st innings,5.3,wide,24,1,24/1,"Bernard to Stirling, 1 wide",,,1
+37,34,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,5.4,no run,24,0,24/1,"Bernard to Stirling, no run",,,1
+38,35,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, FOUR runs ",1st innings,5.5,four,28,4,28/1,"Bernard to Stirling, FOUR runs",,,1
+39,36,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,6.0,no run,28,0,28/1,"Bernard to Stirling, no run",,,1
+40,37,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,6.1,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+41,38,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,6.2,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+42,39,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,6.3,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+43,40,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,6.4,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+44,41,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,6.5,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+45,42,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, no run ",1st innings,7.0,no run,28,0,28/1,"Rampaul to Botha, no run",,,1
+46,43,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 run ",1st innings,7.1,run,29,1,29/1,"Bernard to Stirling, 1 run",,,1
+47,44,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, 1 run ",1st innings,7.2,run,30,1,30/1,"Bernard to Botha, 1 run",,,1
+48,44,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 wide ",1st innings,7.2,wide,31,1,31/1,"Bernard to Stirling, 1 wide",,,1
+49,45,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, FOUR runs ",1st innings,7.3,four,35,4,35/1,"Bernard to Stirling, FOUR runs",,,1
+50,46,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,7.4,no run,35,0,35/1,"Bernard to Stirling, no run",,,1
+51,47,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 run ",1st innings,7.5,run,36,1,36/1,"Bernard to Stirling, 1 run",,,1
+52,48,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, no run ",1st innings,8.0,no run,36,0,36/1,"Bernard to Botha, no run",,,1
+53,49,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 run ",1st innings,8.1,run,37,1,37/1,"Rampaul to Stirling, 1 run",,,1
+54,50,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, 1 run ",1st innings,8.2,run,38,1,38/1,"Rampaul to Botha, 1 run",,,1
+55,51,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 run ",1st innings,8.3,run,39,1,39/1,"Rampaul to Stirling, 1 run",,,1
+56,52,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, FOUR runs ",1st innings,8.4,four,43,4,43/1,"Rampaul to Botha, FOUR runs",,,1
+57,53,Andre Botha,44102,Ravi Rampaul,52912,"Rampaul to Botha, 1 run ",1st innings,8.5,run,44,1,44/1,"Rampaul to Botha, 1 run",,,1
+58,54,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,9.0,no run,44,0,44/1,"Rampaul to Stirling, no run",,,1
+59,55,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, no run ",1st innings,9.1,no run,44,0,44/1,"Bernard to Botha, no run",,,1
+60,56,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, 1 run ",1st innings,9.2,run,45,1,45/1,"Bernard to Botha, 1 run",,,1
+61,57,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,9.3,no run,45,0,45/1,"Bernard to Stirling, no run",,,1
+62,58,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,9.4,no run,45,0,45/1,"Bernard to Stirling, no run",,,1
+63,59,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,9.5,no run,45,0,45/1,"Bernard to Stirling, no run",,,1
+64,60,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 run ",1st innings,10.0,run,46,1,46/1,"Bernard to Stirling, 1 run",,,1
+65,61,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,10.1,no run,46,0,46/1,"Sammy to Stirling, no run",,,1
+66,62,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,10.2,no run,46,0,46/1,"Sammy to Stirling, no run",,,1
+67,63,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,10.3,run,47,1,47/1,"Sammy to Stirling, 1 run",,,1
+68,64,Andre Botha,44102,Darren Sammy,53115,"Sammy to Botha, 1 run ",1st innings,10.4,run,48,1,48/1,"Sammy to Botha, 1 run",,,1
+69,65,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,10.5,no run,48,0,48/1,"Sammy to Stirling, no run",,,1
+70,66,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, FOUR runs ",1st innings,11.0,four,52,4,52/1,"Sammy to Stirling, FOUR runs",,,1
+71,67,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, no run ",1st innings,11.1,no run,52,0,52/1,"Bernard to Botha, no run",,,1
+72,68,Andre Botha,44102,David Bernard,51300,"Bernard to Botha, OUT ",1st innings,11.2,out,52,0,52/2,"Bernard to Botha, OUT",,,2
+73,69,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,11.3,no run,52,0,52/2,"Bernard to KJ O'Brien, no run",,,2
+74,70,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,11.4,no run,52,0,52/2,"Bernard to KJ O'Brien, no run",,,2
+75,70,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 wide ",1st innings,11.4,wide,53,1,53/2,"Bernard to KJ O'Brien, 1 wide",,,2
+76,71,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,11.5,no run,53,0,53/2,"Bernard to KJ O'Brien, no run",,,2
+77,72,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,12.0,no run,53,0,53/2,"Bernard to KJ O'Brien, no run",,,2
+78,73,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,12.1,no run,53,0,53/2,"Sammy to Stirling, no run",,,2
+79,74,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,12.2,no run,53,0,53/2,"Sammy to Stirling, no run",,,2
+80,75,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,12.3,no run,53,0,53/2,"Sammy to Stirling, no run",,,2
+81,76,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,12.4,run,54,1,54/2,"Sammy to Stirling, 1 run",,,2
+82,77,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,12.5,no run,54,0,54/2,"Sammy to KJ O'Brien, no run",,,2
+83,78,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,13.0,no run,54,0,54/2,"Sammy to KJ O'Brien, no run",,,2
+84,79,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,13.1,no run,54,0,54/2,"Bernard to Stirling, no run",,,2
+85,80,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,13.2,no run,54,0,54/2,"Bernard to Stirling, no run",,,2
+86,81,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,13.3,no run,54,0,54/2,"Bernard to Stirling, no run",,,2
+87,82,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,13.4,no run,54,0,54/2,"Bernard to Stirling, no run",,,2
+88,83,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, no run ",1st innings,13.5,no run,54,0,54/2,"Bernard to Stirling, no run",,,2
+89,84,Paul Stirling,303427,David Bernard,51300,"Bernard to Stirling, 1 run ",1st innings,14.0,run,55,1,55/2,"Bernard to Stirling, 1 run",,,2
+90,85,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,14.1,no run,55,0,55/2,"Sammy to Stirling, no run",,,2
+91,86,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,14.2,run,56,1,56/2,"Sammy to Stirling, 1 run",,,2
+92,87,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,14.3,no run,56,0,56/2,"Sammy to KJ O'Brien, no run",,,2
+93,88,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,14.4,run,57,1,57/2,"Sammy to KJ O'Brien, 1 run",,,2
+94,89,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,14.5,run,58,1,58/2,"Sammy to Stirling, 1 run",,,2
+95,90,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,15.0,no run,58,0,58/2,"Sammy to KJ O'Brien, no run",,,2
+96,91,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,15.1,no run,58,0,58/2,"Benn to Stirling, no run",,,2
+97,92,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,15.2,no run,58,0,58/2,"Benn to Stirling, no run",,,2
+98,93,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,15.3,no run,58,0,58/2,"Benn to Stirling, no run",,,2
+99,94,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,15.4,run,59,1,59/2,"Benn to Stirling, 1 run",,,2
+100,95,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,15.5,no run,59,0,59/2,"Benn to KJ O'Brien, no run",,,2
+101,96,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,16.0,no run,59,0,59/2,"Benn to KJ O'Brien, no run",,,2
+102,97,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,16.1,no run,59,0,59/2,"Sammy to Stirling, no run",,,2
+103,98,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 2 runs ",1st innings,16.2,run,61,2,61/2,"Sammy to Stirling, 2 runs",,,2
+104,99,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,16.3,no run,61,0,61/2,"Sammy to Stirling, no run",,,2
+105,100,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,16.4,no run,61,0,61/2,"Sammy to Stirling, no run",,,2
+106,101,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,16.5,run,62,1,62/2,"Sammy to Stirling, 1 run",,,2
+107,102,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,17.0,run,63,1,63/2,"Sammy to KJ O'Brien, 1 run",,,2
+108,102,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 wide ",1st innings,17.0,wide,64,1,64/2,"Benn to KJ O'Brien, 1 wide",,,2
+109,103,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,17.1,no run,64,0,64/2,"Benn to KJ O'Brien, no run",,,2
+110,104,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 2 runs ",1st innings,17.2,run,66,2,66/2,"Benn to KJ O'Brien, 2 runs",,,2
+111,105,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,17.3,no run,66,0,66/2,"Benn to KJ O'Brien, no run",,,2
+112,106,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,17.4,run,67,1,67/2,"Benn to KJ O'Brien, 1 run",,,2
+113,107,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 2 runs ",1st innings,17.5,run,69,2,69/2,"Benn to Stirling, 2 runs",,,2
+114,108,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 2 runs ",1st innings,18.0,run,71,2,71/2,"Benn to Stirling, 2 runs",,,2
+115,109,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,18.1,run,72,1,72/2,"Sammy to KJ O'Brien, 1 run",,,2
+116,110,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,18.2,run,73,1,73/2,"Sammy to Stirling, 1 run",,,2
+117,111,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,18.3,run,74,1,74/2,"Sammy to KJ O'Brien, 1 run",,,2
+118,112,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,18.4,run,75,1,75/2,"Sammy to Stirling, 1 run",,,2
+119,113,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,18.5,run,76,1,76/2,"Sammy to KJ O'Brien, 1 run",,,2
+120,114,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,19.0,no run,76,0,76/2,"Sammy to Stirling, no run",,,2
+121,115,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,19.1,run,77,1,77/2,"Benn to KJ O'Brien, 1 run",,,2
+122,116,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,19.2,no run,77,0,77/2,"Benn to Stirling, no run",,,2
+123,117,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,19.3,no run,77,0,77/2,"Benn to Stirling, no run",,,2
+124,118,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,19.4,run,78,1,78/2,"Benn to Stirling, 1 run",,,2
+125,118,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 wide ",1st innings,19.4,wide,79,1,79/2,"Benn to KJ O'Brien, 1 wide",,,2
+126,119,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,19.5,no run,79,0,79/2,"Benn to KJ O'Brien, no run",,,2
+127,120,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,20.0,run,80,1,80/2,"Benn to KJ O'Brien, 1 run",,,2
+128,121,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,20.1,run,81,1,81/2,"Sammy to KJ O'Brien, 1 run",,,2
+129,122,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,20.2,no run,81,0,81/2,"Sammy to Stirling, no run",,,2
+130,123,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,20.3,run,82,1,82/2,"Sammy to Stirling, 1 run",,,2
+131,124,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,20.4,no run,82,0,82/2,"Sammy to KJ O'Brien, no run",,,2
+132,125,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,20.5,no run,82,0,82/2,"Sammy to KJ O'Brien, no run",,,2
+133,126,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,21.0,no run,82,0,82/2,"Sammy to KJ O'Brien, no run",,,2
+134,127,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,21.1,no run,82,0,82/2,"Benn to Stirling, no run",,,2
+135,128,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,21.2,no run,82,0,82/2,"Benn to Stirling, no run",,,2
+136,129,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,21.3,run,83,1,83/2,"Benn to Stirling, 1 run",,,2
+137,130,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,21.4,run,84,1,84/2,"Benn to KJ O'Brien, 1 run",,,2
+138,131,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,21.5,run,85,1,85/2,"Benn to Stirling, 1 run",,,2
+139,132,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,22.0,run,86,1,86/2,"Benn to KJ O'Brien, 1 run",,,2
+140,133,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 2 runs ",1st innings,22.1,run,88,2,88/2,"Sammy to KJ O'Brien, 2 runs",,,2
+141,134,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,22.2,no run,88,0,88/2,"Sammy to KJ O'Brien, no run",,,2
+142,135,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,22.3,run,89,1,89/2,"Sammy to KJ O'Brien, 1 run",,,2
+143,136,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, 1 run ",1st innings,22.4,run,90,1,90/2,"Sammy to Stirling, 1 run",,,2
+144,137,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,22.5,run,91,1,91/2,"Sammy to KJ O'Brien, 1 run",,,2
+145,138,Paul Stirling,303427,Darren Sammy,53115,"Sammy to Stirling, no run ",1st innings,23.0,no run,91,0,91/2,"Sammy to Stirling, no run",,,2
+146,139,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,23.1,no run,91,0,91/2,"Benn to KJ O'Brien, no run",,,2
+147,140,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,23.2,run,92,1,92/2,"Benn to KJ O'Brien, 1 run",,,2
+148,141,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,23.3,run,93,1,93/2,"Benn to Stirling, 1 run",,,2
+149,142,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,23.4,run,94,1,94/2,"Benn to KJ O'Brien, 1 run",,,2
+150,143,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,23.5,no run,94,0,94/2,"Benn to Stirling, no run",,,2
+151,144,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,24.0,run,95,1,95/2,"Benn to Stirling, 1 run",,,2
+152,145,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, no run ",1st innings,24.1,no run,95,0,95/2,"Deonarine to Stirling, no run",,,2
+153,146,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 1 run ",1st innings,24.2,run,96,1,96/2,"Deonarine to Stirling, 1 run",,,2
+154,147,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, 2 runs ",1st innings,24.3,run,98,2,98/2,"Deonarine to KJ O'Brien, 2 runs",,,2
+155,148,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, 1 run ",1st innings,24.4,run,99,1,99/2,"Deonarine to KJ O'Brien, 1 run",,,2
+156,149,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 1 run ",1st innings,24.5,run,100,1,100/2,"Deonarine to Stirling, 1 run",,,2
+157,150,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, 1 run ",1st innings,25.0,run,101,1,101/2,"Deonarine to KJ O'Brien, 1 run",,,2
+158,151,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,25.1,run,102,1,102/2,"Benn to KJ O'Brien, 1 run",,,2
+159,152,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,25.2,no run,102,0,102/2,"Benn to Stirling, no run",,,2
+160,153,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run, OUT ",1st innings,25.3,run,103,1,103/3,"Benn to Stirling, 1 run, OUT",,,3
+161,153,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 wide ",1st innings,25.3,wide,104,1,104/3,"Benn to Stirling, 1 wide",,,3
+162,154,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,25.4,no run,104,0,104/3,"Benn to Stirling, no run",,,3
+163,155,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,25.5,no run,104,0,104/3,"Benn to Stirling, no run",,,3
+164,156,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,26.0,no run,104,0,104/3,"Benn to Stirling, no run",,,3
+165,157,Andrew White,24286,Narsingh Deonarine,51659,"Deonarine to White, 1 run ",1st innings,26.1,run,105,1,105/3,"Deonarine to White, 1 run",,,3
+166,158,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, no run ",1st innings,26.2,no run,105,0,105/3,"Deonarine to Stirling, no run",,,3
+167,159,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 2 runs ",1st innings,26.3,run,107,2,107/3,"Deonarine to Stirling, 2 runs",,,3
+168,160,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 2 runs ",1st innings,26.4,run,109,2,109/3,"Deonarine to Stirling, 2 runs",,,3
+169,161,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 1 run ",1st innings,26.5,run,110,1,110/3,"Deonarine to Stirling, 1 run",,,3
+170,162,Andrew White,24286,Narsingh Deonarine,51659,"Deonarine to White, no run ",1st innings,27.0,no run,110,0,110/3,"Deonarine to White, no run",,,3
+171,163,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,27.1,no run,110,0,110/3,"Benn to Stirling, no run",,,3
+172,164,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,27.2,no run,110,0,110/3,"Benn to Stirling, no run",,,3
+173,165,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,27.3,no run,110,0,110/3,"Benn to Stirling, no run",,,3
+174,166,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,27.4,run,111,1,111/3,"Benn to Stirling, 1 run",,,3
+175,167,Andrew White,24286,Sulieman Benn,51248,"Benn to White, no run ",1st innings,27.5,no run,111,0,111/3,"Benn to White, no run",,,3
+176,168,Andrew White,24286,Sulieman Benn,51248,"Benn to White, no run ",1st innings,28.0,no run,111,0,111/3,"Benn to White, no run",,,3
+177,169,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 3 runs ",1st innings,28.1,run,114,3,114/3,"Deonarine to Stirling, 3 runs",,,3
+178,170,Andrew White,24286,Narsingh Deonarine,51659,"Deonarine to White, no run ",1st innings,28.2,no run,114,0,114/3,"Deonarine to White, no run",,,3
+179,171,Andrew White,24286,Narsingh Deonarine,51659,"Deonarine to White, no run ",1st innings,28.3,no run,114,0,114/3,"Deonarine to White, no run",,,3
+180,172,Andrew White,24286,Narsingh Deonarine,51659,"Deonarine to White, OUT ",1st innings,28.4,out,114,0,114/4,"Deonarine to White, OUT",,,4
+181,173,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, no run ",1st innings,28.5,no run,114,0,114/4,"Deonarine to KJ O'Brien, no run",,,4
+182,173,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, 1 wide ",1st innings,28.5,wide,115,1,115/4,"Deonarine to KJ O'Brien, 1 wide",,,4
+183,174,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, no run ",1st innings,29.0,no run,115,0,115/4,"Deonarine to KJ O'Brien, no run",,,4
+184,175,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 3 runs ",1st innings,29.1,run,118,3,118/4,"Benn to KJ O'Brien, 3 runs",,,4
+185,176,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 2 runs ",1st innings,29.2,run,120,2,120/4,"Benn to Stirling, 2 runs",,,4
+186,177,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,29.3,no run,120,0,120/4,"Benn to Stirling, no run",,,4
+187,178,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,29.4,no run,120,0,120/4,"Benn to Stirling, no run",,,4
+188,179,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,29.5,no run,120,0,120/4,"Benn to Stirling, no run",,,4
+189,180,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,30.0,run,121,1,121/4,"Benn to Stirling, 1 run",,,4
+190,181,Paul Stirling,303427,Narsingh Deonarine,51659,"Deonarine to Stirling, 1 run ",1st innings,30.1,run,122,1,122/4,"Deonarine to Stirling, 1 run",,,4
+191,182,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, no run ",1st innings,30.2,no run,122,0,122/4,"Deonarine to KJ O'Brien, no run",,,4
+192,183,Kevin O'Brien,24605,Narsingh Deonarine,51659,"Deonarine to KJ O'Brien, no run ",1st innings,30.3,no run,122,0,122/4,"Deonarine to KJ O'Brien, no run",,,4
+193,184,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, 1 run ",1st innings,30.4,run,140,1,140/4,"Rampaul to KJ O'Brien, 1 run",,,4
+194,185,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,30.5,no run,140,0,140/4,"Rampaul to Stirling, no run",,,4
+195,186,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 2 runs ",1st innings,31.0,run,142,2,142/4,"Rampaul to Stirling, 2 runs",,,4
+196,187,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,31.1,run,123,1,123/4,"Benn to Stirling, 1 run",,,4
+197,188,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,31.2,run,124,1,124/4,"Benn to KJ O'Brien, 1 run",,,4
+198,189,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 2 runs ",1st innings,31.3,run,126,2,126/4,"Benn to Stirling, 2 runs",,,4
+199,190,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,31.4,run,127,1,127/4,"Benn to Stirling, 1 run",,,4
+200,191,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,31.5,no run,127,0,127/4,"Benn to KJ O'Brien, no run",,,4
+201,192,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, no run ",1st innings,32.0,no run,127,0,127/4,"Benn to KJ O'Brien, no run",,,4
+202,193,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,32.1,no run,127,0,127/4,"Rampaul to Stirling, no run",,,4
+203,194,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,32.2,no run,127,0,127/4,"Rampaul to Stirling, no run",,,4
+204,195,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, FOUR runs ",1st innings,32.3,four,131,4,131/4,"Rampaul to Stirling, FOUR runs",,,4
+205,196,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,32.4,no run,131,0,131/4,"Rampaul to Stirling, no run",,,4
+206,197,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, no run ",1st innings,32.5,no run,131,0,131/4,"Rampaul to Stirling, no run",,,4
+207,198,Paul Stirling,303427,Ravi Rampaul,52912,"Rampaul to Stirling, 1 run ",1st innings,33.0,run,132,1,132/4,"Rampaul to Stirling, 1 run",,,4
+208,199,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,33.1,no run,132,0,132/4,"Benn to Stirling, no run",,,4
+209,200,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,33.2,no run,132,0,132/4,"Benn to Stirling, no run",,,4
+210,201,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, 1 run ",1st innings,33.3,run,133,1,133/4,"Benn to Stirling, 1 run",,,4
+211,202,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 2 runs ",1st innings,33.4,run,135,2,135/4,"Benn to KJ O'Brien, 2 runs",,,4
+212,203,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,33.5,run,136,1,136/4,"Benn to KJ O'Brien, 1 run",,,4
+213,204,Paul Stirling,303427,Sulieman Benn,51248,"Benn to Stirling, no run ",1st innings,34.0,no run,137,0,137/4,"Benn to Stirling, no run",,,4
+214,205,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, 2 runs ",1st innings,34.1,run,139,2,139/4,"Rampaul to KJ O'Brien, 2 runs",,,4
+215,206,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, no run ",1st innings,34.2,no run,139,0,139/4,"Rampaul to KJ O'Brien, no run",,,4
+216,207,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, no run ",1st innings,34.3,no run,139,0,139/4,"Rampaul to KJ O'Brien, no run",,,4
+217,211,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,35.1,run,143,1,143/4,"Miller to KJ O'Brien, 1 run",,,4
+218,212,Paul Stirling,303427,Nikita Miller,52622,"Miller to Stirling, no run ",1st innings,35.2,no run,143,0,143/4,"Miller to Stirling, no run",,,4
+219,213,Paul Stirling,303427,Nikita Miller,52622,"Miller to Stirling, no run ",1st innings,35.3,no run,143,0,143/4,"Miller to Stirling, no run",,,4
+220,214,Paul Stirling,303427,Nikita Miller,52622,"Miller to Stirling, no run ",1st innings,35.4,no run,143,0,143/4,"Miller to Stirling, no run",,,4
+221,215,Paul Stirling,303427,Nikita Miller,52622,"Miller to Stirling, OUT ",1st innings,35.5,out,143,0,143/5,"Miller to Stirling, OUT",,,5
+222,216,Gary Wilson,24609,Nikita Miller,52622,"Miller to Wilson, no run ",1st innings,36.0,no run,143,0,143/5,"Miller to Wilson, no run",,,5
+223,217,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,36.1,no run,143,0,143/5,"Bernard to KJ O'Brien, no run",,,5
+224,218,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,36.2,no run,143,0,143/5,"Bernard to KJ O'Brien, no run",,,5
+225,219,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,36.3,no run,143,0,143/5,"Bernard to KJ O'Brien, no run",,,5
+226,220,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 run ",1st innings,36.4,run,144,1,144/5,"Bernard to KJ O'Brien, 1 run",,,5
+227,221,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, no run ",1st innings,36.5,no run,144,0,144/5,"Bernard to KJ O'Brien, no run",,,5
+228,222,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 run ",1st innings,37.0,run,146,1,146/5,"Bernard to KJ O'Brien, 1 run",,,5
+229,223,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,37.1,run,147,1,147/5,"Miller to KJ O'Brien, 1 run",,,5
+230,224,Gary Wilson,24609,Nikita Miller,52622,"Miller to Wilson, 1 run ",1st innings,37.2,run,148,1,148/5,"Miller to Wilson, 1 run",,,5
+231,225,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,37.3,run,149,1,149/5,"Miller to KJ O'Brien, 1 run",,,5
+232,226,Gary Wilson,24609,Nikita Miller,52622,"Miller to Wilson, no run ",1st innings,37.4,no run,149,0,149/5,"Miller to Wilson, no run",,,5
+233,227,Gary Wilson,24609,Nikita Miller,52622,"Miller to Wilson, 1 run ",1st innings,37.5,run,150,1,150/5,"Miller to Wilson, 1 run",,,5
+234,228,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, no run ",1st innings,38.0,no run,150,0,150/5,"Miller to KJ O'Brien, no run",,,5
+235,229,Gary Wilson,24609,David Bernard,51300,"Bernard to Wilson, 1 run ",1st innings,38.1,run,151,1,151/5,"Bernard to Wilson, 1 run",,,5
+236,230,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 run ",1st innings,38.2,run,152,1,152/5,"Bernard to KJ O'Brien, 1 run",,,5
+237,231,Gary Wilson,24609,David Bernard,51300,"Bernard to Wilson, no run ",1st innings,38.3,no run,152,0,152/5,"Bernard to Wilson, no run",,,5
+238,232,Gary Wilson,24609,David Bernard,51300,"Bernard to Wilson, OUT ",1st innings,38.4,out,151,0,151/6,"Bernard to Wilson, OUT",,,6
+239,233,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, no run ",1st innings,38.5,no run,151,0,151/6,"Bernard to Cusack, no run",,,6
+240,234,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, no run ",1st innings,39.0,no run,151,0,151/6,"Bernard to Cusack, no run",,,6
+241,235,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, no run ",1st innings,39.1,no run,151,0,151/6,"Miller to KJ O'Brien, no run",,,6
+242,236,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, no run ",1st innings,39.2,no run,151,0,151/6,"Miller to KJ O'Brien, no run",,,6
+243,237,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,39.3,run,152,1,152/6,"Miller to KJ O'Brien, 1 run",,,6
+244,238,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, 1 run ",1st innings,39.4,run,153,1,153/6,"Miller to Cusack, 1 run",,,6
+245,239,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,39.5,run,154,1,154/6,"Miller to KJ O'Brien, 1 run",,,6
+246,240,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, no run ",1st innings,40.0,no run,154,0,154/6,"Miller to Cusack, no run",,,6
+247,241,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 run ",1st innings,40.1,run,155,1,155/6,"Bernard to KJ O'Brien, 1 run",,,6
+248,242,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, 1 run ",1st innings,40.2,run,156,1,156/6,"Bernard to Cusack, 1 run",,,6
+249,243,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 leg bye ",1st innings,40.3,leg bye,157,1,157/6,"Bernard to KJ O'Brien, 1 leg bye",,,6
+250,244,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, no run ",1st innings,40.4,no run,157,0,157/6,"Bernard to Cusack, no run",,,6
+251,245,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, no run ",1st innings,40.5,no run,157,0,157/6,"Bernard to Cusack, no run",,,6
+252,246,Alex Cusack,293983,David Bernard,51300,"Bernard to Cusack, no run ",1st innings,41.0,no run,157,0,157/6,"Bernard to Cusack, no run",,,6
+253,247,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,41.1,run,158,1,158/6,"Miller to KJ O'Brien, 1 run",,,6
+254,248,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, no run ",1st innings,41.2,no run,158,0,158/6,"Miller to Cusack, no run",,,6
+255,249,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, 1 run ",1st innings,41.3,run,159,1,159/6,"Miller to Cusack, 1 run",,,6
+256,250,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,41.4,run,160,1,160/6,"Miller to KJ O'Brien, 1 run",,,6
+257,251,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, no run ",1st innings,41.5,no run,160,0,160/6,"Miller to Cusack, no run",,,6
+258,252,Alex Cusack,293983,Nikita Miller,52622,"Miller to Cusack, no run ",1st innings,42.0,no run,160,0,160/6,"Miller to Cusack, no run",,,6
+259,253,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, FOUR runs ",1st innings,42.1,four,164,4,164/6,"Bernard to KJ O'Brien, FOUR runs",,,6
+260,254,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 leg bye ",1st innings,42.2,leg bye,165,1,165/6,"Bernard to KJ O'Brien, 1 leg bye",,,6
+261,255,Andrew White,24286,David Bernard,51300,"Bernard to White, 1 run ",1st innings,42.3,run,166,1,166/6,"Bernard to White, 1 run",,,6
+262,256,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, FOUR runs ",1st innings,42.4,four,170,4,170/6,"Bernard to KJ O'Brien, FOUR runs",,,6
+263,257,Kevin O'Brien,24605,David Bernard,51300,"Bernard to KJ O'Brien, 1 run ",1st innings,42.5,run,171,1,171/6,"Bernard to KJ O'Brien, 1 run",,,6
+264,258,Andrew White,24286,David Bernard,51300,"Bernard to White, 1 run ",1st innings,43.0,run,172,1,172/6,"Bernard to White, 1 run",,,6
+265,259,Andrew White,24286,Nikita Miller,52622,"Miller to White, no run ",1st innings,43.1,no run,172,0,172/6,"Miller to White, no run",,,6
+266,260,Andrew White,24286,Nikita Miller,52622,"Miller to White, no run ",1st innings,43.2,no run,172,0,172/6,"Miller to White, no run",,,6
+267,261,Andrew White,24286,Nikita Miller,52622,"Miller to White, 1 run ",1st innings,43.3,run,173,1,173/6,"Miller to White, 1 run",,,6
+268,262,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,43.4,run,174,1,174/6,"Miller to KJ O'Brien, 1 run",,,6
+269,263,Andrew White,24286,Nikita Miller,52622,"Miller to White, 2 runs ",1st innings,43.5,run,176,2,176/6,"Miller to White, 2 runs",,,6
+270,264,Andrew White,24286,Nikita Miller,52622,"Miller to White, FOUR runs ",1st innings,44.0,four,180,4,180/6,"Miller to White, FOUR runs",,,6
+271,264,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 wide ",1st innings,44.0,wide,181,1,181/6,"Sammy to KJ O'Brien, 1 wide",,,6
+272,264,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 wide ",1st innings,44.0,wide,182,1,182/6,"Sammy to KJ O'Brien, 1 wide",,,6
+273,265,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,44.1,no run,182,0,182/6,"Sammy to KJ O'Brien, no run",,,6
+274,266,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, FOUR runs ",1st innings,44.2,four,186,4,186/6,"Sammy to KJ O'Brien, FOUR runs",,,6
+275,267,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 2 runs ",1st innings,44.3,run,188,2,188/6,"Sammy to KJ O'Brien, 2 runs",,,6
+276,268,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, no run ",1st innings,44.4,no run,188,0,188/6,"Sammy to KJ O'Brien, no run",,,6
+277,268,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 wide ",1st innings,44.4,wide,189,1,189/6,"Sammy to KJ O'Brien, 1 wide",,,6
+278,269,Kevin O'Brien,24605,Darren Sammy,53115,"Sammy to KJ O'Brien, 1 run ",1st innings,44.5,run,190,1,190/6,"Sammy to KJ O'Brien, 1 run",,,6
+279,270,Andrew White,24286,Darren Sammy,53115,"Sammy to White, 1 run ",1st innings,45.0,run,191,1,191/6,"Sammy to White, 1 run",,,6
+280,271,Andrew White,24286,Nikita Miller,52622,"Miller to White, no run ",1st innings,45.1,no run,191,0,191/6,"Miller to White, no run",,,6
+281,272,Andrew White,24286,Nikita Miller,52622,"Miller to White, FOUR runs ",1st innings,45.2,four,195,4,195/6,"Miller to White, FOUR runs",,,6
+282,273,Andrew White,24286,Nikita Miller,52622,"Miller to White, 1 run ",1st innings,45.3,run,196,1,196/6,"Miller to White, 1 run",,,6
+283,274,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, no run ",1st innings,45.4,no run,196,0,196/6,"Miller to KJ O'Brien, no run",,,6
+284,275,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, SIX runs ",1st innings,45.5,six,202,6,202/6,"Miller to KJ O'Brien, SIX runs",,,6
+285,276,Kevin O'Brien,24605,Nikita Miller,52622,"Miller to KJ O'Brien, 1 run ",1st innings,46.0,run,203,1,203/6,"Miller to KJ O'Brien, 1 run",,,6
+286,277,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,46.1,run,204,1,204/6,"Benn to KJ O'Brien, 1 run",,,6
+287,278,Andrew White,24286,Sulieman Benn,51248,"Benn to White, 1 run ",1st innings,46.2,run,205,1,205/6,"Benn to White, 1 run",,,6
+288,279,Kevin O'Brien,24605,Sulieman Benn,51248,"Benn to KJ O'Brien, 1 run ",1st innings,46.3,run,206,1,206/6,"Benn to KJ O'Brien, 1 run",,,6
+289,280,Andrew White,24286,Sulieman Benn,51248,"Benn to White, no run ",1st innings,46.4,no run,206,0,206/6,"Benn to White, no run",,,6
+290,281,Andrew White,24286,Sulieman Benn,51248,"Benn to White, OUT ",1st innings,46.5,out,205,0,205/7,"Benn to White, OUT",,,7
+291,282,Trent Johnston,6038,Sulieman Benn,51248,"Benn to Johnston, no run ",1st innings,47.0,no run,205,0,205/7,"Benn to Johnston, no run",,,7
+292,283,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, 1 run ",1st innings,47.1,run,206,1,206/7,"Rampaul to KJ O'Brien, 1 run",,,7
+293,284,Trent Johnston,6038,Ravi Rampaul,52912,"Rampaul to Johnston, SIX runs ",1st innings,47.2,six,212,6,212/7,"Rampaul to Johnston, SIX runs",,,7
+294,285,Trent Johnston,6038,Ravi Rampaul,52912,"Rampaul to Johnston, 1 run ",1st innings,47.3,run,213,1,213/7,"Rampaul to Johnston, 1 run",,,7
+295,286,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, 2 runs ",1st innings,47.4,run,215,2,215/7,"Rampaul to KJ O'Brien, 2 runs",,,7
+296,287,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, 1 run ",1st innings,47.5,run,216,1,216/7,"Rampaul to KJ O'Brien, 1 run",,,7
+297,288,Kevin O'Brien,24605,Ravi Rampaul,52912,"Rampaul to KJ O'Brien, OUT ",1st innings,48.0,out,216,0,216/8,"Rampaul to KJ O'Brien, OUT",,,8
+298,289,Trent Johnston,6038,Sulieman Benn,51248,"Benn to Johnston, 1 run ",1st innings,48.1,run,217,1,217/8,"Benn to Johnston, 1 run",,,8
+299,290,Peter Connell,303349,Sulieman Benn,51248,"Benn to Connell, no run ",1st innings,48.2,no run,217,0,217/8,"Benn to Connell, no run",,,8
+300,291,Peter Connell,303349,Sulieman Benn,51248,"Benn to Connell, no run ",1st innings,48.3,no run,217,0,217/8,"Benn to Connell, no run",,,8
+301,292,Peter Connell,303349,Sulieman Benn,51248,"Benn to Connell, 1 run ",1st innings,48.4,run,218,1,218/8,"Benn to Connell, 1 run",,,8
+302,293,Trent Johnston,6038,Sulieman Benn,51248,"Benn to Johnston, OUT ",1st innings,48.5,out,218,0,218/9,"Benn to Johnston, OUT",,,9
+303,294,George Dockrell,348034,Sulieman Benn,51248,"Benn to Dockrell, no run ",1st innings,49.0,no run,218,0,218/9,"Benn to Dockrell, no run",,,9
+304,295,Peter Connell,303349,Ravi Rampaul,52912,"Rampaul to Connell, no run ",1st innings,49.1,no run,218,0,218/9,"Rampaul to Connell, no run",,,9
+305,296,Peter Connell,303349,Ravi Rampaul,52912,"Rampaul to Connell, no run ",1st innings,49.2,no run,218,0,218/9,"Rampaul to Connell, no run",,,9
+306,297,Peter Connell,303349,Ravi Rampaul,52912,"Rampaul to Connell, no run ",1st innings,49.3,no run,218,0,218/9,"Rampaul to Connell, no run",,,9
+307,298,Peter Connell,303349,Ravi Rampaul,52912,"Rampaul to Connell, 1 run ",1st innings,49.4,run,219,1,219/9,"Rampaul to Connell, 1 run",,,9
+308,299,George Dockrell,348034,Ravi Rampaul,52912,"Rampaul to Dockrell, no run ",1st innings,49.5,no run,219,0,219/9,"Rampaul to Dockrell, no run",,,9
+309,300,George Dockrell,348034,Ravi Rampaul,52912,"Rampaul to Dockrell, OUT ",1st innings,50.0,out,219,0,219/10,"Rampaul to Dockrell, OUT",,,10
+310,1,Andre Fletcher,51862,Peter Connell,303349,"Connell to Fletcher, 1 run ",2nd innings,0.1,run,1,1,1/0,"Connell to Fletcher, 1 run",,,0
+311,2,Shivnarine Chanderpaul,51469,Peter Connell,303349,"Connell to Chanderpaul, no run ",2nd innings,0.2,no run,1,0,1/0,"Connell to Chanderpaul, no run",,,0
+312,3,Shivnarine Chanderpaul,51469,Peter Connell,303349,"Connell to Chanderpaul, no run ",2nd innings,0.3,no run,1,0,1/0,"Connell to Chanderpaul, no run",,,0
+313,4,Shivnarine Chanderpaul,51469,Peter Connell,303349,"Connell to Chanderpaul, no run ",2nd innings,0.4,no run,1,0,1/0,"Connell to Chanderpaul, no run",,,0
+314,5,Shivnarine Chanderpaul,51469,Peter Connell,303349,"Connell to Chanderpaul, no run ",2nd innings,0.5,no run,1,0,1/0,"Connell to Chanderpaul, no run",,,0
+315,6,Shivnarine Chanderpaul,51469,Peter Connell,303349,"Connell to Chanderpaul, OUT ",2nd innings,1.0,out,1,0,1/1,"Connell to Chanderpaul, OUT",,,1
+316,7,Andre Fletcher,51862,Trent Johnston,6038,"Johnston to Fletcher, no run ",2nd innings,1.1,no run,1,0,1/1,"Johnston to Fletcher, no run",,,1
+317,8,Andre Fletcher,51862,Trent Johnston,6038,"Johnston to Fletcher, no run ",2nd innings,1.2,no run,1,0,1/1,"Johnston to Fletcher, no run",,,1
+318,9,Andre Fletcher,51862,Trent Johnston,6038,"Johnston to Fletcher, no run ",2nd innings,1.3,no run,1,0,1/1,"Johnston to Fletcher, no run",,,1
+319,10,Andre Fletcher,51862,Trent Johnston,6038,"Johnston to Fletcher, OUT ",2nd innings,1.4,out,1,0,1/2,"Johnston to Fletcher, OUT",,,2
+320,11,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,1.5,no run,1,0,1/2,"Johnston to Sarwan, no run",,,2
+321,12,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,2.0,no run,1,0,1/2,"Johnston to Sarwan, no run",,,2
+322,13,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, 1 run ",2nd innings,2.1,run,2,1,2/2,"Connell to Hinds, 1 run",,,2
+323,14,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,2.2,no run,2,0,2/2,"Connell to Sarwan, no run",,,2
+324,15,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,2.3,no run,2,0,2/2,"Connell to Sarwan, no run",,,2
+325,16,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,2.4,no run,2,0,2/2,"Connell to Sarwan, no run",,,2
+326,17,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,2.5,no run,2,0,2/2,"Connell to Sarwan, no run",,,2
+327,18,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,3.0,no run,2,0,2/2,"Connell to Sarwan, no run",,,2
+328,19,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,3.1,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+329,20,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,3.2,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+330,21,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,3.3,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+331,22,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,3.4,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+332,23,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,3.5,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+333,24,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,4.0,no run,2,0,2/2,"Johnston to Hinds, no run",,,2
+334,25,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,4.1,run,3,1,3/2,"Connell to Sarwan, 1 run",,,2
+335,26,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,4.2,no run,3,0,3/2,"Connell to Hinds, no run",,,2
+336,27,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,4.3,no run,3,0,3/2,"Connell to Hinds, no run",,,2
+337,28,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,4.4,no run,3,0,3/2,"Connell to Hinds, no run",,,2
+338,29,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, 2 runs ",2nd innings,4.5,run,5,2,5/2,"Connell to Hinds, 2 runs",,,2
+339,30,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,5.0,no run,5,0,5/2,"Connell to Hinds, no run",,,2
+340,31,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, FOUR runs ",2nd innings,5.1,four,9,4,9/2,"Johnston to Sarwan, FOUR runs",,,2
+341,32,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,5.2,no run,9,0,9/2,"Johnston to Sarwan, no run",,,2
+342,33,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,5.3,no run,9,0,9/2,"Johnston to Sarwan, no run",,,2
+343,34,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,5.4,run,10,1,10/2,"Johnston to Sarwan, 1 run",,,2
+344,35,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,5.5,no run,10,0,10/2,"Johnston to Hinds, no run",,,2
+345,36,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,6.0,no run,10,0,10/2,"Johnston to Hinds, no run",,,2
+346,37,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,6.1,no run,10,0,10/2,"Connell to Sarwan, no run",,,2
+347,38,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 leg bye ",2nd innings,6.2,leg bye,11,1,11/2,"Connell to Sarwan, 1 leg bye",,,2
+348,39,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,6.3,no run,11,0,11/2,"Connell to Hinds, no run",,,2
+349,40,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,6.4,no run,11,0,11/2,"Connell to Hinds, no run",,,2
+350,41,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,6.5,no run,11,0,11/2,"Connell to Hinds, no run",,,2
+351,42,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,7.0,no run,11,0,11/2,"Connell to Hinds, no run",,,2
+352,43,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,7.1,no run,11,0,11/2,"Johnston to Sarwan, no run",,,2
+353,44,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,7.2,no run,11,0,11/2,"Johnston to Sarwan, no run",,,2
+354,45,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 2 runs ",2nd innings,7.3,run,13,2,13/2,"Johnston to Sarwan, 2 runs",,,2
+355,46,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,7.4,run,14,1,14/2,"Johnston to Sarwan, 1 run",,,2
+356,47,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,7.5,no run,14,0,14/2,"Johnston to Hinds, no run",,,2
+357,48,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,8.0,no run,14,0,14/2,"Johnston to Hinds, no run",,,2
+358,49,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,8.1,no run,14,0,14/2,"Connell to Sarwan, no run",,,2
+359,50,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,8.2,no run,14,0,14/2,"Connell to Sarwan, no run",,,2
+360,51,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,8.3,no run,14,0,14/2,"Connell to Sarwan, no run",,,2
+361,52,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,8.4,no run,14,0,14/2,"Connell to Sarwan, no run",,,2
+362,53,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,8.5,no run,14,0,14/2,"Connell to Sarwan, no run",,,2
+363,54,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, FOUR runs ",2nd innings,9.0,four,18,4,18/2,"Connell to Sarwan, FOUR runs",,,2
+364,55,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,9.1,no run,18,0,18/2,"Johnston to Hinds, no run",,,2
+365,56,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,9.2,no run,18,0,18/2,"Johnston to Hinds, no run",,,2
+366,57,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,9.3,no run,18,0,18/2,"Johnston to Hinds, no run",,,2
+367,58,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,9.4,no run,18,0,18/2,"Johnston to Hinds, no run",,,2
+368,59,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,9.5,no run,18,0,18/2,"Johnston to Hinds, no run",,,2
+369,60,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, 1 run ",2nd innings,10.0,run,19,1,19/2,"Johnston to Hinds, 1 run",,,2
+370,61,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,10.1,no run,19,0,19/2,"Connell to Hinds, no run",,,2
+371,62,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,10.2,no run,19,0,19/2,"Connell to Hinds, no run",,,2
+372,63,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,10.3,no run,19,0,19/2,"Connell to Hinds, no run",,,2
+373,64,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, 1 run ",2nd innings,10.4,run,20,1,20/2,"Connell to Hinds, 1 run",,,2
+374,65,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,10.5,run,21,1,21/2,"Connell to Sarwan, 1 run",,,2
+375,66,Wavell Hinds,52057,Peter Connell,303349,"Connell to Hinds, no run ",2nd innings,11.0,no run,21,0,21/2,"Connell to Hinds, no run",,,2
+376,67,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,11.1,run,22,1,22/2,"Johnston to Sarwan, 1 run",,,2
+377,68,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,11.2,no run,22,0,22/2,"Johnston to Hinds, no run",,,2
+378,69,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,11.3,no run,22,0,22/2,"Johnston to Hinds, no run",,,2
+379,70,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,11.4,no run,22,0,22/2,"Johnston to Hinds, no run",,,2
+380,71,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, no run ",2nd innings,11.5,no run,22,0,22/2,"Johnston to Hinds, no run",,,2
+381,72,Wavell Hinds,52057,Trent Johnston,6038,"Johnston to Hinds, 1 run ",2nd innings,12.0,run,23,1,23/2,"Johnston to Hinds, 1 run",,,2
+382,73,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, 1 run ",2nd innings,12.1,run,24,1,24/2,"KJ O'Brien to Hinds, 1 run",,,2
+383,74,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,12.2,no run,24,0,24/2,"KJ O'Brien to Sarwan, no run",,,2
+384,75,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,12.3,no run,24,0,24/2,"KJ O'Brien to Sarwan, no run",,,2
+385,76,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,12.4,run,25,1,25/2,"KJ O'Brien to Sarwan, 1 run",,,2
+386,77,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, no run ",2nd innings,12.5,no run,25,0,25/2,"KJ O'Brien to Hinds, no run",,,2
+387,78,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, FOUR runs ",2nd innings,13.0,four,29,4,29/2,"KJ O'Brien to Hinds, FOUR runs",,,2
+388,78,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 no ball ",2nd innings,13.0,no ball,30,1,30/2,"Johnston to Sarwan, 1 no ball",,,2
+389,79,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, FOUR runs ",2nd innings,13.1,four,34,4,34/2,"Johnston to Sarwan, FOUR runs",,,2
+390,79,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 wide ",2nd innings,13.1,wide,35,1,35/2,"Johnston to Sarwan, 1 wide",,,2
+391,80,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,13.2,no run,35,0,35/2,"Johnston to Sarwan, no run",,,2
+392,81,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, FOUR runs ",2nd innings,13.3,four,39,4,39/2,"Johnston to Sarwan, FOUR runs",,,2
+393,82,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, FOUR runs ",2nd innings,13.4,four,43,4,43/2,"Johnston to Sarwan, FOUR runs",,,2
+394,83,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,13.5,no run,43,0,43/2,"Johnston to Sarwan, no run",,,2
+395,84,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,14.0,run,44,1,44/2,"Johnston to Sarwan, 1 run",,,2
+396,85,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,14.1,no run,44,0,44/2,"KJ O'Brien to Sarwan, no run",,,2
+397,86,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,14.2,no run,44,0,44/2,"KJ O'Brien to Sarwan, no run",,,2
+398,87,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,14.3,no run,44,0,44/2,"KJ O'Brien to Sarwan, no run",,,2
+399,88,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,14.4,run,45,1,45/2,"KJ O'Brien to Sarwan, 1 run",,,2
+400,89,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, no run ",2nd innings,14.5,no run,45,0,45/2,"KJ O'Brien to Hinds, no run",,,2
+401,90,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, 1 run ",2nd innings,15.0,run,46,1,46/2,"KJ O'Brien to Hinds, 1 run",,,2
+402,91,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, 1 run ",2nd innings,15.1,run,47,1,47/2,"Dockrell to Hinds, 1 run",,,2
+403,92,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, 1 run ",2nd innings,15.2,run,48,1,48/2,"Dockrell to Sarwan, 1 run",,,2
+404,93,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, SIX runs ",2nd innings,15.3,six,54,6,54/2,"Dockrell to Hinds, SIX runs",,,2
+405,94,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,15.4,no run,54,0,54/2,"Dockrell to Hinds, no run",,,2
+406,95,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,15.5,no run,54,0,54/2,"Dockrell to Hinds, no run",,,2
+407,96,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,16.0,no run,54,0,54/2,"Dockrell to Hinds, no run",,,2
+408,97,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,16.1,no run,54,0,54/2,"KJ O'Brien to Sarwan, no run",,,2
+409,98,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,16.2,no run,54,0,54/2,"KJ O'Brien to Sarwan, no run",,,2
+410,99,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,16.3,run,55,1,55/2,"KJ O'Brien to Sarwan, 1 run",,,2
+411,100,Wavell Hinds,52057,Kevin O'Brien,24605,"KJ O'Brien to Hinds, 1 run ",2nd innings,16.4,run,56,1,56/2,"KJ O'Brien to Hinds, 1 run",,,2
+412,101,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,16.5,no run,56,0,56/2,"KJ O'Brien to Sarwan, no run",,,2
+413,102,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,17.0,no run,56,0,56/2,"KJ O'Brien to Sarwan, no run",,,2
+414,103,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,17.1,no run,56,0,56/2,"Dockrell to Hinds, no run",,,2
+415,104,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,17.2,no run,56,0,56/2,"Dockrell to Hinds, no run",,,2
+416,105,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,17.3,no run,56,0,56/2,"Dockrell to Hinds, no run",,,2
+417,106,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, no run ",2nd innings,17.4,no run,56,0,56/2,"Dockrell to Hinds, no run",,,2
+418,107,Wavell Hinds,52057,George Dockrell,348034,"Dockrell to Hinds, OUT ",2nd innings,17.5,out,56,0,56/3,"Dockrell to Hinds, OUT",,,3
+419,108,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, 1 run ",2nd innings,18.0,run,57,1,57/3,"Dockrell to Deonarine, 1 run",,,3
+420,109,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, no run ",2nd innings,18.1,no run,57,0,57/3,"KJ O'Brien to Deonarine, no run",,,3
+421,110,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, 1 run ",2nd innings,18.2,run,58,1,58/3,"KJ O'Brien to Deonarine, 1 run",,,3
+422,111,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,18.3,run,59,1,59/3,"KJ O'Brien to Sarwan, 1 run",,,3
+423,112,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, no run ",2nd innings,18.4,no run,59,0,59/3,"KJ O'Brien to Deonarine, no run",,,3
+424,113,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, 1 run ",2nd innings,18.5,run,60,1,60/3,"KJ O'Brien to Deonarine, 1 run",,,3
+425,114,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,19.0,run,61,1,61/3,"KJ O'Brien to Sarwan, 1 run",,,3
+426,115,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,19.1,no run,61,0,61/3,"Dockrell to Sarwan, no run",,,3
+427,116,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,19.2,no run,61,0,61/3,"Dockrell to Sarwan, no run",,,3
+428,117,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, 2 runs ",2nd innings,19.3,run,63,2,63/3,"Dockrell to Sarwan, 2 runs",,,3
+429,118,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,19.4,no run,63,0,63/3,"Dockrell to Sarwan, no run",,,3
+430,119,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,19.5,no run,63,0,63/3,"Dockrell to Sarwan, no run",,,3
+431,120,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,20.0,no run,63,0,63/3,"Dockrell to Sarwan, no run",,,3
+432,121,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, 1 run ",2nd innings,20.1,run,64,1,64/3,"KJ O'Brien to Deonarine, 1 run",,,3
+433,122,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,20.2,no run,64,0,64/3,"KJ O'Brien to Sarwan, no run",,,3
+434,123,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, no run ",2nd innings,20.3,no run,64,0,64/3,"KJ O'Brien to Sarwan, no run",,,3
+435,124,Ramnaresh Sarwan,52969,Kevin O'Brien,24605,"KJ O'Brien to Sarwan, 1 run ",2nd innings,20.4,run,65,1,65/3,"KJ O'Brien to Sarwan, 1 run",,,3
+436,125,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, no run ",2nd innings,20.5,no run,65,0,65/3,"KJ O'Brien to Deonarine, no run",,,3
+437,126,Narsingh Deonarine,51659,Kevin O'Brien,24605,"KJ O'Brien to Deonarine, 1 run ",2nd innings,21.0,run,66,1,66/3,"KJ O'Brien to Deonarine, 1 run",,,3
+438,127,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, 1 run ",2nd innings,21.1,run,67,1,67/3,"Dockrell to Deonarine, 1 run",,,3
+439,128,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, 1 run ",2nd innings,21.2,run,68,1,68/3,"Dockrell to Sarwan, 1 run",,,3
+440,129,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, SIX runs ",2nd innings,21.3,six,74,6,74/3,"Dockrell to Deonarine, SIX runs",,,3
+441,130,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, 1 run ",2nd innings,21.4,run,75,1,75/3,"Dockrell to Deonarine, 1 run",,,3
+442,131,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,21.5,no run,75,0,75/3,"Dockrell to Sarwan, no run",,,3
+443,132,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, 1 run ",2nd innings,22.0,run,76,1,76/3,"Dockrell to Sarwan, 1 run",,,3
+444,133,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,22.1,run,77,1,77/3,"Botha to Sarwan, 1 run",,,3
+445,134,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,22.2,no run,77,0,77/3,"Botha to Deonarine, no run",,,3
+446,135,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,22.3,run,78,1,78/3,"Botha to Deonarine, 1 run",,,3
+447,136,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,22.4,run,79,1,79/3,"Botha to Sarwan, 1 run",,,3
+448,137,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,22.5,run,80,1,80/3,"Botha to Deonarine, 1 run",,,3
+449,137,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 wide ",2nd innings,22.5,wide,81,1,81/3,"Botha to Sarwan, 1 wide",,,3
+450,138,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,23.0,no run,81,0,81/3,"Botha to Sarwan, no run",,,3
+451,139,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, SIX runs ",2nd innings,23.1,six,87,6,87/3,"Dockrell to Deonarine, SIX runs",,,3
+452,140,Narsingh Deonarine,51659,George Dockrell,348034,"Dockrell to Deonarine, 1 run ",2nd innings,23.2,run,88,1,88/3,"Dockrell to Deonarine, 1 run",,,3
+453,141,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,23.3,no run,88,0,88/3,"Dockrell to Sarwan, no run",,,3
+454,142,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, FOUR runs ",2nd innings,23.4,four,92,4,92/3,"Dockrell to Sarwan, FOUR runs",,,3
+455,143,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, FOUR runs ",2nd innings,23.5,four,96,4,96/3,"Dockrell to Sarwan, FOUR runs",,,3
+456,144,Ramnaresh Sarwan,52969,George Dockrell,348034,"Dockrell to Sarwan, no run ",2nd innings,24.0,no run,96,0,96/3,"Dockrell to Sarwan, no run",,,3
+457,145,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,24.1,no run,96,0,96/3,"Botha to Deonarine, no run",,,3
+458,146,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 2 runs ",2nd innings,24.2,run,98,2,98/3,"Botha to Deonarine, 2 runs",,,3
+459,147,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,24.3,no run,98,0,98/3,"Botha to Deonarine, no run",,,3
+460,148,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,24.4,run,99,1,99/3,"Botha to Deonarine, 1 run",,,3
+461,149,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, FOUR runs ",2nd innings,24.5,four,103,4,103/3,"Botha to Sarwan, FOUR runs",,,3
+462,150,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,25.0,run,104,1,104/3,"Botha to Sarwan, 1 run",,,3
+463,151,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,25.1,run,105,1,105/3,"Cusack to Sarwan, 1 run",,,3
+464,152,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, 1 run ",2nd innings,25.2,run,106,1,106/3,"Cusack to Deonarine, 1 run",,,3
+465,153,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,25.3,run,107,1,107/3,"Cusack to Sarwan, 1 run",,,3
+466,154,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, FOUR runs ",2nd innings,25.4,four,111,4,111/3,"Cusack to Deonarine, FOUR runs",,,3
+467,155,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, no run ",2nd innings,25.5,no run,111,0,111/3,"Cusack to Deonarine, no run",,,3
+468,156,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, 1 run ",2nd innings,26.0,run,112,1,112/3,"Cusack to Deonarine, 1 run",,,3
+469,157,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,26.1,run,113,1,113/3,"Botha to Deonarine, 1 run",,,3
+470,158,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,26.2,run,114,1,114/3,"Botha to Sarwan, 1 run",,,3
+471,159,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,26.3,run,115,1,115/3,"Botha to Deonarine, 1 run",,,3
+472,160,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,26.4,run,116,1,116/3,"Botha to Sarwan, 1 run",,,3
+473,161,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,26.5,run,117,1,117/3,"Botha to Deonarine, 1 run",,,3
+474,162,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,27.0,run,118,1,118/3,"Botha to Sarwan, 1 run",,,3
+475,163,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, FOUR runs ",2nd innings,27.1,four,122,4,122/3,"Cusack to Sarwan, FOUR runs",,,3
+476,164,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, no run ",2nd innings,27.2,no run,122,0,122/3,"Cusack to Sarwan, no run",,,3
+477,165,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,27.3,run,123,1,123/3,"Cusack to Sarwan, 1 run",,,3
+478,166,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, no run ",2nd innings,27.4,no run,123,0,123/3,"Cusack to Deonarine, no run",,,3
+479,167,Narsingh Deonarine,51659,Alex Cusack,293983,"Cusack to Deonarine, 1 run ",2nd innings,27.5,run,124,1,124/3,"Cusack to Deonarine, 1 run",,,3
+480,168,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, no run ",2nd innings,28.0,no run,124,0,124/3,"Cusack to Sarwan, no run",,,3
+481,169,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,28.1,no run,124,0,124/3,"Botha to Deonarine, no run",,,3
+482,170,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,28.2,no run,124,0,124/3,"Botha to Deonarine, no run",,,3
+483,171,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,28.3,run,125,1,125/3,"Botha to Deonarine, 1 run",,,3
+484,172,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,28.4,run,126,1,126/3,"Botha to Sarwan, 1 run",,,3
+485,173,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, FOUR runs ",2nd innings,28.5,four,130,4,130/3,"Botha to Deonarine, FOUR runs",,,3
+486,174,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, no run ",2nd innings,29.0,no run,128,0,128/3,"Botha to Deonarine, no run",,,3
+487,175,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,29.1,no run,128,0,128/3,"Johnston to Sarwan, no run",,,3
+488,176,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,29.2,no run,128,0,128/3,"Johnston to Sarwan, no run",,,3
+489,177,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, no run ",2nd innings,29.3,no run,128,0,128/3,"Johnston to Sarwan, no run",,,3
+490,178,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,29.4,run,129,1,129/3,"Johnston to Sarwan, 1 run",,,3
+491,179,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, 2 runs ",2nd innings,29.5,run,131,2,131/3,"Johnston to Deonarine, 2 runs",,,3
+492,180,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, no run ",2nd innings,30.0,no run,131,0,131/3,"Johnston to Deonarine, no run",,,3
+493,181,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,30.1,run,132,1,132/3,"Connell to Sarwan, 1 run",,,3
+494,182,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, no run ",2nd innings,30.2,no run,132,0,132/3,"Connell to Deonarine, no run",,,3
+495,183,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, 1 run ",2nd innings,30.3,run,133,1,133/3,"Connell to Deonarine, 1 run",,,3
+496,184,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,30.4,no run,133,0,133/3,"Connell to Sarwan, no run",,,3
+497,185,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,30.5,run,134,1,134/3,"Connell to Sarwan, 1 run",,,3
+498,186,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, no run ",2nd innings,31.0,no run,134,0,134/3,"Connell to Deonarine, no run",,,3
+499,187,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, FOUR runs ",2nd innings,31.1,four,138,4,138/3,"Johnston to Sarwan, FOUR runs",,,3
+500,188,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,31.2,run,139,1,139/3,"Johnston to Sarwan, 1 run",,,3
+501,189,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, 1 run ",2nd innings,31.3,run,140,1,140/3,"Johnston to Deonarine, 1 run",,,3
+502,190,Ramnaresh Sarwan,52969,Trent Johnston,6038,"Johnston to Sarwan, 1 run ",2nd innings,31.4,run,141,1,141/3,"Johnston to Sarwan, 1 run",,,3
+503,190,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, 1 no ball ",2nd innings,31.4,no ball,142,1,142/3,"Johnston to Deonarine, 1 no ball",,,3
+504,191,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, FOUR runs ",2nd innings,31.5,four,146,4,146/3,"Johnston to Deonarine, FOUR runs",,,3
+505,192,Narsingh Deonarine,51659,Trent Johnston,6038,"Johnston to Deonarine, 2 runs ",2nd innings,32.0,run,148,2,148/3,"Johnston to Deonarine, 2 runs",,,3
+506,193,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, FOUR runs ",2nd innings,32.1,four,152,4,152/3,"Connell to Sarwan, FOUR runs",,,3
+507,194,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,32.2,run,153,1,153/3,"Connell to Sarwan, 1 run",,,3
+508,195,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, 1 run ",2nd innings,32.3,run,154,1,154/3,"Connell to Deonarine, 1 run",,,3
+509,196,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,32.4,run,155,1,155/3,"Connell to Sarwan, 1 run",,,3
+510,197,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, FOUR runs ",2nd innings,32.5,four,159,4,159/3,"Connell to Deonarine, FOUR runs",,,3
+511,198,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, no run ",2nd innings,33.0,no run,159,0,159/3,"Connell to Deonarine, no run",,,3
+512,199,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,33.1,run,160,1,160/3,"Botha to Sarwan, 1 run",,,3
+513,200,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,33.2,run,161,1,161/3,"Botha to Deonarine, 1 run",,,3
+514,201,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,33.3,run,162,1,162/3,"Botha to Sarwan, 1 run",,,3
+515,202,Narsingh Deonarine,51659,Andre Botha,44102,"Botha to Deonarine, 1 run ",2nd innings,33.4,run,163,1,163/3,"Botha to Deonarine, 1 run",,,3
+516,203,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 leg bye ",2nd innings,33.5,leg bye,164,1,164/3,"Botha to Sarwan, 1 leg bye",,,3
+517,204,Narsingh Deonarine,51659,Paul Stirling,303427,"Stirling to Deonarine, no run ",2nd innings,34.0,no run,164,0,164/3,"Stirling to Deonarine, no run",,,3
+518,205,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 2 runs ",2nd innings,34.1,run,166,2,166/3,"Connell to Sarwan, 2 runs",,,3
+519,206,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, no run ",2nd innings,34.2,no run,166,0,166/3,"Connell to Sarwan, no run",,,3
+520,207,Ramnaresh Sarwan,52969,Peter Connell,303349,"Connell to Sarwan, 1 run ",2nd innings,34.3,run,167,1,167/3,"Connell to Sarwan, 1 run",,,3
+521,208,Narsingh Deonarine,51659,Peter Connell,303349,"Connell to Deonarine, OUT ",2nd innings,34.4,out,167,0,167/4,"Connell to Deonarine, OUT",,,4
+522,209,Darren Bravo,277472,Peter Connell,303349,"Connell to Bravo, no run ",2nd innings,34.5,no run,167,0,167/4,"Connell to Bravo, no run",,,4
+523,210,Darren Bravo,277472,Peter Connell,303349,"Connell to Bravo, no run ",2nd innings,35.0,no run,167,0,167/4,"Connell to Bravo, no run",,,4
+524,211,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,35.1,no run,167,0,167/4,"Botha to Sarwan, no run",,,4
+525,212,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,35.2,no run,167,0,167/4,"Botha to Sarwan, no run",,,4
+526,218,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,36.2,run,168,1,168/4,"Botha to Sarwan, 1 run",,,4
+527,219,Darren Bravo,277472,Andre Botha,44102,"Botha to Bravo, 3 runs ",2nd innings,36.3,run,171,3,171/4,"Botha to Bravo, 3 runs",,,4
+528,220,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,36.4,no run,171,0,171/4,"Botha to Sarwan, no run",,,4
+529,221,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,36.5,no run,171,0,171/4,"Botha to Sarwan, no run",,,4
+530,222,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, no run ",2nd innings,37.0,no run,171,0,171/4,"Botha to Sarwan, no run",,,4
+531,223,Ramnaresh Sarwan,52969,Andre Botha,44102,"Botha to Sarwan, 1 run ",2nd innings,37.1,run,172,1,172/4,"Botha to Sarwan, 1 run",,,4
+532,224,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,37.2,no run,172,0,172/4,"Stirling to Bravo, no run",,,4
+533,225,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, 1 run ",2nd innings,37.3,run,173,1,173/4,"Stirling to Bravo, 1 run",,,4
+534,226,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, FOUR runs ",2nd innings,37.4,four,177,4,177/4,"Stirling to Sarwan, FOUR runs",,,4
+535,227,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 run ",2nd innings,37.5,run,178,1,178/4,"Stirling to Sarwan, 1 run",,,4
+536,228,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,38.0,no run,182,0,182/4,"Stirling to Bravo, no run",,,4
+537,229,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 run ",2nd innings,38.1,run,183,1,183/4,"Stirling to Sarwan, 1 run",,,4
+538,230,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, 1 run ",2nd innings,38.2,run,184,1,184/4,"Stirling to Bravo, 1 run",,,4
+539,231,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 run ",2nd innings,38.3,run,185,1,185/4,"Stirling to Sarwan, 1 run",,,4
+540,232,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, 1 run ",2nd innings,38.4,run,186,1,186/4,"Stirling to Bravo, 1 run",,,4
+541,233,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 run ",2nd innings,38.5,run,187,1,187/4,"Stirling to Sarwan, 1 run",,,4
+542,234,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,39.0,no run,187,0,187/4,"Stirling to Bravo, no run",,,4
+543,235,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,39.1,run,188,1,188/4,"Cusack to Sarwan, 1 run",,,4
+544,236,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, 1 run ",2nd innings,39.2,run,189,1,189/4,"Cusack to Bravo, 1 run",,,4
+545,237,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,39.3,run,190,1,190/4,"Cusack to Sarwan, 1 run",,,4
+546,238,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,39.4,no run,190,0,190/4,"Cusack to Bravo, no run",,,4
+547,239,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,39.5,no run,190,0,190/4,"Cusack to Bravo, no run",,,4
+548,240,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, 1 run ",2nd innings,40.0,run,191,1,191/4,"Cusack to Bravo, 1 run",,,4
+549,241,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,40.1,no run,191,0,191/4,"Stirling to Bravo, no run",,,4
+550,242,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, 1 run ",2nd innings,40.2,run,192,1,192/4,"Stirling to Bravo, 1 run",,,4
+551,243,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, no run ",2nd innings,40.3,no run,192,0,192/4,"Stirling to Sarwan, no run",,,4
+552,243,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 wide ",2nd innings,40.3,wide,193,1,193/4,"Stirling to Sarwan, 1 wide",,,4
+553,244,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, 1 run ",2nd innings,40.4,run,194,1,194/4,"Stirling to Sarwan, 1 run",,,4
+554,245,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, SIX runs ",2nd innings,40.5,six,200,6,200/4,"Stirling to Bravo, SIX runs",,,4
+555,246,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,41.0,no run,200,0,200/4,"Stirling to Bravo, no run",,,4
+556,247,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, no run ",2nd innings,41.1,no run,200,0,200/4,"Cusack to Sarwan, no run",,,4
+557,248,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, 1 run ",2nd innings,41.2,run,201,1,201/4,"Cusack to Sarwan, 1 run",,,4
+558,249,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,41.3,no run,201,0,201/4,"Cusack to Bravo, no run",,,4
+559,250,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, 1 run ",2nd innings,41.4,run,202,1,202/4,"Cusack to Bravo, 1 run",,,4
+560,251,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, no run ",2nd innings,41.5,no run,202,0,202/4,"Cusack to Sarwan, no run",,,4
+561,252,Ramnaresh Sarwan,52969,Alex Cusack,293983,"Cusack to Sarwan, no run ",2nd innings,42.0,no run,202,0,202/4,"Cusack to Sarwan, no run",,,4
+562,253,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,42.1,no run,202,0,202/4,"Stirling to Bravo, no run",,,4
+563,254,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, SIX runs ",2nd innings,42.2,six,208,6,208/4,"Stirling to Bravo, SIX runs",,,4
+564,255,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, no run ",2nd innings,42.3,no run,208,0,208/4,"Stirling to Bravo, no run",,,4
+565,256,Darren Bravo,277472,Paul Stirling,303427,"Stirling to Bravo, 1 run ",2nd innings,42.4,run,209,1,209/4,"Stirling to Bravo, 1 run",,,4
+566,257,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, no run ",2nd innings,42.5,no run,209,0,209/4,"Stirling to Sarwan, no run",,,4
+567,258,Ramnaresh Sarwan,52969,Paul Stirling,303427,"Stirling to Sarwan, no run ",2nd innings,43.0,no run,209,0,209/4,"Stirling to Sarwan, no run",,,4
+568,259,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,43.1,no run,209,0,209/4,"Cusack to Bravo, no run",,,4
+569,260,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, 2 runs ",2nd innings,43.2,run,211,2,211/4,"Cusack to Bravo, 2 runs",,,4
+570,261,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,43.3,no run,211,0,211/4,"Cusack to Bravo, no run",,,4
+571,262,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,43.4,no run,211,0,211/4,"Cusack to Bravo, no run",,,4
+572,263,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, no run ",2nd innings,43.5,no run,211,0,211/4,"Cusack to Bravo, no run",,,4
+573,264,Darren Bravo,277472,Alex Cusack,293983,"Cusack to Bravo, 2 runs ",2nd innings,44.0,run,213,2,213/4,"Cusack to Bravo, 2 runs",,,4
