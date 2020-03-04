@@ -1,464 +1,464 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,103,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,17.1,run,1,1,1/0,"Reva to Anshuman Rath, 1 run",,,0
-1,104,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,17.2,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
-2,105,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,17.3,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
-3,106,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,17.4,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
-4,107,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, FOUR runs ",1st innings,17.5,four,5,4,5/0,"Reva to Atkinson, FOUR runs",,,0
-5,108,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,18.0,no run,83,0,83/0,"Reva to Anshuman Rath, no run",,,0
-6,109,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,18.1,run,84,1,84/0,"Vala to Anshuman Rath, 1 run",,,0
-7,110,Jamie Atkinson,292152,Assad Vala,25056,"Vala to Atkinson, OUT ",1st innings,18.2,out,84,0,84/1,"Vala to Atkinson, OUT",,,1
-8,111,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,18.3,run,85,1,85/1,"Vala to Babar Hayat, 1 run",,,1
-9,112,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,18.4,run,86,1,86/1,"Vala to Anshuman Rath, 1 run",,,1
-10,113,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,18.5,no run,86,0,86/1,"Vala to Babar Hayat, no run",,,1
-11,114,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,19.0,run,87,1,87/1,"Vala to Babar Hayat, 1 run",,,1
-12,115,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,19.1,no run,87,0,87/1,"Reva to Babar Hayat, no run",,,1
-13,116,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,19.2,run,88,1,88/1,"Reva to Babar Hayat, 1 run",,,1
-14,117,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,19.3,run,89,1,89/1,"Reva to Anshuman Rath, 1 run",,,1
-15,118,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,19.4,no run,89,0,89/1,"Reva to Babar Hayat, no run",,,1
-16,119,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,19.5,no run,89,0,89/1,"Reva to Babar Hayat, no run",,,1
-17,120,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,20.0,run,90,1,90/1,"Reva to Babar Hayat, 1 run",,,1
-18,121,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, FOUR runs ",1st innings,20.1,four,94,4,94/1,"Ravu to Babar Hayat, FOUR runs",,,1
-19,122,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, SIX runs ",1st innings,20.2,six,100,6,100/1,"Ravu to Babar Hayat, SIX runs",,,1
-20,123,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,20.3,no run,100,0,100/1,"Ravu to Babar Hayat, no run",,,1
-21,124,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,20.4,run,101,1,101/1,"Ravu to Babar Hayat, 1 run",,,1
-22,125,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, FOUR runs ",1st innings,20.5,four,105,4,105/1,"Ravu to Anshuman Rath, FOUR runs",,,1
-23,126,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,21.0,run,106,1,106/1,"Ravu to Anshuman Rath, 1 run",,,1
-24,127,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,21.1,no run,106,0,106/1,"Reva to Anshuman Rath, no run",,,1
-25,128,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,21.2,run,107,1,107/1,"Reva to Anshuman Rath, 1 run",,,1
-26,129,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,21.3,run,108,1,108/1,"Reva to Babar Hayat, 1 run",,,1
-27,130,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,21.4,no run,108,0,108/1,"Reva to Anshuman Rath, no run",,,1
-28,131,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,21.5,run,109,1,109/1,"Reva to Anshuman Rath, 1 run",,,1
-29,132,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, FOUR runs ",1st innings,22.0,four,113,4,113/1,"Reva to Babar Hayat, FOUR runs",,,1
-30,133,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,22.1,no run,113,0,113/1,"Ravu to Anshuman Rath, no run",,,1
-31,134,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,22.2,no run,113,0,113/1,"Ravu to Anshuman Rath, no run",,,1
-32,135,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,22.3,run,114,1,114/1,"Ravu to Anshuman Rath, 1 run",,,1
-33,136,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,22.4,no run,114,0,114/1,"Ravu to Babar Hayat, no run",,,1
-34,136,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 wide ",1st innings,22.4,wide,115,1,115/1,"Ravu to Babar Hayat, 1 wide",,,1
-35,137,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,22.5,run,116,1,116/1,"Ravu to Babar Hayat, 1 run",,,1
-36,138,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,23.0,no run,116,0,116/1,"Ravu to Anshuman Rath, no run",,,1
-37,139,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,23.1,run,117,1,117/1,"Reva to Babar Hayat, 1 run",,,1
-38,140,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,23.2,no run,117,0,117/1,"Reva to Anshuman Rath, no run",,,1
-39,141,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,23.3,run,118,1,118/1,"Reva to Anshuman Rath, 1 run",,,1
-40,142,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,23.4,no run,118,0,118/1,"Reva to Babar Hayat, no run",,,1
-41,143,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,23.5,run,119,1,119/1,"Reva to Babar Hayat, 1 run",,,1
-42,144,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,24.0,no run,119,0,119/1,"Reva to Anshuman Rath, no run",,,1
-43,145,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,24.1,run,120,1,120/1,"Ravu to Babar Hayat, 1 run",,,1
-44,146,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,24.2,run,121,1,121/1,"Ravu to Anshuman Rath, 1 run",,,1
-45,147,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,24.3,no run,121,0,121/1,"Ravu to Babar Hayat, no run",,,1
-46,148,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,24.4,run,122,1,122/1,"Ravu to Babar Hayat, 1 run",,,1
-47,149,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,24.5,run,123,1,123/1,"Ravu to Anshuman Rath, 1 run",,,1
-48,150,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,25.0,run,124,1,124/1,"Ravu to Babar Hayat, 1 run",,,1
-49,151,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,25.1,no run,124,0,124/1,"Reva to Babar Hayat, no run",,,1
-50,152,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,25.2,no run,124,0,124/1,"Reva to Babar Hayat, no run",,,1
-51,153,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,25.3,run,125,1,125/1,"Reva to Babar Hayat, 1 run",,,1
-52,154,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,25.4,no run,125,0,125/1,"Reva to Anshuman Rath, no run",,,1
-53,155,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,25.5,run,126,1,126/1,"Reva to Anshuman Rath, 1 run",,,1
-54,156,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,26.0,run,127,1,127/1,"Reva to Babar Hayat, 1 run",,,1
-55,157,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,26.1,run,128,1,128/1,"Vala to Babar Hayat, 1 run",,,1
-56,158,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,26.2,run,129,1,129/1,"Vala to Anshuman Rath, 1 run",,,1
-57,159,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,26.3,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
-58,160,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,26.4,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
-59,161,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,26.5,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
-60,162,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,27.0,run,130,1,130/1,"Vala to Babar Hayat, 1 run",,,1
-61,163,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,27.1,no run,130,0,130/1,"Dai to Babar Hayat, no run",,,1
-62,164,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,27.2,no run,130,0,130/1,"Dai to Babar Hayat, no run",,,1
-63,165,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, FOUR runs ",1st innings,27.3,four,134,4,134/1,"Dai to Babar Hayat, FOUR runs",,,1
-64,166,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,27.4,six,140,6,140/1,"Dai to Babar Hayat, SIX runs",,,1
-65,167,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,27.5,no run,140,0,140/1,"Dai to Babar Hayat, no run",,,1
-66,168,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,28.0,run,141,1,141/1,"Dai to Babar Hayat, 1 run",,,1
-67,169,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,28.1,no run,141,0,141/1,"Vala to Babar Hayat, no run",,,1
-68,170,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, FOUR runs ",1st innings,28.2,four,145,4,145/1,"Vala to Babar Hayat, FOUR runs",,,1
-69,171,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,28.3,no run,145,0,145/1,"Vala to Babar Hayat, no run",,,1
-70,172,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, SIX runs ",1st innings,28.4,six,151,6,151/1,"Vala to Babar Hayat, SIX runs",,,1
-71,173,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,28.5,no run,151,0,151/1,"Vala to Babar Hayat, no run",,,1
-72,174,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,29.0,no run,151,0,151/1,"Vala to Babar Hayat, no run",,,1
-73,175,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,29.1,no run,151,0,151/1,"Dai to Anshuman Rath, no run",,,1
-74,176,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,29.2,run,152,1,152/1,"Dai to Anshuman Rath, 1 run",,,1
-75,177,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 2 runs ",1st innings,29.3,run,154,2,154/1,"Dai to Babar Hayat, 2 runs",,,1
-76,178,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,29.4,run,155,1,155/1,"Dai to Babar Hayat, 1 run",,,1
-77,179,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,29.5,no run,155,0,155/1,"Dai to Anshuman Rath, no run",,,1
-78,180,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,30.0,run,156,1,156/1,"Dai to Anshuman Rath, 1 run",,,1
-79,181,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 2 runs ",1st innings,30.1,run,158,2,158/1,"Vala to Anshuman Rath, 2 runs",,,1
-80,182,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,30.2,no run,158,0,158/1,"Vala to Anshuman Rath, no run",,,1
-81,183,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 2 runs ",1st innings,30.3,run,160,2,160/1,"Vala to Anshuman Rath, 2 runs",,,1
-82,184,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,30.4,no run,160,0,160/1,"Vala to Anshuman Rath, no run",,,1
-83,185,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,30.5,no run,160,0,160/1,"Vala to Anshuman Rath, no run",,,1
-84,186,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,31.0,run,161,1,161/1,"Vala to Anshuman Rath, 1 run",,,1
-85,187,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 2 runs ",1st innings,31.1,run,163,2,163/1,"Dai to Anshuman Rath, 2 runs",,,1
-86,188,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,31.2,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
-87,189,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,31.3,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
-88,190,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,31.4,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
-89,191,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,31.5,run,164,1,164/1,"Dai to Anshuman Rath, 1 run",,,1
-90,192,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,32.0,no run,164,0,164/1,"Dai to Babar Hayat, no run",,,1
-91,193,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,32.1,run,165,1,165/1,"S Bau to Anshuman Rath, 1 run",,,1
-92,194,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,32.2,no run,165,0,165/1,"S Bau to Babar Hayat, no run",,,1
-93,195,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,32.3,no run,165,0,165/1,"S Bau to Babar Hayat, no run",,,1
-94,196,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,32.4,run,166,1,166/1,"S Bau to Babar Hayat, 1 run",,,1
-95,197,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,32.5,run,167,1,167/1,"S Bau to Anshuman Rath, 1 run",,,1
-96,198,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,33.0,run,168,1,168/1,"S Bau to Babar Hayat, 1 run",,,1
-97,199,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,33.1,no run,168,0,168/1,"Dai to Babar Hayat, no run",,,1
-98,200,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,33.2,no run,168,0,168/1,"Dai to Babar Hayat, no run",,,1
-99,201,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,33.3,run,169,1,169/1,"Dai to Babar Hayat, 1 run",,,1
-100,202,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,33.4,no run,169,0,169/1,"Dai to Anshuman Rath, no run",,,1
-101,203,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,33.5,run,170,1,170/1,"Dai to Anshuman Rath, 1 run",,,1
-102,204,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,34.0,no run,170,0,170/1,"Dai to Babar Hayat, no run",,,1
-103,205,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, no run ",1st innings,34.1,no run,170,0,170/1,"S Bau to Anshuman Rath, no run",,,1
-104,206,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,34.2,run,171,1,171/1,"S Bau to Anshuman Rath, 1 run",,,1
-105,207,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,34.3,run,172,1,172/1,"S Bau to Babar Hayat, 1 run",,,1
-106,208,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,34.4,run,173,1,173/1,"S Bau to Anshuman Rath, 1 run",,,1
-107,209,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,34.5,run,174,1,174/1,"S Bau to Babar Hayat, 1 run",,,1
-108,210,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, no run ",1st innings,35.0,no run,174,0,174/1,"S Bau to Anshuman Rath, no run",,,1
-109,211,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,35.1,six,180,6,180/1,"Dai to Babar Hayat, SIX runs",,,1
-110,212,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,35.2,six,186,6,186/1,"Dai to Babar Hayat, SIX runs",,,1
-111,213,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,35.3,run,187,1,187/1,"Dai to Babar Hayat, 1 run",,,1
-112,214,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,35.4,no run,187,0,187/1,"Dai to Anshuman Rath, no run",,,1
-113,215,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,35.5,run,188,1,188/1,"Dai to Anshuman Rath, 1 run",,,1
-114,216,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,36.0,run,189,1,189/1,"Dai to Babar Hayat, 1 run",,,1
-115,217,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,36.1,run,190,1,190/1,"S Bau to Babar Hayat, 1 run",,,1
-116,218,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,36.2,run,191,1,191/1,"S Bau to Anshuman Rath, 1 run",,,1
-117,219,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,36.3,no run,191,0,191/1,"S Bau to Babar Hayat, no run",,,1
-118,220,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,36.4,run,192,1,192/1,"S Bau to Babar Hayat, 1 run",,,1
-119,221,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,36.5,run,193,1,193/1,"S Bau to Anshuman Rath, 1 run",,,1
-120,222,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,37.0,no run,193,0,193/1,"S Bau to Babar Hayat, no run",,,1
-121,223,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,37.1,no run,193,0,193/1,"Pokana to Anshuman Rath, no run",,,1
-122,224,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,37.2,no run,193,0,193/1,"Pokana to Anshuman Rath, no run",,,1
-123,225,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,37.3,run,195,2,195/1,"Pokana to Anshuman Rath, 2 runs",,,1
-124,226,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,37.4,no run,195,0,195/1,"Pokana to Anshuman Rath, no run",,,1
-125,227,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,37.5,run,197,2,197/1,"Pokana to Anshuman Rath, 2 runs",,,1
-126,228,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,38.0,run,199,2,199/1,"Pokana to Anshuman Rath, 2 runs",,,1
-127,229,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,38.1,run,200,1,200/1,"Ravu to Babar Hayat, 1 run",,,1
-128,230,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,38.2,no run,200,0,200/1,"Ravu to Anshuman Rath, no run",,,1
-129,231,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,38.3,run,201,1,201/1,"Ravu to Anshuman Rath, 1 run",,,1
-130,232,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,38.4,no run,201,0,201/1,"Ravu to Babar Hayat, no run",,,1
-131,232,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 wide ",1st innings,38.4,wide,202,1,202/1,"Ravu to Babar Hayat, 1 wide",,,1
-132,233,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, FOUR runs ",1st innings,38.5,four,206,4,206/1,"Ravu to Babar Hayat, FOUR runs",,,1
-133,234,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,39.0,run,207,1,207/1,"Ravu to Babar Hayat, 1 run",,,1
-134,235,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,39.1,no run,207,0,207/1,"Pokana to Babar Hayat, no run",,,1
-135,236,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,39.2,run,208,1,208/1,"Pokana to Babar Hayat, 1 run",,,1
-136,237,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,39.3,run,209,1,209/1,"Pokana to Anshuman Rath, 1 run",,,1
-137,238,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 2 runs ",1st innings,39.4,run,211,2,211/1,"Pokana to Babar Hayat, 2 runs",,,1
-138,239,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,39.5,no run,211,0,211/1,"Pokana to Babar Hayat, no run",,,1
-139,240,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,40.0,no run,211,0,211/1,"Pokana to Babar Hayat, no run",,,1
-140,241,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 2 runs ",1st innings,40.1,run,213,2,213/1,"Reva to Anshuman Rath, 2 runs",,,1
-141,242,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,40.2,run,214,1,214/1,"Reva to Anshuman Rath, 1 run",,,1
-142,243,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,40.3,run,215,1,215/1,"Reva to Babar Hayat, 1 run",,,1
-143,244,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,40.4,run,216,1,216/1,"Reva to Anshuman Rath, 1 run",,,1
-144,245,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,40.5,run,217,1,217/1,"Reva to Babar Hayat, 1 run",,,1
-145,246,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,41.0,run,218,1,218/1,"Reva to Anshuman Rath, 1 run",,,1
-146,247,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 3 runs ",1st innings,41.1,run,221,3,221/1,"Pokana to Anshuman Rath, 3 runs",,,1
-147,248,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,41.2,run,222,1,222/1,"Pokana to Babar Hayat, 1 run",,,1
-148,249,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,41.3,run,223,1,223/1,"Pokana to Anshuman Rath, 1 run",,,1
-149,250,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,41.4,run,224,1,224/1,"Pokana to Babar Hayat, 1 run",,,1
-150,251,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,41.5,run,225,1,225/1,"Pokana to Anshuman Rath, 1 run",,,1
-151,252,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,42.0,run,226,1,226/1,"Pokana to Babar Hayat, 1 run",,,1
-152,253,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, OUT quicker goodlenght ball came down the pitch and got stumped",1st innings,42.1,out,226,0,226/2,"Reva to Babar Hayat, OUT",,quicker goodlenght ball came down the pitch and got stumped,2
-153,254,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, no run ",1st innings,42.2,no run,226,0,226/2,"Reva to Nizakat Khan, no run",,,2
-154,255,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, 1 run ",1st innings,42.3,run,227,1,227/2,"Reva to Nizakat Khan, 1 run",,,2
-155,256,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run, OUT ",1st innings,42.4,run,228,1,228/3,"Reva to Anshuman Rath, 1 run, OUT",,,3
-156,257,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, OUT ",1st innings,42.5,out,228,0,228/3,"Reva to Nizakat Khan, OUT",,,3
-157,258,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, no run ",1st innings,43.0,no run,228,0,228/3,"Reva to Tanwir Afzal, no run",,,3
-158,259,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,43.1,run,229,1,229/3,"Nao to Anshuman Rath, 1 run",,,3
-159,260,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,43.2,run,230,1,230/3,"Nao to Tanwir Afzal, 1 run",,,3
-160,261,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,43.3,run,231,1,231/3,"Nao to Anshuman Rath, 1 run",,,3
-161,262,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,43.4,run,232,1,232/3,"Nao to Tanwir Afzal, 1 run",,,3
-162,263,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,43.5,run,234,2,234/3,"Nao to Anshuman Rath, 2 runs",,,3
-163,264,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,44.0,run,235,1,235/3,"Nao to Anshuman Rath, 1 run",,,3
-164,265,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 leg bye ",1st innings,44.1,leg bye,236,1,236/3,"Reva to Anshuman Rath, 1 leg bye",,,3
-165,266,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 1 run ",1st innings,44.2,run,237,1,237/3,"Reva to Tanwir Afzal, 1 run",,,3
-166,267,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,44.3,run,238,1,238/3,"Reva to Anshuman Rath, 1 run",,,3
-167,268,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, FOUR runs ",1st innings,44.4,four,242,4,242/3,"Reva to Tanwir Afzal, FOUR runs",,,3
-168,269,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 4 leg byes ",1st innings,44.5,leg bye,246,4,246/3,"Reva to Tanwir Afzal, 4 leg byes",,,3
-169,270,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, no run ",1st innings,45.0,no run,246,0,246/3,"Reva to Tanwir Afzal, no run",,,3
-170,271,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, no run ",1st innings,45.1,no run,246,0,246/3,"Nao to Anshuman Rath, no run",,,3
-171,272,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,45.2,run,247,1,247/3,"Nao to Anshuman Rath, 1 run",,,3
-172,273,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, SIX runs ",1st innings,45.3,six,253,6,253/3,"Nao to Tanwir Afzal, SIX runs",,,3
-173,274,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, SIX runs ",1st innings,45.4,six,259,6,259/3,"Nao to Tanwir Afzal, SIX runs",,,3
-174,275,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,45.5,run,260,1,260/3,"Nao to Tanwir Afzal, 1 run",,,3
-175,276,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, FOUR runs ",1st innings,46.0,four,264,4,264/3,"Nao to Anshuman Rath, FOUR runs",,,3
-176,277,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 1 run ",1st innings,46.1,run,265,1,265/3,"Reva to Tanwir Afzal, 1 run",,,3
-177,278,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,46.2,run,266,1,266/3,"Reva to Anshuman Rath, 1 run",,,3
-178,279,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 2 runs ",1st innings,46.3,run,268,2,268/3,"Reva to Tanwir Afzal, 2 runs",,,3
-179,280,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, OUT ",1st innings,46.4,out,268,0,268/4,"Reva to Tanwir Afzal, OUT",,,4
-180,281,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, FOUR runs ",1st innings,46.5,four,272,4,272/4,"Reva to Anshuman Rath, FOUR runs",,,4
-181,282,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,47.0,run,273,1,273/4,"Reva to Anshuman Rath, 1 run",,,4
-182,283,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, FOUR runs ",1st innings,47.1,four,277,4,277/4,"Pokana to Anshuman Rath, FOUR runs",,,4
-183,284,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,47.2,no run,277,0,277/4,"Pokana to Anshuman Rath, no run",,,4
-184,285,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,47.3,run,278,1,278/4,"Pokana to Anshuman Rath, 1 run",,,4
-185,286,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,47.4,run,279,1,279/4,"Pokana to McKechnie, 1 run",,,4
-186,287,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, FOUR runs ",1st innings,47.5,four,283,4,283/4,"Pokana to Anshuman Rath, FOUR runs",,,4
-187,287,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, (no ball) 1 run ",1st innings,47.5,run,285,2,285/4,"Pokana to Anshuman Rath, (no ball) 1 run",,,4
-188,288,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, SIX runs ",1st innings,48.0,six,291,6,291/4,"Pokana to McKechnie, SIX runs",,,4
-189,289,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,48.1,run,293,2,293/4,"Nao to Anshuman Rath, 2 runs",,,4
-190,290,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, FOUR runs ",1st innings,48.2,four,297,4,297/4,"Nao to Anshuman Rath, FOUR runs",,,4
-191,291,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, SIX runs ",1st innings,48.3,six,303,6,303/4,"Nao to Anshuman Rath, SIX runs",,,4
-192,291,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 wide ",1st innings,48.3,wide,304,1,304/4,"Nao to Anshuman Rath, 1 wide",,,4
-193,292,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,48.4,run,306,2,306/4,"Nao to Anshuman Rath, 2 runs",,,4
-194,293,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, no run ",1st innings,48.5,no run,306,0,306/4,"Nao to Anshuman Rath, no run",,,4
-195,294,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, SIX runs ",1st innings,49.0,six,312,6,312/4,"Nao to Anshuman Rath, SIX runs",,,4
-196,295,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, no run ",1st innings,49.1,no run,312,0,312/4,"Pokana to McKechnie, no run",,,4
-197,296,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 2 runs ",1st innings,49.2,run,314,2,314/4,"Pokana to McKechnie, 2 runs",,,4
-198,297,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,49.3,run,315,1,315/4,"Pokana to McKechnie, 1 run",,,4
-199,298,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,49.4,run,316,1,316/4,"Pokana to Anshuman Rath, 1 run",,,4
-200,299,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,49.5,run,317,1,317/4,"Pokana to McKechnie, 1 run",,,4
-201,300,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, SIX runs ",1st innings,50.0,six,323,6,323/4,"Pokana to Anshuman Rath, SIX runs",,,4
-202,1,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,0.1,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
-203,2,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,0.2,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
-204,3,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,0.3,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
-205,4,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,0.4,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
-206,5,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, 1 run ",2nd innings,0.5,run,1,1,1/0,"Nadeem Ahmed to Ura, 1 run",,,0
-207,6,Dogodo Bau,524249,Nadeem Ahmed,24230,"Nadeem Ahmed to D Bau, no run ",2nd innings,1.0,no run,1,0,1/0,"Nadeem Ahmed to D Bau, no run",,,0
-208,7,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,1.1,run,2,1,2/0,"Tanwir Afzal to Ura, 1 run",,,0
-209,8,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, 1 run ",2nd innings,1.2,run,3,1,3/0,"Tanwir Afzal to D Bau, 1 run",,,0
-210,9,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,1.3,run,4,1,4/0,"Tanwir Afzal to Ura, 1 run",,,0
-211,10,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,1.4,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
-212,11,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,1.5,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
-213,12,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,2.0,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
-214,13,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,2.1,no run,4,0,4/0,"Nadeem Ahmed to Ura, no run",,,0
-215,14,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, OUT ",2nd innings,2.2,out,4,0,4/1,"Nadeem Ahmed to Ura, OUT",,,1
-216,15,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, 1 run ",2nd innings,2.3,run,5,1,5/1,"Nadeem Ahmed to Vala, 1 run",,,1
-217,16,Dogodo Bau,524249,Nadeem Ahmed,24230,"Nadeem Ahmed to D Bau, 1 run ",2nd innings,2.4,run,6,1,6/1,"Nadeem Ahmed to D Bau, 1 run",,,1
-218,17,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, no run ",2nd innings,2.5,no run,6,0,6/1,"Nadeem Ahmed to Vala, no run",,,1
-219,18,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, no run ",2nd innings,3.0,no run,6,0,6/1,"Nadeem Ahmed to Vala, no run",,,1
-220,19,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, 1 run ",2nd innings,3.1,run,7,1,7/1,"Tanwir Afzal to D Bau, 1 run",,,1
-221,20,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,3.2,no run,7,0,7/1,"Tanwir Afzal to Vala, no run",,,1
-222,21,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,3.3,no run,7,0,7/1,"Tanwir Afzal to Vala, no run",,,1
-223,22,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,3.4,run,8,1,8/1,"Tanwir Afzal to Vala, 1 run",,,1
-224,23,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,3.5,no run,8,0,8/1,"Tanwir Afzal to D Bau, no run",,,1
-225,24,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, OUT ",2nd innings,4.0,out,8,0,8/2,"Tanwir Afzal to D Bau, OUT",,,2
-226,25,Assad Vala,25056,Ehsan Khan,40082,"Ehsan Khan to Vala, 1 run ",2nd innings,4.1,run,9,1,9/2,"Ehsan Khan to Vala, 1 run",,,2
-227,26,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,4.2,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
-228,27,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,4.3,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
-229,28,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,4.4,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
-230,29,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,4.5,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
-231,30,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, 1 run ",2nd innings,5.0,run,10,1,10/2,"Ehsan Khan to S Bau, 1 run",,,2
-232,31,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, FOUR runs ",2nd innings,5.1,four,14,4,14/2,"Tanwir Afzal to S Bau, FOUR runs",,,2
-233,32,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,5.2,no run,14,0,14/2,"Tanwir Afzal to S Bau, no run",,,2
-234,33,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,5.3,run,15,1,15/2,"Tanwir Afzal to S Bau, 1 run",,,2
-235,34,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,5.4,no run,15,0,15/2,"Tanwir Afzal to Vala, no run",,,2
-236,35,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, FOUR runs ",2nd innings,5.5,four,19,4,19/2,"Tanwir Afzal to Vala, FOUR runs",,,2
-237,36,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,6.0,run,20,1,20/2,"Tanwir Afzal to Vala, 1 run",,,2
-238,37,Assad Vala,25056,Ehsan Khan,40082,"Ehsan Khan to Vala, OUT ",2nd innings,6.1,out,20,0,20/3,"Ehsan Khan to Vala, OUT",,,3
-239,37,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 wide ",2nd innings,6.1,wide,21,1,21/3,"Ehsan Khan to Doriga, 1 wide",,,3
-240,38,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,6.2,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
-241,39,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,6.3,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
-242,40,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,6.4,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
-243,41,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,6.5,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
-244,42,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,7.0,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
-245,43,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,7.1,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
-246,44,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,7.2,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
-247,45,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,7.3,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
-248,46,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,7.4,run,22,1,22/3,"Tanwir Afzal to S Bau, 1 run",,,3
-249,47,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,7.5,run,23,1,23/3,"Tanwir Afzal to Doriga, 1 run",,,3
-250,48,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,8.0,run,24,1,24/3,"Tanwir Afzal to S Bau, 1 run",,,3
-251,49,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,8.1,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-252,50,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,8.2,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-253,51,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,8.3,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-254,52,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,8.4,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-255,53,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,8.5,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-256,54,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,9.0,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
-257,55,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,9.1,no run,24,0,24/3,"Tanwir Afzal to Doriga, no run",,,3
-258,56,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, FOUR runs ",2nd innings,9.2,four,28,4,28/3,"Tanwir Afzal to Doriga, FOUR runs",,,3
-259,57,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,9.3,no run,28,0,28/3,"Tanwir Afzal to Doriga, no run",,,3
-260,58,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,9.4,run,29,1,29/3,"Tanwir Afzal to Doriga, 1 run",,,3
-261,59,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,9.5,no run,29,0,29/3,"Tanwir Afzal to S Bau, no run",,,3
-262,60,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,10.0,no run,29,0,29/3,"Tanwir Afzal to S Bau, no run",,,3
-263,61,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,10.1,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
-264,62,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,10.2,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
-265,63,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,10.3,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
-266,63,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 no ball ",2nd innings,10.3,no ball,30,1,30/3,"Nadeem Ahmed to Doriga, 1 no ball",,,3
-267,64,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,10.4,no run,30,0,30/3,"Nadeem Ahmed to Doriga, no run",,,3
-268,65,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,10.5,no run,30,0,30/3,"Nadeem Ahmed to Doriga, no run",,,3
-269,66,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 3 runs ",2nd innings,11.0,run,33,3,33/3,"Nadeem Ahmed to Doriga, 3 runs",,,3
-270,67,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 leg bye ",2nd innings,11.1,leg bye,34,1,34/3,"Tanwir Afzal to Doriga, 1 leg bye",,,3
-271,68,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,11.2,no run,34,0,34/3,"Tanwir Afzal to S Bau, no run",,,3
-272,69,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,11.3,no run,34,0,34/3,"Tanwir Afzal to S Bau, no run",,,3
-273,70,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,11.4,run,35,1,35/3,"Tanwir Afzal to S Bau, 1 run",,,3
-274,71,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,11.5,no run,35,0,35/3,"Tanwir Afzal to Doriga, no run",,,3
-275,72,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, FOUR runs ",2nd innings,12.0,four,39,4,39/3,"Tanwir Afzal to Doriga, FOUR runs",,,3
-276,73,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, FOUR runs ",2nd innings,12.1,four,43,4,43/3,"Aizaz Khan to S Bau, FOUR runs",,,3
-277,74,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,12.2,run,44,1,44/3,"Aizaz Khan to S Bau, 1 run",,,3
-278,75,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,12.3,run,45,1,45/3,"Aizaz Khan to Doriga, 1 run",,,3
-279,76,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, no run ",2nd innings,12.4,no run,45,0,45/3,"Aizaz Khan to S Bau, no run",,,3
-280,77,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, no run ",2nd innings,12.5,no run,45,0,45/3,"Aizaz Khan to S Bau, no run",,,3
-281,78,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,13.0,run,46,1,46/3,"Aizaz Khan to S Bau, 1 run",,,3
-282,79,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,13.1,no run,46,0,46/3,"Tanwir Afzal to S Bau, no run",,,3
-283,80,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,13.2,run,47,1,47/3,"Tanwir Afzal to S Bau, 1 run",,,3
-284,81,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,13.3,run,48,1,48/3,"Tanwir Afzal to Doriga, 1 run",,,3
-285,82,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,13.4,no run,48,0,48/3,"Tanwir Afzal to S Bau, no run",,,3
-286,83,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,13.5,run,49,1,49/3,"Tanwir Afzal to S Bau, 1 run",,,3
-287,84,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,14.0,run,50,1,50/3,"Tanwir Afzal to Doriga, 1 run",,,3
-288,84,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 wide ",2nd innings,14.0,wide,51,1,51/3,"Aizaz Khan to Doriga, 1 wide",,,3
-289,85,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 leg bye ",2nd innings,14.1,leg bye,52,1,52/3,"Aizaz Khan to Doriga, 1 leg bye",,,3
-290,86,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,14.2,run,53,1,53/3,"Aizaz Khan to S Bau, 1 run",,,3
-291,87,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, FOUR runs ",2nd innings,14.3,four,57,4,57/3,"Aizaz Khan to Doriga, FOUR runs",,,3
-292,88,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,14.4,no run,57,0,57/3,"Aizaz Khan to Doriga, no run",,,3
-293,89,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 2 runs ",2nd innings,14.5,run,59,2,59/3,"Aizaz Khan to Doriga, 2 runs",,,3
-294,90,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 3 runs ",2nd innings,15.0,run,62,3,62/3,"Aizaz Khan to Doriga, 3 runs",,,3
-295,91,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,15.1,no run,62,0,62/3,"Ehsan Nawaz to Doriga, no run",,,3
-296,92,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,15.2,no run,62,0,62/3,"Ehsan Nawaz to Doriga, no run",,,3
-297,93,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,15.3,run,63,1,63/3,"Ehsan Nawaz to Doriga, 1 run",,,3
-298,94,Sese Bau,420427,Ehsan Nawaz,718553,"Ehsan Nawaz to S Bau, no run ",2nd innings,15.4,no run,63,0,63/3,"Ehsan Nawaz to S Bau, no run",,,3
-299,95,Sese Bau,420427,Ehsan Nawaz,718553,"Ehsan Nawaz to S Bau, OUT full lenght ball on leg stump",2nd innings,15.5,out,63,0,63/4,"Ehsan Nawaz to S Bau, OUT",,full lenght ball on leg stump,4
-300,96,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,16.0,no run,63,0,63/4,"Ehsan Nawaz to Dai, no run",,,4
-301,97,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,16.1,run,64,1,64/4,"Aizaz Khan to Doriga, 1 run",,,4
-302,98,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,16.2,no run,64,0,64/4,"Aizaz Khan to Dai, no run",,,4
-303,99,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 run ",2nd innings,16.3,run,65,1,65/4,"Aizaz Khan to Dai, 1 run",,,4
-304,100,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,16.4,run,66,1,66/4,"Aizaz Khan to Doriga, 1 run",,,4
-305,101,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,16.5,no run,66,0,66/4,"Aizaz Khan to Dai, no run",,,4
-306,102,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,17.0,no run,66,0,66/4,"Aizaz Khan to Dai, no run",,,4
-307,103,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,17.1,run,67,1,67/4,"Ehsan Nawaz to Doriga, 1 run",,,4
-308,104,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,17.2,no run,67,0,67/4,"Ehsan Nawaz to Dai, no run",,,4
-309,105,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, 1 run ",2nd innings,17.3,run,68,1,68/4,"Ehsan Nawaz to Dai, 1 run",,,4
-310,106,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,17.4,run,69,1,69/4,"Ehsan Nawaz to Doriga, 1 run",,,4
-311,107,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,17.5,no run,69,0,69/4,"Ehsan Nawaz to Dai, no run",,,4
-312,108,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, 1 leg bye ",2nd innings,18.0,leg bye,70,1,70/4,"Ehsan Nawaz to Dai, 1 leg bye",,,4
-313,109,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, FOUR runs ",2nd innings,18.1,four,74,4,74/4,"Aizaz Khan to Dai, FOUR runs",,,4
-314,110,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,18.2,no run,74,0,74/4,"Aizaz Khan to Dai, no run",,,4
-315,111,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, FOUR runs ",2nd innings,18.3,four,78,4,78/4,"Aizaz Khan to Dai, FOUR runs",,,4
-316,112,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 run ",2nd innings,18.4,run,79,1,79/4,"Aizaz Khan to Dai, 1 run",,,4
-317,113,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,18.5,no run,79,0,79/4,"Aizaz Khan to Doriga, no run",,,4
-318,114,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,19.0,no run,79,0,79/4,"Aizaz Khan to Doriga, no run",,,4
-319,115,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, OUT ",2nd innings,19.1,out,79,0,79/5,"Ehsan Nawaz to Dai, OUT",,,5
-320,115,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 wide ",2nd innings,19.1,wide,80,1,80/5,"Ehsan Nawaz to Vare, 1 wide",,,5
-321,115,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 wide ",2nd innings,19.1,wide,81,1,81/5,"Ehsan Nawaz to Vare, 1 wide",,,5
-322,116,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 run ",2nd innings,19.2,run,82,1,82/5,"Ehsan Nawaz to Vare, 1 run",,,5
-323,117,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,19.3,no run,82,0,82/5,"Ehsan Nawaz to Doriga, no run",,,5
-324,118,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,19.4,no run,82,0,82/5,"Ehsan Nawaz to Doriga, no run",,,5
-325,119,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, FOUR runs ",2nd innings,19.5,four,86,4,86/5,"Ehsan Nawaz to Doriga, FOUR runs",,,5
-326,120,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,20.0,run,87,1,87/5,"Ehsan Nawaz to Doriga, 1 run",,,5
-327,121,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,20.1,run,88,1,88/5,"Nadeem Ahmed to Doriga, 1 run",,,5
-328,122,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, 1 run ",2nd innings,20.2,run,89,1,89/5,"Nadeem Ahmed to Vare, 1 run",,,5
-329,123,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,20.3,no run,89,0,89/5,"Nadeem Ahmed to Doriga, no run",,,5
-330,124,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,20.4,run,90,1,90/5,"Nadeem Ahmed to Doriga, 1 run",,,5
-331,125,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, OUT ",2nd innings,20.5,out,90,0,90/6,"Nadeem Ahmed to Vare, OUT",,,6
-332,126,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, 1 run ",2nd innings,21.0,run,91,1,91/6,"Nadeem Ahmed to Reva, 1 run",,,6
-333,127,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,21.1,no run,91,0,91/6,"Ehsan Nawaz to Reva, no run",,,6
-334,128,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,21.2,no run,91,0,91/6,"Ehsan Nawaz to Reva, no run",,,6
-335,129,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, 1 run ",2nd innings,21.3,run,92,1,92/6,"Ehsan Nawaz to Reva, 1 run",,,6
-336,130,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,21.4,run,93,1,93/6,"Ehsan Nawaz to Doriga, 1 run",,,6
-337,131,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,21.5,no run,93,0,93/6,"Ehsan Nawaz to Reva, no run",,,6
-338,132,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,22.0,no run,93,0,93/6,"Ehsan Nawaz to Reva, no run",,,6
-339,133,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,22.1,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
-340,134,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,22.2,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
-341,135,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,22.3,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
-342,136,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,22.4,run,94,1,94/6,"Nadeem Ahmed to Doriga, 1 run",,,6
-343,137,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,22.5,no run,94,0,94/6,"Nadeem Ahmed to Reva, no run",,,6
-344,138,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,23.0,no run,94,0,94/6,"Nadeem Ahmed to Reva, no run",,,6
-345,139,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,23.1,no run,94,0,94/6,"Ehsan Khan to Doriga, no run",,,6
-346,140,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,23.2,run,95,1,95/6,"Ehsan Khan to Doriga, 1 run",,,6
-347,141,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,23.3,no run,95,0,95/6,"Ehsan Khan to Reva, no run",,,6
-348,142,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,23.4,no run,95,0,95/6,"Ehsan Khan to Reva, no run",,,6
-349,143,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,23.5,run,96,1,96/6,"Ehsan Khan to Reva, 1 run",,,6
-350,144,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,24.0,no run,96,0,96/6,"Ehsan Khan to Doriga, no run",,,6
-351,145,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,24.1,no run,96,0,96/6,"Nadeem Ahmed to Reva, no run",,,6
-352,146,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, FOUR runs ",2nd innings,24.2,four,100,4,100/6,"Nadeem Ahmed to Reva, FOUR runs",,,6
-353,147,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, SIX runs ",2nd innings,24.3,six,106,6,106/6,"Nadeem Ahmed to Reva, SIX runs",,,6
-354,148,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, 1 run ",2nd innings,24.4,run,107,1,107/6,"Nadeem Ahmed to Reva, 1 run",,,6
-355,149,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,24.5,no run,107,0,107/6,"Nadeem Ahmed to Doriga, no run",,,6
-356,150,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,25.0,run,108,1,108/6,"Nadeem Ahmed to Doriga, 1 run",,,6
-357,151,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,25.1,run,109,1,109/6,"Ehsan Khan to Doriga, 1 run",,,6
-358,152,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,25.2,no run,109,0,109/6,"Ehsan Khan to Reva, no run",,,6
-359,153,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, SIX runs ",2nd innings,25.3,six,115,6,115/6,"Ehsan Khan to Reva, SIX runs",,,6
-360,154,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,25.4,run,116,1,116/6,"Ehsan Khan to Reva, 1 run",,,6
-361,155,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,25.5,run,117,1,117/6,"Ehsan Khan to Doriga, 1 run",,,6
-362,156,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,26.0,run,118,1,118/6,"Ehsan Khan to Reva, 1 run",,,6
-363,157,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,26.1,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-364,158,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,26.2,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-365,159,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,26.3,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-366,160,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,26.4,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-367,161,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,26.5,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-368,162,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,27.0,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
-369,163,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,27.1,no run,118,0,118/6,"Ehsan Khan to Doriga, no run",,,6
-370,164,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,27.2,no run,118,0,118/6,"Ehsan Khan to Doriga, no run",,,6
-371,165,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,27.3,run,119,1,119/6,"Ehsan Khan to Doriga, 1 run",,,6
-372,166,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,27.4,run,120,1,120/6,"Ehsan Khan to Reva, 1 run",,,6
-373,167,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, SIX runs ",2nd innings,27.5,six,126,6,126/6,"Ehsan Khan to Doriga, SIX runs",,,6
-374,168,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, FOUR runs ",2nd innings,28.0,four,130,4,130/6,"Ehsan Khan to Doriga, FOUR runs",,,6
-375,169,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,28.1,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
-376,170,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,28.2,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
-377,171,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,28.3,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
-378,172,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,28.4,four,134,4,134/6,"Aizaz Khan to Reva, FOUR runs",,,6
-379,173,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,28.5,four,138,4,138/6,"Aizaz Khan to Reva, FOUR runs",,,6
-380,174,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,29.0,four,142,4,142/6,"Aizaz Khan to Reva, FOUR runs",,,6
-381,175,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, SIX runs ",2nd innings,29.1,six,148,6,148/6,"Ehsan Nawaz to Doriga, SIX runs",,,6
-382,176,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,29.2,run,149,1,149/6,"Ehsan Nawaz to Doriga, 1 run",,,6
-383,177,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, 1 run ",2nd innings,29.3,run,150,1,150/6,"Ehsan Nawaz to Reva, 1 run",,,6
-384,178,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 leg bye ",2nd innings,29.4,leg bye,151,1,151/6,"Ehsan Nawaz to Doriga, 1 leg bye",,,6
-385,179,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,29.5,no run,151,0,151/6,"Ehsan Nawaz to Reva, no run",,,6
-386,180,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, OUT ",2nd innings,30.0,out,151,0,151/7,"Ehsan Nawaz to Reva, OUT",,,7
-387,181,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,30.1,no run,151,0,151/7,"Aizaz Khan to Doriga, no run",,,7
-388,182,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,30.2,run,152,1,152/7,"Aizaz Khan to Doriga, 1 run",,,7
-389,183,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, no run ",2nd innings,30.3,no run,152,0,152/7,"Aizaz Khan to Ravu, no run",,,7
-390,184,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, 1 run ",2nd innings,30.4,run,153,1,153/7,"Aizaz Khan to Ravu, 1 run",,,7
-391,185,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,30.5,run,154,1,154/7,"Aizaz Khan to Doriga, 1 run",,,7
-392,186,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, no run ",2nd innings,31.0,no run,154,0,154/7,"Aizaz Khan to Ravu, no run",,,7
-393,187,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,31.1,no run,154,0,154/7,"Ehsan Nawaz to Doriga, no run",,,7
-394,188,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,31.2,run,155,1,155/7,"Ehsan Nawaz to Doriga, 1 run",,,7
-395,189,Damien Ravu,1122557,Ehsan Nawaz,718553,"Ehsan Nawaz to Ravu, no run ",2nd innings,31.3,no run,155,0,155/7,"Ehsan Nawaz to Ravu, no run",,,7
-396,190,Damien Ravu,1122557,Ehsan Nawaz,718553,"Ehsan Nawaz to Ravu, OUT ",2nd innings,31.4,out,155,0,155/8,"Ehsan Nawaz to Ravu, OUT",,,8
-397,191,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,31.5,no run,155,0,155/8,"Ehsan Nawaz to Nao, no run",,,8
-398,192,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 3 runs ",2nd innings,32.0,run,158,3,158/8,"Ehsan Nawaz to Nao, 3 runs",,,8
-399,193,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,32.1,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
-400,194,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,32.2,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
-401,195,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,32.3,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
-402,196,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 2 runs ",2nd innings,32.4,run,160,2,160/8,"Aizaz Khan to Nao, 2 runs",,,8
-403,197,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,32.5,no run,160,0,160/8,"Aizaz Khan to Nao, no run",,,8
-404,198,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,33.0,no run,160,0,160/8,"Aizaz Khan to Nao, no run",,,8
-405,199,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,33.1,run,161,1,161/8,"Ehsan Nawaz to Doriga, 1 run",,,8
-406,200,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,33.2,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
-407,201,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,33.3,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
-408,202,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,33.4,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
-409,203,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,33.5,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
-410,204,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 1 run ",2nd innings,34.0,run,162,1,162/8,"Ehsan Nawaz to Nao, 1 run",,,8
-411,205,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,34.1,no run,162,0,162/8,"Aizaz Khan to Nao, no run",,,8
-412,206,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 2 runs ",2nd innings,34.2,run,164,2,164/8,"Aizaz Khan to Nao, 2 runs",,,8
-413,207,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, SIX runs ",2nd innings,34.3,six,170,6,170/8,"Aizaz Khan to Nao, SIX runs",,,8
-414,208,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 1 run ",2nd innings,34.4,run,171,1,171/8,"Aizaz Khan to Nao, 1 run",,,8
-415,209,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,34.5,run,172,1,172/8,"Aizaz Khan to Doriga, 1 run",,,8
-416,210,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,35.0,no run,172,0,172/8,"Aizaz Khan to Nao, no run",,,8
-417,210,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 wide ",2nd innings,35.0,wide,173,1,173/8,"Ehsan Nawaz to Doriga, 1 wide",,,8
-418,211,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,35.1,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
-419,212,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,35.2,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
-420,213,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,35.3,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
-421,214,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,35.4,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
-422,215,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,35.5,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
-423,216,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,36.0,run,174,1,174/8,"Ehsan Nawaz to Doriga, 1 run",,,8
-424,217,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,36.1,run,175,1,175/8,"Ehsan Khan to Doriga, 1 run",,,8
-425,218,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, FOUR runs ",2nd innings,36.2,four,179,4,179/8,"Ehsan Khan to Nao, FOUR runs",,,8
-426,219,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,36.3,run,180,1,180/8,"Ehsan Khan to Nao, 1 run",,,8
-427,220,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,36.4,no run,180,0,180/8,"Ehsan Khan to Doriga, no run",,,8
-428,221,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,36.5,run,181,1,181/8,"Ehsan Khan to Doriga, 1 run",,,8
-429,222,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,37.0,run,182,1,182/8,"Ehsan Khan to Nao, 1 run",,,8
-430,223,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, FOUR runs ",2nd innings,37.1,four,186,4,186/8,"Ehsan Nawaz to Nao, FOUR runs",,,8
-431,224,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, SIX runs ",2nd innings,37.2,six,192,6,192/8,"Ehsan Nawaz to Nao, SIX runs",,,8
-432,225,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 2 runs ",2nd innings,37.3,run,194,2,194/8,"Ehsan Nawaz to Nao, 2 runs",,,8
-433,226,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, FOUR runs ",2nd innings,37.4,four,198,4,198/8,"Ehsan Nawaz to Nao, FOUR runs",,,8
-434,227,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 1 leg bye ",2nd innings,37.5,leg bye,199,1,199/8,"Ehsan Nawaz to Nao, 1 leg bye",,,8
-435,228,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,38.0,run,201,2,201/8,"Ehsan Nawaz to Doriga, 2 runs",,,8
-436,229,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,38.1,no run,201,0,201/8,"Ehsan Khan to Nao, no run",,,8
-437,230,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 2 runs ",2nd innings,38.2,run,203,2,203/8,"Ehsan Khan to Nao, 2 runs",,,8
-438,231,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,38.3,run,204,1,204/8,"Ehsan Khan to Nao, 1 run",,,8
-439,232,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, FOUR runs ",2nd innings,38.4,four,208,4,208/8,"Ehsan Khan to Doriga, FOUR runs",,,8
-440,233,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,38.5,run,209,1,209/8,"Ehsan Khan to Doriga, 1 run",,,8
-441,234,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,39.0,run,210,1,210/8,"Ehsan Khan to Nao, 1 run",,,8
-442,234,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 wide ",2nd innings,39.0,wide,211,1,211/8,"Nadeem Ahmed to Nao, 1 wide",,,8
-443,235,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, no run ",2nd innings,39.1,no run,211,0,211/8,"Nadeem Ahmed to Nao, no run",,,8
-444,236,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 run ",2nd innings,39.2,run,212,1,212/8,"Nadeem Ahmed to Nao, 1 run",,,8
-445,237,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,39.3,run,213,1,213/8,"Nadeem Ahmed to Doriga, 1 run",,,8
-446,238,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 2 runs ",2nd innings,39.4,run,215,2,215/8,"Nadeem Ahmed to Nao, 2 runs",,,8
-447,239,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 run ",2nd innings,39.5,run,216,1,216/8,"Nadeem Ahmed to Nao, 1 run",,,8
-448,240,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, SIX runs ",2nd innings,40.0,six,222,6,222/8,"Nadeem Ahmed to Doriga, SIX runs",,,8
-449,241,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 2 runs ",2nd innings,40.1,run,224,2,224/8,"Ehsan Khan to Nao, 2 runs",,,8
-450,242,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,40.2,no run,224,0,224/8,"Ehsan Khan to Nao, no run",,,8
-451,243,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,40.3,no run,224,0,224/8,"Ehsan Khan to Nao, no run",,,8
-452,244,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, OUT ",2nd innings,40.4,out,224,0,224/9,"Ehsan Khan to Nao, OUT",,,9
-453,245,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,40.5,no run,224,0,224/9,"Ehsan Khan to Pokana, no run",,,9
-454,246,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,41.0,no run,224,0,224/9,"Ehsan Khan to Pokana, no run",,,9
-455,247,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,41.1,run,225,1,225/9,"Ehsan Nawaz to Doriga, 1 run",,,9
-456,248,Nosaina Pokana,646181,Ehsan Nawaz,718553,"Ehsan Nawaz to Pokana, no run ",2nd innings,41.2,no run,225,0,225/9,"Ehsan Nawaz to Pokana, no run",,,9
-457,249,Nosaina Pokana,646181,Ehsan Nawaz,718553,"Ehsan Nawaz to Pokana, 1 run ",2nd innings,41.3,run,226,1,226/9,"Ehsan Nawaz to Pokana, 1 run",,,9
-458,250,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,41.4,run,228,2,228/9,"Ehsan Nawaz to Doriga, 2 runs",,,9
-459,251,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,41.5,no run,228,0,228/9,"Ehsan Nawaz to Doriga, no run",,,9
-460,252,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,42.0,run,230,2,230/9,"Ehsan Nawaz to Doriga, 2 runs",,,9
-461,253,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,42.1,no run,230,0,230/9,"Ehsan Khan to Pokana, no run",,,9
-462,254,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, OUT ",2nd innings,42.2,out,230,0,230/10,"Ehsan Khan to Pokana, OUT",,,10
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,103,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,,,,,17.1,run,1,1,1/0,"Reva to Anshuman Rath, 1 run",,,0
+1,104,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,Anshy Rath,452472,,,17.2,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
+2,105,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,Anshy Rath,452472,,,17.3,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
+3,106,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, no run ",1st innings,Anshy Rath,452472,,,17.4,no run,1,0,1/0,"Reva to Atkinson, no run",,,0
+4,107,Jamie Atkinson,292152,John Reva,332978,"Reva to Atkinson, FOUR runs ",1st innings,Anshy Rath,452472,,,17.5,four,5,4,5/0,"Reva to Atkinson, FOUR runs",,,0
+5,108,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Jamie Atkinson,292152,,,18.0,no run,83,0,83/0,"Reva to Anshuman Rath, no run",,,0
+6,109,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,Jamie Atkinson,292152,John Reva,332978,18.1,run,84,1,84/0,"Vala to Anshuman Rath, 1 run",,,0
+7,110,Jamie Atkinson,292152,Assad Vala,25056,"Vala to Atkinson, OUT ",1st innings,Anshy Rath,452472,John Reva,332978,18.2,out,84,0,84/1,"Vala to Atkinson, OUT",,,1
+8,111,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,18.3,run,85,1,85/1,"Vala to Babar Hayat, 1 run",,,1
+9,112,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,18.4,run,86,1,86/1,"Vala to Anshuman Rath, 1 run",,,1
+10,113,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,18.5,no run,86,0,86/1,"Vala to Babar Hayat, no run",,,1
+11,114,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,19.0,run,87,1,87/1,"Vala to Babar Hayat, 1 run",,,1
+12,115,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,19.1,no run,87,0,87/1,"Reva to Babar Hayat, no run",,,1
+13,116,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Assad Vala,25056,19.2,run,88,1,88/1,"Reva to Babar Hayat, 1 run",,,1
+14,117,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Assad Vala,25056,19.3,run,89,1,89/1,"Reva to Anshuman Rath, 1 run",,,1
+15,118,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,19.4,no run,89,0,89/1,"Reva to Babar Hayat, no run",,,1
+16,119,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,19.5,no run,89,0,89/1,"Reva to Babar Hayat, no run",,,1
+17,120,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Assad Vala,25056,20.0,run,90,1,90/1,"Reva to Babar Hayat, 1 run",,,1
+18,121,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, FOUR runs ",1st innings,Anshy Rath,452472,John Reva,332978,20.1,four,94,4,94/1,"Ravu to Babar Hayat, FOUR runs",,,1
+19,122,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, SIX runs ",1st innings,Anshy Rath,452472,John Reva,332978,20.2,six,100,6,100/1,"Ravu to Babar Hayat, SIX runs",,,1
+20,123,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,20.3,no run,100,0,100/1,"Ravu to Babar Hayat, no run",,,1
+21,124,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,20.4,run,101,1,101/1,"Ravu to Babar Hayat, 1 run",,,1
+22,125,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, FOUR runs ",1st innings,Babar Hayat,539304,John Reva,332978,20.5,four,105,4,105/1,"Ravu to Anshuman Rath, FOUR runs",,,1
+23,126,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,21.0,run,106,1,106/1,"Ravu to Anshuman Rath, 1 run",,,1
+24,127,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,21.1,no run,106,0,106/1,"Reva to Anshuman Rath, no run",,,1
+25,128,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,21.2,run,107,1,107/1,"Reva to Anshuman Rath, 1 run",,,1
+26,129,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,21.3,run,108,1,108/1,"Reva to Babar Hayat, 1 run",,,1
+27,130,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,21.4,no run,108,0,108/1,"Reva to Anshuman Rath, no run",,,1
+28,131,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,21.5,run,109,1,109/1,"Reva to Anshuman Rath, 1 run",,,1
+29,132,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, FOUR runs ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,22.0,four,113,4,113/1,"Reva to Babar Hayat, FOUR runs",,,1
+30,133,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,John Reva,332978,22.1,no run,113,0,113/1,"Ravu to Anshuman Rath, no run",,,1
+31,134,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,John Reva,332978,22.2,no run,113,0,113/1,"Ravu to Anshuman Rath, no run",,,1
+32,135,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,22.3,run,114,1,114/1,"Ravu to Anshuman Rath, 1 run",,,1
+33,136,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,22.4,no run,114,0,114/1,"Ravu to Babar Hayat, no run",,,1
+34,136,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 wide ",1st innings,Anshy Rath,452472,John Reva,332978,22.4,wide,115,1,115/1,"Ravu to Babar Hayat, 1 wide",,,1
+35,137,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,22.5,run,116,1,116/1,"Ravu to Babar Hayat, 1 run",,,1
+36,138,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,John Reva,332978,23.0,no run,116,0,116/1,"Ravu to Anshuman Rath, no run",,,1
+37,139,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,23.1,run,117,1,117/1,"Reva to Babar Hayat, 1 run",,,1
+38,140,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,23.2,no run,117,0,117/1,"Reva to Anshuman Rath, no run",,,1
+39,141,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,23.3,run,118,1,118/1,"Reva to Anshuman Rath, 1 run",,,1
+40,142,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,23.4,no run,118,0,118/1,"Reva to Babar Hayat, no run",,,1
+41,143,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,23.5,run,119,1,119/1,"Reva to Babar Hayat, 1 run",,,1
+42,144,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,24.0,no run,119,0,119/1,"Reva to Anshuman Rath, no run",,,1
+43,145,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,24.1,run,120,1,120/1,"Ravu to Babar Hayat, 1 run",,,1
+44,146,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,24.2,run,121,1,121/1,"Ravu to Anshuman Rath, 1 run",,,1
+45,147,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,24.3,no run,121,0,121/1,"Ravu to Babar Hayat, no run",,,1
+46,148,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,24.4,run,122,1,122/1,"Ravu to Babar Hayat, 1 run",,,1
+47,149,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,24.5,run,123,1,123/1,"Ravu to Anshuman Rath, 1 run",,,1
+48,150,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,25.0,run,124,1,124/1,"Ravu to Babar Hayat, 1 run",,,1
+49,151,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,25.1,no run,124,0,124/1,"Reva to Babar Hayat, no run",,,1
+50,152,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,25.2,no run,124,0,124/1,"Reva to Babar Hayat, no run",,,1
+51,153,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,25.3,run,125,1,125/1,"Reva to Babar Hayat, 1 run",,,1
+52,154,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,25.4,no run,125,0,125/1,"Reva to Anshuman Rath, no run",,,1
+53,155,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,25.5,run,126,1,126/1,"Reva to Anshuman Rath, 1 run",,,1
+54,156,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,26.0,run,127,1,127/1,"Reva to Babar Hayat, 1 run",,,1
+55,157,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,26.1,run,128,1,128/1,"Vala to Babar Hayat, 1 run",,,1
+56,158,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,26.2,run,129,1,129/1,"Vala to Anshuman Rath, 1 run",,,1
+57,159,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,26.3,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
+58,160,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,26.4,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
+59,161,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,John Reva,332978,26.5,no run,129,0,129/1,"Vala to Babar Hayat, no run",,,1
+60,162,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,27.0,run,130,1,130/1,"Vala to Babar Hayat, 1 run",,,1
+61,163,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,27.1,no run,130,0,130/1,"Dai to Babar Hayat, no run",,,1
+62,164,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,27.2,no run,130,0,130/1,"Dai to Babar Hayat, no run",,,1
+63,165,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, FOUR runs ",1st innings,Anshy Rath,452472,Assad Vala,25056,27.3,four,134,4,134/1,"Dai to Babar Hayat, FOUR runs",,,1
+64,166,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,Anshy Rath,452472,Assad Vala,25056,27.4,six,140,6,140/1,"Dai to Babar Hayat, SIX runs",,,1
+65,167,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,27.5,no run,140,0,140/1,"Dai to Babar Hayat, no run",,,1
+66,168,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Assad Vala,25056,28.0,run,141,1,141/1,"Dai to Babar Hayat, 1 run",,,1
+67,169,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,28.1,no run,141,0,141/1,"Vala to Babar Hayat, no run",,,1
+68,170,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, FOUR runs ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,28.2,four,145,4,145/1,"Vala to Babar Hayat, FOUR runs",,,1
+69,171,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,28.3,no run,145,0,145/1,"Vala to Babar Hayat, no run",,,1
+70,172,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, SIX runs ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,28.4,six,151,6,151/1,"Vala to Babar Hayat, SIX runs",,,1
+71,173,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,28.5,no run,151,0,151/1,"Vala to Babar Hayat, no run",,,1
+72,174,Babar Hayat,539304,Assad Vala,25056,"Vala to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,29.0,no run,151,0,151/1,"Vala to Babar Hayat, no run",,,1
+73,175,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Assad Vala,25056,29.1,no run,151,0,151/1,"Dai to Anshuman Rath, no run",,,1
+74,176,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Assad Vala,25056,29.2,run,152,1,152/1,"Dai to Anshuman Rath, 1 run",,,1
+75,177,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 2 runs ",1st innings,Anshy Rath,452472,Assad Vala,25056,29.3,run,154,2,154/1,"Dai to Babar Hayat, 2 runs",,,1
+76,178,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Assad Vala,25056,29.4,run,155,1,155/1,"Dai to Babar Hayat, 1 run",,,1
+77,179,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Assad Vala,25056,29.5,no run,155,0,155/1,"Dai to Anshuman Rath, no run",,,1
+78,180,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Assad Vala,25056,30.0,run,156,1,156/1,"Dai to Anshuman Rath, 1 run",,,1
+79,181,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,30.1,run,158,2,158/1,"Vala to Anshuman Rath, 2 runs",,,1
+80,182,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,30.2,no run,158,0,158/1,"Vala to Anshuman Rath, no run",,,1
+81,183,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,30.3,run,160,2,160/1,"Vala to Anshuman Rath, 2 runs",,,1
+82,184,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,30.4,no run,160,0,160/1,"Vala to Anshuman Rath, no run",,,1
+83,185,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,30.5,no run,160,0,160/1,"Vala to Anshuman Rath, no run",,,1
+84,186,Anshy Rath,452472,Assad Vala,25056,"Vala to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,31.0,run,161,1,161/1,"Vala to Anshuman Rath, 1 run",,,1
+85,187,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Assad Vala,25056,31.1,run,163,2,163/1,"Dai to Anshuman Rath, 2 runs",,,1
+86,188,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Assad Vala,25056,31.2,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
+87,189,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Assad Vala,25056,31.3,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
+88,190,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Assad Vala,25056,31.4,no run,163,0,163/1,"Dai to Anshuman Rath, no run",,,1
+89,191,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Assad Vala,25056,31.5,run,164,1,164/1,"Dai to Anshuman Rath, 1 run",,,1
+90,192,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Assad Vala,25056,32.0,no run,164,0,164/1,"Dai to Babar Hayat, no run",,,1
+91,193,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,32.1,run,165,1,165/1,"S Bau to Anshuman Rath, 1 run",,,1
+92,194,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,32.2,no run,165,0,165/1,"S Bau to Babar Hayat, no run",,,1
+93,195,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,32.3,no run,165,0,165/1,"S Bau to Babar Hayat, no run",,,1
+94,196,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,32.4,run,166,1,166/1,"S Bau to Babar Hayat, 1 run",,,1
+95,197,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,32.5,run,167,1,167/1,"S Bau to Anshuman Rath, 1 run",,,1
+96,198,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,33.0,run,168,1,168/1,"S Bau to Babar Hayat, 1 run",,,1
+97,199,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Sese Bau,420427,33.1,no run,168,0,168/1,"Dai to Babar Hayat, no run",,,1
+98,200,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Sese Bau,420427,33.2,no run,168,0,168/1,"Dai to Babar Hayat, no run",,,1
+99,201,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Sese Bau,420427,33.3,run,169,1,169/1,"Dai to Babar Hayat, 1 run",,,1
+100,202,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Sese Bau,420427,33.4,no run,169,0,169/1,"Dai to Anshuman Rath, no run",,,1
+101,203,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Sese Bau,420427,33.5,run,170,1,170/1,"Dai to Anshuman Rath, 1 run",,,1
+102,204,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Sese Bau,420427,34.0,no run,170,0,170/1,"Dai to Babar Hayat, no run",,,1
+103,205,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,34.1,no run,170,0,170/1,"S Bau to Anshuman Rath, no run",,,1
+104,206,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,34.2,run,171,1,171/1,"S Bau to Anshuman Rath, 1 run",,,1
+105,207,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,34.3,run,172,1,172/1,"S Bau to Babar Hayat, 1 run",,,1
+106,208,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,34.4,run,173,1,173/1,"S Bau to Anshuman Rath, 1 run",,,1
+107,209,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,34.5,run,174,1,174/1,"S Bau to Babar Hayat, 1 run",,,1
+108,210,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,35.0,no run,174,0,174/1,"S Bau to Anshuman Rath, no run",,,1
+109,211,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,Anshy Rath,452472,Sese Bau,420427,35.1,six,180,6,180/1,"Dai to Babar Hayat, SIX runs",,,1
+110,212,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, SIX runs ",1st innings,Anshy Rath,452472,Sese Bau,420427,35.2,six,186,6,186/1,"Dai to Babar Hayat, SIX runs",,,1
+111,213,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Sese Bau,420427,35.3,run,187,1,187/1,"Dai to Babar Hayat, 1 run",,,1
+112,214,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Sese Bau,420427,35.4,no run,187,0,187/1,"Dai to Anshuman Rath, no run",,,1
+113,215,Anshy Rath,452472,Mahuru Dai,25051,"Dai to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Sese Bau,420427,35.5,run,188,1,188/1,"Dai to Anshuman Rath, 1 run",,,1
+114,216,Babar Hayat,539304,Mahuru Dai,25051,"Dai to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Sese Bau,420427,36.0,run,189,1,189/1,"Dai to Babar Hayat, 1 run",,,1
+115,217,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,36.1,run,190,1,190/1,"S Bau to Babar Hayat, 1 run",,,1
+116,218,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,36.2,run,191,1,191/1,"S Bau to Anshuman Rath, 1 run",,,1
+117,219,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,36.3,no run,191,0,191/1,"S Bau to Babar Hayat, no run",,,1
+118,220,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,36.4,run,192,1,192/1,"S Bau to Babar Hayat, 1 run",,,1
+119,221,Anshy Rath,452472,Sese Bau,420427,"S Bau to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Mahuru Dai,25051,36.5,run,193,1,193/1,"S Bau to Anshuman Rath, 1 run",,,1
+120,222,Babar Hayat,539304,Sese Bau,420427,"S Bau to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Mahuru Dai,25051,37.0,no run,193,0,193/1,"S Bau to Babar Hayat, no run",,,1
+121,223,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Sese Bau,420427,37.1,no run,193,0,193/1,"Pokana to Anshuman Rath, no run",,,1
+122,224,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Sese Bau,420427,37.2,no run,193,0,193/1,"Pokana to Anshuman Rath, no run",,,1
+123,225,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Sese Bau,420427,37.3,run,195,2,195/1,"Pokana to Anshuman Rath, 2 runs",,,1
+124,226,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Sese Bau,420427,37.4,no run,195,0,195/1,"Pokana to Anshuman Rath, no run",,,1
+125,227,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Sese Bau,420427,37.5,run,197,2,197/1,"Pokana to Anshuman Rath, 2 runs",,,1
+126,228,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Sese Bau,420427,38.0,run,199,2,199/1,"Pokana to Anshuman Rath, 2 runs",,,1
+127,229,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,38.1,run,200,1,200/1,"Ravu to Babar Hayat, 1 run",,,1
+128,230,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, no run ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,38.2,no run,200,0,200/1,"Ravu to Anshuman Rath, no run",,,1
+129,231,Anshy Rath,452472,Damien Ravu,1122557,"Ravu to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,38.3,run,201,1,201/1,"Ravu to Anshuman Rath, 1 run",,,1
+130,232,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,38.4,no run,201,0,201/1,"Ravu to Babar Hayat, no run",,,1
+131,232,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 wide ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,38.4,wide,202,1,202/1,"Ravu to Babar Hayat, 1 wide",,,1
+132,233,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, FOUR runs ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,38.5,four,206,4,206/1,"Ravu to Babar Hayat, FOUR runs",,,1
+133,234,Babar Hayat,539304,Damien Ravu,1122557,"Ravu to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,39.0,run,207,1,207/1,"Ravu to Babar Hayat, 1 run",,,1
+134,235,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,39.1,no run,207,0,207/1,"Pokana to Babar Hayat, no run",,,1
+135,236,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,39.2,run,208,1,208/1,"Pokana to Babar Hayat, 1 run",,,1
+136,237,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Damien Ravu,1122557,39.3,run,209,1,209/1,"Pokana to Anshuman Rath, 1 run",,,1
+137,238,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 2 runs ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,39.4,run,211,2,211/1,"Pokana to Babar Hayat, 2 runs",,,1
+138,239,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,39.5,no run,211,0,211/1,"Pokana to Babar Hayat, no run",,,1
+139,240,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, no run ",1st innings,Anshy Rath,452472,Damien Ravu,1122557,40.0,no run,211,0,211/1,"Pokana to Babar Hayat, no run",,,1
+140,241,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 2 runs ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,40.1,run,213,2,213/1,"Reva to Anshuman Rath, 2 runs",,,1
+141,242,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,40.2,run,214,1,214/1,"Reva to Anshuman Rath, 1 run",,,1
+142,243,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,40.3,run,215,1,215/1,"Reva to Babar Hayat, 1 run",,,1
+143,244,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,40.4,run,216,1,216/1,"Reva to Anshuman Rath, 1 run",,,1
+144,245,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,40.5,run,217,1,217/1,"Reva to Babar Hayat, 1 run",,,1
+145,246,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,Nosaina Pokana,646181,41.0,run,218,1,218/1,"Reva to Anshuman Rath, 1 run",,,1
+146,247,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 3 runs ",1st innings,Babar Hayat,539304,John Reva,332978,41.1,run,221,3,221/1,"Pokana to Anshuman Rath, 3 runs",,,1
+147,248,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,41.2,run,222,1,222/1,"Pokana to Babar Hayat, 1 run",,,1
+148,249,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,41.3,run,223,1,223/1,"Pokana to Anshuman Rath, 1 run",,,1
+149,250,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,41.4,run,224,1,224/1,"Pokana to Babar Hayat, 1 run",,,1
+150,251,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,Babar Hayat,539304,John Reva,332978,41.5,run,225,1,225/1,"Pokana to Anshuman Rath, 1 run",,,1
+151,252,Babar Hayat,539304,Nosaina Pokana,646181,"Pokana to Babar Hayat, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,42.0,run,226,1,226/1,"Pokana to Babar Hayat, 1 run",,,1
+152,253,Babar Hayat,539304,John Reva,332978,"Reva to Babar Hayat, OUT quicker goodlenght ball came down the pitch and got stumped",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,42.1,out,226,0,226/2,"Reva to Babar Hayat, OUT",,quicker goodlenght ball came down the pitch and got stumped,2
+153,254,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, no run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,42.2,no run,226,0,226/2,"Reva to Nizakat Khan, no run",,,2
+154,255,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, 1 run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,42.3,run,227,1,227/2,"Reva to Nizakat Khan, 1 run",,,2
+155,256,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run, OUT ",1st innings,Nizakat Khan,350629,Nosaina Pokana,646181,42.4,run,228,1,228/3,"Reva to Anshuman Rath, 1 run, OUT",,,3
+156,257,Nizakat Khan,350629,John Reva,332978,"Reva to Nizakat Khan, OUT ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,42.5,out,228,0,228/3,"Reva to Nizakat Khan, OUT",,,3
+157,258,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, no run ",1st innings,Anshy Rath,452472,Nosaina Pokana,646181,43.0,no run,228,0,228/3,"Reva to Tanwir Afzal, no run",,,3
+158,259,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,John Reva,332978,43.1,run,229,1,229/3,"Nao to Anshuman Rath, 1 run",,,3
+159,260,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,43.2,run,230,1,230/3,"Nao to Tanwir Afzal, 1 run",,,3
+160,261,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,John Reva,332978,43.3,run,231,1,231/3,"Nao to Anshuman Rath, 1 run",,,3
+161,262,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,43.4,run,232,1,232/3,"Nao to Tanwir Afzal, 1 run",,,3
+162,263,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,Tanwir Afzal,260036,John Reva,332978,43.5,run,234,2,234/3,"Nao to Anshuman Rath, 2 runs",,,3
+163,264,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,John Reva,332978,44.0,run,235,1,235/3,"Nao to Anshuman Rath, 1 run",,,3
+164,265,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 leg bye ",1st innings,Tanwir Afzal,260036,Alei Nao,524247,44.1,leg bye,236,1,236/3,"Reva to Anshuman Rath, 1 leg bye",,,3
+165,266,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 1 run ",1st innings,Anshy Rath,452472,Alei Nao,524247,44.2,run,237,1,237/3,"Reva to Tanwir Afzal, 1 run",,,3
+166,267,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,Alei Nao,524247,44.3,run,238,1,238/3,"Reva to Anshuman Rath, 1 run",,,3
+167,268,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, FOUR runs ",1st innings,Anshy Rath,452472,Alei Nao,524247,44.4,four,242,4,242/3,"Reva to Tanwir Afzal, FOUR runs",,,3
+168,269,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 4 leg byes ",1st innings,Anshy Rath,452472,Alei Nao,524247,44.5,leg bye,246,4,246/3,"Reva to Tanwir Afzal, 4 leg byes",,,3
+169,270,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, no run ",1st innings,Anshy Rath,452472,Alei Nao,524247,45.0,no run,246,0,246/3,"Reva to Tanwir Afzal, no run",,,3
+170,271,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, no run ",1st innings,Tanwir Afzal,260036,John Reva,332978,45.1,no run,246,0,246/3,"Nao to Anshuman Rath, no run",,,3
+171,272,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,John Reva,332978,45.2,run,247,1,247/3,"Nao to Anshuman Rath, 1 run",,,3
+172,273,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, SIX runs ",1st innings,Anshy Rath,452472,John Reva,332978,45.3,six,253,6,253/3,"Nao to Tanwir Afzal, SIX runs",,,3
+173,274,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, SIX runs ",1st innings,Anshy Rath,452472,John Reva,332978,45.4,six,259,6,259/3,"Nao to Tanwir Afzal, SIX runs",,,3
+174,275,Tanwir Afzal,260036,Alei Nao,524247,"Nao to Tanwir Afzal, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,45.5,run,260,1,260/3,"Nao to Tanwir Afzal, 1 run",,,3
+175,276,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, FOUR runs ",1st innings,Tanwir Afzal,260036,John Reva,332978,46.0,four,264,4,264/3,"Nao to Anshuman Rath, FOUR runs",,,3
+176,277,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 1 run ",1st innings,Anshy Rath,452472,Alei Nao,524247,46.1,run,265,1,265/3,"Reva to Tanwir Afzal, 1 run",,,3
+177,278,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Tanwir Afzal,260036,Alei Nao,524247,46.2,run,266,1,266/3,"Reva to Anshuman Rath, 1 run",,,3
+178,279,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, 2 runs ",1st innings,Anshy Rath,452472,Alei Nao,524247,46.3,run,268,2,268/3,"Reva to Tanwir Afzal, 2 runs",,,3
+179,280,Tanwir Afzal,260036,John Reva,332978,"Reva to Tanwir Afzal, OUT ",1st innings,Anshy Rath,452472,Alei Nao,524247,46.4,out,268,0,268/4,"Reva to Tanwir Afzal, OUT",,,4
+180,281,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, FOUR runs ",1st innings,,,Alei Nao,524247,46.5,four,272,4,272/4,"Reva to Anshuman Rath, FOUR runs",,,4
+181,282,Anshy Rath,452472,John Reva,332978,"Reva to Anshuman Rath, 1 run ",1st innings,Scott McKechnie,459752,Alei Nao,524247,47.0,run,273,1,273/4,"Reva to Anshuman Rath, 1 run",,,4
+182,283,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, FOUR runs ",1st innings,Scott McKechnie,459752,John Reva,332978,47.1,four,277,4,277/4,"Pokana to Anshuman Rath, FOUR runs",,,4
+183,284,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, no run ",1st innings,Scott McKechnie,459752,John Reva,332978,47.2,no run,277,0,277/4,"Pokana to Anshuman Rath, no run",,,4
+184,285,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,Scott McKechnie,459752,John Reva,332978,47.3,run,278,1,278/4,"Pokana to Anshuman Rath, 1 run",,,4
+185,286,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,Anshy Rath,452472,John Reva,332978,47.4,run,279,1,279/4,"Pokana to McKechnie, 1 run",,,4
+186,287,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, FOUR runs ",1st innings,Scott McKechnie,459752,John Reva,332978,47.5,four,283,4,283/4,"Pokana to Anshuman Rath, FOUR runs",,,4
+187,287,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, (no ball) 1 run ",1st innings,Scott McKechnie,459752,John Reva,332978,47.5,run,285,2,285/4,"Pokana to Anshuman Rath, (no ball) 1 run",,,4
+188,288,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, SIX runs ",1st innings,Anshy Rath,452472,John Reva,332978,48.0,six,291,6,291/4,"Pokana to McKechnie, SIX runs",,,4
+189,289,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.1,run,293,2,293/4,"Nao to Anshuman Rath, 2 runs",,,4
+190,290,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, FOUR runs ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.2,four,297,4,297/4,"Nao to Anshuman Rath, FOUR runs",,,4
+191,291,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, SIX runs ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.3,six,303,6,303/4,"Nao to Anshuman Rath, SIX runs",,,4
+192,291,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 1 wide ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.3,wide,304,1,304/4,"Nao to Anshuman Rath, 1 wide",,,4
+193,292,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, 2 runs ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.4,run,306,2,306/4,"Nao to Anshuman Rath, 2 runs",,,4
+194,293,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, no run ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,48.5,no run,306,0,306/4,"Nao to Anshuman Rath, no run",,,4
+195,294,Anshy Rath,452472,Alei Nao,524247,"Nao to Anshuman Rath, SIX runs ",1st innings,Scott McKechnie,459752,Nosaina Pokana,646181,49.0,six,312,6,312/4,"Nao to Anshuman Rath, SIX runs",,,4
+196,295,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, no run ",1st innings,Anshy Rath,452472,Alei Nao,524247,49.1,no run,312,0,312/4,"Pokana to McKechnie, no run",,,4
+197,296,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 2 runs ",1st innings,Anshy Rath,452472,Alei Nao,524247,49.2,run,314,2,314/4,"Pokana to McKechnie, 2 runs",,,4
+198,297,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,Anshy Rath,452472,Alei Nao,524247,49.3,run,315,1,315/4,"Pokana to McKechnie, 1 run",,,4
+199,298,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, 1 run ",1st innings,Scott McKechnie,459752,Alei Nao,524247,49.4,run,316,1,316/4,"Pokana to Anshuman Rath, 1 run",,,4
+200,299,Scott McKechnie,459752,Nosaina Pokana,646181,"Pokana to McKechnie, 1 run ",1st innings,Anshy Rath,452472,Alei Nao,524247,49.5,run,317,1,317/4,"Pokana to McKechnie, 1 run",,,4
+201,300,Anshy Rath,452472,Nosaina Pokana,646181,"Pokana to Anshuman Rath, SIX runs ",1st innings,Scott McKechnie,459752,Alei Nao,524247,50.0,six,323,6,323/4,"Pokana to Anshuman Rath, SIX runs",,,4
+202,1,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,,,,,0.1,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
+203,2,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,,,,,0.2,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
+204,3,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,,,,,0.3,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
+205,4,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,,,,,0.4,no run,0,0,0/0,"Nadeem Ahmed to Ura, no run",,,0
+206,5,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, 1 run ",2nd innings,,,,,0.5,run,1,1,1/0,"Nadeem Ahmed to Ura, 1 run",,,0
+207,6,Dogodo Bau,524249,Nadeem Ahmed,24230,"Nadeem Ahmed to D Bau, no run ",2nd innings,Tony Ura,302845,,,1.0,no run,1,0,1/0,"Nadeem Ahmed to D Bau, no run",,,0
+208,7,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,Dogodo Bau,524249,Nadeem Ahmed,24230,1.1,run,2,1,2/0,"Tanwir Afzal to Ura, 1 run",,,0
+209,8,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, 1 run ",2nd innings,Tony Ura,302845,Nadeem Ahmed,24230,1.2,run,3,1,3/0,"Tanwir Afzal to D Bau, 1 run",,,0
+210,9,Tony Ura,302845,Tanwir Afzal,260036,"Tanwir Afzal to Ura, 1 run ",2nd innings,Dogodo Bau,524249,Nadeem Ahmed,24230,1.3,run,4,1,4/0,"Tanwir Afzal to Ura, 1 run",,,0
+211,10,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,Tony Ura,302845,Nadeem Ahmed,24230,1.4,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
+212,11,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,Tony Ura,302845,Nadeem Ahmed,24230,1.5,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
+213,12,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,Tony Ura,302845,Nadeem Ahmed,24230,2.0,no run,4,0,4/0,"Tanwir Afzal to D Bau, no run",,,0
+214,13,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, no run ",2nd innings,Dogodo Bau,524249,Tanwir Afzal,260036,2.1,no run,4,0,4/0,"Nadeem Ahmed to Ura, no run",,,0
+215,14,Tony Ura,302845,Nadeem Ahmed,24230,"Nadeem Ahmed to Ura, OUT ",2nd innings,Dogodo Bau,524249,Tanwir Afzal,260036,2.2,out,4,0,4/1,"Nadeem Ahmed to Ura, OUT",,,1
+216,15,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, 1 run ",2nd innings,Dogodo Bau,524249,Tanwir Afzal,260036,2.3,run,5,1,5/1,"Nadeem Ahmed to Vala, 1 run",,,1
+217,16,Dogodo Bau,524249,Nadeem Ahmed,24230,"Nadeem Ahmed to D Bau, 1 run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,2.4,run,6,1,6/1,"Nadeem Ahmed to D Bau, 1 run",,,1
+218,17,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, no run ",2nd innings,Dogodo Bau,524249,Tanwir Afzal,260036,2.5,no run,6,0,6/1,"Nadeem Ahmed to Vala, no run",,,1
+219,18,Assad Vala,25056,Nadeem Ahmed,24230,"Nadeem Ahmed to Vala, no run ",2nd innings,Dogodo Bau,524249,Tanwir Afzal,260036,3.0,no run,6,0,6/1,"Nadeem Ahmed to Vala, no run",,,1
+220,19,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, 1 run ",2nd innings,Assad Vala,25056,Nadeem Ahmed,24230,3.1,run,7,1,7/1,"Tanwir Afzal to D Bau, 1 run",,,1
+221,20,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,Dogodo Bau,524249,Nadeem Ahmed,24230,3.2,no run,7,0,7/1,"Tanwir Afzal to Vala, no run",,,1
+222,21,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,Dogodo Bau,524249,Nadeem Ahmed,24230,3.3,no run,7,0,7/1,"Tanwir Afzal to Vala, no run",,,1
+223,22,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,Dogodo Bau,524249,Nadeem Ahmed,24230,3.4,run,8,1,8/1,"Tanwir Afzal to Vala, 1 run",,,1
+224,23,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, no run ",2nd innings,Assad Vala,25056,Nadeem Ahmed,24230,3.5,no run,8,0,8/1,"Tanwir Afzal to D Bau, no run",,,1
+225,24,Dogodo Bau,524249,Tanwir Afzal,260036,"Tanwir Afzal to D Bau, OUT ",2nd innings,Assad Vala,25056,Nadeem Ahmed,24230,4.0,out,8,0,8/2,"Tanwir Afzal to D Bau, OUT",,,2
+226,25,Assad Vala,25056,Ehsan Khan,40082,"Ehsan Khan to Vala, 1 run ",2nd innings,,,Tanwir Afzal,260036,4.1,run,9,1,9/2,"Ehsan Khan to Vala, 1 run",,,2
+227,26,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,4.2,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
+228,27,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,4.3,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
+229,28,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,4.4,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
+230,29,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, no run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,4.5,no run,9,0,9/2,"Ehsan Khan to S Bau, no run",,,2
+231,30,Sese Bau,420427,Ehsan Khan,40082,"Ehsan Khan to S Bau, 1 run ",2nd innings,Assad Vala,25056,Tanwir Afzal,260036,5.0,run,10,1,10/2,"Ehsan Khan to S Bau, 1 run",,,2
+232,31,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, FOUR runs ",2nd innings,Assad Vala,25056,Ehsan Khan,40082,5.1,four,14,4,14/2,"Tanwir Afzal to S Bau, FOUR runs",,,2
+233,32,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Assad Vala,25056,Ehsan Khan,40082,5.2,no run,14,0,14/2,"Tanwir Afzal to S Bau, no run",,,2
+234,33,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Assad Vala,25056,Ehsan Khan,40082,5.3,run,15,1,15/2,"Tanwir Afzal to S Bau, 1 run",,,2
+235,34,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, no run ",2nd innings,Sese Bau,420427,Ehsan Khan,40082,5.4,no run,15,0,15/2,"Tanwir Afzal to Vala, no run",,,2
+236,35,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, FOUR runs ",2nd innings,Sese Bau,420427,Ehsan Khan,40082,5.5,four,19,4,19/2,"Tanwir Afzal to Vala, FOUR runs",,,2
+237,36,Assad Vala,25056,Tanwir Afzal,260036,"Tanwir Afzal to Vala, 1 run ",2nd innings,Sese Bau,420427,Ehsan Khan,40082,6.0,run,20,1,20/2,"Tanwir Afzal to Vala, 1 run",,,2
+238,37,Assad Vala,25056,Ehsan Khan,40082,"Ehsan Khan to Vala, OUT ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.1,out,20,0,20/3,"Ehsan Khan to Vala, OUT",,,3
+239,37,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 wide ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.1,wide,21,1,21/3,"Ehsan Khan to Doriga, 1 wide",,,3
+240,38,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.2,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
+241,39,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.3,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
+242,40,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.4,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
+243,41,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,6.5,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
+244,42,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,7.0,no run,21,0,21/3,"Ehsan Khan to Doriga, no run",,,3
+245,43,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,7.1,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
+246,44,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,7.2,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
+247,45,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,7.3,no run,21,0,21/3,"Tanwir Afzal to S Bau, no run",,,3
+248,46,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,7.4,run,22,1,22/3,"Tanwir Afzal to S Bau, 1 run",,,3
+249,47,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,Sese Bau,420427,Ehsan Khan,40082,7.5,run,23,1,23/3,"Tanwir Afzal to Doriga, 1 run",,,3
+250,48,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,8.0,run,24,1,24/3,"Tanwir Afzal to S Bau, 1 run",,,3
+251,49,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,8.1,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+252,50,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,8.2,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+253,51,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,8.3,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+254,52,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,8.4,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+255,53,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,8.5,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+256,54,Sese Bau,420427,Nadeem Ahmed,24230,"Nadeem Ahmed to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,9.0,no run,24,0,24/3,"Nadeem Ahmed to S Bau, no run",,,3
+257,55,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,9.1,no run,24,0,24/3,"Tanwir Afzal to Doriga, no run",,,3
+258,56,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, FOUR runs ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,9.2,four,28,4,28/3,"Tanwir Afzal to Doriga, FOUR runs",,,3
+259,57,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,9.3,no run,28,0,28/3,"Tanwir Afzal to Doriga, no run",,,3
+260,58,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,9.4,run,29,1,29/3,"Tanwir Afzal to Doriga, 1 run",,,3
+261,59,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,9.5,no run,29,0,29/3,"Tanwir Afzal to S Bau, no run",,,3
+262,60,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,10.0,no run,29,0,29/3,"Tanwir Afzal to S Bau, no run",,,3
+263,61,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.1,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
+264,62,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.2,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
+265,63,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.3,no run,29,0,29/3,"Nadeem Ahmed to Doriga, no run",,,3
+266,63,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 no ball ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.3,no ball,30,1,30/3,"Nadeem Ahmed to Doriga, 1 no ball",,,3
+267,64,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.4,no run,30,0,30/3,"Nadeem Ahmed to Doriga, no run",,,3
+268,65,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,10.5,no run,30,0,30/3,"Nadeem Ahmed to Doriga, no run",,,3
+269,66,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 3 runs ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,11.0,run,33,3,33/3,"Nadeem Ahmed to Doriga, 3 runs",,,3
+270,67,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 leg bye ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,11.1,leg bye,34,1,34/3,"Tanwir Afzal to Doriga, 1 leg bye",,,3
+271,68,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,11.2,no run,34,0,34/3,"Tanwir Afzal to S Bau, no run",,,3
+272,69,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,11.3,no run,34,0,34/3,"Tanwir Afzal to S Bau, no run",,,3
+273,70,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,11.4,run,35,1,35/3,"Tanwir Afzal to S Bau, 1 run",,,3
+274,71,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, no run ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,11.5,no run,35,0,35/3,"Tanwir Afzal to Doriga, no run",,,3
+275,72,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, FOUR runs ",2nd innings,Sese Bau,420427,Nadeem Ahmed,24230,12.0,four,39,4,39/3,"Tanwir Afzal to Doriga, FOUR runs",,,3
+276,73,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, FOUR runs ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,12.1,four,43,4,43/3,"Aizaz Khan to S Bau, FOUR runs",,,3
+277,74,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,12.2,run,44,1,44/3,"Aizaz Khan to S Bau, 1 run",,,3
+278,75,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,12.3,run,45,1,45/3,"Aizaz Khan to Doriga, 1 run",,,3
+279,76,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,12.4,no run,45,0,45/3,"Aizaz Khan to S Bau, no run",,,3
+280,77,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,12.5,no run,45,0,45/3,"Aizaz Khan to S Bau, no run",,,3
+281,78,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,13.0,run,46,1,46/3,"Aizaz Khan to S Bau, 1 run",,,3
+282,79,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,13.1,no run,46,0,46/3,"Tanwir Afzal to S Bau, no run",,,3
+283,80,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,13.2,run,47,1,47/3,"Tanwir Afzal to S Bau, 1 run",,,3
+284,81,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,Sese Bau,420427,Aizaz Khan,401540,13.3,run,48,1,48/3,"Tanwir Afzal to Doriga, 1 run",,,3
+285,82,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,13.4,no run,48,0,48/3,"Tanwir Afzal to S Bau, no run",,,3
+286,83,Sese Bau,420427,Tanwir Afzal,260036,"Tanwir Afzal to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,13.5,run,49,1,49/3,"Tanwir Afzal to S Bau, 1 run",,,3
+287,84,Kiplin Doriga,646173,Tanwir Afzal,260036,"Tanwir Afzal to Doriga, 1 run ",2nd innings,Sese Bau,420427,Aizaz Khan,401540,14.0,run,50,1,50/3,"Tanwir Afzal to Doriga, 1 run",,,3
+288,84,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 wide ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,14.0,wide,51,1,51/3,"Aizaz Khan to Doriga, 1 wide",,,3
+289,85,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 leg bye ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,14.1,leg bye,52,1,52/3,"Aizaz Khan to Doriga, 1 leg bye",,,3
+290,86,Sese Bau,420427,Aizaz Khan,401540,"Aizaz Khan to S Bau, 1 run ",2nd innings,Kiplin Doriga,646173,Tanwir Afzal,260036,14.2,run,53,1,53/3,"Aizaz Khan to S Bau, 1 run",,,3
+291,87,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, FOUR runs ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,14.3,four,57,4,57/3,"Aizaz Khan to Doriga, FOUR runs",,,3
+292,88,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,14.4,no run,57,0,57/3,"Aizaz Khan to Doriga, no run",,,3
+293,89,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 2 runs ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,14.5,run,59,2,59/3,"Aizaz Khan to Doriga, 2 runs",,,3
+294,90,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 3 runs ",2nd innings,Sese Bau,420427,Tanwir Afzal,260036,15.0,run,62,3,62/3,"Aizaz Khan to Doriga, 3 runs",,,3
+295,91,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Sese Bau,420427,Aizaz Khan,401540,15.1,no run,62,0,62/3,"Ehsan Nawaz to Doriga, no run",,,3
+296,92,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Sese Bau,420427,Aizaz Khan,401540,15.2,no run,62,0,62/3,"Ehsan Nawaz to Doriga, no run",,,3
+297,93,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Sese Bau,420427,Aizaz Khan,401540,15.3,run,63,1,63/3,"Ehsan Nawaz to Doriga, 1 run",,,3
+298,94,Sese Bau,420427,Ehsan Nawaz,718553,"Ehsan Nawaz to S Bau, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,15.4,no run,63,0,63/3,"Ehsan Nawaz to S Bau, no run",,,3
+299,95,Sese Bau,420427,Ehsan Nawaz,718553,"Ehsan Nawaz to S Bau, OUT full lenght ball on leg stump",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,15.5,out,63,0,63/4,"Ehsan Nawaz to S Bau, OUT",,full lenght ball on leg stump,4
+300,96,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,16.0,no run,63,0,63/4,"Ehsan Nawaz to Dai, no run",,,4
+301,97,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,Mahuru Dai,25051,Ehsan Nawaz,718553,16.1,run,64,1,64/4,"Aizaz Khan to Doriga, 1 run",,,4
+302,98,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,16.2,no run,64,0,64/4,"Aizaz Khan to Dai, no run",,,4
+303,99,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,16.3,run,65,1,65/4,"Aizaz Khan to Dai, 1 run",,,4
+304,100,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,Mahuru Dai,25051,Ehsan Nawaz,718553,16.4,run,66,1,66/4,"Aizaz Khan to Doriga, 1 run",,,4
+305,101,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,16.5,no run,66,0,66/4,"Aizaz Khan to Dai, no run",,,4
+306,102,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,17.0,no run,66,0,66/4,"Aizaz Khan to Dai, no run",,,4
+307,103,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Mahuru Dai,25051,Aizaz Khan,401540,17.1,run,67,1,67/4,"Ehsan Nawaz to Doriga, 1 run",,,4
+308,104,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,17.2,no run,67,0,67/4,"Ehsan Nawaz to Dai, no run",,,4
+309,105,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,17.3,run,68,1,68/4,"Ehsan Nawaz to Dai, 1 run",,,4
+310,106,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Mahuru Dai,25051,Aizaz Khan,401540,17.4,run,69,1,69/4,"Ehsan Nawaz to Doriga, 1 run",,,4
+311,107,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,17.5,no run,69,0,69/4,"Ehsan Nawaz to Dai, no run",,,4
+312,108,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, 1 leg bye ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,18.0,leg bye,70,1,70/4,"Ehsan Nawaz to Dai, 1 leg bye",,,4
+313,109,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,18.1,four,74,4,74/4,"Aizaz Khan to Dai, FOUR runs",,,4
+314,110,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,18.2,no run,74,0,74/4,"Aizaz Khan to Dai, no run",,,4
+315,111,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,18.3,four,78,4,78/4,"Aizaz Khan to Dai, FOUR runs",,,4
+316,112,Mahuru Dai,25051,Aizaz Khan,401540,"Aizaz Khan to Dai, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,18.4,run,79,1,79/4,"Aizaz Khan to Dai, 1 run",,,4
+317,113,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,Mahuru Dai,25051,Ehsan Nawaz,718553,18.5,no run,79,0,79/4,"Aizaz Khan to Doriga, no run",,,4
+318,114,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,Mahuru Dai,25051,Ehsan Nawaz,718553,19.0,no run,79,0,79/4,"Aizaz Khan to Doriga, no run",,,4
+319,115,Mahuru Dai,25051,Ehsan Nawaz,718553,"Ehsan Nawaz to Dai, OUT ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,19.1,out,79,0,79/5,"Ehsan Nawaz to Dai, OUT",,,5
+320,115,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 wide ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,19.1,wide,80,1,80/5,"Ehsan Nawaz to Vare, 1 wide",,,5
+321,115,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 wide ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,19.1,wide,81,1,81/5,"Ehsan Nawaz to Vare, 1 wide",,,5
+322,116,Jack Vare,25065,Ehsan Nawaz,718553,"Ehsan Nawaz to Vare, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,19.2,run,82,1,82/5,"Ehsan Nawaz to Vare, 1 run",,,5
+323,117,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Jack Vare,25065,Aizaz Khan,401540,19.3,no run,82,0,82/5,"Ehsan Nawaz to Doriga, no run",,,5
+324,118,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Jack Vare,25065,Aizaz Khan,401540,19.4,no run,82,0,82/5,"Ehsan Nawaz to Doriga, no run",,,5
+325,119,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, FOUR runs ",2nd innings,Jack Vare,25065,Aizaz Khan,401540,19.5,four,86,4,86/5,"Ehsan Nawaz to Doriga, FOUR runs",,,5
+326,120,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Jack Vare,25065,Aizaz Khan,401540,20.0,run,87,1,87/5,"Ehsan Nawaz to Doriga, 1 run",,,5
+327,121,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,Jack Vare,25065,Ehsan Nawaz,718553,20.1,run,88,1,88/5,"Nadeem Ahmed to Doriga, 1 run",,,5
+328,122,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,20.2,run,89,1,89/5,"Nadeem Ahmed to Vare, 1 run",,,5
+329,123,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,Jack Vare,25065,Ehsan Nawaz,718553,20.3,no run,89,0,89/5,"Nadeem Ahmed to Doriga, no run",,,5
+330,124,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,Jack Vare,25065,Ehsan Nawaz,718553,20.4,run,90,1,90/5,"Nadeem Ahmed to Doriga, 1 run",,,5
+331,125,Jack Vare,25065,Nadeem Ahmed,24230,"Nadeem Ahmed to Vare, OUT ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,20.5,out,90,0,90/6,"Nadeem Ahmed to Vare, OUT",,,6
+332,126,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,21.0,run,91,1,91/6,"Nadeem Ahmed to Reva, 1 run",,,6
+333,127,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,21.1,no run,91,0,91/6,"Ehsan Nawaz to Reva, no run",,,6
+334,128,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,21.2,no run,91,0,91/6,"Ehsan Nawaz to Reva, no run",,,6
+335,129,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,21.3,run,92,1,92/6,"Ehsan Nawaz to Reva, 1 run",,,6
+336,130,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,21.4,run,93,1,93/6,"Ehsan Nawaz to Doriga, 1 run",,,6
+337,131,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,21.5,no run,93,0,93/6,"Ehsan Nawaz to Reva, no run",,,6
+338,132,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,22.0,no run,93,0,93/6,"Ehsan Nawaz to Reva, no run",,,6
+339,133,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,John Reva,332978,Ehsan Nawaz,718553,22.1,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
+340,134,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,John Reva,332978,Ehsan Nawaz,718553,22.2,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
+341,135,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,John Reva,332978,Ehsan Nawaz,718553,22.3,no run,93,0,93/6,"Nadeem Ahmed to Doriga, no run",,,6
+342,136,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,John Reva,332978,Ehsan Nawaz,718553,22.4,run,94,1,94/6,"Nadeem Ahmed to Doriga, 1 run",,,6
+343,137,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,22.5,no run,94,0,94/6,"Nadeem Ahmed to Reva, no run",,,6
+344,138,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,23.0,no run,94,0,94/6,"Nadeem Ahmed to Reva, no run",,,6
+345,139,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,23.1,no run,94,0,94/6,"Ehsan Khan to Doriga, no run",,,6
+346,140,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,23.2,run,95,1,95/6,"Ehsan Khan to Doriga, 1 run",,,6
+347,141,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,23.3,no run,95,0,95/6,"Ehsan Khan to Reva, no run",,,6
+348,142,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,23.4,no run,95,0,95/6,"Ehsan Khan to Reva, no run",,,6
+349,143,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,23.5,run,96,1,96/6,"Ehsan Khan to Reva, 1 run",,,6
+350,144,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,24.0,no run,96,0,96/6,"Ehsan Khan to Doriga, no run",,,6
+351,145,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,24.1,no run,96,0,96/6,"Nadeem Ahmed to Reva, no run",,,6
+352,146,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,24.2,four,100,4,100/6,"Nadeem Ahmed to Reva, FOUR runs",,,6
+353,147,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, SIX runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,24.3,six,106,6,106/6,"Nadeem Ahmed to Reva, SIX runs",,,6
+354,148,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,24.4,run,107,1,107/6,"Nadeem Ahmed to Reva, 1 run",,,6
+355,149,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, no run ",2nd innings,John Reva,332978,Ehsan Khan,40082,24.5,no run,107,0,107/6,"Nadeem Ahmed to Doriga, no run",,,6
+356,150,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,John Reva,332978,Ehsan Khan,40082,25.0,run,108,1,108/6,"Nadeem Ahmed to Doriga, 1 run",,,6
+357,151,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,25.1,run,109,1,109/6,"Ehsan Khan to Doriga, 1 run",,,6
+358,152,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,25.2,no run,109,0,109/6,"Ehsan Khan to Reva, no run",,,6
+359,153,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, SIX runs ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,25.3,six,115,6,115/6,"Ehsan Khan to Reva, SIX runs",,,6
+360,154,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,25.4,run,116,1,116/6,"Ehsan Khan to Reva, 1 run",,,6
+361,155,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,25.5,run,117,1,117/6,"Ehsan Khan to Doriga, 1 run",,,6
+362,156,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,26.0,run,118,1,118/6,"Ehsan Khan to Reva, 1 run",,,6
+363,157,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,26.1,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+364,158,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,26.2,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+365,159,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,26.3,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+366,160,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,26.4,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+367,161,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,26.5,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+368,162,John Reva,332978,Nadeem Ahmed,24230,"Nadeem Ahmed to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,27.0,no run,118,0,118/6,"Nadeem Ahmed to Reva, no run",,,6
+369,163,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,27.1,no run,118,0,118/6,"Ehsan Khan to Doriga, no run",,,6
+370,164,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,27.2,no run,118,0,118/6,"Ehsan Khan to Doriga, no run",,,6
+371,165,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,27.3,run,119,1,119/6,"Ehsan Khan to Doriga, 1 run",,,6
+372,166,John Reva,332978,Ehsan Khan,40082,"Ehsan Khan to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,27.4,run,120,1,120/6,"Ehsan Khan to Reva, 1 run",,,6
+373,167,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, SIX runs ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,27.5,six,126,6,126/6,"Ehsan Khan to Doriga, SIX runs",,,6
+374,168,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, FOUR runs ",2nd innings,John Reva,332978,Nadeem Ahmed,24230,28.0,four,130,4,130/6,"Ehsan Khan to Doriga, FOUR runs",,,6
+375,169,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,28.1,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
+376,170,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,28.2,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
+377,171,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,28.3,no run,130,0,130/6,"Aizaz Khan to Reva, no run",,,6
+378,172,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,28.4,four,134,4,134/6,"Aizaz Khan to Reva, FOUR runs",,,6
+379,173,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,28.5,four,138,4,138/6,"Aizaz Khan to Reva, FOUR runs",,,6
+380,174,John Reva,332978,Aizaz Khan,401540,"Aizaz Khan to Reva, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,29.0,four,142,4,142/6,"Aizaz Khan to Reva, FOUR runs",,,6
+381,175,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, SIX runs ",2nd innings,John Reva,332978,Aizaz Khan,401540,29.1,six,148,6,148/6,"Ehsan Nawaz to Doriga, SIX runs",,,6
+382,176,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,John Reva,332978,Aizaz Khan,401540,29.2,run,149,1,149/6,"Ehsan Nawaz to Doriga, 1 run",,,6
+383,177,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,29.3,run,150,1,150/6,"Ehsan Nawaz to Reva, 1 run",,,6
+384,178,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 leg bye ",2nd innings,John Reva,332978,Aizaz Khan,401540,29.4,leg bye,151,1,151/6,"Ehsan Nawaz to Doriga, 1 leg bye",,,6
+385,179,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,29.5,no run,151,0,151/6,"Ehsan Nawaz to Reva, no run",,,6
+386,180,John Reva,332978,Ehsan Nawaz,718553,"Ehsan Nawaz to Reva, OUT ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,30.0,out,151,0,151/7,"Ehsan Nawaz to Reva, OUT",,,7
+387,181,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, no run ",2nd innings,,,Ehsan Nawaz,718553,30.1,no run,151,0,151/7,"Aizaz Khan to Doriga, no run",,,7
+388,182,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,,,Ehsan Nawaz,718553,30.2,run,152,1,152/7,"Aizaz Khan to Doriga, 1 run",,,7
+389,183,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,30.3,no run,152,0,152/7,"Aizaz Khan to Ravu, no run",,,7
+390,184,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,30.4,run,153,1,153/7,"Aizaz Khan to Ravu, 1 run",,,7
+391,185,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,Damien Ravu,1122557,Ehsan Nawaz,718553,30.5,run,154,1,154/7,"Aizaz Khan to Doriga, 1 run",,,7
+392,186,Damien Ravu,1122557,Aizaz Khan,401540,"Aizaz Khan to Ravu, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,31.0,no run,154,0,154/7,"Aizaz Khan to Ravu, no run",,,7
+393,187,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Damien Ravu,1122557,Aizaz Khan,401540,31.1,no run,154,0,154/7,"Ehsan Nawaz to Doriga, no run",,,7
+394,188,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Damien Ravu,1122557,Aizaz Khan,401540,31.2,run,155,1,155/7,"Ehsan Nawaz to Doriga, 1 run",,,7
+395,189,Damien Ravu,1122557,Ehsan Nawaz,718553,"Ehsan Nawaz to Ravu, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,31.3,no run,155,0,155/7,"Ehsan Nawaz to Ravu, no run",,,7
+396,190,Damien Ravu,1122557,Ehsan Nawaz,718553,"Ehsan Nawaz to Ravu, OUT ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,31.4,out,155,0,155/8,"Ehsan Nawaz to Ravu, OUT",,,8
+397,191,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,31.5,no run,155,0,155/8,"Ehsan Nawaz to Nao, no run",,,8
+398,192,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 3 runs ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,32.0,run,158,3,158/8,"Ehsan Nawaz to Nao, 3 runs",,,8
+399,193,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,32.1,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
+400,194,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,32.2,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
+401,195,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,32.3,no run,158,0,158/8,"Aizaz Khan to Nao, no run",,,8
+402,196,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,32.4,run,160,2,160/8,"Aizaz Khan to Nao, 2 runs",,,8
+403,197,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,32.5,no run,160,0,160/8,"Aizaz Khan to Nao, no run",,,8
+404,198,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,33.0,no run,160,0,160/8,"Aizaz Khan to Nao, no run",,,8
+405,199,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,33.1,run,161,1,161/8,"Ehsan Nawaz to Doriga, 1 run",,,8
+406,200,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,33.2,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
+407,201,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,33.3,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
+408,202,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,33.4,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
+409,203,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, no run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,33.5,no run,161,0,161/8,"Ehsan Nawaz to Nao, no run",,,8
+410,204,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Aizaz Khan,401540,34.0,run,162,1,162/8,"Ehsan Nawaz to Nao, 1 run",,,8
+411,205,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,34.1,no run,162,0,162/8,"Aizaz Khan to Nao, no run",,,8
+412,206,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,34.2,run,164,2,164/8,"Aizaz Khan to Nao, 2 runs",,,8
+413,207,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, SIX runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,34.3,six,170,6,170/8,"Aizaz Khan to Nao, SIX runs",,,8
+414,208,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,34.4,run,171,1,171/8,"Aizaz Khan to Nao, 1 run",,,8
+415,209,Kiplin Doriga,646173,Aizaz Khan,401540,"Aizaz Khan to Doriga, 1 run ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,34.5,run,172,1,172/8,"Aizaz Khan to Doriga, 1 run",,,8
+416,210,Alei Nao,524247,Aizaz Khan,401540,"Aizaz Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,35.0,no run,172,0,172/8,"Aizaz Khan to Nao, no run",,,8
+417,210,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 wide ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.0,wide,173,1,173/8,"Ehsan Nawaz to Doriga, 1 wide",,,8
+418,211,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.1,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
+419,212,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.2,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
+420,213,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.3,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
+421,214,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.4,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
+422,215,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,35.5,no run,173,0,173/8,"Ehsan Nawaz to Doriga, no run",,,8
+423,216,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Alei Nao,524247,Aizaz Khan,401540,36.0,run,174,1,174/8,"Ehsan Nawaz to Doriga, 1 run",,,8
+424,217,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,36.1,run,175,1,175/8,"Ehsan Khan to Doriga, 1 run",,,8
+425,218,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,36.2,four,179,4,179/8,"Ehsan Khan to Nao, FOUR runs",,,8
+426,219,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,36.3,run,180,1,180/8,"Ehsan Khan to Nao, 1 run",,,8
+427,220,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, no run ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,36.4,no run,180,0,180/8,"Ehsan Khan to Doriga, no run",,,8
+428,221,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,36.5,run,181,1,181/8,"Ehsan Khan to Doriga, 1 run",,,8
+429,222,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,37.0,run,182,1,182/8,"Ehsan Khan to Nao, 1 run",,,8
+430,223,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,37.1,four,186,4,186/8,"Ehsan Nawaz to Nao, FOUR runs",,,8
+431,224,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, SIX runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,37.2,six,192,6,192/8,"Ehsan Nawaz to Nao, SIX runs",,,8
+432,225,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,37.3,run,194,2,194/8,"Ehsan Nawaz to Nao, 2 runs",,,8
+433,226,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, FOUR runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,37.4,four,198,4,198/8,"Ehsan Nawaz to Nao, FOUR runs",,,8
+434,227,Alei Nao,524247,Ehsan Nawaz,718553,"Ehsan Nawaz to Nao, 1 leg bye ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,37.5,leg bye,199,1,199/8,"Ehsan Nawaz to Nao, 1 leg bye",,,8
+435,228,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,Alei Nao,524247,Ehsan Khan,40082,38.0,run,201,2,201/8,"Ehsan Nawaz to Doriga, 2 runs",,,8
+436,229,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,38.1,no run,201,0,201/8,"Ehsan Khan to Nao, no run",,,8
+437,230,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,38.2,run,203,2,203/8,"Ehsan Khan to Nao, 2 runs",,,8
+438,231,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,38.3,run,204,1,204/8,"Ehsan Khan to Nao, 1 run",,,8
+439,232,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, FOUR runs ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,38.4,four,208,4,208/8,"Ehsan Khan to Doriga, FOUR runs",,,8
+440,233,Kiplin Doriga,646173,Ehsan Khan,40082,"Ehsan Khan to Doriga, 1 run ",2nd innings,Alei Nao,524247,Ehsan Nawaz,718553,38.5,run,209,1,209/8,"Ehsan Khan to Doriga, 1 run",,,8
+441,234,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,39.0,run,210,1,210/8,"Ehsan Khan to Nao, 1 run",,,8
+442,234,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 wide ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,39.0,wide,211,1,211/8,"Nadeem Ahmed to Nao, 1 wide",,,8
+443,235,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,39.1,no run,211,0,211/8,"Nadeem Ahmed to Nao, no run",,,8
+444,236,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,39.2,run,212,1,212/8,"Nadeem Ahmed to Nao, 1 run",,,8
+445,237,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, 1 run ",2nd innings,Alei Nao,524247,Ehsan Khan,40082,39.3,run,213,1,213/8,"Nadeem Ahmed to Doriga, 1 run",,,8
+446,238,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,39.4,run,215,2,215/8,"Nadeem Ahmed to Nao, 2 runs",,,8
+447,239,Alei Nao,524247,Nadeem Ahmed,24230,"Nadeem Ahmed to Nao, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,39.5,run,216,1,216/8,"Nadeem Ahmed to Nao, 1 run",,,8
+448,240,Kiplin Doriga,646173,Nadeem Ahmed,24230,"Nadeem Ahmed to Doriga, SIX runs ",2nd innings,Alei Nao,524247,Ehsan Khan,40082,40.0,six,222,6,222/8,"Nadeem Ahmed to Doriga, SIX runs",,,8
+449,241,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, 2 runs ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,40.1,run,224,2,224/8,"Ehsan Khan to Nao, 2 runs",,,8
+450,242,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,40.2,no run,224,0,224/8,"Ehsan Khan to Nao, no run",,,8
+451,243,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,40.3,no run,224,0,224/8,"Ehsan Khan to Nao, no run",,,8
+452,244,Alei Nao,524247,Ehsan Khan,40082,"Ehsan Khan to Nao, OUT ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,40.4,out,224,0,224/9,"Ehsan Khan to Nao, OUT",,,9
+453,245,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,40.5,no run,224,0,224/9,"Ehsan Khan to Pokana, no run",,,9
+454,246,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,Kiplin Doriga,646173,Nadeem Ahmed,24230,41.0,no run,224,0,224/9,"Ehsan Khan to Pokana, no run",,,9
+455,247,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 1 run ",2nd innings,Nosaina Pokana,646181,Ehsan Khan,40082,41.1,run,225,1,225/9,"Ehsan Nawaz to Doriga, 1 run",,,9
+456,248,Nosaina Pokana,646181,Ehsan Nawaz,718553,"Ehsan Nawaz to Pokana, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,41.2,no run,225,0,225/9,"Ehsan Nawaz to Pokana, no run",,,9
+457,249,Nosaina Pokana,646181,Ehsan Nawaz,718553,"Ehsan Nawaz to Pokana, 1 run ",2nd innings,Kiplin Doriga,646173,Ehsan Khan,40082,41.3,run,226,1,226/9,"Ehsan Nawaz to Pokana, 1 run",,,9
+458,250,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,Nosaina Pokana,646181,Ehsan Khan,40082,41.4,run,228,2,228/9,"Ehsan Nawaz to Doriga, 2 runs",,,9
+459,251,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, no run ",2nd innings,Nosaina Pokana,646181,Ehsan Khan,40082,41.5,no run,228,0,228/9,"Ehsan Nawaz to Doriga, no run",,,9
+460,252,Kiplin Doriga,646173,Ehsan Nawaz,718553,"Ehsan Nawaz to Doriga, 2 runs ",2nd innings,Nosaina Pokana,646181,Ehsan Khan,40082,42.0,run,230,2,230/9,"Ehsan Nawaz to Doriga, 2 runs",,,9
+461,253,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, no run ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,42.1,no run,230,0,230/9,"Ehsan Khan to Pokana, no run",,,9
+462,254,Nosaina Pokana,646181,Ehsan Khan,40082,"Ehsan Khan to Pokana, OUT ",2nd innings,Kiplin Doriga,646173,Ehsan Nawaz,718553,42.2,out,230,0,230/10,"Ehsan Khan to Pokana, OUT",,,10

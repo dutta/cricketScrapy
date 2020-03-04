@@ -37,7 +37,15 @@ def game_ball_by_ball(series_id, match_id):
             except Exception: pass
             try: ball_res['bowler_id'] = evs['bowler']['athlete']['id']
             except Exception: pass
+            try: ball_res['otherBowler'] = evs['otherBowler']['athlete']['name']
+            except Exception: pass
+            try: ball_res['otherBowler_id'] = evs['otherBowler']['athlete']['id']
+            except Exception: pass
             try: ball_res['batsman'] = evs['batsman']['athlete']['name']
+            except Exception: pass
+            try: ball_res['otherBatsman'] = evs['otherBatsman']['athlete']['name']
+            except Exception: pass
+            try: ball_res['otherBatsman_id'] = evs['otherBatsman']['athlete']['id']
             except Exception: pass
             try: ball_res['batsman_id'] = evs['batsman']['athlete']['id']
             except Exception: pass

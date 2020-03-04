@@ -1,507 +1,507 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,1,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 1 run ",1st innings,0.1,run,1,1,1/0,"Holder to Ura, 1 run",,,0
-1,2,Vani Morea,387435,Jason Holder,391485,"Holder to Morea, no run ",1st innings,0.2,no run,1,0,1/0,"Holder to Morea, no run",,,0
-2,4,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,0.4,no run,1,0,1/0,"Holder to Ura, no run",,,0
-3,5,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 3 runs ",1st innings,0.5,run,4,3,4/0,"Holder to Ura, 3 runs",,,0
-4,6,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, 4 leg byes ",1st innings,0.6,leg bye,8,4,8/1,"Holder to Vala, 4 leg byes",,,1
-5,7,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,1.1,no run,8,0,8/1,"Williams to Ura, no run",,,1
-6,8,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,1.2,no run,8,0,8/1,"Williams to Ura, no run",,,1
-7,9,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,1.3,no run,8,0,8/1,"Williams to Ura, no run",,,1
-8,10,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,1.4,run,9,1,9/1,"Williams to Ura, 1 run",,,1
-9,11,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,1.5,no run,9,0,9/1,"Williams to Vala, no run",,,1
-10,12,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,1.6,no run,9,0,9/1,"Williams to Vala, no run",,,1
-11,13,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,2.1,no run,9,0,9/1,"Holder to Ura, no run",,,1
-12,14,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 2 runs ",1st innings,2.2,run,11,2,11/1,"Holder to Ura, 2 runs",,,1
-13,15,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,2.3,no run,11,0,11/1,"Holder to Ura, no run",,,1
-14,16,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 1 run ",1st innings,2.4,run,12,1,12/1,"Holder to Ura, 1 run",,,1
-15,17,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,2.5,no run,12,0,12/1,"Holder to Vala, no run",,,1
-16,18,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,2.6,no run,12,0,12/1,"Holder to Vala, no run",,,1
-17,19,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,3.1,no run,12,0,12/1,"Williams to Ura, no run",,,1
-18,21,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,3.3,no run,12,0,12/1,"Williams to Ura, no run",,,1
-19,22,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,3.4,no run,12,0,12/1,"Williams to Ura, no run",,,1
-20,23,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,3.5,no run,12,0,12/1,"Williams to Ura, no run",,,1
-21,24,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,3.6,no run,16,0,16/1,"Williams to Ura, no run",,,1
-22,25,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,4.1,no run,16,0,16/1,"Holder to Vala, no run",,,1
-23,26,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,4.2,no run,16,0,16/1,"Holder to Vala, no run",,,1
-24,28,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,4.4,no run,16,0,16/1,"Holder to Vala, no run",,,1
-25,29,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,4.5,no run,16,0,16/1,"Holder to Vala, no run",,,1
-26,30,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, 1 run ",1st innings,4.6,run,17,1,17/1,"Holder to Vala, 1 run",,,1
-27,31,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 2 runs ",1st innings,5.1,run,19,2,19/1,"Williams to Vala, 2 runs",,,1
-28,32,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,5.2,no run,19,0,19/1,"Williams to Vala, no run",,,1
-29,33,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,5.3,run,20,1,20/1,"Williams to Vala, 1 run",,,1
-30,34,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 2 runs ",1st innings,5.4,run,22,2,22/1,"Williams to Ura, 2 runs",,,1
-31,35,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,5.5,run,23,1,23/1,"Williams to Ura, 1 run",,,1
-32,36,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,5.6,no run,23,0,23/1,"Williams to Vala, no run",,,1
-33,37,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,6.1,no run,23,0,23/1,"Holder to Ura, no run",,,1
-34,38,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, FOUR runs ",1st innings,6.2,four,27,4,27/1,"Holder to Ura, FOUR runs",,,1
-35,39,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,6.3,no run,27,0,27/1,"Holder to Ura, no run",,,1
-36,40,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,6.4,no run,27,0,27/1,"Holder to Ura, no run",,,1
-37,40,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, (no ball) 1 run ",1st innings,6.4,run,29,2,29/1,"Holder to Ura, (no ball) 1 run",,,1
-38,41,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, FOUR runs ",1st innings,6.5,four,33,4,33/1,"Holder to Vala, FOUR runs",,,1
-39,42,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,6.6,no run,33,0,33/1,"Holder to Vala, no run",,,1
-40,43,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,7.1,no run,33,0,33/1,"Williams to Ura, no run",,,1
-41,44,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,7.2,no run,33,0,33/1,"Williams to Ura, no run",,,1
-42,45,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 leg bye ",1st innings,7.3,leg bye,34,1,34/1,"Williams to Ura, 1 leg bye",,,1
-43,46,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, FOUR runs ",1st innings,7.4,four,38,4,38/1,"Williams to Vala, FOUR runs",,,1
-44,47,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 2 runs ",1st innings,7.5,run,40,2,40/1,"Williams to Vala, 2 runs",,,1
-45,48,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,7.6,no run,40,0,40/1,"Williams to Vala, no run",,,1
-46,49,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,8.1,no run,40,0,40/1,"Nurse to Ura, no run",,,1
-47,50,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, SIX runs ",1st innings,8.2,six,46,6,46/1,"Nurse to Ura, SIX runs",,,1
-48,51,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,8.3,no run,46,0,46/1,"Nurse to Ura, no run",,,1
-49,52,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,8.4,no run,46,0,46/1,"Nurse to Ura, no run",,,1
-50,53,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, SIX runs ",1st innings,8.5,six,52,6,52/1,"Nurse to Ura, SIX runs",,,1
-51,54,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, 1 run ",1st innings,8.6,run,53,1,53/1,"Nurse to Ura, 1 run",,,1
-52,55,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,9.1,no run,53,0,53/1,"Williams to Ura, no run",,,1
-53,56,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,9.2,no run,53,0,53/1,"Williams to Ura, no run",,,1
-54,56,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 wide ",1st innings,9.2,wide,54,1,54/1,"Williams to Ura, 1 wide",,,1
-55,57,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,9.3,run,55,1,55/1,"Williams to Ura, 1 run",,,1
-56,58,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,9.4,no run,55,0,55/1,"Williams to Vala, no run",,,1
-57,59,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,9.5,no run,55,0,55/1,"Williams to Vala, no run",,,1
-58,59,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 wide ",1st innings,9.5,wide,60,1,60/1,"Williams to Vala, 1 wide",,,1
-59,61,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, no run ",1st innings,10.1,no run,60,0,60/1,"Brathwaite to Ura, no run",,,1
-60,62,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, no run ",1st innings,10.2,no run,60,0,60/1,"Brathwaite to Ura, no run",,,1
-61,63,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, 1 run ",1st innings,10.3,run,61,1,61/1,"Brathwaite to Ura, 1 run",,,1
-62,64,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,10.4,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
-63,65,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,10.5,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
-64,66,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,10.6,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
-65,67,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,11.1,no run,61,0,61/1,"Nurse to Ura, no run",,,1
-66,68,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,11.2,no run,61,0,61/1,"Nurse to Ura, no run",,,1
-67,69,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, 2 runs ",1st innings,11.3,run,63,2,63/1,"Nurse to Ura, 2 runs",,,1
-68,70,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,11.4,no run,63,0,63/1,"Nurse to Ura, no run",,,1
-69,71,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,11.5,no run,63,0,63/1,"Nurse to Ura, no run",,,1
-70,72,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, OUT ",1st innings,11.6,out,63,0,63/2,"Nurse to Ura, OUT",,,2
-71,73,Lega Siaka,440990,Carlos Brathwaite,457249,"Brathwaite to Siaka, OUT ",1st innings,12.1,out,63,0,63/3,"Brathwaite to Siaka, OUT",,,3
-72,74,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,12.2,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
-73,75,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,12.3,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
-74,76,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,12.4,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
-75,77,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,12.5,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
-76,78,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,12.6,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
-77,79,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,13.1,no run,63,0,63/3,"Nurse to Vala, no run",,,3
-78,80,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 2 runs ",1st innings,13.2,run,65,2,65/3,"Nurse to Vala, 2 runs",,,3
-79,81,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,13.3,run,66,1,66/3,"Nurse to Vala, 1 run",,,3
-80,82,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,13.4,no run,66,0,66/3,"Nurse to Bau, no run",,,3
-81,83,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,13.5,no run,66,0,66/3,"Nurse to Bau, no run",,,3
-82,84,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,13.6,no run,66,0,66/3,"Nurse to Bau, no run",,,3
-83,85,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,14.1,no run,66,0,66/3,"Brathwaite to Vala, no run",,,3
-84,86,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 3 runs ",1st innings,14.2,run,69,3,69/3,"Brathwaite to Vala, 3 runs",,,3
-85,87,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,14.3,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
-86,88,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,14.4,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
-87,89,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,14.5,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
-88,89,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 1 wide ",1st innings,14.5,wide,70,1,70/3,"Brathwaite to Bau, 1 wide",,,3
-89,90,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,14.6,no run,70,0,70/3,"Brathwaite to Bau, no run",,,3
-90,91,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,15.1,run,71,1,71/3,"Nurse to Vala, 1 run",,,3
-91,92,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,15.2,no run,71,0,71/3,"Nurse to Bau, no run",,,3
-92,93,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,15.3,no run,71,0,71/3,"Nurse to Bau, no run",,,3
-93,94,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,15.4,no run,71,0,71/3,"Nurse to Bau, no run",,,3
-94,95,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,15.5,no run,71,0,71/3,"Nurse to Bau, no run",,,3
-95,96,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, 1 run ",1st innings,15.6,run,72,1,72/3,"Nurse to Bau, 1 run",,,3
-96,97,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 2 runs ",1st innings,16.1,run,74,2,74/3,"Brathwaite to Bau, 2 runs",,,3
-97,98,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,16.2,no run,74,0,74/3,"Brathwaite to Bau, no run",,,3
-98,100,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 2 runs ",1st innings,16.4,run,76,2,76/3,"Brathwaite to Bau, 2 runs",,,3
-99,101,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,16.5,no run,76,0,76/3,"Brathwaite to Bau, no run",,,3
-100,102,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,16.6,no run,76,0,76/3,"Brathwaite to Bau, no run",,,3
-101,103,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,17.1,no run,76,0,76/3,"Nurse to Vala, no run",,,3
-102,104,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,17.2,no run,76,0,76/3,"Nurse to Vala, no run",,,3
-103,105,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,17.3,no run,76,0,76/3,"Nurse to Vala, no run",,,3
-104,106,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,17.4,run,77,1,77/3,"Nurse to Vala, 1 run",,,3
-105,107,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,17.5,no run,77,0,77/3,"Nurse to Bau, no run",,,3
-106,108,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, FOUR runs ",1st innings,17.6,four,81,4,81/3,"Nurse to Bau, FOUR runs",,,3
-107,109,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,18.1,no run,81,0,81/3,"Brathwaite to Vala, no run",,,3
-108,110,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,18.2,no run,81,0,81/3,"Brathwaite to Vala, no run",,,3
-109,111,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 1 run ",1st innings,18.3,run,82,1,82/3,"Brathwaite to Vala, 1 run",,,3
-110,112,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,18.4,no run,82,0,82/3,"Brathwaite to Bau, no run",,,3
-111,113,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,18.5,no run,82,0,82/3,"Brathwaite to Bau, no run",,,3
-112,114,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, OUT ",1st innings,18.6,out,82,0,82/4,"Brathwaite to Bau, OUT",,,4
-113,115,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,19.1,run,83,1,83/4,"Nurse to Vala, 1 run",,,4
-114,116,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, no run ",1st innings,19.2,no run,83,0,83/4,"Nurse to Dai, no run",,,4
-115,117,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, no run ",1st innings,19.3,no run,83,0,83/4,"Nurse to Dai, no run",,,4
-116,118,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, 1 run ",1st innings,19.4,run,84,1,84/4,"Nurse to Dai, 1 run",,,4
-117,119,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, FOUR runs ",1st innings,19.5,four,88,4,88/4,"Nurse to Vala, FOUR runs",,,4
-118,120,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 leg bye ",1st innings,19.6,leg bye,89,1,89/4,"Nurse to Vala, 1 leg bye",,,4
-119,121,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,20.1,no run,89,0,89/4,"Brathwaite to Vala, no run",,,4
-120,122,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,20.2,no run,89,0,89/4,"Brathwaite to Vala, no run",,,4
-121,123,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 1 leg bye ",1st innings,20.3,leg bye,90,1,90/4,"Brathwaite to Vala, 1 leg bye",,,4
-122,124,Mahuru Dai,25051,Carlos Brathwaite,457249,"Brathwaite to Dai, 1 run ",1st innings,20.4,run,91,1,91/4,"Brathwaite to Dai, 1 run",,,4
-123,125,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,20.5,no run,91,0,91/4,"Brathwaite to Vala, no run",,,4
-124,126,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,20.6,no run,91,0,91/4,"Brathwaite to Vala, no run",,,4
-125,127,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,21.1,no run,91,0,91/4,"Samuels to Dai, no run",,,4
-126,128,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,21.2,run,92,1,92/4,"Samuels to Dai, 1 run",,,4
-127,129,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,21.3,no run,92,0,92/4,"Samuels to Vala, no run",,,4
-128,130,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,21.4,no run,92,0,92/4,"Samuels to Vala, no run",,,4
-129,131,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,21.5,no run,92,0,92/4,"Samuels to Vala, no run",,,4
-130,132,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,21.6,no run,92,0,92/4,"Samuels to Vala, no run",,,4
-131,133,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,22.1,no run,92,0,92/4,"Holder to Dai, no run",,,4
-132,134,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,22.2,no run,92,0,92/4,"Holder to Dai, no run",,,4
-133,135,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, 1 run ",1st innings,22.3,run,93,1,93/4,"Holder to Dai, 1 run",,,4
-134,136,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,22.4,no run,93,0,93/4,"Holder to Vala, no run",,,4
-135,137,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, FOUR runs ",1st innings,22.5,four,97,4,97/4,"Holder to Vala, FOUR runs",,,4
-136,138,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,22.6,no run,97,0,97/4,"Holder to Vala, no run",,,4
-137,139,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,23.1,run,98,1,98/4,"Samuels to Dai, 1 run",,,4
-138,140,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,23.2,run,99,1,99/4,"Samuels to Vala, 1 run",,,4
-139,141,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,23.3,run,100,1,100/4,"Samuels to Dai, 1 run",,,4
-140,142,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,23.4,no run,100,0,100/4,"Samuels to Vala, no run",,,4
-141,143,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,23.5,no run,100,0,100/4,"Samuels to Vala, no run",,,4
-142,144,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,23.6,no run,100,0,100/4,"Samuels to Vala, no run",,,4
-143,145,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,24.1,no run,100,0,100/4,"Holder to Dai, no run",,,4
-144,146,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,24.2,no run,100,0,100/4,"Holder to Dai, no run",,,4
-145,147,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, 1 run ",1st innings,24.3,run,101,1,101/4,"Holder to Dai, 1 run",,,4
-146,148,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,24.4,no run,101,0,101/4,"Holder to Vala, no run",,,4
-147,149,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,24.5,no run,101,0,101/4,"Holder to Vala, no run",,,4
-148,150,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,24.6,no run,101,0,101/4,"Holder to Vala, no run",,,4
-149,151,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 2 runs ",1st innings,25.1,run,103,2,103/4,"Samuels to Dai, 2 runs",,,4
-150,152,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,25.2,run,104,1,104/4,"Samuels to Dai, 1 run",,,4
-151,153,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,25.3,no run,104,0,104/4,"Samuels to Vala, no run",,,4
-152,154,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,25.4,no run,104,0,104/4,"Samuels to Vala, no run",,,4
-153,156,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,25.6,run,105,1,105/4,"Samuels to Vala, 1 run",,,4
-154,157,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,26.1,run,106,1,106/4,"Miller to Vala, 1 run",,,4
-155,158,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 1 run ",1st innings,26.2,run,107,1,107/4,"Miller to Dai, 1 run",,,4
-156,159,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 2 runs ",1st innings,26.3,run,109,2,109/4,"Miller to Vala, 2 runs",,,4
-157,160,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,26.4,run,110,1,110/4,"Miller to Vala, 1 run",,,4
-158,161,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,26.5,no run,110,0,110/4,"Miller to Dai, no run",,,4
-159,161,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 3 wides ",1st innings,26.5,wide,113,3,113/4,"Miller to Dai, 3 wides",,,4
-160,162,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,26.6,no run,113,0,113/4,"Miller to Dai, no run",,,4
-161,163,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,27.1,run,114,1,114/4,"Samuels to Vala, 1 run",,,4
-162,164,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,27.2,run,115,1,115/4,"Samuels to Dai, 1 run",,,4
-163,165,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,27.3,no run,115,0,115/4,"Samuels to Vala, no run",,,4
-164,166,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,27.4,run,116,1,116/4,"Samuels to Vala, 1 run",,,4
-165,167,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 2 runs ",1st innings,27.5,run,118,2,118/4,"Samuels to Dai, 2 runs",,,4
-166,168,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,27.6,run,119,1,119/4,"Samuels to Dai, 1 run",,,4
-167,169,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 1 run ",1st innings,28.1,run,120,1,120/4,"Miller to Dai, 1 run",,,4
-168,170,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, no run ",1st innings,28.2,no run,120,0,120/4,"Miller to Vala, no run",,,4
-169,171,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,28.3,run,121,1,121/4,"Miller to Vala, 1 run",,,4
-170,172,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,28.4,no run,121,0,121/4,"Miller to Dai, no run",,,4
-171,173,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,28.5,no run,121,0,121/4,"Miller to Dai, no run",,,4
-172,174,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,28.6,no run,121,0,121/4,"Miller to Dai, no run",,,4
-173,175,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,29.1,run,122,1,122/4,"Samuels to Vala, 1 run",,,4
-174,176,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,29.2,no run,122,0,122/4,"Samuels to Dai, no run",,,4
-175,177,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,29.3,no run,122,0,122/4,"Samuels to Dai, no run",,,4
-176,178,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, FOUR runs ",1st innings,29.4,four,126,4,126/4,"Samuels to Dai, FOUR runs",,,4
-177,179,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,29.5,no run,126,0,126/4,"Samuels to Dai, no run",,,4
-178,180,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,29.6,no run,126,0,126/4,"Samuels to Dai, no run",,,4
-179,181,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,30.1,no run,126,0,126/4,"Williams to Vala, no run",,,4
-180,182,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, FOUR runs ",1st innings,30.2,four,130,4,130/4,"Williams to Vala, FOUR runs",,,4
-181,183,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,30.3,no run,130,0,130/4,"Williams to Vala, no run",,,4
-182,184,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,30.4,no run,130,0,130/4,"Williams to Vala, no run",,,4
-183,185,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,30.5,no run,130,0,130/4,"Williams to Vala, no run",,,4
-184,186,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,30.6,run,131,1,131/4,"Williams to Vala, 1 run",,,4
-185,187,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,31.1,run,132,1,132/4,"Miller to Vala, 1 run",,,4
-186,188,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 2 runs ",1st innings,31.2,run,134,2,134/4,"Miller to Dai, 2 runs",,,4
-187,189,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 2 runs ",1st innings,31.3,run,136,2,136/4,"Miller to Dai, 2 runs",,,4
-188,190,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,31.4,no run,136,0,136/4,"Miller to Dai, no run",,,4
-189,191,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,31.5,no run,136,0,136/4,"Miller to Dai, no run",,,4
-190,193,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,32.1,run,137,1,137/4,"Williams to Vala, 1 run",,,4
-191,194,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, 2 runs ",1st innings,32.2,run,139,2,139/4,"Williams to Dai, 2 runs",,,4
-192,195,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, FOUR runs ",1st innings,32.3,four,143,4,143/4,"Williams to Dai, FOUR runs",,,4
-193,196,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, no run ",1st innings,32.4,no run,143,0,143/4,"Williams to Dai, no run",,,4
-194,196,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, (no ball) 1 run ",1st innings,32.4,run,145,2,145/4,"Williams to Dai, (no ball) 1 run",,,4
-195,197,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,32.5,run,146,1,146/4,"Williams to Vala, 1 run",,,4
-196,198,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, FOUR runs ",1st innings,32.6,four,150,4,150/4,"Williams to Dai, FOUR runs",,,4
-197,199,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, no run ",1st innings,33.1,no run,150,0,150/4,"Miller to Vala, no run",,,4
-198,200,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,33.2,run,151,1,151/4,"Miller to Vala, 1 run",,,4
-199,201,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,33.3,no run,151,0,151/4,"Miller to Dai, no run",,,4
-200,202,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, OUT ",1st innings,33.4,out,151,0,151/5,"Miller to Dai, OUT",,,5
-201,203,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, no run ",1st innings,33.5,no run,151,0,151/5,"Miller to Amini, no run",,,5
-202,204,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, 1 run ",1st innings,33.6,run,152,1,152/5,"Miller to Amini, 1 run",,,5
-203,205,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,34.1,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
-204,206,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,34.2,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
-205,207,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,34.3,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
-206,208,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,34.4,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
-207,210,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,34.6,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
-208,211,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,35.1,run,153,1,153/5,"Miller to Vala, 1 run",,,5
-209,212,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, FOUR runs ",1st innings,35.2,four,157,4,157/5,"Miller to Amini, FOUR runs",,,5
-210,213,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, no run ",1st innings,35.3,no run,157,0,157/5,"Miller to Amini, no run",,,5
-211,214,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, 1 run ",1st innings,35.4,run,158,1,158/5,"Miller to Amini, 1 run",,,5
-212,216,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,35.6,run,159,1,159/5,"Miller to Vala, 1 run",,,5
-213,217,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, OUT ",1st innings,36.1,out,159,0,159/6,"Brathwaite to Vala, OUT",,,6
-214,218,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, 1 run ",1st innings,36.2,run,160,1,160/6,"Brathwaite to Vare, 1 run",,,6
-215,219,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,36.3,no run,160,0,160/6,"Brathwaite to Amini, no run",,,6
-216,220,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,36.4,no run,160,0,160/6,"Brathwaite to Amini, no run",,,6
-217,221,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, 1 run ",1st innings,36.5,run,161,1,161/6,"Brathwaite to Amini, 1 run",,,6
-218,222,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, no run ",1st innings,36.6,no run,161,0,161/6,"Brathwaite to Vare, no run",,,6
-219,223,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, OUT ",1st innings,37.1,out,161,0,161/7,"Miller to Amini, OUT",,,7
-220,224,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,37.2,no run,161,0,161/7,"Miller to Soper, no run",,,7
-221,225,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,37.3,no run,161,0,161/7,"Miller to Soper, no run",,,7
-222,226,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,37.4,no run,161,0,161/7,"Miller to Soper, no run",,,7
-223,227,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, 1 run ",1st innings,37.5,run,162,1,162/7,"Miller to Soper, 1 run",,,7
-224,228,Jack Vare,25065,Nikita Miller,52622,"Miller to Vare, no run ",1st innings,37.6,no run,162,0,162/7,"Miller to Vare, no run",,,7
-225,229,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,38.1,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
-226,230,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,38.2,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
-227,231,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,38.3,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
-228,232,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, OUT ",1st innings,38.4,out,162,0,162/8,"Brathwaite to Soper, OUT",,,8
-229,233,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, 1 run ",1st innings,38.5,run,163,1,163/8,"Brathwaite to Vanua, 1 run",,,8
-230,234,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, OUT ",1st innings,38.6,out,163,0,163/9,"Brathwaite to Vare, OUT",,,9
-231,235,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 2 runs ",1st innings,39.1,run,165,2,165/9,"Holder to Vanua, 2 runs",,,9
-232,236,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,39.2,no run,165,0,165/9,"Holder to Vanua, no run",,,9
-233,237,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,39.3,run,166,1,166/9,"Holder to Vanua, 1 run",,,9
-234,237,Alei Nao,524247,Jason Holder,391485,"Holder to Nao, 1 wide ",1st innings,39.3,wide,167,1,167/9,"Holder to Nao, 1 wide",,,9
-235,238,Alei Nao,524247,Jason Holder,391485,"Holder to Nao, 1 run ",1st innings,39.4,run,168,1,168/9,"Holder to Nao, 1 run",,,9
-236,239,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, FOUR runs ",1st innings,39.5,four,172,4,172/9,"Holder to Vanua, FOUR runs",,,9
-237,240,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,39.6,run,173,1,173/9,"Holder to Vanua, 1 run",,,9
-238,241,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, SIX runs ",1st innings,40.1,six,179,6,179/9,"Brathwaite to Vanua, SIX runs",,,9
-239,242,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,40.2,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
-240,243,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,40.3,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
-241,244,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,40.4,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
-242,245,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, SIX runs ",1st innings,40.5,six,185,6,185/9,"Brathwaite to Vanua, SIX runs",,,9
-243,246,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, 1 run ",1st innings,40.6,run,186,1,186/9,"Brathwaite to Vanua, 1 run",,,9
-244,247,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,41.1,no run,186,0,186/9,"Holder to Vanua, no run",,,9
-245,248,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,41.2,no run,186,0,186/9,"Holder to Vanua, no run",,,9
-246,249,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, SIX runs ",1st innings,41.3,six,192,6,192/9,"Holder to Vanua, SIX runs",,,9
-247,250,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, FOUR runs ",1st innings,41.4,four,196,4,196/9,"Holder to Vanua, FOUR runs",,,9
-248,251,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 2 runs ",1st innings,41.5,run,198,2,198/9,"Holder to Vanua, 2 runs",,,9
-249,252,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,41.6,run,199,1,199/9,"Holder to Vanua, 1 run",,,9
-250,253,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,42.1,no run,199,0,199/9,"Williams to Vanua, no run",,,9
-251,253,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, 1 wide ",1st innings,42.1,wide,200,1,200/9,"Williams to Vanua, 1 wide",,,9
-252,254,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,42.2,no run,200,0,200/9,"Williams to Vanua, no run",,,9
-253,255,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,42.3,no run,200,0,200/9,"Williams to Vanua, no run",,,9
-254,256,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, OUT ",1st innings,42.4,out,200,0,200/9,"Williams to Vanua, OUT",,,9
-255,1,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,0.1,no run,0,0,0/0,"Vanua to Lewis, no run",,,0
-256,2,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, 2 runs ",2nd innings,0.2,run,2,2,2/0,"Vanua to Lewis, 2 runs",,,0
-257,3,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,0.3,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
-258,4,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,0.4,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
-259,5,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,0.5,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
-260,6,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, SIX runs ",2nd innings,0.6,six,8,6,8/0,"Vanua to Lewis, SIX runs",,,0
-261,7,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,1.1,no run,8,0,8/0,"Dai to Hetmyer, no run",,,0
-262,8,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, FOUR runs ",2nd innings,1.2,four,12,4,12/0,"Dai to Hetmyer, FOUR runs",,,0
-263,9,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,1.3,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
-264,10,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,1.4,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
-265,11,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,1.5,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
-266,12,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, 2 runs, OUT ",2nd innings,1.6,run,14,2,14/1,"Dai to Hetmyer, 2 runs, OUT",,,1
-267,13,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,2.1,no run,14,0,14/1,"Vanua to Hetmyer, no run",,,1
-268,14,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, 2 runs ",2nd innings,2.2,run,16,2,16/1,"Vanua to Hetmyer, 2 runs",,,1
-269,15,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,2.3,no run,16,0,16/1,"Vanua to Hetmyer, no run",,,1
-270,16,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,2.4,no run,16,0,16/1,"Vanua to Hetmyer, no run",,,1
-271,18,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, OUT ",2nd innings,2.6,out,16,0,16/2,"Vanua to Hetmyer, OUT",,,2
-272,19,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,3.1,no run,16,0,16/2,"Dai to Hope, no run",,,2
-273,20,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,3.2,no run,16,0,16/2,"Dai to Hope, no run",,,2
-274,21,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,3.3,no run,16,0,16/2,"Dai to Hope, no run",,,2
-275,23,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,3.5,no run,16,0,16/2,"Dai to Hope, no run",,,2
-276,24,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,3.6,run,19,1,19/2,"Dai to Hope, 1 run",,,2
-277,25,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,4.1,no run,19,0,19/2,"Vanua to Hope, no run",,,2
-278,26,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,4.2,no run,19,0,19/2,"Vanua to Hope, no run",,,2
-279,27,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,4.3,no run,19,0,19/2,"Vanua to Hope, no run",,,2
-280,28,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,4.4,run,20,1,20/2,"Vanua to Hope, 1 run",,,2
-281,29,Marlon Samuels,52983,Norman Vanua,524253,"Vanua to Samuels, no run ",2nd innings,4.5,no run,20,0,20/2,"Vanua to Samuels, no run",,,2
-282,31,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,5.1,no run,20,0,20/2,"Dai to Hope, no run",,,2
-283,32,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,5.2,run,21,1,21/2,"Dai to Hope, 1 run",,,2
-284,33,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,5.3,no run,21,0,21/2,"Dai to Samuels, no run",,,2
-285,34,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, 1 run ",2nd innings,5.4,run,22,1,22/2,"Dai to Samuels, 1 run",,,2
-286,35,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,5.5,run,23,1,23/2,"Dai to Hope, 1 run",,,2
-287,36,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,5.6,no run,23,0,23/2,"Dai to Samuels, no run",,,2
-288,36,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 wide ",2nd innings,6.0,wide,24,1,24/2,"Vanua to Hope, 1 wide",,,2
-289,37,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, FOUR runs ",2nd innings,6.1,four,28,4,28/2,"Vanua to Hope, FOUR runs",,,2
-290,38,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,6.2,no run,28,0,28/2,"Vanua to Hope, no run",,,2
-291,39,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,6.3,no run,28,0,28/2,"Vanua to Hope, no run",,,2
-292,40,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,6.4,no run,28,0,28/2,"Vanua to Hope, no run",,,2
-293,41,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,6.5,no run,28,0,28/2,"Vanua to Hope, no run",,,2
-294,42,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,6.6,no run,28,0,28/2,"Vanua to Hope, no run",,,2
-295,43,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,7.1,no run,28,0,28/2,"Dai to Samuels, no run",,,2
-296,45,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,7.3,no run,28,0,28/2,"Dai to Hope, no run",,,2
-297,46,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,7.4,no run,28,0,28/2,"Dai to Hope, no run",,,2
-298,47,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,7.5,no run,28,0,28/2,"Dai to Hope, no run",,,2
-299,48,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,7.6,run,30,1,30/2,"Dai to Hope, 1 run",,,2
-300,49,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, 1 run ",2nd innings,8.1,run,31,1,31/2,"Nao to Hope, 1 run",,,2
-301,50,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,8.2,no run,31,0,31/2,"Nao to Samuels, no run",,,2
-302,51,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,8.3,no run,31,0,31/2,"Nao to Samuels, no run",,,2
-303,52,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, FOUR runs ",2nd innings,8.4,four,35,4,35/2,"Nao to Samuels, FOUR runs",,,2
-304,53,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, 1 run ",2nd innings,8.5,run,36,1,36/2,"Nao to Samuels, 1 run",,,2
-305,54,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,8.6,no run,36,0,36/2,"Nao to Hope, no run",,,2
-306,55,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,9.1,no run,36,0,36/2,"Dai to Samuels, no run",,,2
-307,56,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, FOUR runs ",2nd innings,9.2,four,40,4,40/2,"Dai to Samuels, FOUR runs",,,2
-308,57,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,9.3,no run,40,0,40/2,"Dai to Samuels, no run",,,2
-309,58,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, SIX runs ",2nd innings,9.4,six,46,6,46/2,"Dai to Samuels, SIX runs",,,2
-310,59,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, 1 run ",2nd innings,9.5,run,47,1,47/2,"Dai to Samuels, 1 run",,,2
-311,60,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,9.6,no run,47,0,47/2,"Dai to Hope, no run",,,2
-312,61,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,10.1,no run,47,0,47/2,"Nao to Samuels, no run",,,2
-313,62,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, 2 runs ",2nd innings,10.2,run,49,2,49/2,"Nao to Samuels, 2 runs",,,2
-314,63,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,10.3,no run,49,0,49/2,"Nao to Samuels, no run",,,2
-315,64,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, FOUR runs ",2nd innings,10.4,four,53,4,53/2,"Nao to Samuels, FOUR runs",,,2
-316,65,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, OUT ",2nd innings,10.5,out,53,0,53/3,"Nao to Samuels, OUT",,,3
-317,66,Jason Mohammed,230549,Alei Nao,524247,"Nao to Mohammed, no run ",2nd innings,10.6,no run,53,0,53/3,"Nao to Mohammed, no run",,,3
-318,67,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, FOUR runs ",2nd innings,11.1,four,57,4,57/3,"Amini to Hope, FOUR runs",,,3
-319,68,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,11.2,run,58,1,58/3,"Amini to Hope, 1 run",,,3
-320,69,Jason Mohammed,230549,Charles Amini,332980,"Amini to Mohammed, no run ",2nd innings,11.3,no run,58,0,58/3,"Amini to Mohammed, no run",,,3
-321,70,Jason Mohammed,230549,Charles Amini,332980,"Amini to Mohammed, OUT ",2nd innings,11.4,out,58,0,58/4,"Amini to Mohammed, OUT",,,4
-322,71,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,11.5,no run,58,0,58/4,"Amini to Holder, no run",,,4
-323,73,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,12.1,no run,58,0,58/4,"Nao to Hope, no run",,,4
-324,75,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,12.3,no run,58,0,58/4,"Nao to Hope, no run",,,4
-325,76,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,12.4,no run,58,0,58/4,"Nao to Hope, no run",,,4
-326,77,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,12.5,no run,58,0,58/4,"Nao to Hope, no run",,,4
-327,79,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,13.1,no run,58,0,58/4,"Amini to Holder, no run",,,4
-328,80,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,13.2,four,62,4,62/4,"Amini to Holder, FOUR runs",,,4
-329,81,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,13.3,four,66,4,66/4,"Amini to Holder, FOUR runs",,,4
-330,82,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,13.4,no run,66,0,66/4,"Amini to Holder, no run",,,4
-331,83,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,13.5,no run,66,0,66/4,"Amini to Holder, no run",,,4
-332,84,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,13.6,run,67,1,67/4,"Amini to Holder, 1 run",,,4
-333,85,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,14.1,run,68,1,68/4,"Nao to Holder, 1 run",,,4
-334,86,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,14.2,no run,68,0,68/4,"Nao to Hope, no run",,,4
-335,87,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,14.3,no run,68,0,68/4,"Nao to Hope, no run",,,4
-336,88,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,14.4,no run,68,0,68/4,"Nao to Hope, no run",,,4
-337,89,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,14.5,no run,68,0,68/4,"Nao to Hope, no run",,,4
-338,90,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,14.6,no run,68,0,68/4,"Nao to Hope, no run",,,4
-339,91,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,15.1,run,69,1,69/4,"Vanua to Holder, 1 run",,,4
-340,92,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,15.2,no run,69,0,69/4,"Vanua to Hope, no run",,,4
-341,93,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,15.3,no run,69,0,69/4,"Vanua to Hope, no run",,,4
-342,94,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,15.4,no run,69,0,69/4,"Vanua to Hope, no run",,,4
-343,95,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,15.5,run,70,1,70/4,"Vanua to Hope, 1 run",,,4
-344,96,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,15.6,no run,70,0,70/4,"Vanua to Holder, no run",,,4
-345,97,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, 1 run ",2nd innings,16.1,run,71,1,71/4,"Nao to Hope, 1 run",,,4
-346,98,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,16.2,no run,71,0,71/4,"Nao to Holder, no run",,,4
-347,99,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,16.3,no run,71,0,71/4,"Nao to Holder, no run",,,4
-348,100,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,16.4,no run,71,0,71/4,"Nao to Holder, no run",,,4
-349,101,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,16.5,run,72,1,72/4,"Nao to Holder, 1 run",,,4
-350,102,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,16.6,no run,72,0,72/4,"Nao to Hope, no run",,,4
-351,103,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,17.1,no run,72,0,72/4,"Vanua to Holder, no run",,,4
-352,104,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,17.2,no run,72,0,72/4,"Vanua to Holder, no run",,,4
-353,105,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,17.3,no run,72,0,72/4,"Vanua to Holder, no run",,,4
-354,106,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, FOUR runs ",2nd innings,17.4,four,76,4,76/4,"Vanua to Holder, FOUR runs",,,4
-355,107,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,17.5,run,77,1,77/4,"Vanua to Holder, 1 run",,,4
-356,108,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,17.6,no run,77,0,77/4,"Vanua to Hope, no run",,,4
-357,109,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,18.1,run,78,1,78/4,"Soper to Holder, 1 run",,,4
-358,110,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,18.2,run,79,1,79/4,"Soper to Hope, 1 run",,,4
-359,111,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,18.3,six,85,6,85/4,"Soper to Holder, SIX runs",,,4
-360,112,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,18.4,no run,85,0,85/4,"Soper to Holder, no run",,,4
-361,113,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,18.5,run,86,1,86/4,"Soper to Holder, 1 run",,,4
-362,114,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,18.6,run,87,1,87/4,"Soper to Hope, 1 run",,,4
-363,115,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,19.1,no run,87,0,87/4,"Vala to Hope, no run",,,4
-364,116,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,19.2,no run,87,0,87/4,"Vala to Hope, no run",,,4
-365,117,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,19.3,no run,87,0,87/4,"Vala to Hope, no run",,,4
-366,118,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, 1 run ",2nd innings,19.4,run,88,1,88/4,"Vala to Hope, 1 run",,,4
-367,119,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,19.5,no run,88,0,88/4,"Vala to Holder, no run",,,4
-368,120,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,19.6,no run,88,0,88/4,"Vala to Holder, no run",,,4
-369,121,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.1,no run,88,0,88/4,"Soper to Hope, no run",,,4
-370,122,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.2,no run,88,0,88/4,"Soper to Hope, no run",,,4
-371,123,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.3,no run,88,0,88/4,"Soper to Hope, no run",,,4
-372,124,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.4,no run,88,0,88/4,"Soper to Hope, no run",,,4
-373,125,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.5,no run,88,0,88/4,"Soper to Hope, no run",,,4
-374,126,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,20.6,no run,88,0,88/4,"Soper to Hope, no run",,,4
-375,127,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,21.1,no run,88,0,88/4,"Vala to Holder, no run",,,4
-376,128,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,21.2,no run,88,0,88/4,"Vala to Holder, no run",,,4
-377,129,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,21.3,no run,88,0,88/4,"Vala to Holder, no run",,,4
-378,130,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, FOUR runs ",2nd innings,21.4,four,92,4,92/4,"Vala to Holder, FOUR runs",,,4
-379,131,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,21.5,no run,92,0,92/4,"Vala to Holder, no run",,,4
-380,132,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, 1 run ",2nd innings,21.6,run,93,1,93/4,"Vala to Holder, 1 run",,,4
-381,133,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,22.1,no run,93,0,93/4,"Soper to Holder, no run",,,4
-382,134,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,22.2,no run,93,0,93/4,"Soper to Holder, no run",,,4
-383,135,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,22.3,run,94,1,94/4,"Soper to Holder, 1 run",,,4
-384,136,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,22.4,run,95,1,95/4,"Soper to Hope, 1 run",,,4
-385,137,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,22.5,no run,95,0,95/4,"Soper to Holder, no run",,,4
-386,138,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,22.6,no run,95,0,95/4,"Soper to Holder, no run",,,4
-387,139,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,23.1,run,96,1,96/4,"Amini to Hope, 1 run",,,4
-388,140,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,23.2,no run,96,0,96/4,"Amini to Holder, no run",,,4
-389,141,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,23.3,no run,96,0,96/4,"Amini to Holder, no run",,,4
-390,142,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,23.4,run,97,1,97/4,"Amini to Holder, 1 run",,,4
-391,143,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, FOUR runs ",2nd innings,23.5,four,101,4,101/4,"Amini to Hope, FOUR runs",,,4
-392,144,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,23.6,no run,101,0,101/4,"Amini to Hope, no run",,,4
-393,145,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,24.1,no run,101,0,101/4,"Soper to Holder, no run",,,4
-394,146,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,24.2,no run,101,0,101/4,"Soper to Holder, no run",,,4
-395,147,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,24.3,run,102,1,102/4,"Soper to Holder, 1 run",,,4
-396,148,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,24.4,run,103,1,103/4,"Soper to Hope, 1 run",,,4
-397,149,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,24.5,run,104,1,104/4,"Soper to Holder, 1 run",,,4
-398,150,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,24.6,no run,104,0,104/4,"Soper to Hope, no run",,,4
-399,151,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,25.1,no run,104,0,104/4,"Dai to Holder, no run",,,4
-400,152,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, 1 run ",2nd innings,25.2,run,105,1,105/4,"Dai to Holder, 1 run",,,4
-401,153,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,25.3,run,106,1,106/4,"Dai to Hope, 1 run",,,4
-402,153,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, 1 wide ",2nd innings,25.3,wide,107,1,107/4,"Dai to Holder, 1 wide",,,4
-403,154,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, FOUR runs ",2nd innings,25.4,four,111,4,111/4,"Dai to Holder, FOUR runs",,,4
-404,155,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,25.5,no run,111,0,111/4,"Dai to Holder, no run",,,4
-405,156,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,25.6,no run,111,0,111/4,"Dai to Holder, no run",,,4
-406,157,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,26.1,run,112,1,112/4,"Siaka to Hope, 1 run",,,4
-407,158,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,26.2,no run,112,0,112/4,"Siaka to Holder, no run",,,4
-408,159,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, FOUR runs ",2nd innings,26.3,four,116,4,116/4,"Siaka to Holder, FOUR runs",,,4
-409,160,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,26.4,no run,116,0,116/4,"Siaka to Holder, no run",,,4
-410,161,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,26.5,run,117,1,117/4,"Siaka to Holder, 1 run",,,4
-411,162,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,26.6,run,118,1,118/4,"Siaka to Hope, 1 run",,,4
-412,163,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,27.1,no run,118,0,118/4,"Amini to Hope, no run",,,4
-413,164,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,27.2,run,119,1,119/4,"Amini to Hope, 1 run",,,4
-414,165,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,27.3,no run,119,0,119/4,"Amini to Holder, no run",,,4
-415,166,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,27.4,no run,119,0,119/4,"Amini to Holder, no run",,,4
-416,167,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,27.5,no run,119,0,119/4,"Amini to Holder, no run",,,4
-417,168,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,27.6,no run,119,0,119/4,"Amini to Holder, no run",,,4
-418,169,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,28.1,no run,119,0,119/4,"Siaka to Hope, no run",,,4
-419,170,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,28.2,run,120,1,120/4,"Siaka to Hope, 1 run",,,4
-420,171,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,28.3,no run,120,0,120/4,"Siaka to Holder, no run",,,4
-421,172,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,28.4,run,121,1,121/4,"Siaka to Holder, 1 run",,,4
-422,173,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,28.5,run,122,1,122/4,"Siaka to Hope, 1 run",,,4
-423,174,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 2 runs ",2nd innings,28.6,run,124,2,124/4,"Siaka to Holder, 2 runs",,,4
-424,175,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,29.1,no run,124,0,124/4,"Amini to Hope, no run",,,4
-425,176,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,29.2,run,125,1,125/4,"Amini to Hope, 1 run",,,4
-426,177,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,29.3,run,126,1,126/4,"Amini to Holder, 1 run",,,4
-427,178,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,29.4,run,127,1,127/4,"Amini to Hope, 1 run",,,4
-428,179,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,29.5,no run,127,0,127/4,"Amini to Holder, no run",,,4
-429,180,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,29.6,no run,127,0,127/4,"Amini to Holder, no run",,,4
-430,181,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,30.1,no run,127,0,127/4,"Siaka to Hope, no run",,,4
-431,182,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,30.2,run,128,1,128/4,"Siaka to Hope, 1 run",,,4
-432,183,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,30.3,run,129,1,129/4,"Siaka to Holder, 1 run",,,4
-433,184,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,30.4,no run,129,0,129/4,"Siaka to Hope, no run",,,4
-434,185,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,30.5,run,130,1,130/4,"Siaka to Hope, 1 run",,,4
-435,186,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,30.6,no run,130,0,130/4,"Siaka to Holder, no run",,,4
-436,187,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,31.1,run,131,1,131/4,"Amini to Hope, 1 run",,,4
-437,188,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,31.2,run,132,1,132/4,"Amini to Holder, 1 run",,,4
-438,189,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,31.3,run,133,1,133/4,"Amini to Hope, 1 run",,,4
-439,190,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,31.4,run,134,1,134/4,"Amini to Holder, 1 run",,,4
-440,191,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,31.5,no run,134,0,134/4,"Amini to Hope, no run",,,4
-441,192,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,31.6,no run,134,0,134/4,"Amini to Hope, no run",,,4
-442,194,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,32.2,run,135,1,135/4,"Vanua to Holder, 1 run",,,4
-443,195,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,32.3,run,136,1,136/4,"Vanua to Hope, 1 run",,,4
-444,196,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 2 runs ",2nd innings,32.4,run,138,2,138/4,"Vanua to Holder, 2 runs",,,4
-445,197,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 leg bye ",2nd innings,32.5,leg bye,139,1,139/4,"Vanua to Holder, 1 leg bye",,,4
-446,198,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,32.6,no run,139,0,139/4,"Vanua to Hope, no run",,,4
-447,199,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,33.1,no run,139,0,139/4,"Amini to Holder, no run",,,4
-448,200,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,33.2,run,140,1,140/4,"Amini to Holder, 1 run",,,4
-449,201,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,33.3,no run,140,0,140/4,"Amini to Hope, no run",,,4
-450,202,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,33.4,no run,140,0,140/4,"Amini to Hope, no run",,,4
-451,203,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,33.5,no run,140,0,140/4,"Amini to Hope, no run",,,4
-452,204,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,33.6,run,141,1,141/4,"Amini to Hope, 1 run",,,4
-453,205,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,34.1,run,142,1,142/4,"Vanua to Hope, 1 run",,,4
-454,206,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,34.2,no run,142,0,142/4,"Vanua to Holder, no run",,,4
-455,208,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,34.4,no run,142,0,142/4,"Vanua to Hope, no run",,,4
-456,209,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,34.5,no run,142,0,142/4,"Vanua to Hope, no run",,,4
-457,210,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,34.6,no run,143,0,143/4,"Vanua to Hope, no run",,,4
-458,211,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,35.1,run,144,1,144/4,"Amini to Holder, 1 run",,,4
-459,212,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,35.2,run,145,1,145/4,"Amini to Hope, 1 run",,,4
-460,213,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,35.3,run,146,1,146/4,"Amini to Holder, 1 run",,,4
-461,214,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,35.4,run,147,1,147/4,"Amini to Hope, 1 run",,,4
-462,215,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,35.5,run,148,1,148/4,"Amini to Holder, 1 run",,,4
-463,216,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,35.6,no run,148,0,148/4,"Amini to Hope, no run",,,4
-464,217,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,36.1,six,154,6,154/4,"Soper to Holder, SIX runs",,,4
-465,218,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,36.2,run,155,1,155/4,"Soper to Holder, 1 run",,,4
-466,219,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,36.3,no run,155,0,155/4,"Soper to Hope, no run",,,4
-467,220,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,36.4,no run,155,0,155/4,"Soper to Hope, no run",,,4
-468,221,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,36.5,no run,155,0,155/4,"Soper to Hope, no run",,,4
-469,222,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,36.6,no run,155,0,155/4,"Soper to Hope, no run",,,4
-470,223,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,37.1,no run,155,0,155/4,"Amini to Holder, no run",,,4
-471,224,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,37.2,four,159,4,159/4,"Amini to Holder, FOUR runs",,,4
-472,225,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,37.3,no run,159,0,159/4,"Amini to Holder, no run",,,4
-473,226,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,37.4,no run,159,0,159/4,"Amini to Holder, no run",,,4
-474,227,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,37.5,run,160,1,160/4,"Amini to Holder, 1 run",,,4
-475,228,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,37.6,no run,160,0,160/4,"Amini to Hope, no run",,,4
-476,229,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,38.1,six,166,6,166/4,"Soper to Holder, SIX runs",,,4
-477,230,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, FOUR runs ",2nd innings,38.2,four,170,4,170/4,"Soper to Holder, FOUR runs",,,4
-478,231,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,38.3,run,171,1,171/4,"Soper to Holder, 1 run",,,4
-479,232,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,38.4,no run,171,0,171/4,"Soper to Hope, no run",,,4
-480,232,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 5 wides ",2nd innings,38.4,wide,176,5,176/4,"Soper to Hope, 5 wides",,,4
-481,233,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,38.5,run,177,1,177/4,"Soper to Hope, 1 run",,,4
-482,234,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,38.6,run,178,1,178/4,"Soper to Holder, 1 run",,,4
-483,235,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, SIX runs ",2nd innings,39.1,six,184,6,184/4,"Amini to Holder, SIX runs",,,4
-484,236,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,39.2,no run,184,0,184/4,"Amini to Holder, no run",,,4
-485,237,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,39.3,four,188,4,188/4,"Amini to Holder, FOUR runs",,,4
-486,238,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,39.4,run,189,1,189/4,"Amini to Holder, 1 run",,,4
-487,240,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,39.6,no run,189,0,189/4,"Amini to Hope, no run",,,4
-488,241,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,40.1,run,190,1,190/4,"Vanua to Holder, 1 run",,,4
-489,242,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,40.2,run,191,1,191/4,"Vanua to Hope, 1 run",,,4
-490,243,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,40.3,no run,191,0,191/4,"Vanua to Holder, no run",,,4
-491,245,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,40.5,no run,191,0,191/4,"Vanua to Holder, no run",,,4
-492,246,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,40.6,run,196,1,196/4,"Vanua to Holder, 1 run",,,4
-493,247,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,41.1,run,197,1,197/4,"Nao to Holder, 1 run",,,4
-494,248,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,41.2,no run,197,0,197/4,"Nao to Hope, no run",,,4
-495,249,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,41.3,no run,197,0,197/4,"Nao to Hope, no run",,,4
-496,250,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,41.4,no run,197,0,197/4,"Nao to Hope, no run",,,4
-497,251,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,41.5,no run,197,0,197/4,"Nao to Hope, no run",,,4
-498,252,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,41.6,no run,197,0,197/4,"Nao to Hope, no run",,,4
-499,253,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,42.1,run,198,1,198/4,"Vanua to Holder, 1 run",,,4
-500,254,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,42.2,no run,198,0,198/4,"Vanua to Hope, no run",,,4
-501,255,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,42.3,no run,198,0,198/4,"Vanua to Hope, no run",,,4
-502,255,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 wide ",2nd innings,42.3,wide,199,1,199/4,"Vanua to Hope, 1 wide",,,4
-503,256,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,42.4,no run,199,0,199/4,"Vanua to Hope, no run",,,4
-504,257,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,42.5,run,200,1,200/4,"Vanua to Hope, 1 run",,,4
-505,258,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,42.6,run,200,1,200/4,"Vanua to Holder, 1 run",,,4
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 1 run ",1st innings,Vani Morea,387435,,,0.1,run,1,1,1/0,"Holder to Ura, 1 run",,,0
+1,2,Vani Morea,387435,Jason Holder,391485,"Holder to Morea, no run ",1st innings,Tony Ura,302845,,,0.2,no run,1,0,1/0,"Holder to Morea, no run",,,0
+2,4,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,,,0.4,no run,1,0,1/0,"Holder to Ura, no run",,,0
+3,5,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 3 runs ",1st innings,Assad Vala,25056,,,0.5,run,4,3,4/0,"Holder to Ura, 3 runs",,,0
+4,6,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, 4 leg byes ",1st innings,Tony Ura,302845,,,0.6,leg bye,8,4,8/1,"Holder to Vala, 4 leg byes",,,1
+5,7,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,1.1,no run,8,0,8/1,"Williams to Ura, no run",,,1
+6,8,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,1.2,no run,8,0,8/1,"Williams to Ura, no run",,,1
+7,9,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,1.3,no run,8,0,8/1,"Williams to Ura, no run",,,1
+8,10,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,Assad Vala,25056,Jason Holder,391485,1.4,run,9,1,9/1,"Williams to Ura, 1 run",,,1
+9,11,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Jason Holder,391485,1.5,no run,9,0,9/1,"Williams to Vala, no run",,,1
+10,12,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Jason Holder,391485,1.6,no run,9,0,9/1,"Williams to Vala, no run",,,1
+11,13,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,2.1,no run,9,0,9/1,"Holder to Ura, no run",,,1
+12,14,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 2 runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,2.2,run,11,2,11/1,"Holder to Ura, 2 runs",,,1
+13,15,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,2.3,no run,11,0,11/1,"Holder to Ura, no run",,,1
+14,16,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, 1 run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,2.4,run,12,1,12/1,"Holder to Ura, 1 run",,,1
+15,17,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,2.5,no run,12,0,12/1,"Holder to Vala, no run",,,1
+16,18,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,2.6,no run,12,0,12/1,"Holder to Vala, no run",,,1
+17,19,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,3.1,no run,12,0,12/1,"Williams to Ura, no run",,,1
+18,21,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,3.3,no run,12,0,12/1,"Williams to Ura, no run",,,1
+19,22,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,3.4,no run,12,0,12/1,"Williams to Ura, no run",,,1
+20,23,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,3.5,no run,12,0,12/1,"Williams to Ura, no run",,,1
+21,24,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,3.6,no run,16,0,16/1,"Williams to Ura, no run",,,1
+22,25,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,4.1,no run,16,0,16/1,"Holder to Vala, no run",,,1
+23,26,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,4.2,no run,16,0,16/1,"Holder to Vala, no run",,,1
+24,28,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,4.4,no run,16,0,16/1,"Holder to Vala, no run",,,1
+25,29,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,4.5,no run,16,0,16/1,"Holder to Vala, no run",,,1
+26,30,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, 1 run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,4.6,run,17,1,17/1,"Holder to Vala, 1 run",,,1
+27,31,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 2 runs ",1st innings,Tony Ura,302845,Jason Holder,391485,5.1,run,19,2,19/1,"Williams to Vala, 2 runs",,,1
+28,32,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Jason Holder,391485,5.2,no run,19,0,19/1,"Williams to Vala, no run",,,1
+29,33,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,Tony Ura,302845,Jason Holder,391485,5.3,run,20,1,20/1,"Williams to Vala, 1 run",,,1
+30,34,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 2 runs ",1st innings,Assad Vala,25056,Jason Holder,391485,5.4,run,22,2,22/1,"Williams to Ura, 2 runs",,,1
+31,35,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,Assad Vala,25056,Jason Holder,391485,5.5,run,23,1,23/1,"Williams to Ura, 1 run",,,1
+32,36,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Jason Holder,391485,5.6,no run,23,0,23/1,"Williams to Vala, no run",,,1
+33,37,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,6.1,no run,23,0,23/1,"Holder to Ura, no run",,,1
+34,38,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, FOUR runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,6.2,four,27,4,27/1,"Holder to Ura, FOUR runs",,,1
+35,39,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,6.3,no run,27,0,27/1,"Holder to Ura, no run",,,1
+36,40,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,6.4,no run,27,0,27/1,"Holder to Ura, no run",,,1
+37,40,Tony Ura,302845,Jason Holder,391485,"Holder to Ura, (no ball) 1 run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,6.4,run,29,2,29/1,"Holder to Ura, (no ball) 1 run",,,1
+38,41,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, FOUR runs ",1st innings,Tony Ura,302845,Kesrick Williams,450075,6.5,four,33,4,33/1,"Holder to Vala, FOUR runs",,,1
+39,42,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,6.6,no run,33,0,33/1,"Holder to Vala, no run",,,1
+40,43,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,7.1,no run,33,0,33/1,"Williams to Ura, no run",,,1
+41,44,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Jason Holder,391485,7.2,no run,33,0,33/1,"Williams to Ura, no run",,,1
+42,45,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 leg bye ",1st innings,Assad Vala,25056,Jason Holder,391485,7.3,leg bye,34,1,34/1,"Williams to Ura, 1 leg bye",,,1
+43,46,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, FOUR runs ",1st innings,Tony Ura,302845,Jason Holder,391485,7.4,four,38,4,38/1,"Williams to Vala, FOUR runs",,,1
+44,47,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 2 runs ",1st innings,Tony Ura,302845,Jason Holder,391485,7.5,run,40,2,40/1,"Williams to Vala, 2 runs",,,1
+45,48,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Jason Holder,391485,7.6,no run,40,0,40/1,"Williams to Vala, no run",,,1
+46,49,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.1,no run,40,0,40/1,"Nurse to Ura, no run",,,1
+47,50,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, SIX runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.2,six,46,6,46/1,"Nurse to Ura, SIX runs",,,1
+48,51,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.3,no run,46,0,46/1,"Nurse to Ura, no run",,,1
+49,52,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.4,no run,46,0,46/1,"Nurse to Ura, no run",,,1
+50,53,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, SIX runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.5,six,52,6,52/1,"Nurse to Ura, SIX runs",,,1
+51,54,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, 1 run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,8.6,run,53,1,53/1,"Nurse to Ura, 1 run",,,1
+52,55,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,9.1,no run,53,0,53/1,"Williams to Ura, no run",,,1
+53,56,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,9.2,no run,53,0,53/1,"Williams to Ura, no run",,,1
+54,56,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 wide ",1st innings,Assad Vala,25056,Ashley Nurse,315594,9.2,wide,54,1,54/1,"Williams to Ura, 1 wide",,,1
+55,57,Tony Ura,302845,Kesrick Williams,450075,"Williams to Ura, 1 run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,9.3,run,55,1,55/1,"Williams to Ura, 1 run",,,1
+56,58,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Ashley Nurse,315594,9.4,no run,55,0,55/1,"Williams to Vala, no run",,,1
+57,59,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Tony Ura,302845,Ashley Nurse,315594,9.5,no run,55,0,55/1,"Williams to Vala, no run",,,1
+58,59,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 wide ",1st innings,Tony Ura,302845,Ashley Nurse,315594,9.5,wide,60,1,60/1,"Williams to Vala, 1 wide",,,1
+59,61,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,10.1,no run,60,0,60/1,"Brathwaite to Ura, no run",,,1
+60,62,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,10.2,no run,60,0,60/1,"Brathwaite to Ura, no run",,,1
+61,63,Tony Ura,302845,Carlos Brathwaite,457249,"Brathwaite to Ura, 1 run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,10.3,run,61,1,61/1,"Brathwaite to Ura, 1 run",,,1
+62,64,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,10.4,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
+63,65,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,10.5,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
+64,66,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Tony Ura,302845,Kesrick Williams,450075,10.6,no run,61,0,61/1,"Brathwaite to Vala, no run",,,1
+65,67,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.1,no run,61,0,61/1,"Nurse to Ura, no run",,,1
+66,68,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.2,no run,61,0,61/1,"Nurse to Ura, no run",,,1
+67,69,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, 2 runs ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.3,run,63,2,63/1,"Nurse to Ura, 2 runs",,,1
+68,70,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.4,no run,63,0,63/1,"Nurse to Ura, no run",,,1
+69,71,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.5,no run,63,0,63/1,"Nurse to Ura, no run",,,1
+70,72,Tony Ura,302845,Ashley Nurse,315594,"Nurse to Ura, OUT ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,11.6,out,63,0,63/2,"Nurse to Ura, OUT",,,2
+71,73,Lega Siaka,440990,Carlos Brathwaite,457249,"Brathwaite to Siaka, OUT ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.1,out,63,0,63/3,"Brathwaite to Siaka, OUT",,,3
+72,74,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.2,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
+73,75,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.3,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
+74,76,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.4,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
+75,77,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.5,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
+76,78,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,12.6,no run,63,0,63/3,"Brathwaite to Bau, no run",,,3
+77,79,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,13.1,no run,63,0,63/3,"Nurse to Vala, no run",,,3
+78,80,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 2 runs ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,13.2,run,65,2,65/3,"Nurse to Vala, 2 runs",,,3
+79,81,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,13.3,run,66,1,66/3,"Nurse to Vala, 1 run",,,3
+80,82,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,13.4,no run,66,0,66/3,"Nurse to Bau, no run",,,3
+81,83,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,13.5,no run,66,0,66/3,"Nurse to Bau, no run",,,3
+82,84,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,13.6,no run,66,0,66/3,"Nurse to Bau, no run",,,3
+83,85,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Sese Bau,420427,Ashley Nurse,315594,14.1,no run,66,0,66/3,"Brathwaite to Vala, no run",,,3
+84,86,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 3 runs ",1st innings,Sese Bau,420427,Ashley Nurse,315594,14.2,run,69,3,69/3,"Brathwaite to Vala, 3 runs",,,3
+85,87,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,14.3,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
+86,88,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,14.4,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
+87,89,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,14.5,no run,69,0,69/3,"Brathwaite to Bau, no run",,,3
+88,89,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 1 wide ",1st innings,Assad Vala,25056,Ashley Nurse,315594,14.5,wide,70,1,70/3,"Brathwaite to Bau, 1 wide",,,3
+89,90,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,14.6,no run,70,0,70/3,"Brathwaite to Bau, no run",,,3
+90,91,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,15.1,run,71,1,71/3,"Nurse to Vala, 1 run",,,3
+91,92,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,15.2,no run,71,0,71/3,"Nurse to Bau, no run",,,3
+92,93,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,15.3,no run,71,0,71/3,"Nurse to Bau, no run",,,3
+93,94,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,15.4,no run,71,0,71/3,"Nurse to Bau, no run",,,3
+94,95,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,15.5,no run,71,0,71/3,"Nurse to Bau, no run",,,3
+95,96,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, 1 run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,15.6,run,72,1,72/3,"Nurse to Bau, 1 run",,,3
+96,97,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 2 runs ",1st innings,Assad Vala,25056,Ashley Nurse,315594,16.1,run,74,2,74/3,"Brathwaite to Bau, 2 runs",,,3
+97,98,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,16.2,no run,74,0,74/3,"Brathwaite to Bau, no run",,,3
+98,100,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, 2 runs ",1st innings,Assad Vala,25056,Ashley Nurse,315594,16.4,run,76,2,76/3,"Brathwaite to Bau, 2 runs",,,3
+99,101,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,16.5,no run,76,0,76/3,"Brathwaite to Bau, no run",,,3
+100,102,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,16.6,no run,76,0,76/3,"Brathwaite to Bau, no run",,,3
+101,103,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,17.1,no run,76,0,76/3,"Nurse to Vala, no run",,,3
+102,104,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,17.2,no run,76,0,76/3,"Nurse to Vala, no run",,,3
+103,105,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, no run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,17.3,no run,76,0,76/3,"Nurse to Vala, no run",,,3
+104,106,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,Sese Bau,420427,Carlos Brathwaite,457249,17.4,run,77,1,77/3,"Nurse to Vala, 1 run",,,3
+105,107,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,17.5,no run,77,0,77/3,"Nurse to Bau, no run",,,3
+106,108,Sese Bau,420427,Ashley Nurse,315594,"Nurse to Bau, FOUR runs ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,17.6,four,81,4,81/3,"Nurse to Bau, FOUR runs",,,3
+107,109,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Sese Bau,420427,Ashley Nurse,315594,18.1,no run,81,0,81/3,"Brathwaite to Vala, no run",,,3
+108,110,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Sese Bau,420427,Ashley Nurse,315594,18.2,no run,81,0,81/3,"Brathwaite to Vala, no run",,,3
+109,111,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 1 run ",1st innings,Sese Bau,420427,Ashley Nurse,315594,18.3,run,82,1,82/3,"Brathwaite to Vala, 1 run",,,3
+110,112,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,18.4,no run,82,0,82/3,"Brathwaite to Bau, no run",,,3
+111,113,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, no run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,18.5,no run,82,0,82/3,"Brathwaite to Bau, no run",,,3
+112,114,Sese Bau,420427,Carlos Brathwaite,457249,"Brathwaite to Bau, OUT ",1st innings,Assad Vala,25056,Ashley Nurse,315594,18.6,out,82,0,82/4,"Brathwaite to Bau, OUT",,,4
+113,115,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 run ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,19.1,run,83,1,83/4,"Nurse to Vala, 1 run",,,4
+114,116,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,19.2,no run,83,0,83/4,"Nurse to Dai, no run",,,4
+115,117,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,19.3,no run,83,0,83/4,"Nurse to Dai, no run",,,4
+116,118,Mahuru Dai,25051,Ashley Nurse,315594,"Nurse to Dai, 1 run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,19.4,run,84,1,84/4,"Nurse to Dai, 1 run",,,4
+117,119,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, FOUR runs ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,19.5,four,88,4,88/4,"Nurse to Vala, FOUR runs",,,4
+118,120,Assad Vala,25056,Ashley Nurse,315594,"Nurse to Vala, 1 leg bye ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,19.6,leg bye,89,1,89/4,"Nurse to Vala, 1 leg bye",,,4
+119,121,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Mahuru Dai,25051,Ashley Nurse,315594,20.1,no run,89,0,89/4,"Brathwaite to Vala, no run",,,4
+120,122,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Mahuru Dai,25051,Ashley Nurse,315594,20.2,no run,89,0,89/4,"Brathwaite to Vala, no run",,,4
+121,123,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, 1 leg bye ",1st innings,Mahuru Dai,25051,Ashley Nurse,315594,20.3,leg bye,90,1,90/4,"Brathwaite to Vala, 1 leg bye",,,4
+122,124,Mahuru Dai,25051,Carlos Brathwaite,457249,"Brathwaite to Dai, 1 run ",1st innings,Assad Vala,25056,Ashley Nurse,315594,20.4,run,91,1,91/4,"Brathwaite to Dai, 1 run",,,4
+123,125,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Mahuru Dai,25051,Ashley Nurse,315594,20.5,no run,91,0,91/4,"Brathwaite to Vala, no run",,,4
+124,126,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, no run ",1st innings,Mahuru Dai,25051,Ashley Nurse,315594,20.6,no run,91,0,91/4,"Brathwaite to Vala, no run",,,4
+125,127,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,21.1,no run,91,0,91/4,"Samuels to Dai, no run",,,4
+126,128,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,21.2,run,92,1,92/4,"Samuels to Dai, 1 run",,,4
+127,129,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,21.3,no run,92,0,92/4,"Samuels to Vala, no run",,,4
+128,130,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,21.4,no run,92,0,92/4,"Samuels to Vala, no run",,,4
+129,131,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,21.5,no run,92,0,92/4,"Samuels to Vala, no run",,,4
+130,132,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Carlos Brathwaite,457249,21.6,no run,92,0,92/4,"Samuels to Vala, no run",,,4
+131,133,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,22.1,no run,92,0,92/4,"Holder to Dai, no run",,,4
+132,134,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,22.2,no run,92,0,92/4,"Holder to Dai, no run",,,4
+133,135,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, 1 run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,22.3,run,93,1,93/4,"Holder to Dai, 1 run",,,4
+134,136,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,22.4,no run,93,0,93/4,"Holder to Vala, no run",,,4
+135,137,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, FOUR runs ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,22.5,four,97,4,97/4,"Holder to Vala, FOUR runs",,,4
+136,138,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,22.6,no run,97,0,97/4,"Holder to Vala, no run",,,4
+137,139,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Jason Holder,391485,23.1,run,98,1,98/4,"Samuels to Dai, 1 run",,,4
+138,140,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,23.2,run,99,1,99/4,"Samuels to Vala, 1 run",,,4
+139,141,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Jason Holder,391485,23.3,run,100,1,100/4,"Samuels to Dai, 1 run",,,4
+140,142,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,23.4,no run,100,0,100/4,"Samuels to Vala, no run",,,4
+141,143,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,23.5,no run,100,0,100/4,"Samuels to Vala, no run",,,4
+142,144,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,23.6,no run,100,0,100/4,"Samuels to Vala, no run",,,4
+143,145,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,24.1,no run,100,0,100/4,"Holder to Dai, no run",,,4
+144,146,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,24.2,no run,100,0,100/4,"Holder to Dai, no run",,,4
+145,147,Mahuru Dai,25051,Jason Holder,391485,"Holder to Dai, 1 run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,24.3,run,101,1,101/4,"Holder to Dai, 1 run",,,4
+146,148,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,24.4,no run,101,0,101/4,"Holder to Vala, no run",,,4
+147,149,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,24.5,no run,101,0,101/4,"Holder to Vala, no run",,,4
+148,150,Assad Vala,25056,Jason Holder,391485,"Holder to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,24.6,no run,101,0,101/4,"Holder to Vala, no run",,,4
+149,151,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 2 runs ",1st innings,Assad Vala,25056,Jason Holder,391485,25.1,run,103,2,103/4,"Samuels to Dai, 2 runs",,,4
+150,152,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Jason Holder,391485,25.2,run,104,1,104/4,"Samuels to Dai, 1 run",,,4
+151,153,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,25.3,no run,104,0,104/4,"Samuels to Vala, no run",,,4
+152,154,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,25.4,no run,104,0,104/4,"Samuels to Vala, no run",,,4
+153,156,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,Mahuru Dai,25051,Jason Holder,391485,25.6,run,105,1,105/4,"Samuels to Vala, 1 run",,,4
+154,157,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,26.1,run,106,1,106/4,"Miller to Vala, 1 run",,,4
+155,158,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 1 run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,26.2,run,107,1,107/4,"Miller to Dai, 1 run",,,4
+156,159,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 2 runs ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,26.3,run,109,2,109/4,"Miller to Vala, 2 runs",,,4
+157,160,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,26.4,run,110,1,110/4,"Miller to Vala, 1 run",,,4
+158,161,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,26.5,no run,110,0,110/4,"Miller to Dai, no run",,,4
+159,161,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 3 wides ",1st innings,Assad Vala,25056,Marlon Samuels,52983,26.5,wide,113,3,113/4,"Miller to Dai, 3 wides",,,4
+160,162,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,26.6,no run,113,0,113/4,"Miller to Dai, no run",,,4
+161,163,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,27.1,run,114,1,114/4,"Samuels to Vala, 1 run",,,4
+162,164,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Nikita Miller,52622,27.2,run,115,1,115/4,"Samuels to Dai, 1 run",,,4
+163,165,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, no run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,27.3,no run,115,0,115/4,"Samuels to Vala, no run",,,4
+164,166,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,27.4,run,116,1,116/4,"Samuels to Vala, 1 run",,,4
+165,167,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 2 runs ",1st innings,Assad Vala,25056,Nikita Miller,52622,27.5,run,118,2,118/4,"Samuels to Dai, 2 runs",,,4
+166,168,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, 1 run ",1st innings,Assad Vala,25056,Nikita Miller,52622,27.6,run,119,1,119/4,"Samuels to Dai, 1 run",,,4
+167,169,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 1 run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,28.1,run,120,1,120/4,"Miller to Dai, 1 run",,,4
+168,170,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,28.2,no run,120,0,120/4,"Miller to Vala, no run",,,4
+169,171,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,28.3,run,121,1,121/4,"Miller to Vala, 1 run",,,4
+170,172,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,28.4,no run,121,0,121/4,"Miller to Dai, no run",,,4
+171,173,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,28.5,no run,121,0,121/4,"Miller to Dai, no run",,,4
+172,174,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Marlon Samuels,52983,28.6,no run,121,0,121/4,"Miller to Dai, no run",,,4
+173,175,Assad Vala,25056,Marlon Samuels,52983,"Samuels to Vala, 1 run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,29.1,run,122,1,122/4,"Samuels to Vala, 1 run",,,4
+174,176,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,29.2,no run,122,0,122/4,"Samuels to Dai, no run",,,4
+175,177,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,29.3,no run,122,0,122/4,"Samuels to Dai, no run",,,4
+176,178,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, FOUR runs ",1st innings,Assad Vala,25056,Nikita Miller,52622,29.4,four,126,4,126/4,"Samuels to Dai, FOUR runs",,,4
+177,179,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,29.5,no run,126,0,126/4,"Samuels to Dai, no run",,,4
+178,180,Mahuru Dai,25051,Marlon Samuels,52983,"Samuels to Dai, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,29.6,no run,126,0,126/4,"Samuels to Dai, no run",,,4
+179,181,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.1,no run,126,0,126/4,"Williams to Vala, no run",,,4
+180,182,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, FOUR runs ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.2,four,130,4,130/4,"Williams to Vala, FOUR runs",,,4
+181,183,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.3,no run,130,0,130/4,"Williams to Vala, no run",,,4
+182,184,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.4,no run,130,0,130/4,"Williams to Vala, no run",,,4
+183,185,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, no run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.5,no run,130,0,130/4,"Williams to Vala, no run",,,4
+184,186,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,Mahuru Dai,25051,Marlon Samuels,52983,30.6,run,131,1,131/4,"Williams to Vala, 1 run",,,4
+185,187,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Mahuru Dai,25051,Kesrick Williams,450075,31.1,run,132,1,132/4,"Miller to Vala, 1 run",,,4
+186,188,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 2 runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,31.2,run,134,2,134/4,"Miller to Dai, 2 runs",,,4
+187,189,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, 2 runs ",1st innings,Assad Vala,25056,Kesrick Williams,450075,31.3,run,136,2,136/4,"Miller to Dai, 2 runs",,,4
+188,190,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,31.4,no run,136,0,136/4,"Miller to Dai, no run",,,4
+189,191,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,31.5,no run,136,0,136/4,"Miller to Dai, no run",,,4
+190,193,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,32.1,run,137,1,137/4,"Williams to Vala, 1 run",,,4
+191,194,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, 2 runs ",1st innings,Assad Vala,25056,Nikita Miller,52622,32.2,run,139,2,139/4,"Williams to Dai, 2 runs",,,4
+192,195,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, FOUR runs ",1st innings,Assad Vala,25056,Nikita Miller,52622,32.3,four,143,4,143/4,"Williams to Dai, FOUR runs",,,4
+193,196,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,32.4,no run,143,0,143/4,"Williams to Dai, no run",,,4
+194,196,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, (no ball) 1 run ",1st innings,Assad Vala,25056,Nikita Miller,52622,32.4,run,145,2,145/4,"Williams to Dai, (no ball) 1 run",,,4
+195,197,Assad Vala,25056,Kesrick Williams,450075,"Williams to Vala, 1 run ",1st innings,Mahuru Dai,25051,Nikita Miller,52622,32.5,run,146,1,146/4,"Williams to Vala, 1 run",,,4
+196,198,Mahuru Dai,25051,Kesrick Williams,450075,"Williams to Dai, FOUR runs ",1st innings,Assad Vala,25056,Nikita Miller,52622,32.6,four,150,4,150/4,"Williams to Dai, FOUR runs",,,4
+197,199,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, no run ",1st innings,Mahuru Dai,25051,Kesrick Williams,450075,33.1,no run,150,0,150/4,"Miller to Vala, no run",,,4
+198,200,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Mahuru Dai,25051,Kesrick Williams,450075,33.2,run,151,1,151/4,"Miller to Vala, 1 run",,,4
+199,201,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,33.3,no run,151,0,151/4,"Miller to Dai, no run",,,4
+200,202,Mahuru Dai,25051,Nikita Miller,52622,"Miller to Dai, OUT ",1st innings,Assad Vala,25056,Kesrick Williams,450075,33.4,out,151,0,151/5,"Miller to Dai, OUT",,,5
+201,203,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, no run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,33.5,no run,151,0,151/5,"Miller to Amini, no run",,,5
+202,204,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, 1 run ",1st innings,Assad Vala,25056,Kesrick Williams,450075,33.6,run,152,1,152/5,"Miller to Amini, 1 run",,,5
+203,205,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,34.1,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
+204,206,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,34.2,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
+205,207,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,34.3,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
+206,208,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,34.4,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
+207,210,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Assad Vala,25056,Nikita Miller,52622,34.6,no run,152,0,152/5,"Brathwaite to Amini, no run",,,5
+208,211,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Charles Amini,332980,Carlos Brathwaite,457249,35.1,run,153,1,153/5,"Miller to Vala, 1 run",,,5
+209,212,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, FOUR runs ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,35.2,four,157,4,157/5,"Miller to Amini, FOUR runs",,,5
+210,213,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, no run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,35.3,no run,157,0,157/5,"Miller to Amini, no run",,,5
+211,214,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, 1 run ",1st innings,Assad Vala,25056,Carlos Brathwaite,457249,35.4,run,158,1,158/5,"Miller to Amini, 1 run",,,5
+212,216,Assad Vala,25056,Nikita Miller,52622,"Miller to Vala, 1 run ",1st innings,Charles Amini,332980,Carlos Brathwaite,457249,35.6,run,159,1,159/5,"Miller to Vala, 1 run",,,5
+213,217,Assad Vala,25056,Carlos Brathwaite,457249,"Brathwaite to Vala, OUT ",1st innings,Charles Amini,332980,Nikita Miller,52622,36.1,out,159,0,159/6,"Brathwaite to Vala, OUT",,,6
+214,218,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, 1 run ",1st innings,Charles Amini,332980,Nikita Miller,52622,36.2,run,160,1,160/6,"Brathwaite to Vare, 1 run",,,6
+215,219,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Jack Vare,25065,Nikita Miller,52622,36.3,no run,160,0,160/6,"Brathwaite to Amini, no run",,,6
+216,220,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, no run ",1st innings,Jack Vare,25065,Nikita Miller,52622,36.4,no run,160,0,160/6,"Brathwaite to Amini, no run",,,6
+217,221,Charles Amini,332980,Carlos Brathwaite,457249,"Brathwaite to Amini, 1 run ",1st innings,Jack Vare,25065,Nikita Miller,52622,36.5,run,161,1,161/6,"Brathwaite to Amini, 1 run",,,6
+218,222,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, no run ",1st innings,Charles Amini,332980,Nikita Miller,52622,36.6,no run,161,0,161/6,"Brathwaite to Vare, no run",,,6
+219,223,Charles Amini,332980,Nikita Miller,52622,"Miller to Amini, OUT ",1st innings,Jack Vare,25065,Carlos Brathwaite,457249,37.1,out,161,0,161/7,"Miller to Amini, OUT",,,7
+220,224,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,Jack Vare,25065,Carlos Brathwaite,457249,37.2,no run,161,0,161/7,"Miller to Soper, no run",,,7
+221,225,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,Jack Vare,25065,Carlos Brathwaite,457249,37.3,no run,161,0,161/7,"Miller to Soper, no run",,,7
+222,226,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, no run ",1st innings,Jack Vare,25065,Carlos Brathwaite,457249,37.4,no run,161,0,161/7,"Miller to Soper, no run",,,7
+223,227,Chad Soper,574287,Nikita Miller,52622,"Miller to Soper, 1 run ",1st innings,Jack Vare,25065,Carlos Brathwaite,457249,37.5,run,162,1,162/7,"Miller to Soper, 1 run",,,7
+224,228,Jack Vare,25065,Nikita Miller,52622,"Miller to Vare, no run ",1st innings,Chad Soper,574287,Carlos Brathwaite,457249,37.6,no run,162,0,162/7,"Miller to Vare, no run",,,7
+225,229,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,Jack Vare,25065,Nikita Miller,52622,38.1,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
+226,230,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,Jack Vare,25065,Nikita Miller,52622,38.2,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
+227,231,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, no run ",1st innings,Jack Vare,25065,Nikita Miller,52622,38.3,no run,162,0,162/7,"Brathwaite to Soper, no run",,,7
+228,232,Chad Soper,574287,Carlos Brathwaite,457249,"Brathwaite to Soper, OUT ",1st innings,Jack Vare,25065,Nikita Miller,52622,38.4,out,162,0,162/8,"Brathwaite to Soper, OUT",,,8
+229,233,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, 1 run ",1st innings,Jack Vare,25065,Nikita Miller,52622,38.5,run,163,1,163/8,"Brathwaite to Vanua, 1 run",,,8
+230,234,Jack Vare,25065,Carlos Brathwaite,457249,"Brathwaite to Vare, OUT ",1st innings,Norman Vanua,524253,Nikita Miller,52622,38.6,out,163,0,163/9,"Brathwaite to Vare, OUT",,,9
+231,235,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 2 runs ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,39.1,run,165,2,165/9,"Holder to Vanua, 2 runs",,,9
+232,236,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,39.2,no run,165,0,165/9,"Holder to Vanua, no run",,,9
+233,237,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,39.3,run,166,1,166/9,"Holder to Vanua, 1 run",,,9
+234,237,Alei Nao,524247,Jason Holder,391485,"Holder to Nao, 1 wide ",1st innings,Norman Vanua,524253,Carlos Brathwaite,457249,39.3,wide,167,1,167/9,"Holder to Nao, 1 wide",,,9
+235,238,Alei Nao,524247,Jason Holder,391485,"Holder to Nao, 1 run ",1st innings,Norman Vanua,524253,Carlos Brathwaite,457249,39.4,run,168,1,168/9,"Holder to Nao, 1 run",,,9
+236,239,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, FOUR runs ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,39.5,four,172,4,172/9,"Holder to Vanua, FOUR runs",,,9
+237,240,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,39.6,run,173,1,173/9,"Holder to Vanua, 1 run",,,9
+238,241,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, SIX runs ",1st innings,Alei Nao,524247,Jason Holder,391485,40.1,six,179,6,179/9,"Brathwaite to Vanua, SIX runs",,,9
+239,242,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,40.2,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
+240,243,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,40.3,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
+241,244,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,40.4,no run,179,0,179/9,"Brathwaite to Vanua, no run",,,9
+242,245,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, SIX runs ",1st innings,Alei Nao,524247,Jason Holder,391485,40.5,six,185,6,185/9,"Brathwaite to Vanua, SIX runs",,,9
+243,246,Norman Vanua,524253,Carlos Brathwaite,457249,"Brathwaite to Vanua, 1 run ",1st innings,Alei Nao,524247,Jason Holder,391485,40.6,run,186,1,186/9,"Brathwaite to Vanua, 1 run",,,9
+244,247,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.1,no run,186,0,186/9,"Holder to Vanua, no run",,,9
+245,248,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, no run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.2,no run,186,0,186/9,"Holder to Vanua, no run",,,9
+246,249,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, SIX runs ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.3,six,192,6,192/9,"Holder to Vanua, SIX runs",,,9
+247,250,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, FOUR runs ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.4,four,196,4,196/9,"Holder to Vanua, FOUR runs",,,9
+248,251,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 2 runs ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.5,run,198,2,198/9,"Holder to Vanua, 2 runs",,,9
+249,252,Norman Vanua,524253,Jason Holder,391485,"Holder to Vanua, 1 run ",1st innings,Alei Nao,524247,Carlos Brathwaite,457249,41.6,run,199,1,199/9,"Holder to Vanua, 1 run",,,9
+250,253,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,42.1,no run,199,0,199/9,"Williams to Vanua, no run",,,9
+251,253,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, 1 wide ",1st innings,Alei Nao,524247,Jason Holder,391485,42.1,wide,200,1,200/9,"Williams to Vanua, 1 wide",,,9
+252,254,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,42.2,no run,200,0,200/9,"Williams to Vanua, no run",,,9
+253,255,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, no run ",1st innings,Alei Nao,524247,Jason Holder,391485,42.3,no run,200,0,200/9,"Williams to Vanua, no run",,,9
+254,256,Norman Vanua,524253,Kesrick Williams,450075,"Williams to Vanua, OUT ",1st innings,Alei Nao,524247,Jason Holder,391485,42.4,out,200,0,200/9,"Williams to Vanua, OUT",,,9
+255,1,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,Shimron Hetmyer,670025,,,0.1,no run,0,0,0/0,"Vanua to Lewis, no run",,,0
+256,2,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, 2 runs ",2nd innings,Shimron Hetmyer,670025,,,0.2,run,2,2,2/0,"Vanua to Lewis, 2 runs",,,0
+257,3,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,Shimron Hetmyer,670025,,,0.3,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
+258,4,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,Shimron Hetmyer,670025,,,0.4,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
+259,5,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, no run ",2nd innings,Shimron Hetmyer,670025,,,0.5,no run,2,0,2/0,"Vanua to Lewis, no run",,,0
+260,6,Evin Lewis,431901,Norman Vanua,524253,"Vanua to Lewis, SIX runs ",2nd innings,Shimron Hetmyer,670025,,,0.6,six,8,6,8/0,"Vanua to Lewis, SIX runs",,,0
+261,7,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.1,no run,8,0,8/0,"Dai to Hetmyer, no run",,,0
+262,8,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, FOUR runs ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.2,four,12,4,12/0,"Dai to Hetmyer, FOUR runs",,,0
+263,9,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.3,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
+264,10,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.4,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
+265,11,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, no run ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.5,no run,12,0,12/0,"Dai to Hetmyer, no run",,,0
+266,12,Shimron Hetmyer,670025,Mahuru Dai,25051,"Dai to Hetmyer, 2 runs, OUT ",2nd innings,Evin Lewis,431901,Norman Vanua,524253,1.6,run,14,2,14/1,"Dai to Hetmyer, 2 runs, OUT",,,1
+267,13,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,2.1,no run,14,0,14/1,"Vanua to Hetmyer, no run",,,1
+268,14,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, 2 runs ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,2.2,run,16,2,16/1,"Vanua to Hetmyer, 2 runs",,,1
+269,15,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,2.3,no run,16,0,16/1,"Vanua to Hetmyer, no run",,,1
+270,16,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,2.4,no run,16,0,16/1,"Vanua to Hetmyer, no run",,,1
+271,18,Shimron Hetmyer,670025,Norman Vanua,524253,"Vanua to Hetmyer, OUT ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,2.6,out,16,0,16/2,"Vanua to Hetmyer, OUT",,,2
+272,19,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,3.1,no run,16,0,16/2,"Dai to Hope, no run",,,2
+273,20,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,3.2,no run,16,0,16/2,"Dai to Hope, no run",,,2
+274,21,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,3.3,no run,16,0,16/2,"Dai to Hope, no run",,,2
+275,23,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,3.5,no run,16,0,16/2,"Dai to Hope, no run",,,2
+276,24,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,3.6,run,19,1,19/2,"Dai to Hope, 1 run",,,2
+277,25,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,4.1,no run,19,0,19/2,"Vanua to Hope, no run",,,2
+278,26,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,4.2,no run,19,0,19/2,"Vanua to Hope, no run",,,2
+279,27,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,4.3,no run,19,0,19/2,"Vanua to Hope, no run",,,2
+280,28,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,4.4,run,20,1,20/2,"Vanua to Hope, 1 run",,,2
+281,29,Marlon Samuels,52983,Norman Vanua,524253,"Vanua to Samuels, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,4.5,no run,20,0,20/2,"Vanua to Samuels, no run",,,2
+282,31,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,5.1,no run,20,0,20/2,"Dai to Hope, no run",,,2
+283,32,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,5.2,run,21,1,21/2,"Dai to Hope, 1 run",,,2
+284,33,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,5.3,no run,21,0,21/2,"Dai to Samuels, no run",,,2
+285,34,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,5.4,run,22,1,22/2,"Dai to Samuels, 1 run",,,2
+286,35,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,5.5,run,23,1,23/2,"Dai to Hope, 1 run",,,2
+287,36,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,5.6,no run,23,0,23/2,"Dai to Samuels, no run",,,2
+288,36,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 wide ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.0,wide,24,1,24/2,"Vanua to Hope, 1 wide",,,2
+289,37,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, FOUR runs ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.1,four,28,4,28/2,"Vanua to Hope, FOUR runs",,,2
+290,38,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.2,no run,28,0,28/2,"Vanua to Hope, no run",,,2
+291,39,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.3,no run,28,0,28/2,"Vanua to Hope, no run",,,2
+292,40,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.4,no run,28,0,28/2,"Vanua to Hope, no run",,,2
+293,41,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.5,no run,28,0,28/2,"Vanua to Hope, no run",,,2
+294,42,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,6.6,no run,28,0,28/2,"Vanua to Hope, no run",,,2
+295,43,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,7.1,no run,28,0,28/2,"Dai to Samuels, no run",,,2
+296,45,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,7.3,no run,28,0,28/2,"Dai to Hope, no run",,,2
+297,46,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,7.4,no run,28,0,28/2,"Dai to Hope, no run",,,2
+298,47,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,7.5,no run,28,0,28/2,"Dai to Hope, no run",,,2
+299,48,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Norman Vanua,524253,7.6,run,30,1,30/2,"Dai to Hope, 1 run",,,2
+300,49,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, 1 run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,8.1,run,31,1,31/2,"Nao to Hope, 1 run",,,2
+301,50,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,8.2,no run,31,0,31/2,"Nao to Samuels, no run",,,2
+302,51,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,8.3,no run,31,0,31/2,"Nao to Samuels, no run",,,2
+303,52,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, FOUR runs ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,8.4,four,35,4,35/2,"Nao to Samuels, FOUR runs",,,2
+304,53,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, 1 run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,8.5,run,36,1,36/2,"Nao to Samuels, 1 run",,,2
+305,54,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Marlon Samuels,52983,Mahuru Dai,25051,8.6,no run,36,0,36/2,"Nao to Hope, no run",,,2
+306,55,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,9.1,no run,36,0,36/2,"Dai to Samuels, no run",,,2
+307,56,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, FOUR runs ",2nd innings,Shai Hope,581379,Alei Nao,524247,9.2,four,40,4,40/2,"Dai to Samuels, FOUR runs",,,2
+308,57,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,9.3,no run,40,0,40/2,"Dai to Samuels, no run",,,2
+309,58,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, SIX runs ",2nd innings,Shai Hope,581379,Alei Nao,524247,9.4,six,46,6,46/2,"Dai to Samuels, SIX runs",,,2
+310,59,Marlon Samuels,52983,Mahuru Dai,25051,"Dai to Samuels, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,9.5,run,47,1,47/2,"Dai to Samuels, 1 run",,,2
+311,60,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, no run ",2nd innings,Marlon Samuels,52983,Alei Nao,524247,9.6,no run,47,0,47/2,"Dai to Hope, no run",,,2
+312,61,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.1,no run,47,0,47/2,"Nao to Samuels, no run",,,2
+313,62,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, 2 runs ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.2,run,49,2,49/2,"Nao to Samuels, 2 runs",,,2
+314,63,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.3,no run,49,0,49/2,"Nao to Samuels, no run",,,2
+315,64,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, FOUR runs ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.4,four,53,4,53/2,"Nao to Samuels, FOUR runs",,,2
+316,65,Marlon Samuels,52983,Alei Nao,524247,"Nao to Samuels, OUT ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.5,out,53,0,53/3,"Nao to Samuels, OUT",,,3
+317,66,Jason Mohammed,230549,Alei Nao,524247,"Nao to Mohammed, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,10.6,no run,53,0,53/3,"Nao to Mohammed, no run",,,3
+318,67,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, FOUR runs ",2nd innings,Jason Mohammed,230549,Alei Nao,524247,11.1,four,57,4,57/3,"Amini to Hope, FOUR runs",,,3
+319,68,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Mohammed,230549,Alei Nao,524247,11.2,run,58,1,58/3,"Amini to Hope, 1 run",,,3
+320,69,Jason Mohammed,230549,Charles Amini,332980,"Amini to Mohammed, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,11.3,no run,58,0,58/3,"Amini to Mohammed, no run",,,3
+321,70,Jason Mohammed,230549,Charles Amini,332980,"Amini to Mohammed, OUT ",2nd innings,Shai Hope,581379,Alei Nao,524247,11.4,out,58,0,58/4,"Amini to Mohammed, OUT",,,4
+322,71,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,11.5,no run,58,0,58/4,"Amini to Holder, no run",,,4
+323,73,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,12.1,no run,58,0,58/4,"Nao to Hope, no run",,,4
+324,75,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,12.3,no run,58,0,58/4,"Nao to Hope, no run",,,4
+325,76,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,12.4,no run,58,0,58/4,"Nao to Hope, no run",,,4
+326,77,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,12.5,no run,58,0,58/4,"Nao to Hope, no run",,,4
+327,79,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.1,no run,58,0,58/4,"Amini to Holder, no run",,,4
+328,80,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.2,four,62,4,62/4,"Amini to Holder, FOUR runs",,,4
+329,81,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.3,four,66,4,66/4,"Amini to Holder, FOUR runs",,,4
+330,82,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.4,no run,66,0,66/4,"Amini to Holder, no run",,,4
+331,83,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.5,no run,66,0,66/4,"Amini to Holder, no run",,,4
+332,84,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,13.6,run,67,1,67/4,"Amini to Holder, 1 run",,,4
+333,85,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,14.1,run,68,1,68/4,"Nao to Holder, 1 run",,,4
+334,86,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,14.2,no run,68,0,68/4,"Nao to Hope, no run",,,4
+335,87,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,14.3,no run,68,0,68/4,"Nao to Hope, no run",,,4
+336,88,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,14.4,no run,68,0,68/4,"Nao to Hope, no run",,,4
+337,89,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,14.5,no run,68,0,68/4,"Nao to Hope, no run",,,4
+338,90,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,14.6,no run,68,0,68/4,"Nao to Hope, no run",,,4
+339,91,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,15.1,run,69,1,69/4,"Vanua to Holder, 1 run",,,4
+340,92,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,15.2,no run,69,0,69/4,"Vanua to Hope, no run",,,4
+341,93,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,15.3,no run,69,0,69/4,"Vanua to Hope, no run",,,4
+342,94,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,15.4,no run,69,0,69/4,"Vanua to Hope, no run",,,4
+343,95,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Jason Holder,391485,Alei Nao,524247,15.5,run,70,1,70/4,"Vanua to Hope, 1 run",,,4
+344,96,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,15.6,no run,70,0,70/4,"Vanua to Holder, no run",,,4
+345,97,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,16.1,run,71,1,71/4,"Nao to Hope, 1 run",,,4
+346,98,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,16.2,no run,71,0,71/4,"Nao to Holder, no run",,,4
+347,99,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,16.3,no run,71,0,71/4,"Nao to Holder, no run",,,4
+348,100,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,16.4,no run,71,0,71/4,"Nao to Holder, no run",,,4
+349,101,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,16.5,run,72,1,72/4,"Nao to Holder, 1 run",,,4
+350,102,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,16.6,no run,72,0,72/4,"Nao to Hope, no run",,,4
+351,103,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,17.1,no run,72,0,72/4,"Vanua to Holder, no run",,,4
+352,104,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,17.2,no run,72,0,72/4,"Vanua to Holder, no run",,,4
+353,105,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Alei Nao,524247,17.3,no run,72,0,72/4,"Vanua to Holder, no run",,,4
+354,106,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Alei Nao,524247,17.4,four,76,4,76/4,"Vanua to Holder, FOUR runs",,,4
+355,107,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,17.5,run,77,1,77/4,"Vanua to Holder, 1 run",,,4
+356,108,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,17.6,no run,77,0,77/4,"Vanua to Hope, no run",,,4
+357,109,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,18.1,run,78,1,78/4,"Soper to Holder, 1 run",,,4
+358,110,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,18.2,run,79,1,79/4,"Soper to Hope, 1 run",,,4
+359,111,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,Shai Hope,581379,Norman Vanua,524253,18.3,six,85,6,85/4,"Soper to Holder, SIX runs",,,4
+360,112,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,18.4,no run,85,0,85/4,"Soper to Holder, no run",,,4
+361,113,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,18.5,run,86,1,86/4,"Soper to Holder, 1 run",,,4
+362,114,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,18.6,run,87,1,87/4,"Soper to Hope, 1 run",,,4
+363,115,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,19.1,no run,87,0,87/4,"Vala to Hope, no run",,,4
+364,116,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,19.2,no run,87,0,87/4,"Vala to Hope, no run",,,4
+365,117,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,19.3,no run,87,0,87/4,"Vala to Hope, no run",,,4
+366,118,Shai Hope,581379,Assad Vala,25056,"Vala to Hope, 1 run ",2nd innings,Jason Holder,391485,Chad Soper,574287,19.4,run,88,1,88/4,"Vala to Hope, 1 run",,,4
+367,119,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,19.5,no run,88,0,88/4,"Vala to Holder, no run",,,4
+368,120,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,19.6,no run,88,0,88/4,"Vala to Holder, no run",,,4
+369,121,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.1,no run,88,0,88/4,"Soper to Hope, no run",,,4
+370,122,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.2,no run,88,0,88/4,"Soper to Hope, no run",,,4
+371,123,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.3,no run,88,0,88/4,"Soper to Hope, no run",,,4
+372,124,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.4,no run,88,0,88/4,"Soper to Hope, no run",,,4
+373,125,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.5,no run,88,0,88/4,"Soper to Hope, no run",,,4
+374,126,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Assad Vala,25056,20.6,no run,88,0,88/4,"Soper to Hope, no run",,,4
+375,127,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.1,no run,88,0,88/4,"Vala to Holder, no run",,,4
+376,128,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.2,no run,88,0,88/4,"Vala to Holder, no run",,,4
+377,129,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.3,no run,88,0,88/4,"Vala to Holder, no run",,,4
+378,130,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.4,four,92,4,92/4,"Vala to Holder, FOUR runs",,,4
+379,131,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.5,no run,92,0,92/4,"Vala to Holder, no run",,,4
+380,132,Jason Holder,391485,Assad Vala,25056,"Vala to Holder, 1 run ",2nd innings,Shai Hope,581379,Chad Soper,574287,21.6,run,93,1,93/4,"Vala to Holder, 1 run",,,4
+381,133,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Assad Vala,25056,22.1,no run,93,0,93/4,"Soper to Holder, no run",,,4
+382,134,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Assad Vala,25056,22.2,no run,93,0,93/4,"Soper to Holder, no run",,,4
+383,135,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Assad Vala,25056,22.3,run,94,1,94/4,"Soper to Holder, 1 run",,,4
+384,136,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,Jason Holder,391485,Assad Vala,25056,22.4,run,95,1,95/4,"Soper to Hope, 1 run",,,4
+385,137,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Assad Vala,25056,22.5,no run,95,0,95/4,"Soper to Holder, no run",,,4
+386,138,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Assad Vala,25056,22.6,no run,95,0,95/4,"Soper to Holder, no run",,,4
+387,139,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Chad Soper,574287,23.1,run,96,1,96/4,"Amini to Hope, 1 run",,,4
+388,140,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,23.2,no run,96,0,96/4,"Amini to Holder, no run",,,4
+389,141,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,23.3,no run,96,0,96/4,"Amini to Holder, no run",,,4
+390,142,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Chad Soper,574287,23.4,run,97,1,97/4,"Amini to Holder, 1 run",,,4
+391,143,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, FOUR runs ",2nd innings,Jason Holder,391485,Chad Soper,574287,23.5,four,101,4,101/4,"Amini to Hope, FOUR runs",,,4
+392,144,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,23.6,no run,101,0,101/4,"Amini to Hope, no run",,,4
+393,145,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,24.1,no run,101,0,101/4,"Soper to Holder, no run",,,4
+394,146,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,24.2,no run,101,0,101/4,"Soper to Holder, no run",,,4
+395,147,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,24.3,run,102,1,102/4,"Soper to Holder, 1 run",,,4
+396,148,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,24.4,run,103,1,103/4,"Soper to Hope, 1 run",,,4
+397,149,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,24.5,run,104,1,104/4,"Soper to Holder, 1 run",,,4
+398,150,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,24.6,no run,104,0,104/4,"Soper to Hope, no run",,,4
+399,151,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.1,no run,104,0,104/4,"Dai to Holder, no run",,,4
+400,152,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, 1 run ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.2,run,105,1,105/4,"Dai to Holder, 1 run",,,4
+401,153,Shai Hope,581379,Mahuru Dai,25051,"Dai to Hope, 1 run ",2nd innings,Jason Holder,391485,Chad Soper,574287,25.3,run,106,1,106/4,"Dai to Hope, 1 run",,,4
+402,153,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, 1 wide ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.3,wide,107,1,107/4,"Dai to Holder, 1 wide",,,4
+403,154,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.4,four,111,4,111/4,"Dai to Holder, FOUR runs",,,4
+404,155,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.5,no run,111,0,111/4,"Dai to Holder, no run",,,4
+405,156,Jason Holder,391485,Mahuru Dai,25051,"Dai to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,25.6,no run,111,0,111/4,"Dai to Holder, no run",,,4
+406,157,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Mahuru Dai,25051,26.1,run,112,1,112/4,"Siaka to Hope, 1 run",,,4
+407,158,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,26.2,no run,112,0,112/4,"Siaka to Holder, no run",,,4
+408,159,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,26.3,four,116,4,116/4,"Siaka to Holder, FOUR runs",,,4
+409,160,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,26.4,no run,116,0,116/4,"Siaka to Holder, no run",,,4
+410,161,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,Shai Hope,581379,Mahuru Dai,25051,26.5,run,117,1,117/4,"Siaka to Holder, 1 run",,,4
+411,162,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Mahuru Dai,25051,26.6,run,118,1,118/4,"Siaka to Hope, 1 run",,,4
+412,163,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,27.1,no run,118,0,118/4,"Amini to Hope, no run",,,4
+413,164,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,27.2,run,119,1,119/4,"Amini to Hope, 1 run",,,4
+414,165,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,27.3,no run,119,0,119/4,"Amini to Holder, no run",,,4
+415,166,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,27.4,no run,119,0,119/4,"Amini to Holder, no run",,,4
+416,167,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,27.5,no run,119,0,119/4,"Amini to Holder, no run",,,4
+417,168,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,27.6,no run,119,0,119/4,"Amini to Holder, no run",,,4
+418,169,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,28.1,no run,119,0,119/4,"Siaka to Hope, no run",,,4
+419,170,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,28.2,run,120,1,120/4,"Siaka to Hope, 1 run",,,4
+420,171,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,28.3,no run,120,0,120/4,"Siaka to Holder, no run",,,4
+421,172,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,28.4,run,121,1,121/4,"Siaka to Holder, 1 run",,,4
+422,173,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,28.5,run,122,1,122/4,"Siaka to Hope, 1 run",,,4
+423,174,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 2 runs ",2nd innings,Shai Hope,581379,Charles Amini,332980,28.6,run,124,2,124/4,"Siaka to Holder, 2 runs",,,4
+424,175,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,29.1,no run,124,0,124/4,"Amini to Hope, no run",,,4
+425,176,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,29.2,run,125,1,125/4,"Amini to Hope, 1 run",,,4
+426,177,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,29.3,run,126,1,126/4,"Amini to Holder, 1 run",,,4
+427,178,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,29.4,run,127,1,127/4,"Amini to Hope, 1 run",,,4
+428,179,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,29.5,no run,127,0,127/4,"Amini to Holder, no run",,,4
+429,180,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,29.6,no run,127,0,127/4,"Amini to Holder, no run",,,4
+430,181,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,30.1,no run,127,0,127/4,"Siaka to Hope, no run",,,4
+431,182,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,30.2,run,128,1,128/4,"Siaka to Hope, 1 run",,,4
+432,183,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,30.3,run,129,1,129/4,"Siaka to Holder, 1 run",,,4
+433,184,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,30.4,no run,129,0,129/4,"Siaka to Hope, no run",,,4
+434,185,Shai Hope,581379,Lega Siaka,440990,"Siaka to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,30.5,run,130,1,130/4,"Siaka to Hope, 1 run",,,4
+435,186,Jason Holder,391485,Lega Siaka,440990,"Siaka to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,30.6,no run,130,0,130/4,"Siaka to Holder, no run",,,4
+436,187,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,31.1,run,131,1,131/4,"Amini to Hope, 1 run",,,4
+437,188,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,31.2,run,132,1,132/4,"Amini to Holder, 1 run",,,4
+438,189,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,31.3,run,133,1,133/4,"Amini to Hope, 1 run",,,4
+439,190,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Lega Siaka,440990,31.4,run,134,1,134/4,"Amini to Holder, 1 run",,,4
+440,191,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,31.5,no run,134,0,134/4,"Amini to Hope, no run",,,4
+441,192,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Lega Siaka,440990,31.6,no run,134,0,134/4,"Amini to Hope, no run",,,4
+442,194,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,32.2,run,135,1,135/4,"Vanua to Holder, 1 run",,,4
+443,195,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,32.3,run,136,1,136/4,"Vanua to Hope, 1 run",,,4
+444,196,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 2 runs ",2nd innings,Shai Hope,581379,Charles Amini,332980,32.4,run,138,2,138/4,"Vanua to Holder, 2 runs",,,4
+445,197,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 leg bye ",2nd innings,Shai Hope,581379,Charles Amini,332980,32.5,leg bye,139,1,139/4,"Vanua to Holder, 1 leg bye",,,4
+446,198,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,32.6,no run,139,0,139/4,"Vanua to Hope, no run",,,4
+447,199,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,33.1,no run,139,0,139/4,"Amini to Holder, no run",,,4
+448,200,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,33.2,run,140,1,140/4,"Amini to Holder, 1 run",,,4
+449,201,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,33.3,no run,140,0,140/4,"Amini to Hope, no run",,,4
+450,202,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,33.4,no run,140,0,140/4,"Amini to Hope, no run",,,4
+451,203,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,33.5,no run,140,0,140/4,"Amini to Hope, no run",,,4
+452,204,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,33.6,run,141,1,141/4,"Amini to Hope, 1 run",,,4
+453,205,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,34.1,run,142,1,142/4,"Vanua to Hope, 1 run",,,4
+454,206,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,34.2,no run,142,0,142/4,"Vanua to Holder, no run",,,4
+455,208,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,34.4,no run,142,0,142/4,"Vanua to Hope, no run",,,4
+456,209,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,34.5,no run,142,0,142/4,"Vanua to Hope, no run",,,4
+457,210,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,34.6,no run,143,0,143/4,"Vanua to Hope, no run",,,4
+458,211,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,35.1,run,144,1,144/4,"Amini to Holder, 1 run",,,4
+459,212,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,35.2,run,145,1,145/4,"Amini to Hope, 1 run",,,4
+460,213,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,35.3,run,146,1,146/4,"Amini to Holder, 1 run",,,4
+461,214,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, 1 run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,35.4,run,147,1,147/4,"Amini to Hope, 1 run",,,4
+462,215,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,35.5,run,148,1,148/4,"Amini to Holder, 1 run",,,4
+463,216,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,35.6,no run,148,0,148/4,"Amini to Hope, no run",,,4
+464,217,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,Shai Hope,581379,Charles Amini,332980,36.1,six,154,6,154/4,"Soper to Holder, SIX runs",,,4
+465,218,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,36.2,run,155,1,155/4,"Soper to Holder, 1 run",,,4
+466,219,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,36.3,no run,155,0,155/4,"Soper to Hope, no run",,,4
+467,220,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,36.4,no run,155,0,155/4,"Soper to Hope, no run",,,4
+468,221,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,36.5,no run,155,0,155/4,"Soper to Hope, no run",,,4
+469,222,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,36.6,no run,155,0,155/4,"Soper to Hope, no run",,,4
+470,223,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,37.1,no run,155,0,155/4,"Amini to Holder, no run",,,4
+471,224,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Chad Soper,574287,37.2,four,159,4,159/4,"Amini to Holder, FOUR runs",,,4
+472,225,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,37.3,no run,159,0,159/4,"Amini to Holder, no run",,,4
+473,226,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,37.4,no run,159,0,159/4,"Amini to Holder, no run",,,4
+474,227,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Chad Soper,574287,37.5,run,160,1,160/4,"Amini to Holder, 1 run",,,4
+475,228,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,37.6,no run,160,0,160/4,"Amini to Hope, no run",,,4
+476,229,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, SIX runs ",2nd innings,Shai Hope,581379,Charles Amini,332980,38.1,six,166,6,166/4,"Soper to Holder, SIX runs",,,4
+477,230,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Charles Amini,332980,38.2,four,170,4,170/4,"Soper to Holder, FOUR runs",,,4
+478,231,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,38.3,run,171,1,171/4,"Soper to Holder, 1 run",,,4
+479,232,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, no run ",2nd innings,Jason Holder,391485,Charles Amini,332980,38.4,no run,171,0,171/4,"Soper to Hope, no run",,,4
+480,232,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 5 wides ",2nd innings,Jason Holder,391485,Charles Amini,332980,38.4,wide,176,5,176/4,"Soper to Hope, 5 wides",,,4
+481,233,Shai Hope,581379,Chad Soper,574287,"Soper to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,38.5,run,177,1,177/4,"Soper to Hope, 1 run",,,4
+482,234,Jason Holder,391485,Chad Soper,574287,"Soper to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,38.6,run,178,1,178/4,"Soper to Holder, 1 run",,,4
+483,235,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, SIX runs ",2nd innings,Shai Hope,581379,Chad Soper,574287,39.1,six,184,6,184/4,"Amini to Holder, SIX runs",,,4
+484,236,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, no run ",2nd innings,Shai Hope,581379,Chad Soper,574287,39.2,no run,184,0,184/4,"Amini to Holder, no run",,,4
+485,237,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, FOUR runs ",2nd innings,Shai Hope,581379,Chad Soper,574287,39.3,four,188,4,188/4,"Amini to Holder, FOUR runs",,,4
+486,238,Jason Holder,391485,Charles Amini,332980,"Amini to Holder, 1 run ",2nd innings,Shai Hope,581379,Chad Soper,574287,39.4,run,189,1,189/4,"Amini to Holder, 1 run",,,4
+487,240,Shai Hope,581379,Charles Amini,332980,"Amini to Hope, no run ",2nd innings,Jason Holder,391485,Chad Soper,574287,39.6,no run,189,0,189/4,"Amini to Hope, no run",,,4
+488,241,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,40.1,run,190,1,190/4,"Vanua to Holder, 1 run",,,4
+489,242,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Jason Holder,391485,Charles Amini,332980,40.2,run,191,1,191/4,"Vanua to Hope, 1 run",,,4
+490,243,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,40.3,no run,191,0,191/4,"Vanua to Holder, no run",,,4
+491,245,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, no run ",2nd innings,Shai Hope,581379,Charles Amini,332980,40.5,no run,191,0,191/4,"Vanua to Holder, no run",,,4
+492,246,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Charles Amini,332980,40.6,run,196,1,196/4,"Vanua to Holder, 1 run",,,4
+493,247,Jason Holder,391485,Alei Nao,524247,"Nao to Holder, 1 run ",2nd innings,Shai Hope,581379,Norman Vanua,524253,41.1,run,197,1,197/4,"Nao to Holder, 1 run",,,4
+494,248,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,41.2,no run,197,0,197/4,"Nao to Hope, no run",,,4
+495,249,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,41.3,no run,197,0,197/4,"Nao to Hope, no run",,,4
+496,250,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,41.4,no run,197,0,197/4,"Nao to Hope, no run",,,4
+497,251,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,41.5,no run,197,0,197/4,"Nao to Hope, no run",,,4
+498,252,Shai Hope,581379,Alei Nao,524247,"Nao to Hope, no run ",2nd innings,Jason Holder,391485,Norman Vanua,524253,41.6,no run,197,0,197/4,"Nao to Hope, no run",,,4
+499,253,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,42.1,run,198,1,198/4,"Vanua to Holder, 1 run",,,4
+500,254,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,42.2,no run,198,0,198/4,"Vanua to Hope, no run",,,4
+501,255,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,42.3,no run,198,0,198/4,"Vanua to Hope, no run",,,4
+502,255,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 wide ",2nd innings,Jason Holder,391485,Alei Nao,524247,42.3,wide,199,1,199/4,"Vanua to Hope, 1 wide",,,4
+503,256,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, no run ",2nd innings,Jason Holder,391485,Alei Nao,524247,42.4,no run,199,0,199/4,"Vanua to Hope, no run",,,4
+504,257,Shai Hope,581379,Norman Vanua,524253,"Vanua to Hope, 1 run ",2nd innings,Jason Holder,391485,Alei Nao,524247,42.5,run,200,1,200/4,"Vanua to Hope, 1 run",,,4
+505,258,Jason Holder,391485,Norman Vanua,524253,"Vanua to Holder, 1 run ",2nd innings,Shai Hope,581379,Alei Nao,524247,42.6,run,200,1,200/4,"Vanua to Holder, 1 run",,,4

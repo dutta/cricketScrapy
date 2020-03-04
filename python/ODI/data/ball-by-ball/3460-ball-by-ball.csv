@@ -1,522 +1,522 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,1,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,0.1,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
-1,2,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,0.2,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
-2,3,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,0.3,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
-3,4,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,0.4,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
-4,5,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, OUT ",1st innings,0.5,out,0,0,0/1,"Onyango to Myburgh, OUT",,,1
-5,6,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,0.6,no run,0,0,0/1,"Onyango to Barresi, no run",,,1
-6,7,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,1.1,no run,0,0,0/1,"Odhiambo to Szwarczynski, no run",,,1
-7,8,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,1.2,four,4,4,4/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
-8,9,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,1.3,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
-9,10,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,1.4,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
-10,11,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,1.5,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
-11,12,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, 1 run ",1st innings,1.6,run,5,1,5/1,"Odhiambo to Szwarczynski, 1 run",,,1
-12,13,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,2.1,no run,5,0,5/1,"Onyango to Szwarczynski, no run",,,1
-13,14,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,2.2,no run,5,0,5/1,"Onyango to Szwarczynski, no run",,,1
-14,15,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, FOUR runs ",1st innings,2.3,four,9,4,9/1,"Onyango to Szwarczynski, FOUR runs",,,1
-15,16,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,2.4,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
-16,17,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,2.5,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
-17,18,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,2.6,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
-18,19,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,3.1,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
-19,20,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,3.2,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
-20,21,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,3.3,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
-21,22,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,3.4,run,10,1,10/1,"Odhiambo to Barresi, 1 run",,,1
-22,23,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,3.5,no run,10,0,10/1,"Odhiambo to Szwarczynski, no run",,,1
-23,24,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,3.6,no run,10,0,10/1,"Odhiambo to Szwarczynski, no run",,,1
-24,25,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,4.1,run,12,2,12/1,"Onyango to Barresi, 2 runs",,,1
-25,26,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,4.2,no run,12,0,12/1,"Onyango to Barresi, no run",,,1
-26,27,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,4.3,run,13,1,13/1,"Onyango to Barresi, 1 run",,,1
-27,28,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,4.4,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
-28,29,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,4.5,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
-29,30,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,4.6,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
-30,31,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,5.1,no run,13,0,13/1,"Odhiambo to Barresi, no run",,,1
-31,32,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,5.2,no run,13,0,13/1,"Odhiambo to Barresi, no run",,,1
-32,33,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 3 runs ",1st innings,5.3,run,16,3,16/1,"Odhiambo to Barresi, 3 runs",,,1
-33,34,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,5.4,four,20,4,20/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
-34,35,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,5.5,no run,20,0,20/1,"Odhiambo to Szwarczynski, no run",,,1
-35,36,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,5.6,no run,20,0,20/1,"Odhiambo to Szwarczynski, no run",,,1
-36,37,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,6.1,no run,20,0,20/1,"Onyango to Barresi, no run",,,1
-37,38,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,6.2,no run,20,0,20/1,"Onyango to Barresi, no run",,,1
-38,39,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 3 runs ",1st innings,6.3,run,23,3,23/1,"Onyango to Barresi, 3 runs",,,1
-39,40,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 2 runs ",1st innings,6.4,run,25,2,25/1,"Onyango to Szwarczynski, 2 runs",,,1
-40,41,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,6.5,no run,25,0,25/1,"Onyango to Szwarczynski, no run",,,1
-41,42,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,6.6,no run,25,0,25/1,"Onyango to Szwarczynski, no run",,,1
-42,43,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,7.1,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
-43,44,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,7.2,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
-44,45,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,7.3,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
-45,46,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,7.4,run,26,1,26/1,"Odhiambo to Barresi, 1 run",,,1
-46,47,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,7.5,four,30,4,30/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
-47,48,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, 1 run ",1st innings,7.6,run,31,1,31/1,"Odhiambo to Szwarczynski, 1 run",,,1
-48,49,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,8.1,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
-49,50,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,8.2,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
-50,51,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,8.3,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
-51,52,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,8.4,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
-52,52,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 wide ",1st innings,8.4,wide,32,1,32/1,"Onyango to Szwarczynski, 1 wide",,,1
-53,53,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,8.5,no run,32,0,32/1,"Onyango to Szwarczynski, no run",,,1
-54,54,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 run ",1st innings,8.6,run,33,1,33/1,"Onyango to Szwarczynski, 1 run",,,1
-55,55,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,9.1,run,34,1,34/1,"Varaiya to Szwarczynski, 1 run",,,1
-56,56,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,9.2,run,35,1,35/1,"Varaiya to Barresi, 1 run",,,1
-57,57,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,9.3,run,36,1,36/1,"Varaiya to Szwarczynski, 1 run",,,1
-58,58,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,9.4,run,37,1,37/1,"Varaiya to Barresi, 1 run",,,1
-59,59,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,9.5,no run,37,0,37/1,"Varaiya to Szwarczynski, no run",,,1
-60,60,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,9.6,run,38,1,38/1,"Varaiya to Szwarczynski, 1 run",,,1
-61,61,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,10.1,no run,38,0,38/1,"Onyango to Szwarczynski, no run",,,1
-62,62,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,10.2,no run,38,0,38/1,"Onyango to Szwarczynski, no run",,,1
-63,63,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 run ",1st innings,10.3,run,39,1,39/1,"Onyango to Szwarczynski, 1 run",,,1
-64,64,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,10.4,no run,39,0,39/1,"Onyango to Barresi, no run",,,1
-65,65,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,10.5,no run,39,0,39/1,"Onyango to Barresi, no run",,,1
-66,66,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,10.6,run,40,1,40/1,"Onyango to Barresi, 1 run",,,1
-67,67,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,11.1,no run,40,0,40/1,"Odoyo to Barresi, no run",,,1
-68,68,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,11.2,no run,40,0,40/1,"Odoyo to Barresi, no run",,,1
-69,69,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,11.3,four,44,4,44/1,"Odoyo to Barresi, FOUR runs",,,1
-70,70,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,11.4,no run,44,0,44/1,"Odoyo to Barresi, no run",,,1
-71,71,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,11.5,run,45,1,45/1,"Odoyo to Barresi, 1 run",,,1
-72,71,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 wide ",1st innings,11.5,wide,46,1,46/1,"Odoyo to Szwarczynski, 1 wide",,,1
-73,72,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 run ",1st innings,11.6,run,47,1,47/1,"Odoyo to Szwarczynski, 1 run",,,1
-74,73,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,12.1,no run,47,0,47/1,"Aga to Szwarczynski, no run",,,1
-75,74,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,12.2,run,48,1,48/1,"Aga to Szwarczynski, 1 run",,,1
-76,75,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,12.3,no run,48,0,48/1,"Aga to Barresi, no run",,,1
-77,76,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,12.4,run,49,1,49/1,"Aga to Barresi, 1 run",,,1
-78,77,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,12.5,run,50,1,50/1,"Aga to Szwarczynski, 1 run",,,1
-79,78,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,12.6,run,51,1,51/1,"Aga to Barresi, 1 run",,,1
-80,79,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, SIX runs ",1st innings,13.1,six,57,6,57/1,"Odoyo to Barresi, SIX runs",,,1
-81,80,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,13.2,no run,57,0,57/1,"Odoyo to Barresi, no run",,,1
-82,81,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,13.3,no run,57,0,57/1,"Odoyo to Barresi, no run",,,1
-83,82,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,13.4,four,61,4,61/1,"Odoyo to Barresi, FOUR runs",,,1
-84,83,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,13.5,no run,61,0,61/1,"Odoyo to Barresi, no run",,,1
-85,84,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,13.6,no run,61,0,61/1,"Odoyo to Barresi, no run",,,1
-86,85,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,14.1,no run,61,0,61/1,"Aga to Szwarczynski, no run",,,1
-87,86,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,14.2,no run,61,0,61/1,"Aga to Szwarczynski, no run",,,1
-88,87,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,14.3,run,62,1,62/1,"Aga to Szwarczynski, 1 run",,,1
-89,88,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,14.4,no run,62,0,62/1,"Aga to Barresi, no run",,,1
-90,89,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,14.5,no run,62,0,62/1,"Aga to Barresi, no run",,,1
-91,90,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,14.6,run,63,1,63/1,"Aga to Barresi, 1 run",,,1
-92,91,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,15.1,no run,63,0,63/1,"Odoyo to Barresi, no run",,,1
-93,92,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,15.2,no run,63,0,63/1,"Odoyo to Barresi, no run",,,1
-94,93,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,15.3,run,64,1,64/1,"Odoyo to Barresi, 1 run",,,1
-95,94,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 run ",1st innings,15.4,run,65,1,65/1,"Odoyo to Szwarczynski, 1 run",,,1
-96,95,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,15.5,no run,65,0,65/1,"Odoyo to Barresi, no run",,,1
-97,96,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,15.6,run,66,1,66/1,"Odoyo to Barresi, 1 run",,,1
-98,97,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,16.1,no run,66,0,66/1,"Aga to Barresi, no run",,,1
-99,98,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,16.2,run,67,1,67/1,"Aga to Barresi, 1 run",,,1
-100,99,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,16.3,run,68,1,68/1,"Aga to Szwarczynski, 1 run",,,1
-101,100,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,16.4,four,72,4,72/1,"Aga to Barresi, FOUR runs",,,1
-102,101,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,16.5,run,73,1,73/1,"Aga to Barresi, 1 run",,,1
-103,102,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,16.6,no run,73,0,73/1,"Aga to Szwarczynski, no run",,,1
-104,103,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,17.1,no run,73,0,73/1,"Odoyo to Barresi, no run",,,1
-105,104,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,17.2,run,74,1,74/1,"Odoyo to Barresi, 1 run",,,1
-106,105,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 2 runs ",1st innings,17.3,run,76,2,76/1,"Odoyo to Szwarczynski, 2 runs",,,1
-107,106,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,17.4,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
-108,107,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,17.5,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
-109,108,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,17.6,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
-110,109,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,18.1,no run,76,0,76/1,"Aga to Barresi, no run",,,1
-111,110,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,18.2,no run,76,0,76/1,"Aga to Barresi, no run",,,1
-112,111,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,18.3,no run,76,0,76/1,"Aga to Barresi, no run",,,1
-113,112,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,18.4,no run,76,0,76/1,"Aga to Barresi, no run",,,1
-114,113,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,18.5,run,77,1,77/1,"Aga to Barresi, 1 run",,,1
-115,114,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,18.6,run,78,1,78/1,"Aga to Szwarczynski, 1 run",,,1
-116,115,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,19.1,no run,78,0,78/1,"Odoyo to Szwarczynski, no run",,,1
-117,116,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,19.2,no run,78,0,78/1,"Odoyo to Szwarczynski, no run",,,1
-118,117,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 leg bye ",1st innings,19.3,leg bye,79,1,79/1,"Odoyo to Szwarczynski, 1 leg bye",,,1
-119,118,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,19.4,four,83,4,83/1,"Odoyo to Barresi, FOUR runs",,,1
-120,119,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,19.5,run,84,1,84/1,"Odoyo to Barresi, 1 run",,,1
-121,120,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,19.6,no run,84,0,84/1,"Odoyo to Szwarczynski, no run",,,1
-122,121,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,20.1,no run,84,0,84/1,"Aga to Barresi, no run",,,1
-123,122,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,20.2,no run,84,0,84/1,"Aga to Barresi, no run",,,1
-124,123,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,20.3,run,85,1,85/1,"Aga to Barresi, 1 run",,,1
-125,124,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,20.4,no run,85,0,85/1,"Aga to Szwarczynski, no run",,,1
-126,125,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,20.5,no run,85,0,85/1,"Aga to Szwarczynski, no run",,,1
-127,126,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,20.6,run,86,1,86/1,"Aga to Szwarczynski, 1 run",,,1
-128,127,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,21.1,no run,86,0,86/1,"Varaiya to Szwarczynski, no run",,,1
-129,128,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,21.2,run,87,1,87/1,"Varaiya to Szwarczynski, 1 run",,,1
-130,129,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,21.3,no run,87,0,87/1,"Varaiya to Barresi, no run",,,1
-131,130,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,21.4,no run,87,0,87/1,"Varaiya to Barresi, no run",,,1
-132,131,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,21.5,run,88,1,88/1,"Varaiya to Barresi, 1 run",,,1
-133,132,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,21.6,no run,88,0,88/1,"Varaiya to Szwarczynski, no run",,,1
-134,133,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, FOUR runs ",1st innings,22.1,four,92,4,92/1,"Tikolo to Barresi, FOUR runs",,,1
-135,134,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,22.2,run,93,1,93/1,"Tikolo to Barresi, 1 run",,,1
-136,135,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,22.3,run,94,1,94/1,"Tikolo to Szwarczynski, 1 run",,,1
-137,136,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,22.4,no run,94,0,94/1,"Tikolo to Barresi, no run",,,1
-138,137,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,22.5,run,96,2,96/1,"Tikolo to Barresi, 2 runs",,,1
-139,138,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,22.6,run,97,1,97/1,"Tikolo to Barresi, 1 run",,,1
-140,139,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,23.1,run,98,1,98/1,"Varaiya to Barresi, 1 run",,,1
-141,140,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,23.2,run,99,1,99/1,"Varaiya to Szwarczynski, 1 run",,,1
-142,141,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,23.3,run,100,1,100/1,"Varaiya to Barresi, 1 run",,,1
-143,142,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,23.4,no run,100,0,100/1,"Varaiya to Szwarczynski, no run",,,1
-144,143,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,23.5,run,101,1,101/1,"Varaiya to Szwarczynski, 1 run",,,1
-145,144,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,23.6,no run,101,0,101/1,"Varaiya to Barresi, no run",,,1
-146,145,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,24.1,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
-147,146,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,24.2,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
-148,147,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,24.3,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
-149,148,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 leg bye ",1st innings,24.4,leg bye,102,1,102/1,"Tikolo to Szwarczynski, 1 leg bye",,,1
-150,149,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,24.5,no run,102,0,102/1,"Tikolo to Barresi, no run",,,1
-151,150,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,24.6,no run,102,0,102/1,"Tikolo to Barresi, no run",,,1
-152,151,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, FOUR runs ",1st innings,25.1,four,106,4,106/1,"Varaiya to Szwarczynski, FOUR runs",,,1
-153,152,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,25.2,no run,106,0,106/1,"Varaiya to Szwarczynski, no run",,,1
-154,153,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,25.3,run,107,1,107/1,"Varaiya to Szwarczynski, 1 run",,,1
-155,154,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,25.4,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
-156,155,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,25.5,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
-157,156,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,25.6,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
-158,157,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,26.1,run,108,1,108/1,"Tikolo to Szwarczynski, 1 run",,,1
-159,158,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,26.2,run,109,1,109/1,"Tikolo to Barresi, 1 run",,,1
-160,159,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,26.3,run,110,1,110/1,"Tikolo to Szwarczynski, 1 run",,,1
-161,160,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,26.4,run,112,2,112/1,"Tikolo to Barresi, 2 runs",,,1
-162,161,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,26.5,run,113,1,113/1,"Tikolo to Barresi, 1 run",,,1
-163,162,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,26.6,run,114,1,114/1,"Tikolo to Szwarczynski, 1 run",,,1
-164,163,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,27.1,no run,114,0,114/1,"Varaiya to Szwarczynski, no run",,,1
-165,164,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,27.2,run,115,1,115/1,"Varaiya to Szwarczynski, 1 run",,,1
-166,165,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,27.3,run,116,1,116/1,"Varaiya to Barresi, 1 run",,,1
-167,166,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,27.4,no run,116,0,116/1,"Varaiya to Szwarczynski, no run",,,1
-168,167,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,27.5,run,117,1,117/1,"Varaiya to Szwarczynski, 1 run",,,1
-169,168,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 2 runs ",1st innings,27.6,run,119,2,119/1,"Varaiya to Barresi, 2 runs",,,1
-170,169,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,28.1,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
-171,170,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,28.2,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
-172,171,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,28.3,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
-173,172,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,28.4,run,120,1,120/1,"Tikolo to Szwarczynski, 1 run",,,1
-174,173,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,28.5,no run,120,0,120/1,"Tikolo to Barresi, no run",,,1
-175,174,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,28.6,no run,120,0,120/1,"Tikolo to Barresi, no run",,,1
-176,175,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,29.1,run,121,1,121/1,"Varaiya to Szwarczynski, 1 run",,,1
-177,176,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,29.2,run,122,1,122/1,"Varaiya to Barresi, 1 run",,,1
-178,177,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 2 runs ",1st innings,29.3,run,124,2,124/1,"Varaiya to Szwarczynski, 2 runs",,,1
-179,178,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,29.4,run,125,1,125/1,"Varaiya to Szwarczynski, 1 run",,,1
-180,179,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,29.5,run,126,1,126/1,"Varaiya to Barresi, 1 run",,,1
-181,180,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,29.6,no run,126,0,126/1,"Varaiya to Szwarczynski, no run",,,1
-182,181,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, FOUR runs ",1st innings,30.1,four,130,4,130/1,"Tikolo to Barresi, FOUR runs",,,1
-183,182,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,30.2,run,131,1,131/1,"Tikolo to Barresi, 1 run",,,1
-184,183,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,30.3,no run,131,0,131/1,"Tikolo to Szwarczynski, no run",,,1
-185,184,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,30.4,no run,131,0,131/1,"Tikolo to Szwarczynski, no run",,,1
-186,185,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 3 runs ",1st innings,30.5,run,134,3,134/1,"Tikolo to Szwarczynski, 3 runs",,,1
-187,186,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,30.6,run,135,1,135/1,"Tikolo to Barresi, 1 run",,,1
-188,187,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,31.1,run,136,1,136/1,"Varaiya to Barresi, 1 run",,,1
-189,188,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,31.2,no run,136,0,136/1,"Varaiya to Szwarczynski, no run",,,1
-190,189,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, OUT ",1st innings,31.3,out,136,0,136/2,"Varaiya to Szwarczynski, OUT",,,2
-191,190,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, no run ",1st innings,31.4,no run,136,0,136/2,"Varaiya to Borren, no run",,,2
-192,191,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, FOUR runs ",1st innings,31.5,four,140,4,140/2,"Varaiya to Borren, FOUR runs",,,2
-193,192,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, no run ",1st innings,31.6,no run,140,0,140/2,"Varaiya to Borren, no run",,,2
-194,193,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,32.1,run,142,2,142/2,"Tikolo to Barresi, 2 runs",,,2
-195,194,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,32.2,run,143,1,143/2,"Tikolo to Barresi, 1 run",,,2
-196,195,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,32.3,no run,143,0,143/2,"Tikolo to Borren, no run",,,2
-197,196,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,32.4,no run,143,0,143/2,"Tikolo to Borren, no run",,,2
-198,197,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 1 run ",1st innings,32.5,run,144,1,144/2,"Tikolo to Borren, 1 run",,,2
-199,198,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,32.6,no run,144,0,144/2,"Tikolo to Barresi, no run",,,2
-200,199,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, SIX runs ",1st innings,33.1,six,150,6,150/2,"Varaiya to Borren, SIX runs",,,2
-201,200,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, 1 run ",1st innings,33.2,run,151,1,151/2,"Varaiya to Borren, 1 run",,,2
-202,201,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,33.3,no run,151,0,151/2,"Varaiya to Barresi, no run",,,2
-203,202,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,33.4,no run,151,0,151/2,"Varaiya to Barresi, no run",,,2
-204,203,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,33.5,run,152,1,152/2,"Varaiya to Barresi, 1 run",,,2
-205,204,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, 1 run ",1st innings,33.6,run,153,1,153/2,"Varaiya to Borren, 1 run",,,2
-206,205,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,34.1,no run,153,0,153/2,"Tikolo to Borren, no run",,,2
-207,206,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 3 runs ",1st innings,34.2,run,156,3,156/2,"Tikolo to Borren, 3 runs",,,2
-208,207,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,34.3,no run,156,0,156/2,"Tikolo to Barresi, no run",,,2
-209,208,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,34.4,no run,156,0,156/2,"Tikolo to Barresi, no run",,,2
-210,209,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,34.5,run,157,1,157/2,"Tikolo to Barresi, 1 run",,,2
-211,210,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,34.6,no run,157,0,157/2,"Tikolo to Borren, no run",,,2
-212,211,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 2 runs ",1st innings,35.1,run,159,2,159/2,"Odoyo to Barresi, 2 runs",,,2
-213,212,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,35.2,no run,159,0,159/2,"Odoyo to Barresi, no run",,,2
-214,213,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,35.3,no run,159,0,159/2,"Odoyo to Barresi, no run",,,2
-215,214,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,35.4,run,160,1,160/2,"Odoyo to Barresi, 1 run",,,2
-216,215,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, 1 run ",1st innings,35.5,run,161,1,161/2,"Odoyo to Borren, 1 run",,,2
-217,216,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,35.6,run,162,1,162/2,"Odoyo to Barresi, 1 run",,,2
-218,217,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,36.1,run,163,1,163/2,"Tikolo to Barresi, 1 run",,,2
-219,218,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,36.2,no run,163,0,163/2,"Tikolo to Borren, no run",,,2
-220,219,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 1 run ",1st innings,36.3,run,164,1,164/2,"Tikolo to Borren, 1 run",,,2
-221,220,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,36.4,no run,164,0,164/2,"Tikolo to Barresi, no run",,,2
-222,221,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,36.5,no run,164,0,164/2,"Tikolo to Barresi, no run",,,2
-223,222,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,36.6,run,165,1,165/2,"Tikolo to Barresi, 1 run",,,2
-224,223,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,37.1,run,166,1,166/2,"Odoyo to Barresi, 1 run",,,2
-225,224,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, FOUR runs ",1st innings,37.2,four,170,4,170/2,"Odoyo to Borren, FOUR runs",,,2
-226,225,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, SIX runs ",1st innings,37.3,six,176,6,176/2,"Odoyo to Borren, SIX runs",,,2
-227,226,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, OUT ",1st innings,37.4,out,176,0,176/3,"Odoyo to Borren, OUT",,,3
-228,227,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, no run ",1st innings,37.5,no run,176,0,176/3,"Odoyo to Swart, no run",,,3
-229,228,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,37.6,run,177,1,177/3,"Odoyo to Swart, 1 run",,,3
-230,229,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,38.1,no run,177,0,177/3,"Tikolo to Swart, no run",,,3
-231,230,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, 1 run ",1st innings,38.2,run,178,1,178/3,"Tikolo to Swart, 1 run",,,3
-232,231,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,38.3,no run,178,0,178/3,"Tikolo to Barresi, no run",,,3
-233,232,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,38.4,no run,178,0,178/3,"Tikolo to Barresi, no run",,,3
-234,233,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,38.5,run,179,1,179/3,"Tikolo to Barresi, 1 run",,,3
-235,234,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,38.6,no run,179,0,179/3,"Tikolo to Swart, no run",,,3
-236,235,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,39.1,run,180,1,180/3,"Odoyo to Barresi, 1 run",,,3
-237,236,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,39.2,run,181,1,181/3,"Odoyo to Swart, 1 run",,,3
-238,237,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,39.3,run,182,1,182/3,"Odoyo to Barresi, 1 run",,,3
-239,238,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,39.4,run,183,1,183/3,"Odoyo to Swart, 1 run",,,3
-240,239,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,39.5,run,184,1,184/3,"Odoyo to Barresi, 1 run",,,3
-241,240,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, FOUR runs ",1st innings,39.6,four,188,4,188/3,"Odoyo to Swart, FOUR runs",,,3
-242,241,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,40.1,run,189,1,189/3,"Tikolo to Barresi, 1 run",,,3
-243,242,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, 1 run ",1st innings,40.2,run,190,1,190/3,"Tikolo to Swart, 1 run",,,3
-244,243,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,40.3,no run,190,0,190/3,"Tikolo to Barresi, no run",,,3
-245,244,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,40.4,run,191,1,191/3,"Tikolo to Barresi, 1 run",,,3
-246,245,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,40.5,no run,191,0,191/3,"Tikolo to Swart, no run",,,3
-247,246,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,40.6,no run,191,0,191/3,"Tikolo to Swart, no run",,,3
-248,247,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,41.1,no run,191,0,191/3,"Varaiya to Barresi, no run",,,3
-249,248,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,41.2,no run,191,0,191/3,"Varaiya to Barresi, no run",,,3
-250,249,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 2 runs ",1st innings,41.3,run,193,2,193/3,"Varaiya to Barresi, 2 runs",,,3
-251,250,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,41.4,no run,193,0,193/3,"Varaiya to Barresi, no run",,,3
-252,251,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,41.5,run,194,1,194/3,"Varaiya to Barresi, 1 run",,,3
-253,252,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 leg bye ",1st innings,41.6,leg bye,195,1,195/3,"Varaiya to Swart, 1 leg bye",,,3
-254,253,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, FOUR runs ",1st innings,42.1,four,199,4,199/3,"Onyango to Swart, FOUR runs",,,3
-255,254,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,42.2,run,200,1,200/3,"Onyango to Swart, 1 run",,,3
-256,255,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,42.3,run,201,1,201/3,"Onyango to Barresi, 1 run",,,3
-257,256,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,42.4,run,202,1,202/3,"Onyango to Swart, 1 run",,,3
-258,257,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,42.5,run,203,1,203/3,"Onyango to Barresi, 1 run",,,3
-259,258,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 2 runs ",1st innings,42.6,run,205,2,205/3,"Onyango to Swart, 2 runs",,,3
-260,259,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,43.1,run,206,1,206/3,"Varaiya to Barresi, 1 run",,,3
-261,260,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 run ",1st innings,43.2,run,207,1,207/3,"Varaiya to Swart, 1 run",,,3
-262,261,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,43.3,run,208,1,208/3,"Varaiya to Barresi, 1 run",,,3
-263,262,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, no run ",1st innings,43.4,no run,208,0,208/3,"Varaiya to Swart, no run",,,3
-264,263,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 run ",1st innings,43.5,run,209,1,209/3,"Varaiya to Swart, 1 run",,,3
-265,264,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,43.6,no run,209,0,209/3,"Varaiya to Barresi, no run",,,3
-266,265,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,44.1,run,210,1,210/3,"Onyango to Swart, 1 run",,,3
-267,266,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,44.2,run,211,1,211/3,"Onyango to Barresi, 1 run",,,3
-268,266,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 no ball ",1st innings,44.2,no ball,212,1,212/3,"Onyango to Swart, 1 no ball",,,3
-269,267,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, FOUR runs ",1st innings,44.3,four,216,4,216/3,"Onyango to Swart, FOUR runs",,,3
-270,268,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,44.4,run,217,1,217/3,"Onyango to Swart, 1 run",,,3
-271,269,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,44.5,run,218,1,218/3,"Onyango to Barresi, 1 run",,,3
-272,270,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,44.6,run,219,1,219/3,"Onyango to Swart, 1 run",,,3
-273,271,Michael Swart,308794,Ragheb Aga,24716,"Aga to Swart, 1 run ",1st innings,45.1,run,220,1,220/3,"Aga to Swart, 1 run",,,3
-274,272,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,45.2,four,224,4,224/3,"Aga to Barresi, FOUR runs",,,3
-275,273,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,45.3,no run,224,0,224/3,"Aga to Barresi, no run",,,3
-276,274,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,45.4,four,228,4,228/3,"Aga to Barresi, FOUR runs",,,3
-277,275,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,45.5,run,229,1,229/3,"Aga to Barresi, 1 run",,,3
-278,276,Michael Swart,308794,Ragheb Aga,24716,"Aga to Swart, 1 run ",1st innings,45.6,run,230,1,230/3,"Aga to Swart, 1 run",,,3
-279,277,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,46.1,run,231,1,231/3,"Onyango to Swart, 1 run",,,3
-280,278,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,46.2,run,232,1,232/3,"Onyango to Barresi, 1 run",,,3
-281,279,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, OUT ",1st innings,46.3,out,232,0,232/4,"Onyango to Swart, OUT",,,4
-282,280,Mudassar Bukhari,245166,Lameck Onyango,24711,"Onyango to Mudassar Bukhari, 1 run ",1st innings,46.4,run,233,1,233/4,"Onyango to Mudassar Bukhari, 1 run",,,4
-283,281,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,46.5,no run,233,0,233/4,"Onyango to Barresi, no run",,,4
-284,282,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,46.6,run,235,2,235/4,"Onyango to Barresi, 2 runs",,,4
-285,283,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,47.1,run,236,1,236/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
-286,284,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,47.2,run,237,1,237/4,"Odhiambo to Barresi, 1 run",,,4
-287,285,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,47.3,run,238,1,238/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
-288,286,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,47.4,run,239,1,239/4,"Odhiambo to Barresi, 1 run",,,4
-289,287,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,47.5,run,240,1,240/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
-290,288,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, OUT ",1st innings,47.6,out,240,0,240/5,"Odhiambo to Barresi, OUT",,,5
-291,289,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,48.1,run,241,1,241/5,"Onyango to Barresi, 1 run",,,5
-292,290,Ben Cooper,470699,Lameck Onyango,24711,"Onyango to Cooper, 1 leg bye ",1st innings,48.2,leg bye,242,1,242/5,"Onyango to Cooper, 1 leg bye",,,5
-293,291,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,48.3,no run,242,0,242/5,"Onyango to Barresi, no run",,,5
-294,292,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,48.4,run,244,2,244/5,"Onyango to Barresi, 2 runs",,,5
-295,293,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, SIX runs ",1st innings,48.5,six,250,6,250/5,"Onyango to Barresi, SIX runs",,,5
-296,294,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,48.6,no run,250,0,250/5,"Onyango to Barresi, no run",,,5
-297,295,Ben Cooper,470699,Nehemiah Odhiambo,238612,"Odhiambo to Cooper, 3 runs ",1st innings,49.1,run,253,3,253/5,"Odhiambo to Cooper, 3 runs",,,5
-298,296,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,49.2,no run,253,0,253/5,"Odhiambo to Barresi, no run",,,5
-299,297,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,49.3,four,257,4,257/5,"Odhiambo to Barresi, FOUR runs",,,5
-300,298,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,49.4,four,261,4,261/5,"Odhiambo to Barresi, FOUR runs",,,5
-301,299,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,49.5,four,265,4,265/5,"Odhiambo to Barresi, FOUR runs",,,5
-302,300,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, OUT ",1st innings,49.6,out,265,0,265/5,"Odhiambo to Barresi, OUT",,,5
-303,1,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,0.1,four,4,4,4/0,"Mudassar Bukhari to Karim, FOUR runs",,,0
-304,2,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,0.2,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
-305,3,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,0.3,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
-306,4,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,0.4,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
-307,5,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,0.5,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
-308,6,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,0.6,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
-309,7,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,1.1,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
-310,8,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,1.2,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
-311,9,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,1.3,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
-312,10,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,1.4,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
-313,11,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 1 run ",2nd innings,1.5,run,5,1,5/0,"van Meekeren to Obanda, 1 run",,,0
-314,12,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, no run ",2nd innings,1.6,no run,5,0,5/0,"van Meekeren to Karim, no run",,,0
-315,13,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, 4 leg byes ",2nd innings,2.1,leg bye,9,4,9/0,"Mudassar Bukhari to Obanda, 4 leg byes",,,0
-316,14,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, no run ",2nd innings,2.2,no run,9,0,9/0,"Mudassar Bukhari to Obanda, no run",,,0
-317,15,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, no run ",2nd innings,2.3,no run,9,0,9/0,"Mudassar Bukhari to Obanda, no run",,,0
-318,16,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, 1 run ",2nd innings,2.4,run,10,1,10/0,"Mudassar Bukhari to Obanda, 1 run",,,0
-319,17,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 2 runs ",2nd innings,2.5,run,12,2,12/0,"Mudassar Bukhari to Karim, 2 runs",,,0
-320,18,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,2.6,four,16,4,16/0,"Mudassar Bukhari to Karim, FOUR runs",,,0
-321,19,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,3.1,no run,16,0,16/0,"van Meekeren to Obanda, no run",,,0
-322,20,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 2 runs ",2nd innings,3.2,run,18,2,18/0,"van Meekeren to Obanda, 2 runs",,,0
-323,21,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 1 run ",2nd innings,3.3,run,19,1,19/0,"van Meekeren to Obanda, 1 run",,,0
-324,22,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, no run ",2nd innings,3.4,no run,19,0,19/0,"van Meekeren to Karim, no run",,,0
-325,23,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, FOUR runs ",2nd innings,3.5,four,23,4,23/0,"van Meekeren to Karim, FOUR runs",,,0
-326,24,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, FOUR runs ",2nd innings,3.6,four,27,4,27/0,"van Meekeren to Karim, FOUR runs",,,0
-327,25,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, OUT ",2nd innings,4.1,out,27,0,27/1,"Mudassar Bukhari to Obanda, OUT",,,1
-328,26,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, no run ",2nd innings,4.2,no run,27,0,27/1,"Mudassar Bukhari to Aga, no run",,,1
-329,27,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, FOUR runs ",2nd innings,4.3,four,31,4,31/1,"Mudassar Bukhari to Aga, FOUR runs",,,1
-330,28,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,4.4,run,32,1,32/1,"Mudassar Bukhari to Aga, 1 run",,,1
-331,29,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,4.5,no run,32,0,32/1,"Mudassar Bukhari to Karim, no run",,,1
-332,30,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,4.6,four,36,4,36/1,"Mudassar Bukhari to Karim, FOUR runs",,,1
-333,31,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,5.1,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
-334,32,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,5.2,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
-335,33,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,5.3,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
-336,34,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,5.4,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
-337,35,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,5.5,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
-338,36,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,5.6,four,40,4,40/1,"van Meekeren to Aga, FOUR runs",,,1
-339,37,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,6.1,run,41,1,41/1,"Mudassar Bukhari to Karim, 1 run",,,1
-340,38,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,6.2,run,42,1,42/1,"Mudassar Bukhari to Aga, 1 run",,,1
-341,39,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,6.3,run,43,1,43/1,"Mudassar Bukhari to Karim, 1 run",,,1
-342,40,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 2 runs ",2nd innings,6.4,run,45,2,45/1,"Mudassar Bukhari to Aga, 2 runs",,,1
-343,41,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,6.5,run,46,1,46/1,"Mudassar Bukhari to Aga, 1 run",,,1
-344,42,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,6.6,four,50,4,50/1,"Mudassar Bukhari to Karim, FOUR runs",,,1
-345,43,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,7.1,no run,50,0,50/1,"van Meekeren to Aga, no run",,,1
-346,44,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,7.2,no run,50,0,50/1,"van Meekeren to Aga, no run",,,1
-347,45,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,7.3,four,54,4,54/1,"van Meekeren to Aga, FOUR runs",,,1
-348,46,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,7.4,four,58,4,58/1,"van Meekeren to Aga, FOUR runs",,,1
-349,47,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,7.5,no run,58,0,58/1,"van Meekeren to Aga, no run",,,1
-350,48,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, 1 run ",2nd innings,7.6,run,59,1,59/1,"van Meekeren to Aga, 1 run",,,1
-351,49,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,8.1,run,60,1,60/1,"Swart to Aga, 1 run",,,1
-352,50,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, FOUR runs ",2nd innings,8.2,four,64,4,64/1,"Swart to Karim, FOUR runs",,,1
-353,51,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,8.3,run,65,1,65/1,"Swart to Karim, 1 run",,,1
-354,52,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,8.4,run,66,1,66/1,"Swart to Aga, 1 run",,,1
-355,53,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,8.5,no run,66,0,66/1,"Swart to Karim, no run",,,1
-356,54,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,8.6,no run,66,0,66/1,"Swart to Karim, no run",,,1
-357,55,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,9.1,run,67,1,67/1,"Ahsan Malik to Aga, 1 run",,,1
-358,56,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,9.2,no run,67,0,67/1,"Ahsan Malik to Karim, no run",,,1
-359,57,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,9.3,run,68,1,68/1,"Ahsan Malik to Karim, 1 run",,,1
-360,58,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,9.4,four,72,4,72/1,"Ahsan Malik to Aga, FOUR runs",,,1
-361,59,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,9.5,no run,72,0,72/1,"Ahsan Malik to Aga, no run",,,1
-362,60,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,9.6,four,76,4,76/1,"Ahsan Malik to Aga, FOUR runs",,,1
-363,61,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,10.1,run,77,1,77/1,"Swart to Karim, 1 run",,,1
-364,62,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,10.2,run,78,1,78/1,"Swart to Aga, 1 run",,,1
-365,63,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 2 runs ",2nd innings,10.3,run,80,2,80/1,"Swart to Karim, 2 runs",,,1
-366,64,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,10.4,no run,80,0,80/1,"Swart to Karim, no run",,,1
-367,65,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, FOUR runs ",2nd innings,10.5,four,84,4,84/1,"Swart to Karim, FOUR runs",,,1
-368,66,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,10.6,run,85,1,85/1,"Swart to Karim, 1 run",,,1
-369,67,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 2 runs ",2nd innings,11.1,run,87,2,87/1,"Ahsan Malik to Karim, 2 runs",,,1
-370,68,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,11.2,run,88,1,88/1,"Ahsan Malik to Karim, 1 run",,,1
-371,69,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 2 runs ",2nd innings,11.3,run,90,2,90/1,"Ahsan Malik to Aga, 2 runs",,,1
-372,70,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 2 runs ",2nd innings,11.4,run,92,2,92/1,"Ahsan Malik to Aga, 2 runs",,,1
-373,71,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,11.5,run,93,1,93/1,"Ahsan Malik to Aga, 1 run",,,1
-374,72,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,11.6,no run,93,0,93/1,"Ahsan Malik to Karim, no run",,,1
-375,73,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,12.1,run,94,1,94/1,"Swart to Aga, 1 run",,,1
-376,74,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,12.2,no run,94,0,94/1,"Swart to Karim, no run",,,1
-377,75,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,12.3,run,95,1,95/1,"Swart to Karim, 1 run",,,1
-378,76,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,12.4,run,96,1,96/1,"Swart to Aga, 1 run",,,1
-379,77,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,12.5,run,97,1,97/1,"Swart to Karim, 1 run",,,1
-380,78,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,12.6,run,98,1,98/1,"Swart to Aga, 1 run",,,1
-381,79,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, FOUR runs ",2nd innings,13.1,four,102,4,102/1,"Borren to Aga, FOUR runs",,,1
-382,80,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,13.2,no run,102,0,102/1,"Borren to Aga, no run",,,1
-383,81,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,13.3,run,103,1,103/1,"Borren to Aga, 1 run",,,1
-384,82,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,13.4,run,104,1,104/1,"Borren to Karim, 1 run",,,1
-385,83,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,13.5,no run,104,0,104/1,"Borren to Aga, no run",,,1
-386,84,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,13.6,run,105,1,105/1,"Borren to Aga, 1 run",,,1
-387,85,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,14.1,run,106,1,106/1,"Swart to Aga, 1 run",,,1
-388,86,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,14.2,no run,106,0,106/1,"Swart to Karim, no run",,,1
-389,87,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,14.3,no run,106,0,106/1,"Swart to Karim, no run",,,1
-390,88,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,14.4,run,107,1,107/1,"Swart to Karim, 1 run",,,1
-391,89,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, no run ",2nd innings,14.5,no run,107,0,107/1,"Swart to Aga, no run",,,1
-392,90,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,14.6,run,108,1,108/1,"Swart to Aga, 1 run",,,1
-393,91,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,15.1,run,109,1,109/1,"Borren to Aga, 1 run",,,1
-394,92,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 2 runs ",2nd innings,15.2,run,111,2,111/1,"Borren to Karim, 2 runs",,,1
-395,93,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,15.3,run,112,1,112/1,"Borren to Karim, 1 run",,,1
-396,94,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,15.4,no run,112,0,112/1,"Borren to Aga, no run",,,1
-397,95,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,15.5,run,113,1,113/1,"Borren to Aga, 1 run",,,1
-398,96,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,15.6,run,114,1,114/1,"Borren to Karim, 1 run",,,1
-399,97,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,16.1,no run,114,0,114/1,"Swart to Karim, no run",,,1
-400,98,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,16.2,run,115,1,115/1,"Swart to Karim, 1 run",,,1
-401,99,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,16.3,run,116,1,116/1,"Swart to Aga, 1 run",,,1
-402,100,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,16.4,run,117,1,117/1,"Swart to Karim, 1 run",,,1
-403,101,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, FOUR runs ",2nd innings,16.5,four,121,4,121/1,"Swart to Aga, FOUR runs",,,1
-404,102,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 2 runs ",2nd innings,16.6,run,123,2,123/1,"Swart to Aga, 2 runs",,,1
-405,103,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, no run ",2nd innings,17.1,no run,123,0,123/1,"Borren to Karim, no run",,,1
-406,104,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, FOUR runs ",2nd innings,17.2,four,127,4,127/1,"Borren to Karim, FOUR runs",,,1
-407,105,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,17.3,run,128,1,128/1,"Borren to Karim, 1 run",,,1
-408,106,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,17.4,run,129,1,129/1,"Borren to Aga, 1 run",,,1
-409,107,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, FOUR runs ",2nd innings,17.5,four,133,4,133/1,"Borren to Karim, FOUR runs",,,1
-410,108,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, no run ",2nd innings,17.6,no run,133,0,133/1,"Borren to Karim, no run",,,1
-411,109,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,18.1,no run,133,0,133/1,"Rippon to Aga, no run",,,1
-412,110,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,18.2,no run,133,0,133/1,"Rippon to Aga, no run",,,1
-413,111,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,18.3,no run,133,0,133/1,"Rippon to Aga, no run",,,1
-414,112,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, FOUR runs ",2nd innings,18.4,four,137,4,137/1,"Rippon to Aga, FOUR runs",,,1
-415,113,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, 1 run ",2nd innings,18.5,run,138,1,138/1,"Rippon to Aga, 1 run",,,1
-416,114,Irfan Karim,348016,Michael Rippon,380956,"Rippon to Karim, FOUR runs ",2nd innings,18.6,four,142,4,142/1,"Rippon to Karim, FOUR runs",,,1
-417,115,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,19.1,no run,142,0,142/1,"Seelaar to Aga, no run",,,1
-418,116,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 2 runs ",2nd innings,19.2,run,144,2,144/1,"Seelaar to Aga, 2 runs",,,1
-419,117,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,19.3,no run,144,0,144/1,"Seelaar to Aga, no run",,,1
-420,118,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,19.4,no run,144,0,144/1,"Seelaar to Aga, no run",,,1
-421,119,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,19.5,run,145,1,145/1,"Seelaar to Aga, 1 run",,,1
-422,120,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,19.6,run,146,1,146/1,"Seelaar to Karim, 1 run",,,1
-423,121,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,20.1,no run,146,0,146/1,"Ahsan Malik to Karim, no run",,,1
-424,122,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,20.2,run,147,1,147/1,"Ahsan Malik to Karim, 1 run",,,1
-425,123,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,20.3,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
-426,124,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,20.4,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
-427,125,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,20.5,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
-428,126,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,20.6,run,148,1,148/1,"Ahsan Malik to Aga, 1 run",,,1
-429,127,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,21.1,run,149,1,149/1,"Seelaar to Aga, 1 run",,,1
-430,128,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 2 runs ",2nd innings,21.2,run,151,2,151/1,"Seelaar to Karim, 2 runs",,,1
-431,129,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,21.3,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
-432,130,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,21.4,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
-433,131,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,21.5,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
-434,132,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,21.6,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
-435,133,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,22.1,run,152,1,152/1,"Ahsan Malik to Aga, 1 run",,,1
-436,134,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,22.2,run,153,1,153/1,"Ahsan Malik to Karim, 1 run",,,1
-437,135,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,22.3,four,157,4,157/1,"Ahsan Malik to Aga, FOUR runs",,,1
-438,136,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,22.4,four,161,4,161/1,"Ahsan Malik to Aga, FOUR runs",,,1
-439,137,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,22.5,run,162,1,162/1,"Ahsan Malik to Aga, 1 run",,,1
-440,138,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,22.6,run,163,1,163/1,"Ahsan Malik to Karim, 1 run",,,1
-441,139,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,23.1,run,164,1,164/1,"Seelaar to Karim, 1 run",,,1
-442,140,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,23.2,run,165,1,165/1,"Seelaar to Aga, 1 run",,,1
-443,141,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,23.3,run,166,1,166/1,"Seelaar to Karim, 1 run",,,1
-444,142,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,23.4,run,167,1,167/1,"Seelaar to Aga, 1 run",,,1
-445,143,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,23.5,no run,167,0,167/1,"Seelaar to Karim, no run",,,1
-446,144,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, FOUR runs ",2nd innings,23.6,four,171,4,171/1,"Seelaar to Karim, FOUR runs",,,1
-447,145,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, no run ",2nd innings,24.1,no run,171,0,171/1,"Mudassar Bukhari to Aga, no run",,,1
-448,146,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, FOUR runs ",2nd innings,24.2,four,175,4,175/1,"Mudassar Bukhari to Aga, FOUR runs",,,1
-449,147,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, OUT ",2nd innings,24.3,out,175,0,175/2,"Mudassar Bukhari to Aga, OUT",,,2
-450,148,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, no run ",2nd innings,24.4,no run,175,0,175/2,"Mudassar Bukhari to Obuya, no run",,,2
-451,149,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,24.5,run,176,1,176/2,"Mudassar Bukhari to Obuya, 1 run",,,2
-452,149,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 wide ",2nd innings,24.5,wide,177,1,177/2,"Mudassar Bukhari to Karim, 1 wide",,,2
-453,150,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,24.6,no run,177,0,177/2,"Mudassar Bukhari to Karim, no run",,,2
-454,151,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, no run ",2nd innings,25.1,no run,177,0,177/2,"Seelaar to Obuya, no run",,,2
-455,152,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, no run ",2nd innings,25.2,no run,177,0,177/2,"Seelaar to Obuya, no run",,,2
-456,153,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, 2 runs ",2nd innings,25.3,run,179,2,179/2,"Seelaar to Obuya, 2 runs",,,2
-457,154,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, FOUR runs ",2nd innings,25.4,four,183,4,183/2,"Seelaar to Obuya, FOUR runs",,,2
-458,155,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, FOUR runs ",2nd innings,25.5,four,187,4,187/2,"Seelaar to Obuya, FOUR runs",,,2
-459,156,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, 1 run ",2nd innings,25.6,run,188,1,188/2,"Seelaar to Obuya, 1 run",,,2
-460,157,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,26.1,run,189,1,189/2,"Mudassar Bukhari to Obuya, 1 run",,,2
-461,158,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,26.2,four,193,4,193/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
-462,159,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,26.3,no run,193,0,193/2,"Mudassar Bukhari to Karim, no run",,,2
-463,160,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,26.4,run,194,1,194/2,"Mudassar Bukhari to Karim, 1 run",,,2
-464,161,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,26.5,run,195,1,195/2,"Mudassar Bukhari to Obuya, 1 run",,,2
-465,162,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,26.6,no run,195,0,195/2,"Mudassar Bukhari to Karim, no run",,,2
-466,163,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, no run ",2nd innings,27.1,no run,195,0,195/2,"Ahsan Malik to Obuya, no run",,,2
-467,164,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, no run ",2nd innings,27.2,no run,195,0,195/2,"Ahsan Malik to Obuya, no run",,,2
-468,165,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,27.3,run,196,1,196/2,"Ahsan Malik to Obuya, 1 run",,,2
-469,166,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,27.4,run,197,1,197/2,"Ahsan Malik to Karim, 1 run",,,2
-470,167,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 leg bye ",2nd innings,27.5,leg bye,198,1,198/2,"Ahsan Malik to Obuya, 1 leg bye",,,2
-471,168,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,27.6,run,199,1,199/2,"Ahsan Malik to Karim, 1 run",,,2
-472,169,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 2 runs ",2nd innings,28.1,run,201,2,201/2,"Mudassar Bukhari to Karim, 2 runs",,,2
-473,170,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,28.2,no run,201,0,201/2,"Mudassar Bukhari to Karim, no run",,,2
-474,171,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,28.3,no run,201,0,201/2,"Mudassar Bukhari to Karim, no run",,,2
-475,172,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,28.4,four,205,4,205/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
-476,173,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,28.5,run,206,1,206/2,"Mudassar Bukhari to Karim, 1 run",,,2
-477,174,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, SIX runs ",2nd innings,28.6,six,212,6,212/2,"Mudassar Bukhari to Obuya, SIX runs",,,2
-478,175,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 2 runs ",2nd innings,29.1,run,214,2,214/2,"Ahsan Malik to Karim, 2 runs",,,2
-479,176,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,29.2,run,215,1,215/2,"Ahsan Malik to Karim, 1 run",,,2
-480,177,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, FOUR runs ",2nd innings,29.3,four,219,4,219/2,"Ahsan Malik to Obuya, FOUR runs",,,2
-481,178,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,29.4,run,220,1,220/2,"Ahsan Malik to Obuya, 1 run",,,2
-482,179,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,29.5,run,221,1,221/2,"Ahsan Malik to Karim, 1 run",,,2
-483,180,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,29.6,run,222,1,222/2,"Ahsan Malik to Obuya, 1 run",,,2
-484,181,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,30.1,run,223,1,223/2,"Mudassar Bukhari to Obuya, 1 run",,,2
-485,182,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,30.2,run,224,1,224/2,"Mudassar Bukhari to Karim, 1 run",,,2
-486,183,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,30.3,run,225,1,225/2,"Mudassar Bukhari to Obuya, 1 run",,,2
-487,184,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,30.4,four,229,4,229/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
-488,185,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,30.5,run,230,1,230/2,"Mudassar Bukhari to Karim, 1 run",,,2
-489,186,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, SIX runs ",2nd innings,30.6,six,236,6,236/2,"Mudassar Bukhari to Obuya, SIX runs",,,2
-490,187,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, FOUR runs ",2nd innings,31.1,four,240,4,240/2,"Ahsan Malik to Karim, FOUR runs",,,2
-491,188,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, OUT ",2nd innings,31.2,out,240,0,240/3,"Ahsan Malik to Karim, OUT",,,3
-492,189,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,31.3,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
-493,190,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,31.4,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
-494,191,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,31.5,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
-495,192,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, 1 run ",2nd innings,31.6,run,241,1,241/3,"Ahsan Malik to Patel, 1 run",,,3
-496,193,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,32.1,run,242,1,242/3,"Mudassar Bukhari to Patel, 1 run",,,3
-497,194,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,32.2,run,243,1,243/3,"Mudassar Bukhari to Obuya, 1 run",,,3
-498,194,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 wide ",2nd innings,32.2,wide,244,1,244/3,"Mudassar Bukhari to Patel, 1 wide",,,3
-499,195,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,32.3,run,245,1,245/3,"Mudassar Bukhari to Patel, 1 run",,,3
-500,196,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,32.4,run,246,1,246/3,"Mudassar Bukhari to Obuya, 1 run",,,3
-501,197,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,32.5,run,247,1,247/3,"Mudassar Bukhari to Patel, 1 run",,,3
-502,198,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, OUT ",2nd innings,32.6,out,247,0,247/4,"Mudassar Bukhari to Obuya, OUT",,,4
-503,199,Thomas Odoyo,24705,Ahsan Malik,518097,"Ahsan Malik to Odoyo, no run ",2nd innings,33.1,no run,247,0,247/4,"Ahsan Malik to Odoyo, no run",,,4
-504,200,Thomas Odoyo,24705,Ahsan Malik,518097,"Ahsan Malik to Odoyo, OUT ",2nd innings,33.2,out,247,0,247/5,"Ahsan Malik to Odoyo, OUT",,,5
-505,201,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,33.3,no run,247,0,247/5,"Ahsan Malik to Patel, no run",,,5
-506,202,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, 1 leg bye ",2nd innings,33.4,leg bye,248,1,248/5,"Ahsan Malik to Patel, 1 leg bye",,,5
-507,203,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, no run ",2nd innings,33.5,no run,248,0,248/5,"Ahsan Malik to Tikolo, no run",,,5
-508,204,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 run ",2nd innings,33.6,run,249,1,249/5,"Ahsan Malik to Tikolo, 1 run",,,5
-509,205,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 leg bye ",2nd innings,34.1,leg bye,250,1,250/5,"Mudassar Bukhari to Tikolo, 1 leg bye",,,5
-510,206,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,34.2,run,251,1,251/5,"Mudassar Bukhari to Patel, 1 run",,,5
-511,206,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 wide ",2nd innings,34.2,wide,252,1,252/5,"Mudassar Bukhari to Tikolo, 1 wide",,,5
-512,207,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 run ",2nd innings,34.3,run,253,1,253/5,"Mudassar Bukhari to Tikolo, 1 run",,,5
-513,208,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, FOUR runs ",2nd innings,34.4,four,257,4,257/5,"Mudassar Bukhari to Patel, FOUR runs",,,5
-514,209,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,34.5,run,258,1,258/5,"Mudassar Bukhari to Patel, 1 run",,,5
-515,210,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, FOUR runs ",2nd innings,34.6,four,262,4,262/5,"Mudassar Bukhari to Tikolo, FOUR runs",,,5
-516,211,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, OUT ",2nd innings,35.1,out,262,0,262/6,"Ahsan Malik to Patel, OUT",,,6
-517,212,Morris Ouma,24750,Ahsan Malik,518097,"Ahsan Malik to Ouma, 1 run ",2nd innings,35.2,run,263,1,263/6,"Ahsan Malik to Ouma, 1 run",,,6
-518,213,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 run ",2nd innings,35.3,run,264,1,264/6,"Ahsan Malik to Tikolo, 1 run",,,6
-519,214,Morris Ouma,24750,Ahsan Malik,518097,"Ahsan Malik to Ouma, 1 leg bye ",2nd innings,35.4,leg bye,265,1,265/6,"Ahsan Malik to Ouma, 1 leg bye",,,6
-520,214,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 wide ",2nd innings,35.4,wide,265,1,265/6,"Ahsan Malik to Tikolo, 1 wide",,,6
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,Eric Szwarczynski,214696,,,0.1,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
+1,2,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,Eric Szwarczynski,214696,,,0.2,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
+2,3,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,Eric Szwarczynski,214696,,,0.3,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
+3,4,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, no run ",1st innings,Eric Szwarczynski,214696,,,0.4,no run,0,0,0/0,"Onyango to Myburgh, no run",,,0
+4,5,Stephan Myburgh,233712,Lameck Onyango,24711,"Onyango to Myburgh, OUT ",1st innings,Eric Szwarczynski,214696,,,0.5,out,0,0,0/1,"Onyango to Myburgh, OUT",,,1
+5,6,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,,,0.6,no run,0,0,0/1,"Onyango to Barresi, no run",,,1
+6,7,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.1,no run,0,0,0/1,"Odhiambo to Szwarczynski, no run",,,1
+7,8,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.2,four,4,4,4/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
+8,9,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.3,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
+9,10,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.4,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
+10,11,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.5,no run,4,0,4/1,"Odhiambo to Szwarczynski, no run",,,1
+11,12,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,1.6,run,5,1,5/1,"Odhiambo to Szwarczynski, 1 run",,,1
+12,13,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.1,no run,5,0,5/1,"Onyango to Szwarczynski, no run",,,1
+13,14,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.2,no run,5,0,5/1,"Onyango to Szwarczynski, no run",,,1
+14,15,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, FOUR runs ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.3,four,9,4,9/1,"Onyango to Szwarczynski, FOUR runs",,,1
+15,16,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.4,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
+16,17,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.5,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
+17,18,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,2.6,no run,9,0,9/1,"Onyango to Szwarczynski, no run",,,1
+18,19,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,3.1,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
+19,20,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,3.2,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
+20,21,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,3.3,no run,9,0,9/1,"Odhiambo to Barresi, no run",,,1
+21,22,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,3.4,run,10,1,10/1,"Odhiambo to Barresi, 1 run",,,1
+22,23,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,3.5,no run,10,0,10/1,"Odhiambo to Szwarczynski, no run",,,1
+23,24,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,3.6,no run,10,0,10/1,"Odhiambo to Szwarczynski, no run",,,1
+24,25,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,4.1,run,12,2,12/1,"Onyango to Barresi, 2 runs",,,1
+25,26,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,4.2,no run,12,0,12/1,"Onyango to Barresi, no run",,,1
+26,27,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,4.3,run,13,1,13/1,"Onyango to Barresi, 1 run",,,1
+27,28,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,4.4,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
+28,29,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,4.5,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
+29,30,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,4.6,no run,13,0,13/1,"Onyango to Szwarczynski, no run",,,1
+30,31,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,5.1,no run,13,0,13/1,"Odhiambo to Barresi, no run",,,1
+31,32,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,5.2,no run,13,0,13/1,"Odhiambo to Barresi, no run",,,1
+32,33,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 3 runs ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,5.3,run,16,3,16/1,"Odhiambo to Barresi, 3 runs",,,1
+33,34,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,5.4,four,20,4,20/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
+34,35,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,5.5,no run,20,0,20/1,"Odhiambo to Szwarczynski, no run",,,1
+35,36,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,5.6,no run,20,0,20/1,"Odhiambo to Szwarczynski, no run",,,1
+36,37,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,6.1,no run,20,0,20/1,"Onyango to Barresi, no run",,,1
+37,38,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,6.2,no run,20,0,20/1,"Onyango to Barresi, no run",,,1
+38,39,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 3 runs ",1st innings,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,6.3,run,23,3,23/1,"Onyango to Barresi, 3 runs",,,1
+39,40,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 2 runs ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,6.4,run,25,2,25/1,"Onyango to Szwarczynski, 2 runs",,,1
+40,41,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,6.5,no run,25,0,25/1,"Onyango to Szwarczynski, no run",,,1
+41,42,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,6.6,no run,25,0,25/1,"Onyango to Szwarczynski, no run",,,1
+42,43,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,7.1,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
+43,44,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,7.2,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
+44,45,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,7.3,no run,25,0,25/1,"Odhiambo to Barresi, no run",,,1
+45,46,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,7.4,run,26,1,26/1,"Odhiambo to Barresi, 1 run",,,1
+46,47,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, FOUR runs ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,7.5,four,30,4,30/1,"Odhiambo to Szwarczynski, FOUR runs",,,1
+47,48,Eric Szwarczynski,214696,Nehemiah Odhiambo,238612,"Odhiambo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,7.6,run,31,1,31/1,"Odhiambo to Szwarczynski, 1 run",,,1
+48,49,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.1,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
+49,50,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.2,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
+50,51,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.3,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
+51,52,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.4,no run,31,0,31/1,"Onyango to Szwarczynski, no run",,,1
+52,52,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 wide ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.4,wide,32,1,32/1,"Onyango to Szwarczynski, 1 wide",,,1
+53,53,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.5,no run,32,0,32/1,"Onyango to Szwarczynski, no run",,,1
+54,54,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,8.6,run,33,1,33/1,"Onyango to Szwarczynski, 1 run",,,1
+55,55,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,9.1,run,34,1,34/1,"Varaiya to Szwarczynski, 1 run",,,1
+56,56,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,9.2,run,35,1,35/1,"Varaiya to Barresi, 1 run",,,1
+57,57,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,9.3,run,36,1,36/1,"Varaiya to Szwarczynski, 1 run",,,1
+58,58,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,9.4,run,37,1,37/1,"Varaiya to Barresi, 1 run",,,1
+59,59,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,9.5,no run,37,0,37/1,"Varaiya to Szwarczynski, no run",,,1
+60,60,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,9.6,run,38,1,38/1,"Varaiya to Szwarczynski, 1 run",,,1
+61,61,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,10.1,no run,38,0,38/1,"Onyango to Szwarczynski, no run",,,1
+62,62,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,10.2,no run,38,0,38/1,"Onyango to Szwarczynski, no run",,,1
+63,63,Eric Szwarczynski,214696,Lameck Onyango,24711,"Onyango to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,10.3,run,39,1,39/1,"Onyango to Szwarczynski, 1 run",,,1
+64,64,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,10.4,no run,39,0,39/1,"Onyango to Barresi, no run",,,1
+65,65,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,10.5,no run,39,0,39/1,"Onyango to Barresi, no run",,,1
+66,66,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,10.6,run,40,1,40/1,"Onyango to Barresi, 1 run",,,1
+67,67,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,11.1,no run,40,0,40/1,"Odoyo to Barresi, no run",,,1
+68,68,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,11.2,no run,40,0,40/1,"Odoyo to Barresi, no run",,,1
+69,69,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,11.3,four,44,4,44/1,"Odoyo to Barresi, FOUR runs",,,1
+70,70,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,11.4,no run,44,0,44/1,"Odoyo to Barresi, no run",,,1
+71,71,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Lameck Onyango,24711,11.5,run,45,1,45/1,"Odoyo to Barresi, 1 run",,,1
+72,71,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 wide ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,11.5,wide,46,1,46/1,"Odoyo to Szwarczynski, 1 wide",,,1
+73,72,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,11.6,run,47,1,47/1,"Odoyo to Szwarczynski, 1 run",,,1
+74,73,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,12.1,no run,47,0,47/1,"Aga to Szwarczynski, no run",,,1
+75,74,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,12.2,run,48,1,48/1,"Aga to Szwarczynski, 1 run",,,1
+76,75,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,12.3,no run,48,0,48/1,"Aga to Barresi, no run",,,1
+77,76,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,12.4,run,49,1,49/1,"Aga to Barresi, 1 run",,,1
+78,77,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,12.5,run,50,1,50/1,"Aga to Szwarczynski, 1 run",,,1
+79,78,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,12.6,run,51,1,51/1,"Aga to Barresi, 1 run",,,1
+80,79,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, SIX runs ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.1,six,57,6,57/1,"Odoyo to Barresi, SIX runs",,,1
+81,80,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.2,no run,57,0,57/1,"Odoyo to Barresi, no run",,,1
+82,81,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.3,no run,57,0,57/1,"Odoyo to Barresi, no run",,,1
+83,82,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.4,four,61,4,61/1,"Odoyo to Barresi, FOUR runs",,,1
+84,83,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.5,no run,61,0,61/1,"Odoyo to Barresi, no run",,,1
+85,84,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,13.6,no run,61,0,61/1,"Odoyo to Barresi, no run",,,1
+86,85,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,14.1,no run,61,0,61/1,"Aga to Szwarczynski, no run",,,1
+87,86,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,14.2,no run,61,0,61/1,"Aga to Szwarczynski, no run",,,1
+88,87,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,14.3,run,62,1,62/1,"Aga to Szwarczynski, 1 run",,,1
+89,88,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,14.4,no run,62,0,62/1,"Aga to Barresi, no run",,,1
+90,89,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,14.5,no run,62,0,62/1,"Aga to Barresi, no run",,,1
+91,90,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,14.6,run,63,1,63/1,"Aga to Barresi, 1 run",,,1
+92,91,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,15.1,no run,63,0,63/1,"Odoyo to Barresi, no run",,,1
+93,92,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,15.2,no run,63,0,63/1,"Odoyo to Barresi, no run",,,1
+94,93,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,15.3,run,64,1,64/1,"Odoyo to Barresi, 1 run",,,1
+95,94,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,15.4,run,65,1,65/1,"Odoyo to Szwarczynski, 1 run",,,1
+96,95,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,15.5,no run,65,0,65/1,"Odoyo to Barresi, no run",,,1
+97,96,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,15.6,run,66,1,66/1,"Odoyo to Barresi, 1 run",,,1
+98,97,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,16.1,no run,66,0,66/1,"Aga to Barresi, no run",,,1
+99,98,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,16.2,run,67,1,67/1,"Aga to Barresi, 1 run",,,1
+100,99,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,16.3,run,68,1,68/1,"Aga to Szwarczynski, 1 run",,,1
+101,100,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,16.4,four,72,4,72/1,"Aga to Barresi, FOUR runs",,,1
+102,101,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,16.5,run,73,1,73/1,"Aga to Barresi, 1 run",,,1
+103,102,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,16.6,no run,73,0,73/1,"Aga to Szwarczynski, no run",,,1
+104,103,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,17.1,no run,73,0,73/1,"Odoyo to Barresi, no run",,,1
+105,104,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,17.2,run,74,1,74/1,"Odoyo to Barresi, 1 run",,,1
+106,105,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 2 runs ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,17.3,run,76,2,76/1,"Odoyo to Szwarczynski, 2 runs",,,1
+107,106,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,17.4,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
+108,107,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,17.5,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
+109,108,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,17.6,no run,76,0,76/1,"Odoyo to Szwarczynski, no run",,,1
+110,109,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,18.1,no run,76,0,76/1,"Aga to Barresi, no run",,,1
+111,110,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,18.2,no run,76,0,76/1,"Aga to Barresi, no run",,,1
+112,111,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,18.3,no run,76,0,76/1,"Aga to Barresi, no run",,,1
+113,112,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,18.4,no run,76,0,76/1,"Aga to Barresi, no run",,,1
+114,113,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,18.5,run,77,1,77/1,"Aga to Barresi, 1 run",,,1
+115,114,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,18.6,run,78,1,78/1,"Aga to Szwarczynski, 1 run",,,1
+116,115,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,19.1,no run,78,0,78/1,"Odoyo to Szwarczynski, no run",,,1
+117,116,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,19.2,no run,78,0,78/1,"Odoyo to Szwarczynski, no run",,,1
+118,117,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, 1 leg bye ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,19.3,leg bye,79,1,79/1,"Odoyo to Szwarczynski, 1 leg bye",,,1
+119,118,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,19.4,four,83,4,83/1,"Odoyo to Barresi, FOUR runs",,,1
+120,119,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,19.5,run,84,1,84/1,"Odoyo to Barresi, 1 run",,,1
+121,120,Eric Szwarczynski,214696,Thomas Odoyo,24705,"Odoyo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,19.6,no run,84,0,84/1,"Odoyo to Szwarczynski, no run",,,1
+122,121,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,20.1,no run,84,0,84/1,"Aga to Barresi, no run",,,1
+123,122,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,20.2,no run,84,0,84/1,"Aga to Barresi, no run",,,1
+124,123,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Thomas Odoyo,24705,20.3,run,85,1,85/1,"Aga to Barresi, 1 run",,,1
+125,124,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,20.4,no run,85,0,85/1,"Aga to Szwarczynski, no run",,,1
+126,125,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,20.5,no run,85,0,85/1,"Aga to Szwarczynski, no run",,,1
+127,126,Eric Szwarczynski,214696,Ragheb Aga,24716,"Aga to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,20.6,run,86,1,86/1,"Aga to Szwarczynski, 1 run",,,1
+128,127,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,21.1,no run,86,0,86/1,"Varaiya to Szwarczynski, no run",,,1
+129,128,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,21.2,run,87,1,87/1,"Varaiya to Szwarczynski, 1 run",,,1
+130,129,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,21.3,no run,87,0,87/1,"Varaiya to Barresi, no run",,,1
+131,130,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,21.4,no run,87,0,87/1,"Varaiya to Barresi, no run",,,1
+132,131,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Ragheb Aga,24716,21.5,run,88,1,88/1,"Varaiya to Barresi, 1 run",,,1
+133,132,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,21.6,no run,88,0,88/1,"Varaiya to Szwarczynski, no run",,,1
+134,133,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,22.1,four,92,4,92/1,"Tikolo to Barresi, FOUR runs",,,1
+135,134,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,22.2,run,93,1,93/1,"Tikolo to Barresi, 1 run",,,1
+136,135,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,22.3,run,94,1,94/1,"Tikolo to Szwarczynski, 1 run",,,1
+137,136,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,22.4,no run,94,0,94/1,"Tikolo to Barresi, no run",,,1
+138,137,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,22.5,run,96,2,96/1,"Tikolo to Barresi, 2 runs",,,1
+139,138,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,22.6,run,97,1,97/1,"Tikolo to Barresi, 1 run",,,1
+140,139,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,23.1,run,98,1,98/1,"Varaiya to Barresi, 1 run",,,1
+141,140,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,23.2,run,99,1,99/1,"Varaiya to Szwarczynski, 1 run",,,1
+142,141,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,23.3,run,100,1,100/1,"Varaiya to Barresi, 1 run",,,1
+143,142,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,23.4,no run,100,0,100/1,"Varaiya to Szwarczynski, no run",,,1
+144,143,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,23.5,run,101,1,101/1,"Varaiya to Szwarczynski, 1 run",,,1
+145,144,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,23.6,no run,101,0,101/1,"Varaiya to Barresi, no run",,,1
+146,145,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,24.1,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
+147,146,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,24.2,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
+148,147,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,24.3,no run,101,0,101/1,"Tikolo to Szwarczynski, no run",,,1
+149,148,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 leg bye ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,24.4,leg bye,102,1,102/1,"Tikolo to Szwarczynski, 1 leg bye",,,1
+150,149,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,24.5,no run,102,0,102/1,"Tikolo to Barresi, no run",,,1
+151,150,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,24.6,no run,102,0,102/1,"Tikolo to Barresi, no run",,,1
+152,151,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, FOUR runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,25.1,four,106,4,106/1,"Varaiya to Szwarczynski, FOUR runs",,,1
+153,152,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,25.2,no run,106,0,106/1,"Varaiya to Szwarczynski, no run",,,1
+154,153,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,25.3,run,107,1,107/1,"Varaiya to Szwarczynski, 1 run",,,1
+155,154,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,25.4,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
+156,155,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,25.5,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
+157,156,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,25.6,no run,107,0,107/1,"Varaiya to Barresi, no run",,,1
+158,157,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,26.1,run,108,1,108/1,"Tikolo to Szwarczynski, 1 run",,,1
+159,158,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,26.2,run,109,1,109/1,"Tikolo to Barresi, 1 run",,,1
+160,159,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,26.3,run,110,1,110/1,"Tikolo to Szwarczynski, 1 run",,,1
+161,160,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,26.4,run,112,2,112/1,"Tikolo to Barresi, 2 runs",,,1
+162,161,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,26.5,run,113,1,113/1,"Tikolo to Barresi, 1 run",,,1
+163,162,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,26.6,run,114,1,114/1,"Tikolo to Szwarczynski, 1 run",,,1
+164,163,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,27.1,no run,114,0,114/1,"Varaiya to Szwarczynski, no run",,,1
+165,164,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,27.2,run,115,1,115/1,"Varaiya to Szwarczynski, 1 run",,,1
+166,165,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,27.3,run,116,1,116/1,"Varaiya to Barresi, 1 run",,,1
+167,166,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,27.4,no run,116,0,116/1,"Varaiya to Szwarczynski, no run",,,1
+168,167,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,27.5,run,117,1,117/1,"Varaiya to Szwarczynski, 1 run",,,1
+169,168,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 2 runs ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,27.6,run,119,2,119/1,"Varaiya to Barresi, 2 runs",,,1
+170,169,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,28.1,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
+171,170,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,28.2,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
+172,171,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,28.3,no run,119,0,119/1,"Tikolo to Szwarczynski, no run",,,1
+173,172,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,28.4,run,120,1,120/1,"Tikolo to Szwarczynski, 1 run",,,1
+174,173,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,28.5,no run,120,0,120/1,"Tikolo to Barresi, no run",,,1
+175,174,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,28.6,no run,120,0,120/1,"Tikolo to Barresi, no run",,,1
+176,175,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,29.1,run,121,1,121/1,"Varaiya to Szwarczynski, 1 run",,,1
+177,176,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,29.2,run,122,1,122/1,"Varaiya to Barresi, 1 run",,,1
+178,177,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 2 runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,29.3,run,124,2,124/1,"Varaiya to Szwarczynski, 2 runs",,,1
+179,178,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,29.4,run,125,1,125/1,"Varaiya to Szwarczynski, 1 run",,,1
+180,179,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,29.5,run,126,1,126/1,"Varaiya to Barresi, 1 run",,,1
+181,180,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,29.6,no run,126,0,126/1,"Varaiya to Szwarczynski, no run",,,1
+182,181,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, FOUR runs ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,30.1,four,130,4,130/1,"Tikolo to Barresi, FOUR runs",,,1
+183,182,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,30.2,run,131,1,131/1,"Tikolo to Barresi, 1 run",,,1
+184,183,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,30.3,no run,131,0,131/1,"Tikolo to Szwarczynski, no run",,,1
+185,184,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,30.4,no run,131,0,131/1,"Tikolo to Szwarczynski, no run",,,1
+186,185,Eric Szwarczynski,214696,Steve Tikolo,24728,"Tikolo to Szwarczynski, 3 runs ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,30.5,run,134,3,134/1,"Tikolo to Szwarczynski, 3 runs",,,1
+187,186,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Hiren Varaiya,254114,30.6,run,135,1,135/1,"Tikolo to Barresi, 1 run",,,1
+188,187,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Eric Szwarczynski,214696,Steve Tikolo,24728,31.1,run,136,1,136/1,"Varaiya to Barresi, 1 run",,,1
+189,188,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,31.2,no run,136,0,136/1,"Varaiya to Szwarczynski, no run",,,1
+190,189,Eric Szwarczynski,214696,Hiren Varaiya,254114,"Varaiya to Szwarczynski, OUT ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,31.3,out,136,0,136/2,"Varaiya to Szwarczynski, OUT",,,2
+191,190,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,31.4,no run,136,0,136/2,"Varaiya to Borren, no run",,,2
+192,191,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, FOUR runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,31.5,four,140,4,140/2,"Varaiya to Borren, FOUR runs",,,2
+193,192,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,31.6,no run,140,0,140/2,"Varaiya to Borren, no run",,,2
+194,193,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 2 runs ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,32.1,run,142,2,142/2,"Tikolo to Barresi, 2 runs",,,2
+195,194,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,32.2,run,143,1,143/2,"Tikolo to Barresi, 1 run",,,2
+196,195,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,32.3,no run,143,0,143/2,"Tikolo to Borren, no run",,,2
+197,196,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,32.4,no run,143,0,143/2,"Tikolo to Borren, no run",,,2
+198,197,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,32.5,run,144,1,144/2,"Tikolo to Borren, 1 run",,,2
+199,198,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,32.6,no run,144,0,144/2,"Tikolo to Barresi, no run",,,2
+200,199,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, SIX runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,33.1,six,150,6,150/2,"Varaiya to Borren, SIX runs",,,2
+201,200,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,33.2,run,151,1,151/2,"Varaiya to Borren, 1 run",,,2
+202,201,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,33.3,no run,151,0,151/2,"Varaiya to Barresi, no run",,,2
+203,202,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,33.4,no run,151,0,151/2,"Varaiya to Barresi, no run",,,2
+204,203,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,33.5,run,152,1,152/2,"Varaiya to Barresi, 1 run",,,2
+205,204,Peter Borren,36592,Hiren Varaiya,254114,"Varaiya to Borren, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,33.6,run,153,1,153/2,"Varaiya to Borren, 1 run",,,2
+206,205,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,34.1,no run,153,0,153/2,"Tikolo to Borren, no run",,,2
+207,206,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 3 runs ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,34.2,run,156,3,156/2,"Tikolo to Borren, 3 runs",,,2
+208,207,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,34.3,no run,156,0,156/2,"Tikolo to Barresi, no run",,,2
+209,208,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,34.4,no run,156,0,156/2,"Tikolo to Barresi, no run",,,2
+210,209,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Peter Borren,36592,Hiren Varaiya,254114,34.5,run,157,1,157/2,"Tikolo to Barresi, 1 run",,,2
+211,210,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,34.6,no run,157,0,157/2,"Tikolo to Borren, no run",,,2
+212,211,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 2 runs ",1st innings,Peter Borren,36592,Steve Tikolo,24728,35.1,run,159,2,159/2,"Odoyo to Barresi, 2 runs",,,2
+213,212,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,35.2,no run,159,0,159/2,"Odoyo to Barresi, no run",,,2
+214,213,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, no run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,35.3,no run,159,0,159/2,"Odoyo to Barresi, no run",,,2
+215,214,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,35.4,run,160,1,160/2,"Odoyo to Barresi, 1 run",,,2
+216,215,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,35.5,run,161,1,161/2,"Odoyo to Borren, 1 run",,,2
+217,216,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,35.6,run,162,1,162/2,"Odoyo to Barresi, 1 run",,,2
+218,217,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Peter Borren,36592,Thomas Odoyo,24705,36.1,run,163,1,163/2,"Tikolo to Barresi, 1 run",,,2
+219,218,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,36.2,no run,163,0,163/2,"Tikolo to Borren, no run",,,2
+220,219,Peter Borren,36592,Steve Tikolo,24728,"Tikolo to Borren, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,36.3,run,164,1,164/2,"Tikolo to Borren, 1 run",,,2
+221,220,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Peter Borren,36592,Thomas Odoyo,24705,36.4,no run,164,0,164/2,"Tikolo to Barresi, no run",,,2
+222,221,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Peter Borren,36592,Thomas Odoyo,24705,36.5,no run,164,0,164/2,"Tikolo to Barresi, no run",,,2
+223,222,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Peter Borren,36592,Thomas Odoyo,24705,36.6,run,165,1,165/2,"Tikolo to Barresi, 1 run",,,2
+224,223,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Peter Borren,36592,Steve Tikolo,24728,37.1,run,166,1,166/2,"Odoyo to Barresi, 1 run",,,2
+225,224,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, FOUR runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,37.2,four,170,4,170/2,"Odoyo to Borren, FOUR runs",,,2
+226,225,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, SIX runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,37.3,six,176,6,176/2,"Odoyo to Borren, SIX runs",,,2
+227,226,Peter Borren,36592,Thomas Odoyo,24705,"Odoyo to Borren, OUT ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,37.4,out,176,0,176/3,"Odoyo to Borren, OUT",,,3
+228,227,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, no run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,37.5,no run,176,0,176/3,"Odoyo to Swart, no run",,,3
+229,228,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,37.6,run,177,1,177/3,"Odoyo to Swart, 1 run",,,3
+230,229,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,38.1,no run,177,0,177/3,"Tikolo to Swart, no run",,,3
+231,230,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,38.2,run,178,1,178/3,"Tikolo to Swart, 1 run",,,3
+232,231,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,38.3,no run,178,0,178/3,"Tikolo to Barresi, no run",,,3
+233,232,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,38.4,no run,178,0,178/3,"Tikolo to Barresi, no run",,,3
+234,233,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,38.5,run,179,1,179/3,"Tikolo to Barresi, 1 run",,,3
+235,234,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,38.6,no run,179,0,179/3,"Tikolo to Swart, no run",,,3
+236,235,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,39.1,run,180,1,180/3,"Odoyo to Barresi, 1 run",,,3
+237,236,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,39.2,run,181,1,181/3,"Odoyo to Swart, 1 run",,,3
+238,237,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,39.3,run,182,1,182/3,"Odoyo to Barresi, 1 run",,,3
+239,238,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, 1 run ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,39.4,run,183,1,183/3,"Odoyo to Swart, 1 run",,,3
+240,239,Wesley Barresi,44407,Thomas Odoyo,24705,"Odoyo to Barresi, 1 run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,39.5,run,184,1,184/3,"Odoyo to Barresi, 1 run",,,3
+241,240,Michael Swart,308794,Thomas Odoyo,24705,"Odoyo to Swart, FOUR runs ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,39.6,four,188,4,188/3,"Odoyo to Swart, FOUR runs",,,3
+242,241,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,40.1,run,189,1,189/3,"Tikolo to Barresi, 1 run",,,3
+243,242,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, 1 run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,40.2,run,190,1,190/3,"Tikolo to Swart, 1 run",,,3
+244,243,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, no run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,40.3,no run,190,0,190/3,"Tikolo to Barresi, no run",,,3
+245,244,Wesley Barresi,44407,Steve Tikolo,24728,"Tikolo to Barresi, 1 run ",1st innings,Michael Swart,308794,Thomas Odoyo,24705,40.4,run,191,1,191/3,"Tikolo to Barresi, 1 run",,,3
+246,245,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,40.5,no run,191,0,191/3,"Tikolo to Swart, no run",,,3
+247,246,Michael Swart,308794,Steve Tikolo,24728,"Tikolo to Swart, no run ",1st innings,Wesley Barresi,44407,Thomas Odoyo,24705,40.6,no run,191,0,191/3,"Tikolo to Swart, no run",,,3
+248,247,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,41.1,no run,191,0,191/3,"Varaiya to Barresi, no run",,,3
+249,248,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,41.2,no run,191,0,191/3,"Varaiya to Barresi, no run",,,3
+250,249,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 2 runs ",1st innings,Michael Swart,308794,Steve Tikolo,24728,41.3,run,193,2,193/3,"Varaiya to Barresi, 2 runs",,,3
+251,250,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,41.4,no run,193,0,193/3,"Varaiya to Barresi, no run",,,3
+252,251,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Michael Swart,308794,Steve Tikolo,24728,41.5,run,194,1,194/3,"Varaiya to Barresi, 1 run",,,3
+253,252,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 leg bye ",1st innings,Wesley Barresi,44407,Steve Tikolo,24728,41.6,leg bye,195,1,195/3,"Varaiya to Swart, 1 leg bye",,,3
+254,253,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, FOUR runs ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,42.1,four,199,4,199/3,"Onyango to Swart, FOUR runs",,,3
+255,254,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,42.2,run,200,1,200/3,"Onyango to Swart, 1 run",,,3
+256,255,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Michael Swart,308794,Hiren Varaiya,254114,42.3,run,201,1,201/3,"Onyango to Barresi, 1 run",,,3
+257,256,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,42.4,run,202,1,202/3,"Onyango to Swart, 1 run",,,3
+258,257,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Michael Swart,308794,Hiren Varaiya,254114,42.5,run,203,1,203/3,"Onyango to Barresi, 1 run",,,3
+259,258,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 2 runs ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,42.6,run,205,2,205/3,"Onyango to Swart, 2 runs",,,3
+260,259,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Michael Swart,308794,Lameck Onyango,24711,43.1,run,206,1,206/3,"Varaiya to Barresi, 1 run",,,3
+261,260,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,43.2,run,207,1,207/3,"Varaiya to Swart, 1 run",,,3
+262,261,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, 1 run ",1st innings,Michael Swart,308794,Lameck Onyango,24711,43.3,run,208,1,208/3,"Varaiya to Barresi, 1 run",,,3
+263,262,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, no run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,43.4,no run,208,0,208/3,"Varaiya to Swart, no run",,,3
+264,263,Michael Swart,308794,Hiren Varaiya,254114,"Varaiya to Swart, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,43.5,run,209,1,209/3,"Varaiya to Swart, 1 run",,,3
+265,264,Wesley Barresi,44407,Hiren Varaiya,254114,"Varaiya to Barresi, no run ",1st innings,Michael Swart,308794,Lameck Onyango,24711,43.6,no run,209,0,209/3,"Varaiya to Barresi, no run",,,3
+266,265,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,44.1,run,210,1,210/3,"Onyango to Swart, 1 run",,,3
+267,266,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Michael Swart,308794,Hiren Varaiya,254114,44.2,run,211,1,211/3,"Onyango to Barresi, 1 run",,,3
+268,266,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 no ball ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,44.2,no ball,212,1,212/3,"Onyango to Swart, 1 no ball",,,3
+269,267,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, FOUR runs ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,44.3,four,216,4,216/3,"Onyango to Swart, FOUR runs",,,3
+270,268,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,44.4,run,217,1,217/3,"Onyango to Swart, 1 run",,,3
+271,269,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Michael Swart,308794,Hiren Varaiya,254114,44.5,run,218,1,218/3,"Onyango to Barresi, 1 run",,,3
+272,270,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Hiren Varaiya,254114,44.6,run,219,1,219/3,"Onyango to Swart, 1 run",,,3
+273,271,Michael Swart,308794,Ragheb Aga,24716,"Aga to Swart, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,45.1,run,220,1,220/3,"Aga to Swart, 1 run",,,3
+274,272,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,Michael Swart,308794,Lameck Onyango,24711,45.2,four,224,4,224/3,"Aga to Barresi, FOUR runs",,,3
+275,273,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, no run ",1st innings,Michael Swart,308794,Lameck Onyango,24711,45.3,no run,224,0,224/3,"Aga to Barresi, no run",,,3
+276,274,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, FOUR runs ",1st innings,Michael Swart,308794,Lameck Onyango,24711,45.4,four,228,4,228/3,"Aga to Barresi, FOUR runs",,,3
+277,275,Wesley Barresi,44407,Ragheb Aga,24716,"Aga to Barresi, 1 run ",1st innings,Michael Swart,308794,Lameck Onyango,24711,45.5,run,229,1,229/3,"Aga to Barresi, 1 run",,,3
+278,276,Michael Swart,308794,Ragheb Aga,24716,"Aga to Swart, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,45.6,run,230,1,230/3,"Aga to Swart, 1 run",,,3
+279,277,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, 1 run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,46.1,run,231,1,231/3,"Onyango to Swart, 1 run",,,3
+280,278,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Michael Swart,308794,Ragheb Aga,24716,46.2,run,232,1,232/3,"Onyango to Barresi, 1 run",,,3
+281,279,Michael Swart,308794,Lameck Onyango,24711,"Onyango to Swart, OUT ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,46.3,out,232,0,232/4,"Onyango to Swart, OUT",,,4
+282,280,Mudassar Bukhari,245166,Lameck Onyango,24711,"Onyango to Mudassar Bukhari, 1 run ",1st innings,Wesley Barresi,44407,Ragheb Aga,24716,46.4,run,233,1,233/4,"Onyango to Mudassar Bukhari, 1 run",,,4
+283,281,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Mudassar Bukhari,245166,Ragheb Aga,24716,46.5,no run,233,0,233/4,"Onyango to Barresi, no run",,,4
+284,282,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,Mudassar Bukhari,245166,Ragheb Aga,24716,46.6,run,235,2,235/4,"Onyango to Barresi, 2 runs",,,4
+285,283,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,47.1,run,236,1,236/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
+286,284,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,Mudassar Bukhari,245166,Lameck Onyango,24711,47.2,run,237,1,237/4,"Odhiambo to Barresi, 1 run",,,4
+287,285,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,47.3,run,238,1,238/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
+288,286,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, 1 run ",1st innings,Mudassar Bukhari,245166,Lameck Onyango,24711,47.4,run,239,1,239/4,"Odhiambo to Barresi, 1 run",,,4
+289,287,Mudassar Bukhari,245166,Nehemiah Odhiambo,238612,"Odhiambo to Mudassar Bukhari, 1 run ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,47.5,run,240,1,240/4,"Odhiambo to Mudassar Bukhari, 1 run",,,4
+290,288,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, OUT ",1st innings,Mudassar Bukhari,245166,Lameck Onyango,24711,47.6,out,240,0,240/5,"Odhiambo to Barresi, OUT",,,5
+291,289,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 1 run ",1st innings,Ben Cooper,470699,Nehemiah Odhiambo,238612,48.1,run,241,1,241/5,"Onyango to Barresi, 1 run",,,5
+292,290,Ben Cooper,470699,Lameck Onyango,24711,"Onyango to Cooper, 1 leg bye ",1st innings,Wesley Barresi,44407,Nehemiah Odhiambo,238612,48.2,leg bye,242,1,242/5,"Onyango to Cooper, 1 leg bye",,,5
+293,291,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Ben Cooper,470699,Nehemiah Odhiambo,238612,48.3,no run,242,0,242/5,"Onyango to Barresi, no run",,,5
+294,292,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, 2 runs ",1st innings,Ben Cooper,470699,Nehemiah Odhiambo,238612,48.4,run,244,2,244/5,"Onyango to Barresi, 2 runs",,,5
+295,293,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, SIX runs ",1st innings,Ben Cooper,470699,Nehemiah Odhiambo,238612,48.5,six,250,6,250/5,"Onyango to Barresi, SIX runs",,,5
+296,294,Wesley Barresi,44407,Lameck Onyango,24711,"Onyango to Barresi, no run ",1st innings,Ben Cooper,470699,Nehemiah Odhiambo,238612,48.6,no run,250,0,250/5,"Onyango to Barresi, no run",,,5
+297,295,Ben Cooper,470699,Nehemiah Odhiambo,238612,"Odhiambo to Cooper, 3 runs ",1st innings,Wesley Barresi,44407,Lameck Onyango,24711,49.1,run,253,3,253/5,"Odhiambo to Cooper, 3 runs",,,5
+298,296,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, no run ",1st innings,Ben Cooper,470699,Lameck Onyango,24711,49.2,no run,253,0,253/5,"Odhiambo to Barresi, no run",,,5
+299,297,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,Ben Cooper,470699,Lameck Onyango,24711,49.3,four,257,4,257/5,"Odhiambo to Barresi, FOUR runs",,,5
+300,298,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,Ben Cooper,470699,Lameck Onyango,24711,49.4,four,261,4,261/5,"Odhiambo to Barresi, FOUR runs",,,5
+301,299,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, FOUR runs ",1st innings,Ben Cooper,470699,Lameck Onyango,24711,49.5,four,265,4,265/5,"Odhiambo to Barresi, FOUR runs",,,5
+302,300,Wesley Barresi,44407,Nehemiah Odhiambo,238612,"Odhiambo to Barresi, OUT ",1st innings,Ben Cooper,470699,Lameck Onyango,24711,49.6,out,265,0,265/5,"Odhiambo to Barresi, OUT",,,5
+303,1,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Alex Obanda,291844,,,0.1,four,4,4,4/0,"Mudassar Bukhari to Karim, FOUR runs",,,0
+304,2,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Alex Obanda,291844,,,0.2,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
+305,3,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Alex Obanda,291844,,,0.3,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
+306,4,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Alex Obanda,291844,,,0.4,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
+307,5,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Alex Obanda,291844,,,0.5,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
+308,6,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Alex Obanda,291844,,,0.6,no run,4,0,4/0,"Mudassar Bukhari to Karim, no run",,,0
+309,7,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,1.1,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
+310,8,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,1.2,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
+311,9,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,1.3,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
+312,10,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,1.4,no run,4,0,4/0,"van Meekeren to Obanda, no run",,,0
+313,11,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,1.5,run,5,1,5/0,"van Meekeren to Obanda, 1 run",,,0
+314,12,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, no run ",2nd innings,Alex Obanda,291844,Mudassar Bukhari,245166,1.6,no run,5,0,5/0,"van Meekeren to Karim, no run",,,0
+315,13,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, 4 leg byes ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,2.1,leg bye,9,4,9/0,"Mudassar Bukhari to Obanda, 4 leg byes",,,0
+316,14,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, no run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,2.2,no run,9,0,9/0,"Mudassar Bukhari to Obanda, no run",,,0
+317,15,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, no run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,2.3,no run,9,0,9/0,"Mudassar Bukhari to Obanda, no run",,,0
+318,16,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,2.4,run,10,1,10/0,"Mudassar Bukhari to Obanda, 1 run",,,0
+319,17,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 2 runs ",2nd innings,Alex Obanda,291844,Paul van Meekeren,348109,2.5,run,12,2,12/0,"Mudassar Bukhari to Karim, 2 runs",,,0
+320,18,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Alex Obanda,291844,Paul van Meekeren,348109,2.6,four,16,4,16/0,"Mudassar Bukhari to Karim, FOUR runs",,,0
+321,19,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,3.1,no run,16,0,16/0,"van Meekeren to Obanda, no run",,,0
+322,20,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 2 runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,3.2,run,18,2,18/0,"van Meekeren to Obanda, 2 runs",,,0
+323,21,Alex Obanda,291844,Paul van Meekeren,348109,"van Meekeren to Obanda, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,3.3,run,19,1,19/0,"van Meekeren to Obanda, 1 run",,,0
+324,22,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, no run ",2nd innings,Alex Obanda,291844,Mudassar Bukhari,245166,3.4,no run,19,0,19/0,"van Meekeren to Karim, no run",,,0
+325,23,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, FOUR runs ",2nd innings,Alex Obanda,291844,Mudassar Bukhari,245166,3.5,four,23,4,23/0,"van Meekeren to Karim, FOUR runs",,,0
+326,24,Irfan Karim,348016,Paul van Meekeren,348109,"van Meekeren to Karim, FOUR runs ",2nd innings,Alex Obanda,291844,Mudassar Bukhari,245166,3.6,four,27,4,27/0,"van Meekeren to Karim, FOUR runs",,,0
+327,25,Alex Obanda,291844,Mudassar Bukhari,245166,"Mudassar Bukhari to Obanda, OUT ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,4.1,out,27,0,27/1,"Mudassar Bukhari to Obanda, OUT",,,1
+328,26,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, no run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,4.2,no run,27,0,27/1,"Mudassar Bukhari to Aga, no run",,,1
+329,27,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,4.3,four,31,4,31/1,"Mudassar Bukhari to Aga, FOUR runs",,,1
+330,28,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,4.4,run,32,1,32/1,"Mudassar Bukhari to Aga, 1 run",,,1
+331,29,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,4.5,no run,32,0,32/1,"Mudassar Bukhari to Karim, no run",,,1
+332,30,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,4.6,four,36,4,36/1,"Mudassar Bukhari to Karim, FOUR runs",,,1
+333,31,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.1,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
+334,32,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.2,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
+335,33,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.3,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
+336,34,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.4,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
+337,35,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.5,no run,36,0,36/1,"van Meekeren to Aga, no run",,,1
+338,36,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,5.6,four,40,4,40/1,"van Meekeren to Aga, FOUR runs",,,1
+339,37,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,6.1,run,41,1,41/1,"Mudassar Bukhari to Karim, 1 run",,,1
+340,38,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,6.2,run,42,1,42/1,"Mudassar Bukhari to Aga, 1 run",,,1
+341,39,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,6.3,run,43,1,43/1,"Mudassar Bukhari to Karim, 1 run",,,1
+342,40,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 2 runs ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,6.4,run,45,2,45/1,"Mudassar Bukhari to Aga, 2 runs",,,1
+343,41,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,6.5,run,46,1,46/1,"Mudassar Bukhari to Aga, 1 run",,,1
+344,42,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,6.6,four,50,4,50/1,"Mudassar Bukhari to Karim, FOUR runs",,,1
+345,43,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.1,no run,50,0,50/1,"van Meekeren to Aga, no run",,,1
+346,44,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.2,no run,50,0,50/1,"van Meekeren to Aga, no run",,,1
+347,45,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.3,four,54,4,54/1,"van Meekeren to Aga, FOUR runs",,,1
+348,46,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.4,four,58,4,58/1,"van Meekeren to Aga, FOUR runs",,,1
+349,47,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.5,no run,58,0,58/1,"van Meekeren to Aga, no run",,,1
+350,48,Ragheb Aga,24716,Paul van Meekeren,348109,"van Meekeren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,7.6,run,59,1,59/1,"van Meekeren to Aga, 1 run",,,1
+351,49,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,8.1,run,60,1,60/1,"Swart to Aga, 1 run",,,1
+352,50,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,8.2,four,64,4,64/1,"Swart to Karim, FOUR runs",,,1
+353,51,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,8.3,run,65,1,65/1,"Swart to Karim, 1 run",,,1
+354,52,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Paul van Meekeren,348109,8.4,run,66,1,66/1,"Swart to Aga, 1 run",,,1
+355,53,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,8.5,no run,66,0,66/1,"Swart to Karim, no run",,,1
+356,54,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Paul van Meekeren,348109,8.6,no run,66,0,66/1,"Swart to Karim, no run",,,1
+357,55,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,9.1,run,67,1,67/1,"Ahsan Malik to Aga, 1 run",,,1
+358,56,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,9.2,no run,67,0,67/1,"Ahsan Malik to Karim, no run",,,1
+359,57,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,9.3,run,68,1,68/1,"Ahsan Malik to Karim, 1 run",,,1
+360,58,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Michael Swart,308794,9.4,four,72,4,72/1,"Ahsan Malik to Aga, FOUR runs",,,1
+361,59,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,9.5,no run,72,0,72/1,"Ahsan Malik to Aga, no run",,,1
+362,60,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Michael Swart,308794,9.6,four,76,4,76/1,"Ahsan Malik to Aga, FOUR runs",,,1
+363,61,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,10.1,run,77,1,77/1,"Swart to Karim, 1 run",,,1
+364,62,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,10.2,run,78,1,78/1,"Swart to Aga, 1 run",,,1
+365,63,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 2 runs ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,10.3,run,80,2,80/1,"Swart to Karim, 2 runs",,,1
+366,64,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,10.4,no run,80,0,80/1,"Swart to Karim, no run",,,1
+367,65,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,10.5,four,84,4,84/1,"Swart to Karim, FOUR runs",,,1
+368,66,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,10.6,run,85,1,85/1,"Swart to Karim, 1 run",,,1
+369,67,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 2 runs ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,11.1,run,87,2,87/1,"Ahsan Malik to Karim, 2 runs",,,1
+370,68,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,11.2,run,88,1,88/1,"Ahsan Malik to Karim, 1 run",,,1
+371,69,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 2 runs ",2nd innings,Irfan Karim,348016,Michael Swart,308794,11.3,run,90,2,90/1,"Ahsan Malik to Aga, 2 runs",,,1
+372,70,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 2 runs ",2nd innings,Irfan Karim,348016,Michael Swart,308794,11.4,run,92,2,92/1,"Ahsan Malik to Aga, 2 runs",,,1
+373,71,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,11.5,run,93,1,93/1,"Ahsan Malik to Aga, 1 run",,,1
+374,72,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,11.6,no run,93,0,93/1,"Ahsan Malik to Karim, no run",,,1
+375,73,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,12.1,run,94,1,94/1,"Swart to Aga, 1 run",,,1
+376,74,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,12.2,no run,94,0,94/1,"Swart to Karim, no run",,,1
+377,75,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,12.3,run,95,1,95/1,"Swart to Karim, 1 run",,,1
+378,76,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,12.4,run,96,1,96/1,"Swart to Aga, 1 run",,,1
+379,77,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,12.5,run,97,1,97/1,"Swart to Karim, 1 run",,,1
+380,78,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,12.6,run,98,1,98/1,"Swart to Aga, 1 run",,,1
+381,79,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Michael Swart,308794,13.1,four,102,4,102/1,"Borren to Aga, FOUR runs",,,1
+382,80,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,13.2,no run,102,0,102/1,"Borren to Aga, no run",,,1
+383,81,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,13.3,run,103,1,103/1,"Borren to Aga, 1 run",,,1
+384,82,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,13.4,run,104,1,104/1,"Borren to Karim, 1 run",,,1
+385,83,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,13.5,no run,104,0,104/1,"Borren to Aga, no run",,,1
+386,84,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,13.6,run,105,1,105/1,"Borren to Aga, 1 run",,,1
+387,85,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,14.1,run,106,1,106/1,"Swart to Aga, 1 run",,,1
+388,86,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,14.2,no run,106,0,106/1,"Swart to Karim, no run",,,1
+389,87,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,14.3,no run,106,0,106/1,"Swart to Karim, no run",,,1
+390,88,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,14.4,run,107,1,107/1,"Swart to Karim, 1 run",,,1
+391,89,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, no run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,14.5,no run,107,0,107/1,"Swart to Aga, no run",,,1
+392,90,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,14.6,run,108,1,108/1,"Swart to Aga, 1 run",,,1
+393,91,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,15.1,run,109,1,109/1,"Borren to Aga, 1 run",,,1
+394,92,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 2 runs ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,15.2,run,111,2,111/1,"Borren to Karim, 2 runs",,,1
+395,93,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,15.3,run,112,1,112/1,"Borren to Karim, 1 run",,,1
+396,94,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,15.4,no run,112,0,112/1,"Borren to Aga, no run",,,1
+397,95,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,15.5,run,113,1,113/1,"Borren to Aga, 1 run",,,1
+398,96,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,15.6,run,114,1,114/1,"Borren to Karim, 1 run",,,1
+399,97,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, no run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,16.1,no run,114,0,114/1,"Swart to Karim, no run",,,1
+400,98,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,16.2,run,115,1,115/1,"Swart to Karim, 1 run",,,1
+401,99,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 1 run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,16.3,run,116,1,116/1,"Swart to Aga, 1 run",,,1
+402,100,Irfan Karim,348016,Michael Swart,308794,"Swart to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,16.4,run,117,1,117/1,"Swart to Karim, 1 run",,,1
+403,101,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Peter Borren,36592,16.5,four,121,4,121/1,"Swart to Aga, FOUR runs",,,1
+404,102,Ragheb Aga,24716,Michael Swart,308794,"Swart to Aga, 2 runs ",2nd innings,Irfan Karim,348016,Peter Borren,36592,16.6,run,123,2,123/1,"Swart to Aga, 2 runs",,,1
+405,103,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, no run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,17.1,no run,123,0,123/1,"Borren to Karim, no run",,,1
+406,104,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,17.2,four,127,4,127/1,"Borren to Karim, FOUR runs",,,1
+407,105,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,17.3,run,128,1,128/1,"Borren to Karim, 1 run",,,1
+408,106,Ragheb Aga,24716,Peter Borren,36592,"Borren to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Swart,308794,17.4,run,129,1,129/1,"Borren to Aga, 1 run",,,1
+409,107,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,17.5,four,133,4,133/1,"Borren to Karim, FOUR runs",,,1
+410,108,Irfan Karim,348016,Peter Borren,36592,"Borren to Karim, no run ",2nd innings,Ragheb Aga,24716,Michael Swart,308794,17.6,no run,133,0,133/1,"Borren to Karim, no run",,,1
+411,109,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,18.1,no run,133,0,133/1,"Rippon to Aga, no run",,,1
+412,110,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,18.2,no run,133,0,133/1,"Rippon to Aga, no run",,,1
+413,111,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, no run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,18.3,no run,133,0,133/1,"Rippon to Aga, no run",,,1
+414,112,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Peter Borren,36592,18.4,four,137,4,137/1,"Rippon to Aga, FOUR runs",,,1
+415,113,Ragheb Aga,24716,Michael Rippon,380956,"Rippon to Aga, 1 run ",2nd innings,Irfan Karim,348016,Peter Borren,36592,18.5,run,138,1,138/1,"Rippon to Aga, 1 run",,,1
+416,114,Irfan Karim,348016,Michael Rippon,380956,"Rippon to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Peter Borren,36592,18.6,four,142,4,142/1,"Rippon to Karim, FOUR runs",,,1
+417,115,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Rippon,380956,19.1,no run,142,0,142/1,"Seelaar to Aga, no run",,,1
+418,116,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 2 runs ",2nd innings,Irfan Karim,348016,Michael Rippon,380956,19.2,run,144,2,144/1,"Seelaar to Aga, 2 runs",,,1
+419,117,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Rippon,380956,19.3,no run,144,0,144/1,"Seelaar to Aga, no run",,,1
+420,118,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, no run ",2nd innings,Irfan Karim,348016,Michael Rippon,380956,19.4,no run,144,0,144/1,"Seelaar to Aga, no run",,,1
+421,119,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,Irfan Karim,348016,Michael Rippon,380956,19.5,run,145,1,145/1,"Seelaar to Aga, 1 run",,,1
+422,120,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Michael Rippon,380956,19.6,run,146,1,146/1,"Seelaar to Karim, 1 run",,,1
+423,121,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, no run ",2nd innings,Ragheb Aga,24716,Pieter Seelaar,208657,20.1,no run,146,0,146/1,"Ahsan Malik to Karim, no run",,,1
+424,122,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Pieter Seelaar,208657,20.2,run,147,1,147/1,"Ahsan Malik to Karim, 1 run",,,1
+425,123,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,20.3,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
+426,124,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,20.4,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
+427,125,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, no run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,20.5,no run,147,0,147/1,"Ahsan Malik to Aga, no run",,,1
+428,126,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,20.6,run,148,1,148/1,"Ahsan Malik to Aga, 1 run",,,1
+429,127,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,21.1,run,149,1,149/1,"Seelaar to Aga, 1 run",,,1
+430,128,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 2 runs ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,21.2,run,151,2,151/1,"Seelaar to Karim, 2 runs",,,1
+431,129,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,21.3,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
+432,130,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,21.4,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
+433,131,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,21.5,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
+434,132,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,21.6,no run,151,0,151/1,"Seelaar to Karim, no run",,,1
+435,133,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,22.1,run,152,1,152/1,"Ahsan Malik to Aga, 1 run",,,1
+436,134,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Pieter Seelaar,208657,22.2,run,153,1,153/1,"Ahsan Malik to Karim, 1 run",,,1
+437,135,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,22.3,four,157,4,157/1,"Ahsan Malik to Aga, FOUR runs",,,1
+438,136,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,22.4,four,161,4,161/1,"Ahsan Malik to Aga, FOUR runs",,,1
+439,137,Ragheb Aga,24716,Ahsan Malik,518097,"Ahsan Malik to Aga, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,22.5,run,162,1,162/1,"Ahsan Malik to Aga, 1 run",,,1
+440,138,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Pieter Seelaar,208657,22.6,run,163,1,163/1,"Ahsan Malik to Karim, 1 run",,,1
+441,139,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,23.1,run,164,1,164/1,"Seelaar to Karim, 1 run",,,1
+442,140,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,23.2,run,165,1,165/1,"Seelaar to Aga, 1 run",,,1
+443,141,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, 1 run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,23.3,run,166,1,166/1,"Seelaar to Karim, 1 run",,,1
+444,142,Ragheb Aga,24716,Pieter Seelaar,208657,"Seelaar to Aga, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,23.4,run,167,1,167/1,"Seelaar to Aga, 1 run",,,1
+445,143,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, no run ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,23.5,no run,167,0,167/1,"Seelaar to Karim, no run",,,1
+446,144,Irfan Karim,348016,Pieter Seelaar,208657,"Seelaar to Karim, FOUR runs ",2nd innings,Ragheb Aga,24716,Ahsan Malik,518097,23.6,four,171,4,171/1,"Seelaar to Karim, FOUR runs",,,1
+447,145,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, no run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,24.1,no run,171,0,171/1,"Mudassar Bukhari to Aga, no run",,,1
+448,146,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, FOUR runs ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,24.2,four,175,4,175/1,"Mudassar Bukhari to Aga, FOUR runs",,,1
+449,147,Ragheb Aga,24716,Mudassar Bukhari,245166,"Mudassar Bukhari to Aga, OUT ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,24.3,out,175,0,175/2,"Mudassar Bukhari to Aga, OUT",,,2
+450,148,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, no run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,24.4,no run,175,0,175/2,"Mudassar Bukhari to Obuya, no run",,,2
+451,149,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,24.5,run,176,1,176/2,"Mudassar Bukhari to Obuya, 1 run",,,2
+452,149,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 wide ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,24.5,wide,177,1,177/2,"Mudassar Bukhari to Karim, 1 wide",,,2
+453,150,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,24.6,no run,177,0,177/2,"Mudassar Bukhari to Karim, no run",,,2
+454,151,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.1,no run,177,0,177/2,"Seelaar to Obuya, no run",,,2
+455,152,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.2,no run,177,0,177/2,"Seelaar to Obuya, no run",,,2
+456,153,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, 2 runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.3,run,179,2,179/2,"Seelaar to Obuya, 2 runs",,,2
+457,154,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.4,four,183,4,183/2,"Seelaar to Obuya, FOUR runs",,,2
+458,155,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.5,four,187,4,187/2,"Seelaar to Obuya, FOUR runs",,,2
+459,156,Collins Obuya,24752,Pieter Seelaar,208657,"Seelaar to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,25.6,run,188,1,188/2,"Seelaar to Obuya, 1 run",,,2
+460,157,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,26.1,run,189,1,189/2,"Mudassar Bukhari to Obuya, 1 run",,,2
+461,158,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,26.2,four,193,4,193/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
+462,159,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,26.3,no run,193,0,193/2,"Mudassar Bukhari to Karim, no run",,,2
+463,160,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,26.4,run,194,1,194/2,"Mudassar Bukhari to Karim, 1 run",,,2
+464,161,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Pieter Seelaar,208657,26.5,run,195,1,195/2,"Mudassar Bukhari to Obuya, 1 run",,,2
+465,162,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Collins Obuya,24752,Pieter Seelaar,208657,26.6,no run,195,0,195/2,"Mudassar Bukhari to Karim, no run",,,2
+466,163,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,27.1,no run,195,0,195/2,"Ahsan Malik to Obuya, no run",,,2
+467,164,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, no run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,27.2,no run,195,0,195/2,"Ahsan Malik to Obuya, no run",,,2
+468,165,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,27.3,run,196,1,196/2,"Ahsan Malik to Obuya, 1 run",,,2
+469,166,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,27.4,run,197,1,197/2,"Ahsan Malik to Karim, 1 run",,,2
+470,167,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 leg bye ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,27.5,leg bye,198,1,198/2,"Ahsan Malik to Obuya, 1 leg bye",,,2
+471,168,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,27.6,run,199,1,199/2,"Ahsan Malik to Karim, 1 run",,,2
+472,169,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 2 runs ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,28.1,run,201,2,201/2,"Mudassar Bukhari to Karim, 2 runs",,,2
+473,170,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,28.2,no run,201,0,201/2,"Mudassar Bukhari to Karim, no run",,,2
+474,171,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, no run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,28.3,no run,201,0,201/2,"Mudassar Bukhari to Karim, no run",,,2
+475,172,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,28.4,four,205,4,205/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
+476,173,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,28.5,run,206,1,206/2,"Mudassar Bukhari to Karim, 1 run",,,2
+477,174,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, SIX runs ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,28.6,six,212,6,212/2,"Mudassar Bukhari to Obuya, SIX runs",,,2
+478,175,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 2 runs ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,29.1,run,214,2,214/2,"Ahsan Malik to Karim, 2 runs",,,2
+479,176,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,29.2,run,215,1,215/2,"Ahsan Malik to Karim, 1 run",,,2
+480,177,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, FOUR runs ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,29.3,four,219,4,219/2,"Ahsan Malik to Obuya, FOUR runs",,,2
+481,178,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,29.4,run,220,1,220/2,"Ahsan Malik to Obuya, 1 run",,,2
+482,179,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, 1 run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,29.5,run,221,1,221/2,"Ahsan Malik to Karim, 1 run",,,2
+483,180,Collins Obuya,24752,Ahsan Malik,518097,"Ahsan Malik to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Mudassar Bukhari,245166,29.6,run,222,1,222/2,"Ahsan Malik to Obuya, 1 run",,,2
+484,181,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,30.1,run,223,1,223/2,"Mudassar Bukhari to Obuya, 1 run",,,2
+485,182,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,30.2,run,224,1,224/2,"Mudassar Bukhari to Karim, 1 run",,,2
+486,183,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,30.3,run,225,1,225/2,"Mudassar Bukhari to Obuya, 1 run",,,2
+487,184,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, FOUR runs ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,30.4,four,229,4,229/2,"Mudassar Bukhari to Karim, FOUR runs",,,2
+488,185,Irfan Karim,348016,Mudassar Bukhari,245166,"Mudassar Bukhari to Karim, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,30.5,run,230,1,230/2,"Mudassar Bukhari to Karim, 1 run",,,2
+489,186,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, SIX runs ",2nd innings,Irfan Karim,348016,Ahsan Malik,518097,30.6,six,236,6,236/2,"Mudassar Bukhari to Obuya, SIX runs",,,2
+490,187,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, FOUR runs ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.1,four,240,4,240/2,"Ahsan Malik to Karim, FOUR runs",,,2
+491,188,Irfan Karim,348016,Ahsan Malik,518097,"Ahsan Malik to Karim, OUT ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.2,out,240,0,240/3,"Ahsan Malik to Karim, OUT",,,3
+492,189,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.3,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
+493,190,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.4,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
+494,191,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.5,no run,240,0,240/3,"Ahsan Malik to Patel, no run",,,3
+495,192,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, 1 run ",2nd innings,Collins Obuya,24752,Mudassar Bukhari,245166,31.6,run,241,1,241/3,"Ahsan Malik to Patel, 1 run",,,3
+496,193,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,32.1,run,242,1,242/3,"Mudassar Bukhari to Patel, 1 run",,,3
+497,194,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,32.2,run,243,1,243/3,"Mudassar Bukhari to Obuya, 1 run",,,3
+498,194,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 wide ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,32.2,wide,244,1,244/3,"Mudassar Bukhari to Patel, 1 wide",,,3
+499,195,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,32.3,run,245,1,245/3,"Mudassar Bukhari to Patel, 1 run",,,3
+500,196,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, 1 run ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,32.4,run,246,1,246/3,"Mudassar Bukhari to Obuya, 1 run",,,3
+501,197,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,Collins Obuya,24752,Ahsan Malik,518097,32.5,run,247,1,247/3,"Mudassar Bukhari to Patel, 1 run",,,3
+502,198,Collins Obuya,24752,Mudassar Bukhari,245166,"Mudassar Bukhari to Obuya, OUT ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,32.6,out,247,0,247/4,"Mudassar Bukhari to Obuya, OUT",,,4
+503,199,Thomas Odoyo,24705,Ahsan Malik,518097,"Ahsan Malik to Odoyo, no run ",2nd innings,Rakep Patel,267455,Mudassar Bukhari,245166,33.1,no run,247,0,247/4,"Ahsan Malik to Odoyo, no run",,,4
+504,200,Thomas Odoyo,24705,Ahsan Malik,518097,"Ahsan Malik to Odoyo, OUT ",2nd innings,Rakep Patel,267455,Mudassar Bukhari,245166,33.2,out,247,0,247/5,"Ahsan Malik to Odoyo, OUT",,,5
+505,201,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, no run ",2nd innings,Steve Tikolo,24728,Mudassar Bukhari,245166,33.3,no run,247,0,247/5,"Ahsan Malik to Patel, no run",,,5
+506,202,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, 1 leg bye ",2nd innings,Steve Tikolo,24728,Mudassar Bukhari,245166,33.4,leg bye,248,1,248/5,"Ahsan Malik to Patel, 1 leg bye",,,5
+507,203,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, no run ",2nd innings,Rakep Patel,267455,Mudassar Bukhari,245166,33.5,no run,248,0,248/5,"Ahsan Malik to Tikolo, no run",,,5
+508,204,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 run ",2nd innings,Rakep Patel,267455,Mudassar Bukhari,245166,33.6,run,249,1,249/5,"Ahsan Malik to Tikolo, 1 run",,,5
+509,205,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 leg bye ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,34.1,leg bye,250,1,250/5,"Mudassar Bukhari to Tikolo, 1 leg bye",,,5
+510,206,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,Steve Tikolo,24728,Ahsan Malik,518097,34.2,run,251,1,251/5,"Mudassar Bukhari to Patel, 1 run",,,5
+511,206,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 wide ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,34.2,wide,252,1,252/5,"Mudassar Bukhari to Tikolo, 1 wide",,,5
+512,207,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, 1 run ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,34.3,run,253,1,253/5,"Mudassar Bukhari to Tikolo, 1 run",,,5
+513,208,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, FOUR runs ",2nd innings,Steve Tikolo,24728,Ahsan Malik,518097,34.4,four,257,4,257/5,"Mudassar Bukhari to Patel, FOUR runs",,,5
+514,209,Rakep Patel,267455,Mudassar Bukhari,245166,"Mudassar Bukhari to Patel, 1 run ",2nd innings,Steve Tikolo,24728,Ahsan Malik,518097,34.5,run,258,1,258/5,"Mudassar Bukhari to Patel, 1 run",,,5
+515,210,Steve Tikolo,24728,Mudassar Bukhari,245166,"Mudassar Bukhari to Tikolo, FOUR runs ",2nd innings,Rakep Patel,267455,Ahsan Malik,518097,34.6,four,262,4,262/5,"Mudassar Bukhari to Tikolo, FOUR runs",,,5
+516,211,Rakep Patel,267455,Ahsan Malik,518097,"Ahsan Malik to Patel, OUT ",2nd innings,Steve Tikolo,24728,Mudassar Bukhari,245166,35.1,out,262,0,262/6,"Ahsan Malik to Patel, OUT",,,6
+517,212,Morris Ouma,24750,Ahsan Malik,518097,"Ahsan Malik to Ouma, 1 run ",2nd innings,Steve Tikolo,24728,Mudassar Bukhari,245166,35.2,run,263,1,263/6,"Ahsan Malik to Ouma, 1 run",,,6
+518,213,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 run ",2nd innings,Morris Ouma,24750,Mudassar Bukhari,245166,35.3,run,264,1,264/6,"Ahsan Malik to Tikolo, 1 run",,,6
+519,214,Morris Ouma,24750,Ahsan Malik,518097,"Ahsan Malik to Ouma, 1 leg bye ",2nd innings,Steve Tikolo,24728,Mudassar Bukhari,245166,35.4,leg bye,265,1,265/6,"Ahsan Malik to Ouma, 1 leg bye",,,6
+520,214,Steve Tikolo,24728,Ahsan Malik,518097,"Ahsan Malik to Tikolo, 1 wide ",2nd innings,Morris Ouma,24750,Mudassar Bukhari,245166,35.4,wide,265,1,265/6,"Ahsan Malik to Tikolo, 1 wide",,,6

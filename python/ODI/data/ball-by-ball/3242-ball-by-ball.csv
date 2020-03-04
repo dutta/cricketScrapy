@@ -1,557 +1,557 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,1,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,0.1,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
-1,2,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,0.2,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
-2,3,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,0.3,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
-3,4,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, 2 runs ",1st innings,0.4,run,2,2,2/0,"JO Ngoche to Porterfield, 2 runs",,,0
-4,5,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,0.5,no run,2,0,2/0,"JO Ngoche to Porterfield, no run",,,0
-5,6,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,1.0,no run,2,0,2/0,"JO Ngoche to Porterfield, no run",,,0
-6,7,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,1.1,no run,2,0,2/0,"Odhiambo to Stirling, no run",,,0
-7,8,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run good length but well defended",1st innings,1.2,no run,2,0,2/0,"Odhiambo to Stirling, no run",,good length but well defended,0
-8,9,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,1.3,no run,2,0,2/0,"Odhiambo to Stirling, no run",,,0
-9,10,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run well beaten by the bounce",1st innings,1.4,no run,2,0,2/0,"Odhiambo to Stirling, no run",,well beaten by the bounce,0
-10,11,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs smashed to covers",1st innings,1.5,four,6,4,6/0,"Odhiambo to Stirling, FOUR runs",,smashed to covers,0
-11,12,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run tucked away for a single",1st innings,2.0,run,7,1,7/0,"Odhiambo to Stirling, 1 run",,tucked away for a single,0
-12,13,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, FOUR runs cuts late to third man",1st innings,2.1,four,11,4,11/0,"JO Ngoche to Stirling, FOUR runs",,cuts late to third man,0
-13,14,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,2.2,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
-14,15,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,2.3,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
-15,16,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run bowled tight to the body",1st innings,2.4,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,bowled tight to the body,0
-16,17,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,2.5,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
-17,18,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run swings the bat wildly but he misses",1st innings,3.0,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,swings the bat wildly but he misses,0
-18,19,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, 3 runs ",1st innings,3.1,run,14,3,14/0,"Odhiambo to Porterfield, 3 runs",,,0
-19,20,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,3.2,no run,14,0,14/0,"Odhiambo to Stirling, no run",,,0
-20,21,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run played down to square leg for a single",1st innings,3.3,run,15,1,15/0,"Odhiambo to Stirling, 1 run",,played down to square leg for a single,0
-21,22,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, no run ",1st innings,3.4,no run,15,0,15/0,"Odhiambo to Porterfield, no run",,,0
-22,23,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, OUT beaten by the bounce and slightly touches it and is caught behind",1st innings,3.5,out,15,0,15/1,"Odhiambo to Porterfield, OUT",,beaten by the bounce and slightly touches it and is caught behind,1
-23,24,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run ",1st innings,4.0,no run,15,0,15/1,"Odhiambo to Cusack, no run",,,1
-24,25,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,4.1,no run,15,0,15/1,"Varaiya to Stirling, no run",,,1
-25,26,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,4.2,no run,15,0,15/1,"Varaiya to Stirling, no run",,,1
-26,27,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,4.3,run,16,1,16/1,"Varaiya to Stirling, 1 run",,,1
-27,28,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 2 runs ",1st innings,4.4,run,18,2,18/1,"Varaiya to Cusack, 2 runs",,,1
-28,28,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 2 wides ",1st innings,4.4,wide,20,2,20/1,"Varaiya to Cusack, 2 wides",,,1
-29,29,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 2 runs ",1st innings,4.5,run,22,2,22/1,"Varaiya to Stirling, 2 runs",,,1
-30,30,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,5.0,run,23,1,23/1,"Varaiya to Stirling, 1 run",,,1
-31,31,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run cuts to third man for a single",1st innings,5.1,run,24,1,24/1,"Odhiambo to Stirling, 1 run",,cuts to third man for a single,1
-32,32,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run bowls tight to the body",1st innings,5.2,no run,24,0,24/1,"Odhiambo to Cusack, no run",,bowls tight to the body,1
-33,33,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run slower delivery but is well red by the batsman",1st innings,5.3,no run,24,0,24/1,"Odhiambo to Cusack, no run",,slower delivery but is well red by the batsman,1
-34,34,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run ",1st innings,5.4,no run,24,0,24/1,"Odhiambo to Cusack, no run",,,1
-35,35,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 2 runs cuts to third man for a quick two",1st innings,5.5,run,26,2,26/1,"Odhiambo to Cusack, 2 runs",,cuts to third man for a quick two,1
-36,36,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 run ",1st innings,6.0,run,27,1,27/1,"Odhiambo to Cusack, 1 run",,,1
-37,37,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,6.1,no run,27,0,27/1,"Varaiya to Cusack, no run",,,1
-38,38,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,6.2,no run,27,0,27/1,"Varaiya to Cusack, no run",,,1
-39,39,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 1 run ",1st innings,6.3,run,28,1,28/1,"Varaiya to Cusack, 1 run",,,1
-40,40,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,6.4,no run,28,0,28/1,"Varaiya to Stirling, no run",,,1
-41,41,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,6.5,run,29,1,29/1,"Varaiya to Stirling, 1 run",,,1
-42,42,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,7.0,no run,29,0,29/1,"Varaiya to Cusack, no run",,,1
-43,43,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,7.1,no run,29,0,29/1,"Odhiambo to Stirling, no run",,,1
-44,44,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,7.2,no run,29,0,29/1,"Odhiambo to Stirling, no run",,,1
-45,45,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, SIX runs ",1st innings,7.3,six,35,6,35/1,"Odhiambo to Stirling, SIX runs",,,1
-46,46,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run ",1st innings,7.4,run,36,1,36/1,"Odhiambo to Stirling, 1 run",,,1
-47,47,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, FOUR runs straght hit to the boundary",1st innings,7.5,four,40,4,40/1,"Odhiambo to Cusack, FOUR runs",,straght hit to the boundary,1
-48,48,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 leg bye ",1st innings,8.0,leg bye,41,1,41/1,"Odhiambo to Cusack, 1 leg bye",,,1
-49,49,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 1 run ",1st innings,8.1,run,42,1,42/1,"Varaiya to Cusack, 1 run",,,1
-50,50,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, FOUR runs cuts well to third man for four",1st innings,8.2,four,46,4,46/1,"Varaiya to Stirling, FOUR runs",,cuts well to third man for four,1
-51,51,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,8.3,no run,46,0,46/1,"Varaiya to Stirling, no run",,,1
-52,52,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, FOUR runs smashed to deep cover",1st innings,8.4,four,50,4,50/1,"Varaiya to Stirling, FOUR runs",,smashed to deep cover,1
-53,53,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,8.5,no run,50,0,50/1,"Varaiya to Stirling, no run",,,1
-54,54,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 2 runs ",1st innings,9.0,run,52,2,52/1,"Varaiya to Stirling, 2 runs",,,1
-55,55,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 run slapped to third man for a single",1st innings,9.1,run,53,1,53/1,"Odhiambo to Cusack, 1 run",,slapped to third man for a single,1
-56,56,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs played down to deep mid wicket",1st innings,9.2,four,57,4,57/1,"Odhiambo to Stirling, FOUR runs",,played down to deep mid wicket,1
-57,57,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,9.3,no run,57,0,57/1,"Odhiambo to Stirling, no run",,,1
-58,58,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run slower delivery but again well defended",1st innings,9.4,no run,57,0,57/1,"Odhiambo to Stirling, no run",,slower delivery but again well defended,1
-59,59,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs lofted down tolong on for a boundary",1st innings,9.5,four,61,4,61/1,"Odhiambo to Stirling, FOUR runs",,lofted down tolong on for a boundary,1
-60,60,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,10.0,no run,61,0,61/1,"Odhiambo to Stirling, no run",,,1
-61,61,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,10.1,no run,61,0,61/1,"SO Ngoche to Cusack, no run",,,1
-62,62,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,10.2,no run,61,0,61/1,"SO Ngoche to Cusack, no run",,,1
-63,63,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,10.3,run,62,1,62/1,"SO Ngoche to Cusack, 1 run",,,1
-64,64,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, 1 run ",1st innings,10.4,run,63,1,63/1,"SO Ngoche to Stirling, 1 run",,,1
-65,65,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,10.5,run,64,1,64/1,"SO Ngoche to Cusack, 1 run",,,1
-66,66,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, 1 run ",1st innings,11.0,run,65,1,65/1,"SO Ngoche to Stirling, 1 run",,,1
-67,67,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,11.1,run,66,1,66/1,"JO Ngoche to Stirling, 1 run",,,1
-68,68,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,11.2,run,67,1,67/1,"JO Ngoche to Cusack, 1 run",,,1
-69,69,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,11.3,run,68,1,68/1,"JO Ngoche to Stirling, 1 run",,,1
-70,70,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,11.4,run,69,1,69/1,"JO Ngoche to Cusack, 1 run",,,1
-71,71,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,11.5,run,70,1,70/1,"JO Ngoche to Stirling, 1 run",,,1
-72,72,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,12.0,run,71,1,71/1,"JO Ngoche to Cusack, 1 run",,,1
-73,73,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 2 runs ",1st innings,12.1,run,73,2,73/1,"SO Ngoche to Cusack, 2 runs",,,1
-74,74,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,12.2,no run,73,0,73/1,"SO Ngoche to Cusack, no run",,,1
-75,75,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,12.3,run,74,1,74/1,"SO Ngoche to Cusack, 1 run",,,1
-76,76,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, no run ",1st innings,12.4,no run,74,0,74/1,"SO Ngoche to Stirling, no run",,,1
-77,77,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, no run ",1st innings,12.5,no run,74,0,74/1,"SO Ngoche to Stirling, no run",,,1
-78,78,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, OUT played right to the hands of the skeeper at mid wicket",1st innings,13.0,out,74,0,74/2,"SO Ngoche to Stirling, OUT",,played right to the hands of the skeeper at mid wicket,2
-79,79,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,13.1,no run,74,0,74/2,"JO Ngoche to Cusack, no run",,,2
-80,80,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,13.2,run,75,1,75/2,"JO Ngoche to Cusack, 1 run",,,2
-81,81,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,13.3,no run,75,0,75/2,"JO Ngoche to Joyce, no run",,,2
-82,82,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, 1 run ",1st innings,13.4,run,76,1,76/2,"JO Ngoche to Joyce, 1 run",,,2
-83,83,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,13.5,no run,76,0,76/2,"JO Ngoche to Cusack, no run",,,2
-84,84,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,14.0,no run,76,0,76/2,"JO Ngoche to Cusack, no run",,,2
-85,85,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, no run ",1st innings,14.1,no run,76,0,76/2,"SO Ngoche to Joyce, no run",,,2
-86,86,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, no run ",1st innings,14.2,no run,76,0,76/2,"SO Ngoche to Joyce, no run",,,2
-87,87,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, 1 run ",1st innings,14.3,run,77,1,77/2,"SO Ngoche to Joyce, 1 run",,,2
-88,88,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,14.4,run,78,1,78/2,"SO Ngoche to Cusack, 1 run",,,2
-89,89,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, 1 run ",1st innings,14.5,run,79,1,79/2,"SO Ngoche to Joyce, 1 run",,,2
-90,90,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, FOUR runs hit down to long on for a boundary",1st innings,15.0,four,83,4,83/2,"SO Ngoche to Cusack, FOUR runs",,hit down to long on for a boundary,2
-91,91,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,15.1,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
-92,92,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,15.2,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
-93,93,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,15.3,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
-94,94,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, OUT good line,good length and he tries to move back but is clean bowled",1st innings,15.4,out,83,0,83/3,"JO Ngoche to Joyce, OUT",,"good line,good length and he tries to move back but is clean bowled",3
-95,95,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,15.5,no run,83,0,83/3,"JO Ngoche to Wilson, no run",,,3
-96,96,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,16.0,no run,83,0,83/3,"JO Ngoche to Wilson, no run",,,3
-97,97,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,16.1,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
-98,98,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,16.2,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
-99,99,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,16.3,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
-100,100,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,16.4,run,84,1,84/3,"SO Ngoche to Cusack, 1 run",,,3
-101,101,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,16.5,run,85,1,85/3,"SO Ngoche to Wilson, 1 run",,,3
-102,102,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, OUT lofted right to the hands of obanda at long on",1st innings,17.0,out,85,0,85/4,"SO Ngoche to Cusack, OUT",,lofted right to the hands of obanda at long on,4
-103,103,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, 1 run ",1st innings,17.1,run,86,1,86/4,"JO Ngoche to O'Brien, 1 run",,,4
-104,104,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,17.2,no run,86,0,86/4,"JO Ngoche to Wilson, no run",,,4
-105,105,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, 1 run ",1st innings,17.3,run,87,1,87/4,"JO Ngoche to Wilson, 1 run",,,4
-106,106,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,17.4,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
-107,107,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,17.5,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
-108,108,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,18.0,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
-109,109,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,18.1,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
-110,110,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,18.2,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
-111,111,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,18.3,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
-112,112,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,18.4,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
-113,113,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,18.5,run,88,1,88/4,"SO Ngoche to Wilson, 1 run",,,4
-114,114,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,19.0,no run,88,0,88/4,"SO Ngoche to O'Brien, no run",,,4
-115,115,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,19.1,no run,88,0,88/4,"JO Ngoche to Wilson, no run",,,4
-116,116,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,19.2,no run,88,0,88/4,"JO Ngoche to Wilson, no run",,,4
-117,117,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, 1 run ",1st innings,19.3,run,89,1,89/4,"JO Ngoche to Wilson, 1 run",,,4
-118,118,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,19.4,no run,89,0,89/4,"JO Ngoche to O'Brien, no run",,,4
-119,119,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,19.5,no run,89,0,89/4,"JO Ngoche to O'Brien, no run",,,4
-120,120,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, 2 runs ",1st innings,20.0,run,91,2,91/4,"JO Ngoche to O'Brien, 2 runs",,,4
-121,121,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,20.1,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
-122,122,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,20.2,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
-123,123,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,20.3,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
-124,124,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,20.4,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
-125,125,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, FOUR runs inside edged to fine leg",1st innings,20.5,four,95,4,95/4,"SO Ngoche to Wilson, FOUR runs",,inside edged to fine leg,4
-126,126,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 2 runs cut to point for two",1st innings,21.0,run,97,2,97/4,"SO Ngoche to Wilson, 2 runs",,cut to point for two,4
-127,127,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,21.1,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
-128,128,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,21.2,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
-129,129,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,21.3,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
-130,130,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,21.4,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
-131,131,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,21.5,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
-132,132,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run a deserved maiden over for his effort",1st innings,22.0,no run,97,0,97/4,"Varaiya to O'Brien, no run",,a deserved maiden over for his effort,4
-133,133,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,22.1,run,98,1,98/4,"SO Ngoche to Wilson, 1 run",,,4
-134,134,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,22.2,no run,98,0,98/4,"SO Ngoche to O'Brien, no run",,,4
-135,135,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,22.3,run,99,1,99/4,"SO Ngoche to O'Brien, 1 run",,,4
-136,136,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,22.4,run,100,1,100/4,"SO Ngoche to Wilson, 1 run",,,4
-137,137,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,22.5,run,101,1,101/4,"SO Ngoche to O'Brien, 1 run",,,4
-138,138,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,23.0,run,102,1,102/4,"SO Ngoche to Wilson, 1 run",,,4
-139,139,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,23.1,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
-140,140,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,23.2,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
-141,141,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,23.3,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
-142,142,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,23.4,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
-143,143,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,23.5,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
-144,144,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run bowled tight for another maiden",1st innings,24.0,no run,102,0,102/4,"Varaiya to Wilson, no run",,bowled tight for another maiden,4
-145,145,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,24.1,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
-146,146,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,24.2,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
-147,147,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,24.3,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
-148,148,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, FOUR runs ",1st innings,24.4,four,106,4,106/4,"SO Ngoche to O'Brien, FOUR runs",,,4
-149,149,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,24.5,no run,106,0,106/4,"SO Ngoche to O'Brien, no run",,,4
-150,150,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,25.0,run,107,1,107/4,"SO Ngoche to O'Brien, 1 run",,,4
-151,151,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,25.1,run,108,1,108/4,"Patel to O'Brien, 1 run",,,4
-152,152,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run cut to gully for a single",1st innings,25.2,run,109,1,109/4,"Patel to Wilson, 1 run",,cut to gully for a single,4
-153,153,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,25.3,run,110,1,110/4,"Patel to O'Brien, 1 run",,,4
-154,154,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,25.4,no run,110,0,110/4,"Patel to Wilson, no run",,,4
-155,155,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,25.5,run,111,1,111/4,"Patel to Wilson, 1 run",,,4
-156,156,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,26.0,no run,111,0,111/4,"Patel to O'Brien, no run",,,4
-157,157,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,26.1,run,112,1,112/4,"Varaiya to Wilson, 1 run",,,4
-158,158,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,26.2,no run,112,0,112/4,"Varaiya to O'Brien, no run",,,4
-159,159,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,26.3,no run,112,0,112/4,"Varaiya to O'Brien, no run",,,4
-160,160,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,26.4,run,113,1,113/4,"Varaiya to O'Brien, 1 run",,,4
-161,161,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,26.5,run,114,1,114/4,"Varaiya to Wilson, 1 run",,,4
-162,162,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,27.0,no run,114,0,114/4,"Varaiya to O'Brien, no run",,,4
-163,163,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,27.1,run,115,1,115/4,"Patel to Wilson, 1 run",,,4
-164,164,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,27.2,run,116,1,116/4,"Patel to O'Brien, 1 run",,,4
-165,165,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,27.3,no run,116,0,116/4,"Patel to Wilson, no run",,,4
-166,166,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 2 runs cuts late to third man",1st innings,27.4,run,118,2,118/4,"Patel to Wilson, 2 runs",,cuts late to third man,4
-167,167,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,27.5,no run,118,0,118/4,"Patel to Wilson, no run",,,4
-168,168,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run glanced to fine leg",1st innings,28.0,run,119,1,119/4,"Patel to Wilson, 1 run",,glanced to fine leg,4
-169,169,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,28.1,run,120,1,120/4,"Varaiya to Wilson, 1 run",,,4
-170,170,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,28.2,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
-171,171,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,28.3,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
-172,172,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,28.4,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
-173,173,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,28.5,run,121,1,121/4,"Varaiya to O'Brien, 1 run",,,4
-174,174,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,29.0,run,122,1,122/4,"Varaiya to Wilson, 1 run",,,4
-175,175,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,29.1,no run,122,0,122/4,"Patel to Wilson, no run",,,4
-176,176,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,29.2,no run,122,0,122/4,"Patel to Wilson, no run",,,4
-177,177,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,29.3,run,123,1,123/4,"Patel to Wilson, 1 run",,,4
-178,178,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,29.4,run,124,1,124/4,"Patel to O'Brien, 1 run",,,4
-179,179,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,29.5,no run,124,0,124/4,"Patel to Wilson, no run",,,4
-180,180,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,30.0,run,125,1,125/4,"Patel to Wilson, 1 run",,,4
-181,181,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, no run ",1st innings,30.1,no run,125,0,125/4,"Allan to Wilson, no run",,,4
-182,182,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, 1 run ",1st innings,30.2,run,126,1,126/4,"Allan to Wilson, 1 run",,,4
-183,183,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run cut to third man",1st innings,30.3,run,127,1,127/4,"Allan to O'Brien, 1 run",,cut to third man,4
-184,184,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, no run bowled tight to the body",1st innings,30.4,no run,127,0,127/4,"Allan to Wilson, no run",,bowled tight to the body,4
-185,185,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, 1 run ",1st innings,30.5,run,128,1,128/4,"Allan to Wilson, 1 run",,,4
-186,186,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run driven on the bounce to mid on",1st innings,31.0,run,129,1,129/4,"Allan to O'Brien, 1 run",,driven on the bounce to mid on,4
-187,187,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,31.1,no run,129,0,129/4,"Patel to O'Brien, no run",,,4
-188,188,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,31.2,no run,129,0,129/4,"Patel to O'Brien, no run",,,4
-189,189,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,31.3,run,130,1,130/4,"Patel to O'Brien, 1 run",,,4
-190,190,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,31.4,no run,130,0,130/4,"Patel to Wilson, no run",,,4
-191,191,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, OUT hits straight back to patel who takes a wonderful catch",1st innings,31.5,out,130,0,130/5,"Patel to Wilson, OUT",,hits straight back to patel who takes a wonderful catch,5
-192,192,Andrew White,24286,Rakep Patel,267455,"Patel to White, 1 run ",1st innings,32.0,run,131,1,131/5,"Patel to White, 1 run",,,5
-193,193,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run glanced to square leg",1st innings,32.1,run,132,1,132/5,"Allan to White, 1 run",,glanced to square leg,5
-194,194,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run driven on the bounce to long on",1st innings,32.2,run,133,1,133/5,"Allan to O'Brien, 1 run",,driven on the bounce to long on,5
-195,195,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run slow delivery but reads well",1st innings,32.3,no run,133,0,133/5,"Allan to White, no run",,slow delivery but reads well,5
-196,196,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,32.4,no run,133,0,133/5,"Allan to White, no run",,,5
-197,197,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,32.5,no run,133,0,133/5,"Allan to White, no run",,,5
-198,198,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,33.0,no run,133,0,133/5,"Allan to White, no run",,,5
-199,199,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,33.1,no run,133,0,133/5,"CO Obuya to O'Brien, no run",,,5
-200,200,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,33.2,run,134,1,134/5,"CO Obuya to O'Brien, 1 run",,,5
-201,201,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,33.3,run,135,1,135/5,"CO Obuya to White, 1 run",,,5
-202,202,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,33.4,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
-203,203,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,33.5,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
-204,204,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,34.0,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
-205,205,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,34.1,no run,135,0,135/5,"Allan to White, no run",,,5
-206,206,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,34.2,no run,135,0,135/5,"Allan to White, no run",,,5
-207,207,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run ",1st innings,34.3,run,136,1,136/5,"Allan to White, 1 run",,,5
-208,208,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, FOUR runs glanced to fine leg",1st innings,34.4,four,140,4,140/5,"Allan to O'Brien, FOUR runs",,glanced to fine leg,5
-209,209,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run ",1st innings,34.5,run,141,1,141/5,"Allan to O'Brien, 1 run",,,5
-210,210,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run ",1st innings,35.0,run,142,1,142/5,"Allan to White, 1 run",,,5
-211,211,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,35.1,no run,142,0,142/5,"CO Obuya to White, no run",,,5
-212,212,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,35.2,no run,142,0,142/5,"CO Obuya to White, no run",,,5
-213,213,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run tucked away for a single",1st innings,35.3,run,143,1,143/5,"CO Obuya to White, 1 run",,tucked away for a single,5
-214,214,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,35.4,run,144,1,144/5,"CO Obuya to O'Brien, 1 run",,,5
-215,215,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,35.5,run,145,1,145/5,"CO Obuya to White, 1 run",,,5
-216,216,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,36.0,run,146,1,146/5,"CO Obuya to O'Brien, 1 run",,,5
-217,217,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, FOUR runs ",1st innings,36.1,four,150,4,150/5,"Varaiya to O'Brien, FOUR runs",,,5
-218,218,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,36.2,no run,150,0,150/5,"Varaiya to O'Brien, no run",,,5
-219,219,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,36.3,run,151,1,151/5,"Varaiya to O'Brien, 1 run",,,5
-220,220,Andrew White,24286,Hiren Varaiya,254114,"Varaiya to White, no run ",1st innings,36.4,no run,151,0,151/5,"Varaiya to White, no run",,,5
-221,221,Andrew White,24286,Hiren Varaiya,254114,"Varaiya to White, 1 run ",1st innings,36.5,run,152,1,152/5,"Varaiya to White, 1 run",,,5
-222,222,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 2 runs ",1st innings,37.0,run,154,2,154/5,"Varaiya to O'Brien, 2 runs",,,5
-223,223,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,37.1,run,155,1,155/5,"CO Obuya to White, 1 run",,,5
-224,224,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,37.2,no run,155,0,155/5,"CO Obuya to O'Brien, no run",,,5
-225,225,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, FOUR runs slogged down to squere leg",1st innings,37.3,four,159,4,159/5,"CO Obuya to O'Brien, FOUR runs",,slogged down to squere leg,5
-226,226,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, OUT played straight to the hands of james at square leg",1st innings,37.4,out,159,0,159/6,"CO Obuya to O'Brien, OUT",,played straight to the hands of james at square leg,6
-227,227,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,37.5,run,160,1,160/6,"CO Obuya to Mooney, 1 run",,,6
-228,228,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,38.0,no run,160,0,160/6,"CO Obuya to White, no run",,,6
-229,229,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,38.1,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
-230,230,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,38.2,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
-231,231,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,38.3,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
-232,232,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,38.4,run,161,1,161/6,"SO Ngoche to Mooney, 1 run",,,6
-233,233,Andrew White,24286,Shem Ngoche,308515,"SO Ngoche to White, 1 run ",1st innings,38.5,run,162,1,162/6,"SO Ngoche to White, 1 run",,,6
-234,234,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,39.0,run,163,1,163/6,"SO Ngoche to Mooney, 1 run",,,6
-235,235,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, no run ",1st innings,39.1,no run,163,0,163/6,"CO Obuya to Mooney, no run",,,6
-236,236,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,39.2,run,164,1,164/6,"CO Obuya to Mooney, 1 run",,,6
-237,237,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, OUT superb one handed catch by allan",1st innings,39.3,out,164,0,164/7,"CO Obuya to White, OUT",,superb one handed catch by allan,7
-238,238,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,39.4,run,165,1,165/7,"CO Obuya to Johnston, 1 run",,,7
-239,239,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 2 runs ",1st innings,39.5,run,167,2,167/7,"CO Obuya to Mooney, 2 runs",,,7
-240,239,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 wide ",1st innings,39.5,wide,168,1,168/7,"CO Obuya to Mooney, 1 wide",,,7
-241,240,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 2 runs played into the gap for a quick two",1st innings,40.0,run,170,2,170/7,"CO Obuya to Mooney, 2 runs",,played into the gap for a quick two,7
-242,241,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, no run ",1st innings,40.1,no run,170,0,170/7,"SO Ngoche to Johnston, no run",,,7
-243,242,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, 1 run ",1st innings,40.2,run,171,1,171/7,"SO Ngoche to Johnston, 1 run",,,7
-244,243,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,40.3,no run,171,0,171/7,"SO Ngoche to Mooney, no run",,,7
-245,244,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,40.4,run,172,1,172/7,"SO Ngoche to Mooney, 1 run",,,7
-246,245,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, 1 run ",1st innings,40.5,run,173,1,173/7,"SO Ngoche to Johnston, 1 run",,,7
-247,246,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,41.0,run,174,1,174/7,"SO Ngoche to Mooney, 1 run",,,7
-248,247,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, no run ",1st innings,41.1,no run,174,0,174/7,"CO Obuya to Mooney, no run",,,7
-249,248,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,41.2,run,175,1,175/7,"CO Obuya to Mooney, 1 run",,,7
-250,249,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,41.3,run,176,1,176/7,"CO Obuya to Johnston, 1 run",,,7
-251,250,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,41.4,run,177,1,177/7,"CO Obuya to Mooney, 1 run",,,7
-252,251,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, no run ",1st innings,41.5,no run,177,0,177/7,"CO Obuya to Johnston, no run",,,7
-253,252,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,42.0,run,178,1,178/7,"CO Obuya to Johnston, 1 run",,,7
-254,253,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 2 runs ",1st innings,42.1,run,180,2,180/7,"Varaiya to Johnston, 2 runs",,,7
-255,254,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,42.2,no run,180,0,180/7,"Varaiya to Johnston, no run",,,7
-256,255,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 1 run ",1st innings,42.3,run,181,1,181/7,"Varaiya to Johnston, 1 run",,,7
-257,256,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,42.4,no run,181,0,181/7,"Varaiya to Mooney, no run",,,7
-258,257,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,42.5,no run,181,0,181/7,"Varaiya to Mooney, no run",,,7
-259,258,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, 2 runs ",1st innings,43.0,run,183,2,183/7,"Varaiya to Mooney, 2 runs",,,7
-260,259,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, no run ",1st innings,43.1,no run,183,0,183/7,"Odhiambo to Johnston, no run",,,7
-261,260,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, 1 run powerful drive to long on",1st innings,43.2,run,184,1,184/7,"Odhiambo to Johnston, 1 run",,powerful drive to long on,7
-262,260,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 wide ",1st innings,43.2,wide,185,1,185/7,"Odhiambo to Mooney, 1 wide",,,7
-263,261,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 run ",1st innings,43.3,run,186,1,186/7,"Odhiambo to Mooney, 1 run",,,7
-264,262,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, 1 run ",1st innings,43.4,run,187,1,187/7,"Odhiambo to Johnston, 1 run",,,7
-265,263,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, FOUR runs late cut to third man for four",1st innings,43.5,four,191,4,191/7,"Odhiambo to Mooney, FOUR runs",,late cut to third man for four,7
-266,264,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 run ",1st innings,44.0,run,192,1,192/7,"Odhiambo to Mooney, 1 run",,,7
-267,265,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, 1 run ",1st innings,44.1,run,193,1,193/7,"Varaiya to Mooney, 1 run",,,7
-268,266,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,44.2,no run,193,0,193/7,"Varaiya to Johnston, no run",,,7
-269,267,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,44.3,no run,193,0,193/7,"Varaiya to Johnston, no run",,,7
-270,268,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 1 run ",1st innings,44.4,run,194,1,194/7,"Varaiya to Johnston, 1 run",,,7
-271,269,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,44.5,no run,194,0,194/7,"Varaiya to Mooney, no run",,,7
-272,270,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, OUT went for a big one but missed and is clean bowled",1st innings,45.0,out,194,0,194/8,"Varaiya to Mooney, OUT",,went for a big one but missed and is clean bowled,8
-273,271,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,45.1,no run,194,0,194/8,"JO Ngoche to Johnston, no run",,,8
-274,272,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, 2 runs ",1st innings,45.2,run,196,2,196/8,"JO Ngoche to Johnston, 2 runs",,,8
-275,273,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,45.3,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
-276,274,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,45.4,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
-277,275,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,45.5,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
-278,276,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, 1 run ",1st innings,46.0,run,197,1,197/8,"JO Ngoche to Johnston, 1 run",,,8
-279,277,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, no run ",1st innings,46.1,no run,197,0,197/8,"CO Obuya to Johnston, no run",,,8
-280,278,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, OUT cuts and is caught by patel at gully",1st innings,46.2,out,197,0,197/9,"CO Obuya to Johnston, OUT",,cuts and is caught by patel at gully,9
-281,279,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,46.3,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
-282,280,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,46.4,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
-283,281,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,46.5,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
-284,282,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, 1 run ",1st innings,47.0,run,198,1,198/9,"CO Obuya to Dockrell, 1 run",,,9
-285,283,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, no run ",1st innings,47.1,no run,198,0,198/9,"JO Ngoche to Dockrell, no run",,,9
-286,284,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, 2 runs ",1st innings,47.2,run,200,2,200/9,"JO Ngoche to Dockrell, 2 runs",,,9
-287,285,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, OUT wonderful catch by agha at mid on",1st innings,47.3,out,200,0,200/10,"JO Ngoche to Dockrell, OUT",,wonderful catch by agha at mid on,10
-288,1,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,0.1,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
-289,2,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,0.2,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
-290,3,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run good length and well blocked by obuya",2nd innings,0.3,no run,0,0,0/0,"Rankin to DO Obuya, no run",,good length and well blocked by obuya,0
-291,4,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,0.4,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
-292,5,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,0.5,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
-293,6,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 run glanced to square leg for an easy single",2nd innings,1.0,run,1,1,1/0,"Rankin to DO Obuya, 1 run",,glanced to square leg for an easy single,0
-294,7,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 run ",2nd innings,1.1,run,2,1,2/0,"Johnston to DO Obuya, 1 run",,,0
-295,8,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,1.2,no run,2,0,2/0,"Johnston to Allan, no run",,,0
-296,9,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run tight line but well blocked",2nd innings,1.3,no run,2,0,2/0,"Johnston to Allan, no run",,tight line but well blocked,0
-297,10,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run he is well beaten by the bounce",2nd innings,1.4,no run,2,0,2/0,"Johnston to Allan, no run",,he is well beaten by the bounce,0
-298,11,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,1.5,no run,2,0,2/0,"Johnston to Allan, no run",,,0
-299,12,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,2.0,no run,2,0,2/0,"Johnston to Allan, no run",,,0
-300,13,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,2.1,no run,2,0,2/0,"Rankin to DO Obuya, no run",,,0
-301,14,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,2.2,no run,2,0,2/0,"Rankin to DO Obuya, no run",,,0
-302,15,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 2 runs glanced to fine leg for two",2nd innings,2.3,run,4,2,4/0,"Rankin to DO Obuya, 2 runs",,glanced to fine leg for two,0
-303,16,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 run ",2nd innings,2.4,run,5,1,5/0,"Rankin to DO Obuya, 1 run",,,0
-304,17,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,2.5,no run,5,0,5/0,"Rankin to Allan, no run",,,0
-305,18,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,3.0,no run,5,0,5/0,"Rankin to Allan, no run",,,0
-306,19,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,3.1,no run,5,0,5/0,"Johnston to DO Obuya, no run",,,0
-307,19,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 wide ",2nd innings,3.1,wide,6,1,6/0,"Johnston to DO Obuya, 1 wide",,,0
-308,20,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run good length and yet again well defended",2nd innings,3.2,no run,6,0,6/0,"Johnston to DO Obuya, no run",,good length and yet again well defended,0
-309,21,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,3.3,no run,6,0,6/0,"Johnston to DO Obuya, no run",,,0
-310,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,3.4,no run,6,0,6/0,"Johnston to DO Obuya, no run",,,0
-311,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 no ball ",2nd innings,3.4,no ball,7,1,7/0,"Johnston to DO Obuya, 1 no ball",,,0
-312,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 no ball ",2nd innings,3.4,no ball,8,1,8/0,"Johnston to DO Obuya, 1 no ball",,,0
-313,23,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 run ",2nd innings,3.5,run,9,1,9/0,"Johnston to DO Obuya, 1 run",,,0
-314,24,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,4.0,no run,9,0,9/0,"Johnston to Allan, no run",,,0
-315,25,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,4.1,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
-316,26,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,4.2,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
-317,27,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,4.3,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
-318,28,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,4.4,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
-319,29,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run sways out of the way of the bouncer",2nd innings,4.5,no run,9,0,9/0,"Rankin to DO Obuya, no run",,sways out of the way of the bouncer,0
-320,30,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run a maiden for his effort",2nd innings,5.0,no run,9,0,9/0,"Rankin to DO Obuya, no run",,a maiden for his effort,0
-321,31,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, 3 runs ",2nd innings,5.1,run,12,3,12/0,"Johnston to Allan, 3 runs",,,0
-322,32,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,5.2,no run,12,0,12/0,"Johnston to DO Obuya, no run",,,0
-323,33,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run bowled tightly to the body",2nd innings,5.3,no run,12,0,12/0,"Johnston to DO Obuya, no run",,bowled tightly to the body,0
-324,34,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, FOUR runs pulled to fine leg",2nd innings,5.4,four,16,4,16/0,"Johnston to DO Obuya, FOUR runs",,pulled to fine leg,0
-325,35,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,5.5,no run,16,0,16/0,"Johnston to DO Obuya, no run",,,0
-326,36,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,6.0,no run,16,0,16/0,"Johnston to DO Obuya, no run",,,0
-327,37,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,6.1,no run,16,0,16/0,"Rankin to Allan, no run",,,0
-328,38,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,6.2,no run,16,0,16/0,"Rankin to Allan, no run",,,0
-329,39,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,6.3,no run,16,0,16/0,"Rankin to Allan, no run",,,0
-330,40,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,6.4,no run,16,0,16/0,"Rankin to Allan, no run",,,0
-331,41,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,6.5,no run,16,0,16/0,"Rankin to Allan, no run",,,0
-332,42,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, 1 run well defended and a good call for a single",2nd innings,7.0,run,17,1,17/0,"Rankin to Allan, 1 run",,well defended and a good call for a single,0
-333,43,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,7.1,no run,17,0,17/0,"Johnston to Allan, no run",,,0
-334,44,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,7.2,no run,17,0,17/0,"Johnston to Allan, no run",,,0
-335,45,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,7.3,no run,17,0,17/0,"Johnston to Allan, no run",,,0
-336,46,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,7.4,no run,17,0,17/0,"Johnston to Allan, no run",,,0
-337,47,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,7.5,no run,17,0,17/0,"Johnston to Allan, no run",,,0
-338,48,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run he is rewarded with a maiden for his effort",2nd innings,8.0,no run,17,0,17/0,"Johnston to Allan, no run",,he is rewarded with a maiden for his effort,0
-339,49,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,8.1,no run,17,0,17/0,"Rankin to DO Obuya, no run",,,0
-340,50,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run well bowled tight to the body",2nd innings,8.2,no run,17,0,17/0,"Rankin to DO Obuya, no run",,well bowled tight to the body,0
-341,51,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run superb length and line",2nd innings,8.3,no run,17,0,17/0,"Rankin to DO Obuya, no run",,superb length and line,0
-342,52,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 leg bye ",2nd innings,8.4,leg bye,18,1,18/0,"Rankin to DO Obuya, 1 leg bye",,,0
-343,53,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, FOUR runs powerful straight drive",2nd innings,8.5,four,22,4,22/0,"Rankin to Allan, FOUR runs",,powerful straight drive,0
-344,54,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,9.0,no run,22,0,22/0,"Rankin to Allan, no run",,,0
-345,55,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,9.1,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
-346,56,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,9.2,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
-347,57,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,9.3,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
-348,58,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,9.4,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
-349,59,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 1 run ",2nd innings,9.5,run,23,1,23/0,"Mooney to DO Obuya, 1 run",,,0
-350,60,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,10.0,no run,23,0,23/0,"Mooney to Allan, no run",,,0
-351,61,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,10.1,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-352,62,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,10.2,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-353,63,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,10.3,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-354,64,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,10.4,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-355,65,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,10.5,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-356,66,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,11.0,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
-357,67,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,11.1,no run,23,0,23/0,"Mooney to Allan, no run",,,0
-358,68,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, FOUR runs ",2nd innings,11.2,four,27,4,27/0,"Mooney to Allan, FOUR runs",,,0
-359,69,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, 1 run ",2nd innings,11.3,run,28,1,28/0,"Mooney to Allan, 1 run",,,0
-360,70,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,11.4,no run,28,0,28/0,"Mooney to DO Obuya, no run",,,0
-361,71,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 2 runs cuts to point for two",2nd innings,11.5,run,30,2,30/0,"Mooney to DO Obuya, 2 runs",,cuts to point for two,0
-362,72,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 1 leg bye ",2nd innings,12.0,leg bye,31,1,31/0,"Mooney to DO Obuya, 1 leg bye",,,0
-363,73,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,12.1,no run,31,0,31/0,"Stirling to DO Obuya, no run",,,0
-364,74,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, 1 run tucked away ffor a single",2nd innings,12.2,run,32,1,32/0,"Stirling to DO Obuya, 1 run",,tucked away ffor a single,0
-365,75,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, 1 run ",2nd innings,12.3,run,33,1,33/0,"Stirling to Allan, 1 run",,,0
-366,76,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, 1 run ",2nd innings,12.4,run,34,1,34/0,"Stirling to DO Obuya, 1 run",,,0
-367,77,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, no run ",2nd innings,12.5,no run,34,0,34/0,"Stirling to Allan, no run",,,0
-368,78,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, 1 run ",2nd innings,13.0,run,35,1,35/0,"Stirling to Allan, 1 run",,,0
-369,79,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,13.1,no run,35,0,35/0,"Mooney to Allan, no run",,,0
-370,80,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,13.2,no run,35,0,35/0,"Mooney to Allan, no run",,,0
-371,80,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, 1 wide ",2nd innings,13.2,wide,36,1,36/0,"Mooney to Allan, 1 wide",,,0
-372,81,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,13.3,no run,36,0,36/0,"Mooney to Allan, no run",,,0
-373,82,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, OUT lofted high and joyce takes an easy catch",2nd innings,13.4,out,36,0,36/1,"Mooney to Allan, OUT",,lofted high and joyce takes an easy catch,1
-374,83,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,13.5,no run,36,0,36/1,"Mooney to DO Obuya, no run",,,1
-375,84,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,14.0,no run,36,0,36/1,"Mooney to DO Obuya, no run",,,1
-376,85,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,14.1,run,37,1,37/1,"White to CO Obuya, 1 run",,,1
-377,86,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,14.2,no run,37,0,37/1,"White to DO Obuya, no run",,,1
-378,87,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,14.3,no run,37,0,37/1,"White to DO Obuya, no run",,,1
-379,88,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,14.4,no run,37,0,37/1,"White to DO Obuya, no run",,,1
-380,89,David Obuya,24760,Andrew White,24286,"White to DO Obuya, 2 runs ",2nd innings,14.5,run,39,2,39/1,"White to DO Obuya, 2 runs",,,1
-381,90,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,15.0,no run,39,0,39/1,"White to DO Obuya, no run",,,1
-382,91,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,15.1,no run,39,0,39/1,"Cusack to CO Obuya, no run",,,1
-383,92,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run ",2nd innings,15.2,run,40,1,40/1,"Cusack to CO Obuya, 1 run",,,1
-384,93,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, no run ",2nd innings,15.3,no run,40,0,40/1,"Cusack to DO Obuya, no run",,,1
-385,94,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, no run ",2nd innings,15.4,no run,40,0,40/1,"Cusack to DO Obuya, no run",,,1
-386,95,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, 3 runs glanced to square leg",2nd innings,15.5,run,43,3,43/1,"Cusack to DO Obuya, 3 runs",,glanced to square leg,1
-387,96,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,16.0,no run,43,0,43/1,"Cusack to CO Obuya, no run",,,1
-388,97,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, no run ",2nd innings,16.1,no run,43,0,43/1,"Dockrell to DO Obuya, no run",,,1
-389,98,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, no run ",2nd innings,16.2,no run,43,0,43/1,"Dockrell to DO Obuya, no run",,,1
-390,99,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, OUT moves back to play but he misses and is clean bowled",2nd innings,16.3,out,43,0,43/2,"Dockrell to DO Obuya, OUT",,moves back to play but he misses and is clean bowled,2
-391,100,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,16.4,run,44,1,44/2,"Dockrell to Mishra, 1 run",,,2
-392,101,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,16.5,no run,44,0,44/2,"Dockrell to CO Obuya, no run",,,2
-393,102,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,17.0,no run,44,0,44/2,"Dockrell to CO Obuya, no run",,,2
-394,103,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,17.1,run,45,1,45/2,"Cusack to Mishra, 1 run",,,2
-395,104,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run glanced away to fine leg",2nd innings,17.2,run,46,1,46/2,"Cusack to CO Obuya, 1 run",,glanced away to fine leg,2
-396,105,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, no run ",2nd innings,17.3,no run,46,0,46/2,"Cusack to Mishra, no run",,,2
-397,106,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, no run ",2nd innings,17.4,no run,46,0,46/2,"Cusack to Mishra, no run",,,2
-398,107,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run cut to third man",2nd innings,17.5,run,47,1,47/2,"Cusack to Mishra, 1 run",,cut to third man,2
-399,108,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,18.0,no run,47,0,47/2,"Cusack to CO Obuya, no run",,,2
-400,109,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,18.1,no run,47,0,47/2,"Dockrell to Mishra, no run",,,2
-401,110,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,18.2,run,48,1,48/2,"Dockrell to Mishra, 1 run",,,2
-402,111,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,18.3,run,49,1,49/2,"Dockrell to CO Obuya, 1 run",,,2
-403,112,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,18.4,run,50,1,50/2,"Dockrell to Mishra, 1 run",,,2
-404,113,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run cut to point",2nd innings,18.5,run,51,1,51/2,"Dockrell to CO Obuya, 1 run",,cut to point,2
-405,114,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,19.0,run,52,1,52/2,"Dockrell to Mishra, 1 run",,,2
-406,115,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs enough timing for another boundary",2nd innings,19.1,four,56,4,56/2,"Cusack to Mishra, FOUR runs",,enough timing for another boundary,2
-407,116,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,19.2,run,57,1,57/2,"Cusack to Mishra, 1 run",,,2
-408,117,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 2 runs cut late for two",2nd innings,19.3,run,59,2,59/2,"Cusack to CO Obuya, 2 runs",,cut late for two,2
-409,118,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run ",2nd innings,19.4,run,60,1,60/2,"Cusack to CO Obuya, 1 run",,,2
-410,119,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs another perfect timing for four",2nd innings,19.5,four,64,4,64/2,"Cusack to Mishra, FOUR runs",,another perfect timing for four,2
-411,120,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,20.0,run,65,1,65/2,"Cusack to Mishra, 1 run",,,2
-412,121,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,20.1,run,66,1,66/2,"Dockrell to Mishra, 1 run",,,2
-413,122,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,20.2,no run,66,0,66/2,"Dockrell to CO Obuya, no run",,,2
-414,123,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,20.3,run,67,1,67/2,"Dockrell to CO Obuya, 1 run",,,2
-415,124,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,20.4,run,68,1,68/2,"Dockrell to Mishra, 1 run",,,2
-416,125,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,20.5,no run,68,0,68/2,"Dockrell to CO Obuya, no run",,,2
-417,126,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,21.0,no run,68,0,68/2,"Dockrell to CO Obuya, no run",,,2
-418,127,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,21.1,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
-419,128,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,21.2,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
-420,129,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,21.3,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
-421,130,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,21.4,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
-422,131,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,21.5,run,69,1,69/2,"Stirling to Mishra, 1 run",,,2
-423,132,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 leg bye ",2nd innings,22.0,leg bye,70,1,70/2,"Stirling to CO Obuya, 1 leg bye",,,2
-424,133,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,22.1,run,71,1,71/2,"Dockrell to CO Obuya, 1 run",,,2
-425,134,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,22.2,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
-426,135,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,22.3,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
-427,136,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,22.4,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
-428,137,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,22.5,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
-429,138,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,23.0,run,72,1,72/2,"Dockrell to Mishra, 1 run",,,2
-430,139,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,23.1,run,73,1,73/2,"Stirling to Mishra, 1 run",,,2
-431,140,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,23.2,run,74,1,74/2,"Stirling to CO Obuya, 1 run",,,2
-432,141,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,23.3,run,75,1,75/2,"Stirling to Mishra, 1 run",,,2
-433,142,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,23.4,run,76,1,76/2,"Stirling to CO Obuya, 1 run",,,2
-434,143,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run sweeps to square leg",2nd innings,23.5,run,77,1,77/2,"Stirling to Mishra, 1 run",,sweeps to square leg,2
-435,144,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,24.0,no run,77,0,77/2,"Stirling to CO Obuya, no run",,,2
-436,145,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, no run ",2nd innings,24.1,no run,77,0,77/2,"White to Mishra, no run",,,2
-437,146,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,24.2,run,78,1,78/2,"White to Mishra, 1 run",,,2
-438,147,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run defends on the off, soft hands and agood running",2nd innings,24.3,run,79,1,79/2,"White to CO Obuya, 1 run",,"defends on the off, soft hands and agood running",2
-439,148,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,24.4,run,80,1,80/2,"White to Mishra, 1 run",,,2
-440,149,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, FOUR runs ",2nd innings,24.5,four,84,4,84/2,"White to CO Obuya, FOUR runs",,,2
-441,150,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, no run ",2nd innings,25.0,no run,84,0,84/2,"White to CO Obuya, no run",,,2
-442,151,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,25.1,run,85,1,85/2,"Stirling to Mishra, 1 run",,,2
-443,152,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,25.2,no run,85,0,85/2,"Stirling to CO Obuya, no run",,,2
-444,153,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,25.3,no run,85,0,85/2,"Stirling to CO Obuya, no run",,,2
-445,154,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 2 runs guided to fine leg",2nd innings,25.4,run,87,2,87/2,"Stirling to CO Obuya, 2 runs",,guided to fine leg,2
-446,155,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, FOUR runs sweep slogged to square leg",2nd innings,25.5,four,91,4,91/2,"Stirling to CO Obuya, FOUR runs",,sweep slogged to square leg,2
-447,156,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 2 runs cuts to point",2nd innings,26.0,run,93,2,93/2,"Stirling to CO Obuya, 2 runs",,cuts to point,2
-448,157,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,26.1,run,94,1,94/2,"White to Mishra, 1 run",,,2
-449,158,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,26.2,run,95,1,95/2,"White to CO Obuya, 1 run",,,2
-450,159,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 leg bye ",2nd innings,26.3,leg bye,96,1,96/2,"White to Mishra, 1 leg bye",,,2
-451,160,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,26.4,run,97,1,97/2,"White to CO Obuya, 1 run",,,2
-452,161,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,26.5,run,98,1,98/2,"White to Mishra, 1 run",,,2
-453,162,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,27.0,run,99,1,99/2,"White to CO Obuya, 1 run",,,2
-454,163,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,27.1,run,100,1,100/2,"Stirling to CO Obuya, 1 run",,,2
-455,164,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,27.2,no run,100,0,100/2,"Stirling to Mishra, no run",,,2
-456,165,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,27.3,no run,100,0,100/2,"Stirling to Mishra, no run",,,2
-457,166,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,27.4,run,101,1,101/2,"Stirling to Mishra, 1 run",,,2
-458,167,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, OUT ",2nd innings,27.5,out,101,0,101/3,"Stirling to CO Obuya, OUT",,,3
-459,168,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,28.0,no run,101,0,101/3,"Stirling to Mishra, no run",,,3
-460,169,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,28.1,run,102,1,102/3,"Rankin to Patel, 1 run",,,3
-461,170,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,28.2,run,103,1,103/3,"Rankin to Mishra, 1 run",,,3
-462,171,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,28.3,no run,103,0,103/3,"Rankin to Patel, no run",,,3
-463,172,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,28.4,run,104,1,104/3,"Rankin to Patel, 1 run",,,3
-464,173,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 2 runs ",2nd innings,28.5,run,106,2,106/3,"Rankin to Mishra, 2 runs",,,3
-465,174,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, no run ",2nd innings,29.0,no run,106,0,106/3,"Rankin to Mishra, no run",,,3
-466,175,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,29.1,run,107,1,107/3,"Dockrell to Patel, 1 run",,,3
-467,176,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,29.2,no run,107,0,107/3,"Dockrell to Mishra, no run",,,3
-468,177,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,29.3,run,108,1,108/3,"Dockrell to Mishra, 1 run",,,3
-469,178,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, no run ",2nd innings,29.4,no run,108,0,108/3,"Dockrell to Patel, no run",,,3
-470,179,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,29.5,run,109,1,109/3,"Dockrell to Patel, 1 run",,,3
-471,179,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 5 wides ",2nd innings,29.5,wide,114,5,114/3,"Dockrell to Mishra, 5 wides",,,3
-472,180,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 3 runs ",2nd innings,30.0,run,117,3,117/3,"Dockrell to Mishra, 3 runs",,,3
-473,181,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 leg bye ",2nd innings,30.1,leg bye,118,1,118/3,"Rankin to Mishra, 1 leg bye",,,3
-474,181,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 wide ",2nd innings,30.1,wide,119,1,119/3,"Rankin to Patel, 1 wide",,,3
-475,182,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,30.2,run,120,1,120/3,"Rankin to Patel, 1 run",,,3
-476,183,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, no run ",2nd innings,30.3,no run,120,0,120/3,"Rankin to Mishra, no run",,,3
-477,184,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,30.4,run,121,1,121/3,"Rankin to Mishra, 1 run",,,3
-478,185,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,30.5,no run,121,0,121/3,"Rankin to Patel, no run",,,3
-479,186,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,31.0,run,122,1,122/3,"Rankin to Patel, 1 run",,,3
-480,187,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,31.1,no run,122,0,122/3,"Johnston to Patel, no run",,,3
-481,188,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,31.2,no run,122,0,122/3,"Johnston to Patel, no run",,,3
-482,189,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 1 run well glanced to fine leg",2nd innings,31.3,run,123,1,123/3,"Johnston to Patel, 1 run",,well glanced to fine leg,3
-483,190,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, no run ",2nd innings,31.4,no run,123,0,123/3,"Johnston to Mishra, no run",,,3
-484,191,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, 1 run driven straight to long on",2nd innings,31.5,run,124,1,124/3,"Johnston to Mishra, 1 run",,driven straight to long on,3
-485,192,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run good length and line but again well defended",2nd innings,32.0,no run,124,0,124/3,"Johnston to Patel, no run",,good length and line but again well defended,3
-486,193,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,32.1,run,125,1,125/3,"Rankin to Mishra, 1 run",,,3
-487,194,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,32.2,no run,125,0,125/3,"Rankin to Patel, no run",,,3
-488,195,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run cut to third man for an easy single",2nd innings,32.3,run,126,1,126/3,"Rankin to Patel, 1 run",,cut to third man for an easy single,3
-489,196,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run glanced to fine leg",2nd innings,32.4,run,127,1,127/3,"Rankin to Mishra, 1 run",,glanced to fine leg,3
-490,197,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,32.5,no run,127,0,127/3,"Rankin to Patel, no run",,,3
-491,198,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,33.0,no run,127,0,127/3,"Rankin to Patel, no run",,,3
-492,199,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, no run ",2nd innings,33.1,no run,127,0,127/3,"Johnston to Mishra, no run",,,3
-493,199,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, (no ball) 1 run ",2nd innings,33.1,run,129,2,129/3,"Johnston to Mishra, (no ball) 1 run",,,3
-494,200,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, SIX runs full and straight sent soaring over the straight boundary",2nd innings,33.2,six,135,6,135/3,"Johnston to Patel, SIX runs",,full and straight sent soaring over the straight boundary,3
-495,201,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 2 runs ",2nd innings,33.3,run,137,2,137/3,"Johnston to Patel, 2 runs",,,3
-496,202,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,33.4,no run,137,0,137/3,"Johnston to Patel, no run",,,3
-497,203,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,33.5,no run,137,0,137/3,"Johnston to Patel, no run",,,3
-498,204,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 1 run ",2nd innings,34.0,run,138,1,138/3,"Johnston to Patel, 1 run",,,3
-499,205,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,34.1,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-500,206,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,34.2,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-501,207,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,34.3,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-502,208,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,34.4,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-503,209,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,34.5,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-504,210,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,35.0,no run,138,0,138/3,"Mooney to Patel, no run",,,3
-505,211,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,35.1,no run,138,0,138/3,"Dockrell to Mishra, no run",,,3
-506,211,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 wide ",2nd innings,35.1,wide,139,1,139/3,"Dockrell to Mishra, 1 wide",,,3
-507,212,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,35.2,run,140,1,140/3,"Dockrell to Mishra, 1 run",,,3
-508,213,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, SIX runs lofted powerfully to the side screen",2nd innings,35.3,six,146,6,146/3,"Dockrell to Patel, SIX runs",,lofted powerfully to the side screen,3
-509,214,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,35.4,run,147,1,147/3,"Dockrell to Patel, 1 run",,,3
-510,215,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,35.5,no run,147,0,147/3,"Dockrell to Mishra, no run",,,3
-511,216,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, FOUR runs exellent cover drive",2nd innings,36.0,four,151,4,151/3,"Dockrell to Mishra, FOUR runs",,exellent cover drive,3
-512,217,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,36.1,no run,151,0,151/3,"Mooney to Patel, no run",,,3
-513,218,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,36.2,no run,151,0,151/3,"Mooney to Patel, no run",,,3
-514,219,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,36.3,no run,151,0,151/3,"Mooney to Patel, no run",,,3
-515,220,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,36.4,no run,151,0,151/3,"Mooney to Patel, no run",,,3
-516,221,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 1 run ",2nd innings,36.5,run,152,1,152/3,"Mooney to Patel, 1 run",,,3
-517,222,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,37.0,no run,152,0,152/3,"Mooney to Mishra, no run",,,3
-518,223,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 run ",2nd innings,37.1,run,153,1,153/3,"Cusack to Patel, 1 run",,,3
-519,224,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run glanced to square leg",2nd innings,37.2,run,154,1,154/3,"Cusack to Mishra, 1 run",,glanced to square leg,3
-520,225,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, FOUR runs lofted high to long on",2nd innings,37.3,four,158,4,158/3,"Cusack to Patel, FOUR runs",,lofted high to long on,3
-521,226,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,37.4,no run,158,0,158/3,"Cusack to Patel, no run",,,3
-522,227,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,37.5,no run,158,0,158/3,"Cusack to Patel, no run",,,3
-523,228,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 2 runs powerfully driven on the bounce",2nd innings,38.0,run,160,2,160/3,"Cusack to Patel, 2 runs",,powerfully driven on the bounce,3
-524,229,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,38.1,no run,160,0,160/3,"Mooney to Mishra, no run",,,3
-525,230,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, FOUR runs lofted to covers and a hearty applause for his 50",2nd innings,38.2,four,164,4,164/3,"Mooney to Mishra, FOUR runs",,lofted to covers and a hearty applause for his 50,3
-526,231,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,38.3,no run,164,0,164/3,"Mooney to Mishra, no run",,,3
-527,232,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, 1 run guided to third man",2nd innings,38.4,run,165,1,165/3,"Mooney to Mishra, 1 run",,guided to third man,3
-528,233,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,38.5,no run,165,0,165/3,"Mooney to Patel, no run",,,3
-529,234,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,39.0,no run,165,0,165/3,"Mooney to Patel, no run",,,3
-530,235,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,39.1,run,166,1,166/3,"Cusack to Mishra, 1 run",,,3
-531,236,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run slow delivery but well red",2nd innings,39.2,no run,166,0,166/3,"Cusack to Patel, no run",,slow delivery but well red,3
-532,237,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,39.3,no run,166,0,166/3,"Cusack to Patel, no run",,,3
-533,237,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 wide ",2nd innings,39.3,wide,167,1,167/3,"Cusack to Patel, 1 wide",,,3
-534,238,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 run ",2nd innings,39.4,run,168,1,168/3,"Cusack to Patel, 1 run",,,3
-535,239,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs ",2nd innings,39.5,four,172,4,172/3,"Cusack to Mishra, FOUR runs",,,3
-536,240,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,40.0,run,173,1,173/3,"Cusack to Mishra, 1 run",,,3
-537,241,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,40.1,no run,173,0,173/3,"Mooney to Mishra, no run",,,3
-538,242,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, 1 run ",2nd innings,40.2,run,174,1,174/3,"Mooney to Mishra, 1 run",,,3
-539,243,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,40.3,no run,174,0,174/3,"Mooney to Patel, no run",,,3
-540,244,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 2 runs well glanced to fine leg",2nd innings,40.4,run,176,2,176/3,"Mooney to Patel, 2 runs",,well glanced to fine leg,3
-541,244,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 5 no balls ",2nd innings,40.4,no ball,181,5,181/3,"Mooney to Patel, 5 no balls",,,3
-542,245,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,40.5,no run,181,0,181/3,"Mooney to Patel, no run",,,3
-543,246,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, FOUR runs driven to long off for a boundary",2nd innings,41.0,four,185,4,185/3,"Mooney to Patel, FOUR runs",,driven to long off for a boundary,3
-544,247,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, no run ",2nd innings,41.1,no run,185,0,185/3,"O'Brien to Mishra, no run",,,3
-545,248,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 2 runs ",2nd innings,41.2,run,187,2,187/3,"O'Brien to Mishra, 2 runs",,,3
-546,249,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, FOUR runs ",2nd innings,41.3,four,191,4,191/3,"O'Brien to Mishra, FOUR runs",,,3
-547,250,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 1 run ",2nd innings,41.4,run,192,1,192/3,"O'Brien to Mishra, 1 run",,,3
-548,251,Rakep Patel,267455,Kevin O'Brien,24605,"O'Brien to Patel, 1 run ",2nd innings,41.5,run,193,1,193/3,"O'Brien to Patel, 1 run",,,3
-549,252,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 2 runs edged to third man",2nd innings,42.0,run,195,2,195/3,"O'Brien to Mishra, 2 runs",,edged to third man,3
-550,253,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 run ",2nd innings,42.1,run,196,1,196/3,"White to Patel, 1 run",,,3
-551,253,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 wide ",2nd innings,42.1,wide,197,1,197/3,"White to Mishra, 1 wide",,,3
-552,254,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,42.2,run,198,1,198/3,"White to Mishra, 1 run",,,3
-553,255,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 run ",2nd innings,42.3,run,199,1,199/3,"White to Patel, 1 run",,,3
-554,256,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,42.4,run,200,1,200/3,"White to Mishra, 1 run",,,3
-555,256,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 wide ",2nd innings,42.4,wide,201,1,201/3,"White to Patel, 1 wide",,,3
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,,,,,0.1,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
+1,2,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,,,,,0.2,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
+2,3,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,,,,,0.3,no run,0,0,0/0,"JO Ngoche to Porterfield, no run",,,0
+3,4,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, 2 runs ",1st innings,,,,,0.4,run,2,2,2/0,"JO Ngoche to Porterfield, 2 runs",,,0
+4,5,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,,,,,0.5,no run,2,0,2/0,"JO Ngoche to Porterfield, no run",,,0
+5,6,William Porterfield,24611,James Ngoche,308691,"JO Ngoche to Porterfield, no run ",1st innings,Paul Stirling,303427,,,1.0,no run,2,0,2/0,"JO Ngoche to Porterfield, no run",,,0
+6,7,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,William Porterfield,24611,James Ngoche,308691,1.1,no run,2,0,2/0,"Odhiambo to Stirling, no run",,,0
+7,8,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run good length but well defended",1st innings,William Porterfield,24611,James Ngoche,308691,1.2,no run,2,0,2/0,"Odhiambo to Stirling, no run",,good length but well defended,0
+8,9,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,William Porterfield,24611,James Ngoche,308691,1.3,no run,2,0,2/0,"Odhiambo to Stirling, no run",,,0
+9,10,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run well beaten by the bounce",1st innings,William Porterfield,24611,James Ngoche,308691,1.4,no run,2,0,2/0,"Odhiambo to Stirling, no run",,well beaten by the bounce,0
+10,11,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs smashed to covers",1st innings,William Porterfield,24611,James Ngoche,308691,1.5,four,6,4,6/0,"Odhiambo to Stirling, FOUR runs",,smashed to covers,0
+11,12,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run tucked away for a single",1st innings,William Porterfield,24611,James Ngoche,308691,2.0,run,7,1,7/0,"Odhiambo to Stirling, 1 run",,tucked away for a single,0
+12,13,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, FOUR runs cuts late to third man",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,2.1,four,11,4,11/0,"JO Ngoche to Stirling, FOUR runs",,cuts late to third man,0
+13,14,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,2.2,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
+14,15,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,2.3,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
+15,16,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run bowled tight to the body",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,2.4,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,bowled tight to the body,0
+16,17,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run ",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,2.5,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,,0
+17,18,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, no run swings the bat wildly but he misses",1st innings,William Porterfield,24611,Nehemiah Odhiambo,238612,3.0,no run,11,0,11/0,"JO Ngoche to Stirling, no run",,swings the bat wildly but he misses,0
+18,19,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, 3 runs ",1st innings,Paul Stirling,303427,James Ngoche,308691,3.1,run,14,3,14/0,"Odhiambo to Porterfield, 3 runs",,,0
+19,20,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,William Porterfield,24611,James Ngoche,308691,3.2,no run,14,0,14/0,"Odhiambo to Stirling, no run",,,0
+20,21,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run played down to square leg for a single",1st innings,William Porterfield,24611,James Ngoche,308691,3.3,run,15,1,15/0,"Odhiambo to Stirling, 1 run",,played down to square leg for a single,0
+21,22,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, no run ",1st innings,Paul Stirling,303427,James Ngoche,308691,3.4,no run,15,0,15/0,"Odhiambo to Porterfield, no run",,,0
+22,23,William Porterfield,24611,Nehemiah Odhiambo,238612,"Odhiambo to Porterfield, OUT beaten by the bounce and slightly touches it and is caught behind",1st innings,Paul Stirling,303427,James Ngoche,308691,3.5,out,15,0,15/1,"Odhiambo to Porterfield, OUT",,beaten by the bounce and slightly touches it and is caught behind,1
+23,24,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run ",1st innings,Paul Stirling,303427,James Ngoche,308691,4.0,no run,15,0,15/1,"Odhiambo to Cusack, no run",,,1
+24,25,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,4.1,no run,15,0,15/1,"Varaiya to Stirling, no run",,,1
+25,26,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,4.2,no run,15,0,15/1,"Varaiya to Stirling, no run",,,1
+26,27,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,4.3,run,16,1,16/1,"Varaiya to Stirling, 1 run",,,1
+27,28,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 2 runs ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,4.4,run,18,2,18/1,"Varaiya to Cusack, 2 runs",,,1
+28,28,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 2 wides ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,4.4,wide,20,2,20/1,"Varaiya to Cusack, 2 wides",,,1
+29,29,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 2 runs ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,4.5,run,22,2,22/1,"Varaiya to Stirling, 2 runs",,,1
+30,30,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,5.0,run,23,1,23/1,"Varaiya to Stirling, 1 run",,,1
+31,31,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run cuts to third man for a single",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,5.1,run,24,1,24/1,"Odhiambo to Stirling, 1 run",,cuts to third man for a single,1
+32,32,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run bowls tight to the body",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,5.2,no run,24,0,24/1,"Odhiambo to Cusack, no run",,bowls tight to the body,1
+33,33,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run slower delivery but is well red by the batsman",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,5.3,no run,24,0,24/1,"Odhiambo to Cusack, no run",,slower delivery but is well red by the batsman,1
+34,34,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, no run ",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,5.4,no run,24,0,24/1,"Odhiambo to Cusack, no run",,,1
+35,35,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 2 runs cuts to third man for a quick two",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,5.5,run,26,2,26/1,"Odhiambo to Cusack, 2 runs",,cuts to third man for a quick two,1
+36,36,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 run ",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,6.0,run,27,1,27/1,"Odhiambo to Cusack, 1 run",,,1
+37,37,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,6.1,no run,27,0,27/1,"Varaiya to Cusack, no run",,,1
+38,38,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,6.2,no run,27,0,27/1,"Varaiya to Cusack, no run",,,1
+39,39,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 1 run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,6.3,run,28,1,28/1,"Varaiya to Cusack, 1 run",,,1
+40,40,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,6.4,no run,28,0,28/1,"Varaiya to Stirling, no run",,,1
+41,41,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 1 run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,6.5,run,29,1,29/1,"Varaiya to Stirling, 1 run",,,1
+42,42,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, no run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,7.0,no run,29,0,29/1,"Varaiya to Cusack, no run",,,1
+43,43,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,7.1,no run,29,0,29/1,"Odhiambo to Stirling, no run",,,1
+44,44,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,7.2,no run,29,0,29/1,"Odhiambo to Stirling, no run",,,1
+45,45,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, SIX runs ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,7.3,six,35,6,35/1,"Odhiambo to Stirling, SIX runs",,,1
+46,46,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, 1 run ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,7.4,run,36,1,36/1,"Odhiambo to Stirling, 1 run",,,1
+47,47,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, FOUR runs straght hit to the boundary",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,7.5,four,40,4,40/1,"Odhiambo to Cusack, FOUR runs",,straght hit to the boundary,1
+48,48,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 leg bye ",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,8.0,leg bye,41,1,41/1,"Odhiambo to Cusack, 1 leg bye",,,1
+49,49,Alex Cusack,293983,Hiren Varaiya,254114,"Varaiya to Cusack, 1 run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,8.1,run,42,1,42/1,"Varaiya to Cusack, 1 run",,,1
+50,50,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, FOUR runs cuts well to third man for four",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,8.2,four,46,4,46/1,"Varaiya to Stirling, FOUR runs",,cuts well to third man for four,1
+51,51,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,8.3,no run,46,0,46/1,"Varaiya to Stirling, no run",,,1
+52,52,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, FOUR runs smashed to deep cover",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,8.4,four,50,4,50/1,"Varaiya to Stirling, FOUR runs",,smashed to deep cover,1
+53,53,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, no run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,8.5,no run,50,0,50/1,"Varaiya to Stirling, no run",,,1
+54,54,Paul Stirling,303427,Hiren Varaiya,254114,"Varaiya to Stirling, 2 runs ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,9.0,run,52,2,52/1,"Varaiya to Stirling, 2 runs",,,1
+55,55,Alex Cusack,293983,Nehemiah Odhiambo,238612,"Odhiambo to Cusack, 1 run slapped to third man for a single",1st innings,Paul Stirling,303427,Hiren Varaiya,254114,9.1,run,53,1,53/1,"Odhiambo to Cusack, 1 run",,slapped to third man for a single,1
+56,56,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs played down to deep mid wicket",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,9.2,four,57,4,57/1,"Odhiambo to Stirling, FOUR runs",,played down to deep mid wicket,1
+57,57,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,9.3,no run,57,0,57/1,"Odhiambo to Stirling, no run",,,1
+58,58,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run slower delivery but again well defended",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,9.4,no run,57,0,57/1,"Odhiambo to Stirling, no run",,slower delivery but again well defended,1
+59,59,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, FOUR runs lofted down tolong on for a boundary",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,9.5,four,61,4,61/1,"Odhiambo to Stirling, FOUR runs",,lofted down tolong on for a boundary,1
+60,60,Paul Stirling,303427,Nehemiah Odhiambo,238612,"Odhiambo to Stirling, no run ",1st innings,Alex Cusack,293983,Hiren Varaiya,254114,10.0,no run,61,0,61/1,"Odhiambo to Stirling, no run",,,1
+61,61,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,10.1,no run,61,0,61/1,"SO Ngoche to Cusack, no run",,,1
+62,62,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,10.2,no run,61,0,61/1,"SO Ngoche to Cusack, no run",,,1
+63,63,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,10.3,run,62,1,62/1,"SO Ngoche to Cusack, 1 run",,,1
+64,64,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, 1 run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,10.4,run,63,1,63/1,"SO Ngoche to Stirling, 1 run",,,1
+65,65,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,Nehemiah Odhiambo,238612,10.5,run,64,1,64/1,"SO Ngoche to Cusack, 1 run",,,1
+66,66,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, 1 run ",1st innings,Alex Cusack,293983,Nehemiah Odhiambo,238612,11.0,run,65,1,65/1,"SO Ngoche to Stirling, 1 run",,,1
+67,67,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,11.1,run,66,1,66/1,"JO Ngoche to Stirling, 1 run",,,1
+68,68,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,Shem Ngoche,308515,11.2,run,67,1,67/1,"JO Ngoche to Cusack, 1 run",,,1
+69,69,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,11.3,run,68,1,68/1,"JO Ngoche to Stirling, 1 run",,,1
+70,70,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,Shem Ngoche,308515,11.4,run,69,1,69/1,"JO Ngoche to Cusack, 1 run",,,1
+71,71,Paul Stirling,303427,James Ngoche,308691,"JO Ngoche to Stirling, 1 run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,11.5,run,70,1,70/1,"JO Ngoche to Stirling, 1 run",,,1
+72,72,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,Shem Ngoche,308515,12.0,run,71,1,71/1,"JO Ngoche to Cusack, 1 run",,,1
+73,73,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 2 runs ",1st innings,Paul Stirling,303427,James Ngoche,308691,12.1,run,73,2,73/1,"SO Ngoche to Cusack, 2 runs",,,1
+74,74,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Paul Stirling,303427,James Ngoche,308691,12.2,no run,73,0,73/1,"SO Ngoche to Cusack, no run",,,1
+75,75,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,Paul Stirling,303427,James Ngoche,308691,12.3,run,74,1,74/1,"SO Ngoche to Cusack, 1 run",,,1
+76,76,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, no run ",1st innings,Alex Cusack,293983,James Ngoche,308691,12.4,no run,74,0,74/1,"SO Ngoche to Stirling, no run",,,1
+77,77,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, no run ",1st innings,Alex Cusack,293983,James Ngoche,308691,12.5,no run,74,0,74/1,"SO Ngoche to Stirling, no run",,,1
+78,78,Paul Stirling,303427,Shem Ngoche,308515,"SO Ngoche to Stirling, OUT played right to the hands of the skeeper at mid wicket",1st innings,Alex Cusack,293983,James Ngoche,308691,13.0,out,74,0,74/2,"SO Ngoche to Stirling, OUT",,played right to the hands of the skeeper at mid wicket,2
+79,79,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,,,Shem Ngoche,308515,13.1,no run,74,0,74/2,"JO Ngoche to Cusack, no run",,,2
+80,80,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, 1 run ",1st innings,,,Shem Ngoche,308515,13.2,run,75,1,75/2,"JO Ngoche to Cusack, 1 run",,,2
+81,81,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,13.3,no run,75,0,75/2,"JO Ngoche to Joyce, no run",,,2
+82,82,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, 1 run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,13.4,run,76,1,76/2,"JO Ngoche to Joyce, 1 run",,,2
+83,83,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,Ed Joyce,24249,Shem Ngoche,308515,13.5,no run,76,0,76/2,"JO Ngoche to Cusack, no run",,,2
+84,84,Alex Cusack,293983,James Ngoche,308691,"JO Ngoche to Cusack, no run ",1st innings,Ed Joyce,24249,Shem Ngoche,308515,14.0,no run,76,0,76/2,"JO Ngoche to Cusack, no run",,,2
+85,85,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,James Ngoche,308691,14.1,no run,76,0,76/2,"SO Ngoche to Joyce, no run",,,2
+86,86,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,James Ngoche,308691,14.2,no run,76,0,76/2,"SO Ngoche to Joyce, no run",,,2
+87,87,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, 1 run ",1st innings,Alex Cusack,293983,James Ngoche,308691,14.3,run,77,1,77/2,"SO Ngoche to Joyce, 1 run",,,2
+88,88,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,Ed Joyce,24249,James Ngoche,308691,14.4,run,78,1,78/2,"SO Ngoche to Cusack, 1 run",,,2
+89,89,Ed Joyce,24249,Shem Ngoche,308515,"SO Ngoche to Joyce, 1 run ",1st innings,Alex Cusack,293983,James Ngoche,308691,14.5,run,79,1,79/2,"SO Ngoche to Joyce, 1 run",,,2
+90,90,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, FOUR runs hit down to long on for a boundary",1st innings,Ed Joyce,24249,James Ngoche,308691,15.0,four,83,4,83/2,"SO Ngoche to Cusack, FOUR runs",,hit down to long on for a boundary,2
+91,91,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,15.1,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
+92,92,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,15.2,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
+93,93,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,15.3,no run,83,0,83/2,"JO Ngoche to Joyce, no run",,,2
+94,94,Ed Joyce,24249,James Ngoche,308691,"JO Ngoche to Joyce, OUT good line,good length and he tries to move back but is clean bowled",1st innings,Alex Cusack,293983,Shem Ngoche,308515,15.4,out,83,0,83/3,"JO Ngoche to Joyce, OUT",,"good line,good length and he tries to move back but is clean bowled",3
+95,95,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,15.5,no run,83,0,83/3,"JO Ngoche to Wilson, no run",,,3
+96,96,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,Alex Cusack,293983,Shem Ngoche,308515,16.0,no run,83,0,83/3,"JO Ngoche to Wilson, no run",,,3
+97,97,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Gary Wilson,24609,James Ngoche,308691,16.1,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
+98,98,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Gary Wilson,24609,James Ngoche,308691,16.2,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
+99,99,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, no run ",1st innings,Gary Wilson,24609,James Ngoche,308691,16.3,no run,83,0,83/3,"SO Ngoche to Cusack, no run",,,3
+100,100,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, 1 run ",1st innings,Gary Wilson,24609,James Ngoche,308691,16.4,run,84,1,84/3,"SO Ngoche to Cusack, 1 run",,,3
+101,101,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,Alex Cusack,293983,James Ngoche,308691,16.5,run,85,1,85/3,"SO Ngoche to Wilson, 1 run",,,3
+102,102,Alex Cusack,293983,Shem Ngoche,308515,"SO Ngoche to Cusack, OUT lofted right to the hands of obanda at long on",1st innings,Gary Wilson,24609,James Ngoche,308691,17.0,out,85,0,85/4,"SO Ngoche to Cusack, OUT",,lofted right to the hands of obanda at long on,4
+103,103,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,17.1,run,86,1,86/4,"JO Ngoche to O'Brien, 1 run",,,4
+104,104,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,17.2,no run,86,0,86/4,"JO Ngoche to Wilson, no run",,,4
+105,105,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,17.3,run,87,1,87/4,"JO Ngoche to Wilson, 1 run",,,4
+106,106,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,17.4,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
+107,107,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,17.5,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
+108,108,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,18.0,no run,87,0,87/4,"JO Ngoche to O'Brien, no run",,,4
+109,109,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,18.1,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
+110,110,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,18.2,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
+111,111,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,18.3,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
+112,112,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,18.4,no run,87,0,87/4,"SO Ngoche to Wilson, no run",,,4
+113,113,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,18.5,run,88,1,88/4,"SO Ngoche to Wilson, 1 run",,,4
+114,114,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,James Ngoche,308691,19.0,no run,88,0,88/4,"SO Ngoche to O'Brien, no run",,,4
+115,115,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,19.1,no run,88,0,88/4,"JO Ngoche to Wilson, no run",,,4
+116,116,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,19.2,no run,88,0,88/4,"JO Ngoche to Wilson, no run",,,4
+117,117,Gary Wilson,24609,James Ngoche,308691,"JO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,19.3,run,89,1,89/4,"JO Ngoche to Wilson, 1 run",,,4
+118,118,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,19.4,no run,89,0,89/4,"JO Ngoche to O'Brien, no run",,,4
+119,119,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,19.5,no run,89,0,89/4,"JO Ngoche to O'Brien, no run",,,4
+120,120,Kevin O'Brien,24605,James Ngoche,308691,"JO Ngoche to O'Brien, 2 runs ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,20.0,run,91,2,91/4,"JO Ngoche to O'Brien, 2 runs",,,4
+121,121,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,20.1,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
+122,122,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,20.2,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
+123,123,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,20.3,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
+124,124,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, no run ",1st innings,Kevin O'Brien,24605,James Ngoche,308691,20.4,no run,91,0,91/4,"SO Ngoche to Wilson, no run",,,4
+125,125,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, FOUR runs inside edged to fine leg",1st innings,Kevin O'Brien,24605,James Ngoche,308691,20.5,four,95,4,95/4,"SO Ngoche to Wilson, FOUR runs",,inside edged to fine leg,4
+126,126,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 2 runs cut to point for two",1st innings,Kevin O'Brien,24605,James Ngoche,308691,21.0,run,97,2,97/4,"SO Ngoche to Wilson, 2 runs",,cut to point for two,4
+127,127,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,21.1,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
+128,128,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,21.2,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
+129,129,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,21.3,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
+130,130,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,21.4,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
+131,131,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,21.5,no run,97,0,97/4,"Varaiya to O'Brien, no run",,,4
+132,132,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run a deserved maiden over for his effort",1st innings,Gary Wilson,24609,Shem Ngoche,308515,22.0,no run,97,0,97/4,"Varaiya to O'Brien, no run",,a deserved maiden over for his effort,4
+133,133,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,22.1,run,98,1,98/4,"SO Ngoche to Wilson, 1 run",,,4
+134,134,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,22.2,no run,98,0,98/4,"SO Ngoche to O'Brien, no run",,,4
+135,135,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,22.3,run,99,1,99/4,"SO Ngoche to O'Brien, 1 run",,,4
+136,136,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,22.4,run,100,1,100/4,"SO Ngoche to Wilson, 1 run",,,4
+137,137,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,22.5,run,101,1,101/4,"SO Ngoche to O'Brien, 1 run",,,4
+138,138,Gary Wilson,24609,Shem Ngoche,308515,"SO Ngoche to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,23.0,run,102,1,102/4,"SO Ngoche to Wilson, 1 run",,,4
+139,139,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,23.1,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
+140,140,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,23.2,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
+141,141,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,23.3,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
+142,142,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,23.4,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
+143,143,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,23.5,no run,102,0,102/4,"Varaiya to Wilson, no run",,,4
+144,144,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, no run bowled tight for another maiden",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,24.0,no run,102,0,102/4,"Varaiya to Wilson, no run",,bowled tight for another maiden,4
+145,145,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,24.1,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
+146,146,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,24.2,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
+147,147,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,24.3,no run,102,0,102/4,"SO Ngoche to O'Brien, no run",,,4
+148,148,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, FOUR runs ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,24.4,four,106,4,106/4,"SO Ngoche to O'Brien, FOUR runs",,,4
+149,149,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, no run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,24.5,no run,106,0,106/4,"SO Ngoche to O'Brien, no run",,,4
+150,150,Kevin O'Brien,24605,Shem Ngoche,308515,"SO Ngoche to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,25.0,run,107,1,107/4,"SO Ngoche to O'Brien, 1 run",,,4
+151,151,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,25.1,run,108,1,108/4,"Patel to O'Brien, 1 run",,,4
+152,152,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run cut to gully for a single",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,25.2,run,109,1,109/4,"Patel to Wilson, 1 run",,cut to gully for a single,4
+153,153,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,25.3,run,110,1,110/4,"Patel to O'Brien, 1 run",,,4
+154,154,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,25.4,no run,110,0,110/4,"Patel to Wilson, no run",,,4
+155,155,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Shem Ngoche,308515,25.5,run,111,1,111/4,"Patel to Wilson, 1 run",,,4
+156,156,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,Gary Wilson,24609,Shem Ngoche,308515,26.0,no run,111,0,111/4,"Patel to O'Brien, no run",,,4
+157,157,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,26.1,run,112,1,112/4,"Varaiya to Wilson, 1 run",,,4
+158,158,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,26.2,no run,112,0,112/4,"Varaiya to O'Brien, no run",,,4
+159,159,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,26.3,no run,112,0,112/4,"Varaiya to O'Brien, no run",,,4
+160,160,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,26.4,run,113,1,113/4,"Varaiya to O'Brien, 1 run",,,4
+161,161,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,26.5,run,114,1,114/4,"Varaiya to Wilson, 1 run",,,4
+162,162,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,27.0,no run,114,0,114/4,"Varaiya to O'Brien, no run",,,4
+163,163,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,27.1,run,115,1,115/4,"Patel to Wilson, 1 run",,,4
+164,164,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,27.2,run,116,1,116/4,"Patel to O'Brien, 1 run",,,4
+165,165,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,27.3,no run,116,0,116/4,"Patel to Wilson, no run",,,4
+166,166,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 2 runs cuts late to third man",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,27.4,run,118,2,118/4,"Patel to Wilson, 2 runs",,cuts late to third man,4
+167,167,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,27.5,no run,118,0,118/4,"Patel to Wilson, no run",,,4
+168,168,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run glanced to fine leg",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,28.0,run,119,1,119/4,"Patel to Wilson, 1 run",,glanced to fine leg,4
+169,169,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,28.1,run,120,1,120/4,"Varaiya to Wilson, 1 run",,,4
+170,170,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,28.2,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
+171,171,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,28.3,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
+172,172,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,28.4,no run,120,0,120/4,"Varaiya to O'Brien, no run",,,4
+173,173,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Rakep Patel,267455,28.5,run,121,1,121/4,"Varaiya to O'Brien, 1 run",,,4
+174,174,Gary Wilson,24609,Hiren Varaiya,254114,"Varaiya to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,29.0,run,122,1,122/4,"Varaiya to Wilson, 1 run",,,4
+175,175,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,29.1,no run,122,0,122/4,"Patel to Wilson, no run",,,4
+176,176,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,29.2,no run,122,0,122/4,"Patel to Wilson, no run",,,4
+177,177,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,29.3,run,123,1,123/4,"Patel to Wilson, 1 run",,,4
+178,178,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Hiren Varaiya,254114,29.4,run,124,1,124/4,"Patel to O'Brien, 1 run",,,4
+179,179,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,29.5,no run,124,0,124/4,"Patel to Wilson, no run",,,4
+180,180,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,30.0,run,125,1,125/4,"Patel to Wilson, 1 run",,,4
+181,181,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, no run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,30.1,no run,125,0,125/4,"Allan to Wilson, no run",,,4
+182,182,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,30.2,run,126,1,126/4,"Allan to Wilson, 1 run",,,4
+183,183,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run cut to third man",1st innings,Gary Wilson,24609,Rakep Patel,267455,30.3,run,127,1,127/4,"Allan to O'Brien, 1 run",,cut to third man,4
+184,184,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, no run bowled tight to the body",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,30.4,no run,127,0,127/4,"Allan to Wilson, no run",,bowled tight to the body,4
+185,185,Gary Wilson,24609,Duncan Allan,472153,"Allan to Wilson, 1 run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,30.5,run,128,1,128/4,"Allan to Wilson, 1 run",,,4
+186,186,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run driven on the bounce to mid on",1st innings,Gary Wilson,24609,Rakep Patel,267455,31.0,run,129,1,129/4,"Allan to O'Brien, 1 run",,driven on the bounce to mid on,4
+187,187,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,Gary Wilson,24609,Duncan Allan,472153,31.1,no run,129,0,129/4,"Patel to O'Brien, no run",,,4
+188,188,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, no run ",1st innings,Gary Wilson,24609,Duncan Allan,472153,31.2,no run,129,0,129/4,"Patel to O'Brien, no run",,,4
+189,189,Kevin O'Brien,24605,Rakep Patel,267455,"Patel to O'Brien, 1 run ",1st innings,Gary Wilson,24609,Duncan Allan,472153,31.3,run,130,1,130/4,"Patel to O'Brien, 1 run",,,4
+190,190,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, no run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,31.4,no run,130,0,130/4,"Patel to Wilson, no run",,,4
+191,191,Gary Wilson,24609,Rakep Patel,267455,"Patel to Wilson, OUT hits straight back to patel who takes a wonderful catch",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,31.5,out,130,0,130/5,"Patel to Wilson, OUT",,hits straight back to patel who takes a wonderful catch,5
+192,192,Andrew White,24286,Rakep Patel,267455,"Patel to White, 1 run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,32.0,run,131,1,131/5,"Patel to White, 1 run",,,5
+193,193,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run glanced to square leg",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,32.1,run,132,1,132/5,"Allan to White, 1 run",,glanced to square leg,5
+194,194,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run driven on the bounce to long on",1st innings,Andrew White,24286,Rakep Patel,267455,32.2,run,133,1,133/5,"Allan to O'Brien, 1 run",,driven on the bounce to long on,5
+195,195,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run slow delivery but reads well",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,32.3,no run,133,0,133/5,"Allan to White, no run",,slow delivery but reads well,5
+196,196,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,32.4,no run,133,0,133/5,"Allan to White, no run",,,5
+197,197,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,32.5,no run,133,0,133/5,"Allan to White, no run",,,5
+198,198,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,Kevin O'Brien,24605,Rakep Patel,267455,33.0,no run,133,0,133/5,"Allan to White, no run",,,5
+199,199,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,Andrew White,24286,Duncan Allan,472153,33.1,no run,133,0,133/5,"CO Obuya to O'Brien, no run",,,5
+200,200,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,Andrew White,24286,Duncan Allan,472153,33.2,run,134,1,134/5,"CO Obuya to O'Brien, 1 run",,,5
+201,201,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,33.3,run,135,1,135/5,"CO Obuya to White, 1 run",,,5
+202,202,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,Andrew White,24286,Duncan Allan,472153,33.4,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
+203,203,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,Andrew White,24286,Duncan Allan,472153,33.5,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
+204,204,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,Andrew White,24286,Duncan Allan,472153,34.0,no run,135,0,135/5,"CO Obuya to O'Brien, no run",,,5
+205,205,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,34.1,no run,135,0,135/5,"Allan to White, no run",,,5
+206,206,Andrew White,24286,Duncan Allan,472153,"Allan to White, no run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,34.2,no run,135,0,135/5,"Allan to White, no run",,,5
+207,207,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,34.3,run,136,1,136/5,"Allan to White, 1 run",,,5
+208,208,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, FOUR runs glanced to fine leg",1st innings,Andrew White,24286,Collins Obuya,24752,34.4,four,140,4,140/5,"Allan to O'Brien, FOUR runs",,glanced to fine leg,5
+209,209,Kevin O'Brien,24605,Duncan Allan,472153,"Allan to O'Brien, 1 run ",1st innings,Andrew White,24286,Collins Obuya,24752,34.5,run,141,1,141/5,"Allan to O'Brien, 1 run",,,5
+210,210,Andrew White,24286,Duncan Allan,472153,"Allan to White, 1 run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,35.0,run,142,1,142/5,"Allan to White, 1 run",,,5
+211,211,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,35.1,no run,142,0,142/5,"CO Obuya to White, no run",,,5
+212,212,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,35.2,no run,142,0,142/5,"CO Obuya to White, no run",,,5
+213,213,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run tucked away for a single",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,35.3,run,143,1,143/5,"CO Obuya to White, 1 run",,tucked away for a single,5
+214,214,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,Andrew White,24286,Duncan Allan,472153,35.4,run,144,1,144/5,"CO Obuya to O'Brien, 1 run",,,5
+215,215,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,Kevin O'Brien,24605,Duncan Allan,472153,35.5,run,145,1,145/5,"CO Obuya to White, 1 run",,,5
+216,216,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, 1 run ",1st innings,Andrew White,24286,Duncan Allan,472153,36.0,run,146,1,146/5,"CO Obuya to O'Brien, 1 run",,,5
+217,217,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, FOUR runs ",1st innings,Andrew White,24286,Collins Obuya,24752,36.1,four,150,4,150/5,"Varaiya to O'Brien, FOUR runs",,,5
+218,218,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, no run ",1st innings,Andrew White,24286,Collins Obuya,24752,36.2,no run,150,0,150/5,"Varaiya to O'Brien, no run",,,5
+219,219,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 1 run ",1st innings,Andrew White,24286,Collins Obuya,24752,36.3,run,151,1,151/5,"Varaiya to O'Brien, 1 run",,,5
+220,220,Andrew White,24286,Hiren Varaiya,254114,"Varaiya to White, no run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,36.4,no run,151,0,151/5,"Varaiya to White, no run",,,5
+221,221,Andrew White,24286,Hiren Varaiya,254114,"Varaiya to White, 1 run ",1st innings,Kevin O'Brien,24605,Collins Obuya,24752,36.5,run,152,1,152/5,"Varaiya to White, 1 run",,,5
+222,222,Kevin O'Brien,24605,Hiren Varaiya,254114,"Varaiya to O'Brien, 2 runs ",1st innings,Andrew White,24286,Collins Obuya,24752,37.0,run,154,2,154/5,"Varaiya to O'Brien, 2 runs",,,5
+223,223,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, 1 run ",1st innings,Kevin O'Brien,24605,Hiren Varaiya,254114,37.1,run,155,1,155/5,"CO Obuya to White, 1 run",,,5
+224,224,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, no run ",1st innings,Andrew White,24286,Hiren Varaiya,254114,37.2,no run,155,0,155/5,"CO Obuya to O'Brien, no run",,,5
+225,225,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, FOUR runs slogged down to squere leg",1st innings,Andrew White,24286,Hiren Varaiya,254114,37.3,four,159,4,159/5,"CO Obuya to O'Brien, FOUR runs",,slogged down to squere leg,5
+226,226,Kevin O'Brien,24605,Collins Obuya,24752,"CO Obuya to O'Brien, OUT played straight to the hands of james at square leg",1st innings,Andrew White,24286,Hiren Varaiya,254114,37.4,out,159,0,159/6,"CO Obuya to O'Brien, OUT",,played straight to the hands of james at square leg,6
+227,227,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,Andrew White,24286,Hiren Varaiya,254114,37.5,run,160,1,160/6,"CO Obuya to Mooney, 1 run",,,6
+228,228,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, no run ",1st innings,John Mooney,24237,Hiren Varaiya,254114,38.0,no run,160,0,160/6,"CO Obuya to White, no run",,,6
+229,229,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,Andrew White,24286,Collins Obuya,24752,38.1,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
+230,230,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,Andrew White,24286,Collins Obuya,24752,38.2,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
+231,231,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,Andrew White,24286,Collins Obuya,24752,38.3,no run,160,0,160/6,"SO Ngoche to Mooney, no run",,,6
+232,232,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,Andrew White,24286,Collins Obuya,24752,38.4,run,161,1,161/6,"SO Ngoche to Mooney, 1 run",,,6
+233,233,Andrew White,24286,Shem Ngoche,308515,"SO Ngoche to White, 1 run ",1st innings,John Mooney,24237,Collins Obuya,24752,38.5,run,162,1,162/6,"SO Ngoche to White, 1 run",,,6
+234,234,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,Andrew White,24286,Collins Obuya,24752,39.0,run,163,1,163/6,"SO Ngoche to Mooney, 1 run",,,6
+235,235,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, no run ",1st innings,Andrew White,24286,Shem Ngoche,308515,39.1,no run,163,0,163/6,"CO Obuya to Mooney, no run",,,6
+236,236,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,Andrew White,24286,Shem Ngoche,308515,39.2,run,164,1,164/6,"CO Obuya to Mooney, 1 run",,,6
+237,237,Andrew White,24286,Collins Obuya,24752,"CO Obuya to White, OUT superb one handed catch by allan",1st innings,John Mooney,24237,Shem Ngoche,308515,39.3,out,164,0,164/7,"CO Obuya to White, OUT",,superb one handed catch by allan,7
+238,238,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,John Mooney,24237,Shem Ngoche,308515,39.4,run,165,1,165/7,"CO Obuya to Johnston, 1 run",,,7
+239,239,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 2 runs ",1st innings,Trent Johnston,6038,Shem Ngoche,308515,39.5,run,167,2,167/7,"CO Obuya to Mooney, 2 runs",,,7
+240,239,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 wide ",1st innings,Trent Johnston,6038,Shem Ngoche,308515,39.5,wide,168,1,168/7,"CO Obuya to Mooney, 1 wide",,,7
+241,240,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 2 runs played into the gap for a quick two",1st innings,Trent Johnston,6038,Shem Ngoche,308515,40.0,run,170,2,170/7,"CO Obuya to Mooney, 2 runs",,played into the gap for a quick two,7
+242,241,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, no run ",1st innings,John Mooney,24237,Collins Obuya,24752,40.1,no run,170,0,170/7,"SO Ngoche to Johnston, no run",,,7
+243,242,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, 1 run ",1st innings,John Mooney,24237,Collins Obuya,24752,40.2,run,171,1,171/7,"SO Ngoche to Johnston, 1 run",,,7
+244,243,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, no run ",1st innings,Trent Johnston,6038,Collins Obuya,24752,40.3,no run,171,0,171/7,"SO Ngoche to Mooney, no run",,,7
+245,244,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,Trent Johnston,6038,Collins Obuya,24752,40.4,run,172,1,172/7,"SO Ngoche to Mooney, 1 run",,,7
+246,245,Trent Johnston,6038,Shem Ngoche,308515,"SO Ngoche to Johnston, 1 run ",1st innings,John Mooney,24237,Collins Obuya,24752,40.5,run,173,1,173/7,"SO Ngoche to Johnston, 1 run",,,7
+247,246,John Mooney,24237,Shem Ngoche,308515,"SO Ngoche to Mooney, 1 run ",1st innings,Trent Johnston,6038,Collins Obuya,24752,41.0,run,174,1,174/7,"SO Ngoche to Mooney, 1 run",,,7
+248,247,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, no run ",1st innings,Trent Johnston,6038,Shem Ngoche,308515,41.1,no run,174,0,174/7,"CO Obuya to Mooney, no run",,,7
+249,248,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,Trent Johnston,6038,Shem Ngoche,308515,41.2,run,175,1,175/7,"CO Obuya to Mooney, 1 run",,,7
+250,249,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,John Mooney,24237,Shem Ngoche,308515,41.3,run,176,1,176/7,"CO Obuya to Johnston, 1 run",,,7
+251,250,John Mooney,24237,Collins Obuya,24752,"CO Obuya to Mooney, 1 run ",1st innings,Trent Johnston,6038,Shem Ngoche,308515,41.4,run,177,1,177/7,"CO Obuya to Mooney, 1 run",,,7
+252,251,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, no run ",1st innings,John Mooney,24237,Shem Ngoche,308515,41.5,no run,177,0,177/7,"CO Obuya to Johnston, no run",,,7
+253,252,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, 1 run ",1st innings,John Mooney,24237,Shem Ngoche,308515,42.0,run,178,1,178/7,"CO Obuya to Johnston, 1 run",,,7
+254,253,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 2 runs ",1st innings,John Mooney,24237,Collins Obuya,24752,42.1,run,180,2,180/7,"Varaiya to Johnston, 2 runs",,,7
+255,254,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,John Mooney,24237,Collins Obuya,24752,42.2,no run,180,0,180/7,"Varaiya to Johnston, no run",,,7
+256,255,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 1 run ",1st innings,John Mooney,24237,Collins Obuya,24752,42.3,run,181,1,181/7,"Varaiya to Johnston, 1 run",,,7
+257,256,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,Trent Johnston,6038,Collins Obuya,24752,42.4,no run,181,0,181/7,"Varaiya to Mooney, no run",,,7
+258,257,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,Trent Johnston,6038,Collins Obuya,24752,42.5,no run,181,0,181/7,"Varaiya to Mooney, no run",,,7
+259,258,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, 2 runs ",1st innings,Trent Johnston,6038,Collins Obuya,24752,43.0,run,183,2,183/7,"Varaiya to Mooney, 2 runs",,,7
+260,259,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, no run ",1st innings,John Mooney,24237,Hiren Varaiya,254114,43.1,no run,183,0,183/7,"Odhiambo to Johnston, no run",,,7
+261,260,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, 1 run powerful drive to long on",1st innings,John Mooney,24237,Hiren Varaiya,254114,43.2,run,184,1,184/7,"Odhiambo to Johnston, 1 run",,powerful drive to long on,7
+262,260,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 wide ",1st innings,Trent Johnston,6038,Hiren Varaiya,254114,43.2,wide,185,1,185/7,"Odhiambo to Mooney, 1 wide",,,7
+263,261,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 run ",1st innings,Trent Johnston,6038,Hiren Varaiya,254114,43.3,run,186,1,186/7,"Odhiambo to Mooney, 1 run",,,7
+264,262,Trent Johnston,6038,Nehemiah Odhiambo,238612,"Odhiambo to Johnston, 1 run ",1st innings,John Mooney,24237,Hiren Varaiya,254114,43.4,run,187,1,187/7,"Odhiambo to Johnston, 1 run",,,7
+265,263,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, FOUR runs late cut to third man for four",1st innings,Trent Johnston,6038,Hiren Varaiya,254114,43.5,four,191,4,191/7,"Odhiambo to Mooney, FOUR runs",,late cut to third man for four,7
+266,264,John Mooney,24237,Nehemiah Odhiambo,238612,"Odhiambo to Mooney, 1 run ",1st innings,Trent Johnston,6038,Hiren Varaiya,254114,44.0,run,192,1,192/7,"Odhiambo to Mooney, 1 run",,,7
+267,265,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, 1 run ",1st innings,Trent Johnston,6038,Nehemiah Odhiambo,238612,44.1,run,193,1,193/7,"Varaiya to Mooney, 1 run",,,7
+268,266,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,John Mooney,24237,Nehemiah Odhiambo,238612,44.2,no run,193,0,193/7,"Varaiya to Johnston, no run",,,7
+269,267,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, no run ",1st innings,John Mooney,24237,Nehemiah Odhiambo,238612,44.3,no run,193,0,193/7,"Varaiya to Johnston, no run",,,7
+270,268,Trent Johnston,6038,Hiren Varaiya,254114,"Varaiya to Johnston, 1 run ",1st innings,John Mooney,24237,Nehemiah Odhiambo,238612,44.4,run,194,1,194/7,"Varaiya to Johnston, 1 run",,,7
+271,269,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, no run ",1st innings,Trent Johnston,6038,Nehemiah Odhiambo,238612,44.5,no run,194,0,194/7,"Varaiya to Mooney, no run",,,7
+272,270,John Mooney,24237,Hiren Varaiya,254114,"Varaiya to Mooney, OUT went for a big one but missed and is clean bowled",1st innings,Trent Johnston,6038,Nehemiah Odhiambo,238612,45.0,out,194,0,194/8,"Varaiya to Mooney, OUT",,went for a big one but missed and is clean bowled,8
+273,271,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,,,Hiren Varaiya,254114,45.1,no run,194,0,194/8,"JO Ngoche to Johnston, no run",,,8
+274,272,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, 2 runs ",1st innings,,,Hiren Varaiya,254114,45.2,run,196,2,196/8,"JO Ngoche to Johnston, 2 runs",,,8
+275,273,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,,,Hiren Varaiya,254114,45.3,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
+276,274,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,,,Hiren Varaiya,254114,45.4,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
+277,275,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, no run ",1st innings,,,Hiren Varaiya,254114,45.5,no run,196,0,196/8,"JO Ngoche to Johnston, no run",,,8
+278,276,Trent Johnston,6038,James Ngoche,308691,"JO Ngoche to Johnston, 1 run ",1st innings,Boyd Rankin,24599,Hiren Varaiya,254114,46.0,run,197,1,197/8,"JO Ngoche to Johnston, 1 run",,,8
+279,277,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, no run ",1st innings,Boyd Rankin,24599,James Ngoche,308691,46.1,no run,197,0,197/8,"CO Obuya to Johnston, no run",,,8
+280,278,Trent Johnston,6038,Collins Obuya,24752,"CO Obuya to Johnston, OUT cuts and is caught by patel at gully",1st innings,Boyd Rankin,24599,James Ngoche,308691,46.2,out,197,0,197/9,"CO Obuya to Johnston, OUT",,cuts and is caught by patel at gully,9
+281,279,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,Boyd Rankin,24599,James Ngoche,308691,46.3,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
+282,280,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,Boyd Rankin,24599,James Ngoche,308691,46.4,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
+283,281,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, no run ",1st innings,Boyd Rankin,24599,James Ngoche,308691,46.5,no run,197,0,197/9,"CO Obuya to Dockrell, no run",,,9
+284,282,George Dockrell,348034,Collins Obuya,24752,"CO Obuya to Dockrell, 1 run ",1st innings,Boyd Rankin,24599,James Ngoche,308691,47.0,run,198,1,198/9,"CO Obuya to Dockrell, 1 run",,,9
+285,283,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, no run ",1st innings,Boyd Rankin,24599,Collins Obuya,24752,47.1,no run,198,0,198/9,"JO Ngoche to Dockrell, no run",,,9
+286,284,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, 2 runs ",1st innings,Boyd Rankin,24599,Collins Obuya,24752,47.2,run,200,2,200/9,"JO Ngoche to Dockrell, 2 runs",,,9
+287,285,George Dockrell,348034,James Ngoche,308691,"JO Ngoche to Dockrell, OUT wonderful catch by agha at mid on",1st innings,Boyd Rankin,24599,Collins Obuya,24752,47.3,out,200,0,200/10,"JO Ngoche to Dockrell, OUT",,wonderful catch by agha at mid on,10
+288,1,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,,,,,0.1,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
+289,2,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,,,,,0.2,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
+290,3,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run good length and well blocked by obuya",2nd innings,,,,,0.3,no run,0,0,0/0,"Rankin to DO Obuya, no run",,good length and well blocked by obuya,0
+291,4,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,,,,,0.4,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
+292,5,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,,,,,0.5,no run,0,0,0/0,"Rankin to DO Obuya, no run",,,0
+293,6,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 run glanced to square leg for an easy single",2nd innings,Duncan Allan,472153,,,1.0,run,1,1,1/0,"Rankin to DO Obuya, 1 run",,glanced to square leg for an easy single,0
+294,7,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,1.1,run,2,1,2/0,"Johnston to DO Obuya, 1 run",,,0
+295,8,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,1.2,no run,2,0,2/0,"Johnston to Allan, no run",,,0
+296,9,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run tight line but well blocked",2nd innings,David Obuya,24760,Boyd Rankin,24599,1.3,no run,2,0,2/0,"Johnston to Allan, no run",,tight line but well blocked,0
+297,10,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run he is well beaten by the bounce",2nd innings,David Obuya,24760,Boyd Rankin,24599,1.4,no run,2,0,2/0,"Johnston to Allan, no run",,he is well beaten by the bounce,0
+298,11,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,1.5,no run,2,0,2/0,"Johnston to Allan, no run",,,0
+299,12,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,2.0,no run,2,0,2/0,"Johnston to Allan, no run",,,0
+300,13,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,2.1,no run,2,0,2/0,"Rankin to DO Obuya, no run",,,0
+301,14,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,2.2,no run,2,0,2/0,"Rankin to DO Obuya, no run",,,0
+302,15,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 2 runs glanced to fine leg for two",2nd innings,Duncan Allan,472153,Trent Johnston,6038,2.3,run,4,2,4/0,"Rankin to DO Obuya, 2 runs",,glanced to fine leg for two,0
+303,16,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,2.4,run,5,1,5/0,"Rankin to DO Obuya, 1 run",,,0
+304,17,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,2.5,no run,5,0,5/0,"Rankin to Allan, no run",,,0
+305,18,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,3.0,no run,5,0,5/0,"Rankin to Allan, no run",,,0
+306,19,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.1,no run,5,0,5/0,"Johnston to DO Obuya, no run",,,0
+307,19,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 wide ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.1,wide,6,1,6/0,"Johnston to DO Obuya, 1 wide",,,0
+308,20,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run good length and yet again well defended",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.2,no run,6,0,6/0,"Johnston to DO Obuya, no run",,good length and yet again well defended,0
+309,21,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.3,no run,6,0,6/0,"Johnston to DO Obuya, no run",,,0
+310,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.4,no run,6,0,6/0,"Johnston to DO Obuya, no run",,,0
+311,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 no ball ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.4,no ball,7,1,7/0,"Johnston to DO Obuya, 1 no ball",,,0
+312,22,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 no ball ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.4,no ball,8,1,8/0,"Johnston to DO Obuya, 1 no ball",,,0
+313,23,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, 1 run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,3.5,run,9,1,9/0,"Johnston to DO Obuya, 1 run",,,0
+314,24,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,4.0,no run,9,0,9/0,"Johnston to Allan, no run",,,0
+315,25,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,4.1,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
+316,26,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,4.2,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
+317,27,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,4.3,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
+318,28,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,4.4,no run,9,0,9/0,"Rankin to DO Obuya, no run",,,0
+319,29,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run sways out of the way of the bouncer",2nd innings,Duncan Allan,472153,Trent Johnston,6038,4.5,no run,9,0,9/0,"Rankin to DO Obuya, no run",,sways out of the way of the bouncer,0
+320,30,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run a maiden for his effort",2nd innings,Duncan Allan,472153,Trent Johnston,6038,5.0,no run,9,0,9/0,"Rankin to DO Obuya, no run",,a maiden for his effort,0
+321,31,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, 3 runs ",2nd innings,David Obuya,24760,Boyd Rankin,24599,5.1,run,12,3,12/0,"Johnston to Allan, 3 runs",,,0
+322,32,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,5.2,no run,12,0,12/0,"Johnston to DO Obuya, no run",,,0
+323,33,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run bowled tightly to the body",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,5.3,no run,12,0,12/0,"Johnston to DO Obuya, no run",,bowled tightly to the body,0
+324,34,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, FOUR runs pulled to fine leg",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,5.4,four,16,4,16/0,"Johnston to DO Obuya, FOUR runs",,pulled to fine leg,0
+325,35,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,5.5,no run,16,0,16/0,"Johnston to DO Obuya, no run",,,0
+326,36,David Obuya,24760,Trent Johnston,6038,"Johnston to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,6.0,no run,16,0,16/0,"Johnston to DO Obuya, no run",,,0
+327,37,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,6.1,no run,16,0,16/0,"Rankin to Allan, no run",,,0
+328,38,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,6.2,no run,16,0,16/0,"Rankin to Allan, no run",,,0
+329,39,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,6.3,no run,16,0,16/0,"Rankin to Allan, no run",,,0
+330,40,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,6.4,no run,16,0,16/0,"Rankin to Allan, no run",,,0
+331,41,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,6.5,no run,16,0,16/0,"Rankin to Allan, no run",,,0
+332,42,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, 1 run well defended and a good call for a single",2nd innings,David Obuya,24760,Trent Johnston,6038,7.0,run,17,1,17/0,"Rankin to Allan, 1 run",,well defended and a good call for a single,0
+333,43,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,7.1,no run,17,0,17/0,"Johnston to Allan, no run",,,0
+334,44,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,7.2,no run,17,0,17/0,"Johnston to Allan, no run",,,0
+335,45,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,7.3,no run,17,0,17/0,"Johnston to Allan, no run",,,0
+336,46,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,7.4,no run,17,0,17/0,"Johnston to Allan, no run",,,0
+337,47,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,7.5,no run,17,0,17/0,"Johnston to Allan, no run",,,0
+338,48,Duncan Allan,472153,Trent Johnston,6038,"Johnston to Allan, no run he is rewarded with a maiden for his effort",2nd innings,David Obuya,24760,Boyd Rankin,24599,8.0,no run,17,0,17/0,"Johnston to Allan, no run",,he is rewarded with a maiden for his effort,0
+339,49,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,8.1,no run,17,0,17/0,"Rankin to DO Obuya, no run",,,0
+340,50,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run well bowled tight to the body",2nd innings,Duncan Allan,472153,Trent Johnston,6038,8.2,no run,17,0,17/0,"Rankin to DO Obuya, no run",,well bowled tight to the body,0
+341,51,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, no run superb length and line",2nd innings,Duncan Allan,472153,Trent Johnston,6038,8.3,no run,17,0,17/0,"Rankin to DO Obuya, no run",,superb length and line,0
+342,52,David Obuya,24760,Boyd Rankin,24599,"Rankin to DO Obuya, 1 leg bye ",2nd innings,Duncan Allan,472153,Trent Johnston,6038,8.4,leg bye,18,1,18/0,"Rankin to DO Obuya, 1 leg bye",,,0
+343,53,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, FOUR runs powerful straight drive",2nd innings,David Obuya,24760,Trent Johnston,6038,8.5,four,22,4,22/0,"Rankin to Allan, FOUR runs",,powerful straight drive,0
+344,54,Duncan Allan,472153,Boyd Rankin,24599,"Rankin to Allan, no run ",2nd innings,David Obuya,24760,Trent Johnston,6038,9.0,no run,22,0,22/0,"Rankin to Allan, no run",,,0
+345,55,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,9.1,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
+346,56,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,9.2,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
+347,57,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,9.3,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
+348,58,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,9.4,no run,22,0,22/0,"Mooney to DO Obuya, no run",,,0
+349,59,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 1 run ",2nd innings,Duncan Allan,472153,Boyd Rankin,24599,9.5,run,23,1,23/0,"Mooney to DO Obuya, 1 run",,,0
+350,60,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,David Obuya,24760,Boyd Rankin,24599,10.0,no run,23,0,23/0,"Mooney to Allan, no run",,,0
+351,61,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,10.1,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+352,62,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,10.2,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+353,63,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,10.3,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+354,64,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,10.4,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+355,65,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,10.5,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+356,66,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,11.0,no run,23,0,23/0,"Stirling to DO Obuya, no run",,,0
+357,67,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,David Obuya,24760,Paul Stirling,303427,11.1,no run,23,0,23/0,"Mooney to Allan, no run",,,0
+358,68,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, FOUR runs ",2nd innings,David Obuya,24760,Paul Stirling,303427,11.2,four,27,4,27/0,"Mooney to Allan, FOUR runs",,,0
+359,69,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, 1 run ",2nd innings,David Obuya,24760,Paul Stirling,303427,11.3,run,28,1,28/0,"Mooney to Allan, 1 run",,,0
+360,70,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Duncan Allan,472153,Paul Stirling,303427,11.4,no run,28,0,28/0,"Mooney to DO Obuya, no run",,,0
+361,71,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 2 runs cuts to point for two",2nd innings,Duncan Allan,472153,Paul Stirling,303427,11.5,run,30,2,30/0,"Mooney to DO Obuya, 2 runs",,cuts to point for two,0
+362,72,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, 1 leg bye ",2nd innings,Duncan Allan,472153,Paul Stirling,303427,12.0,leg bye,31,1,31/0,"Mooney to DO Obuya, 1 leg bye",,,0
+363,73,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, no run ",2nd innings,Duncan Allan,472153,John Mooney,24237,12.1,no run,31,0,31/0,"Stirling to DO Obuya, no run",,,0
+364,74,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, 1 run tucked away ffor a single",2nd innings,Duncan Allan,472153,John Mooney,24237,12.2,run,32,1,32/0,"Stirling to DO Obuya, 1 run",,tucked away ffor a single,0
+365,75,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, 1 run ",2nd innings,David Obuya,24760,John Mooney,24237,12.3,run,33,1,33/0,"Stirling to Allan, 1 run",,,0
+366,76,David Obuya,24760,Paul Stirling,303427,"Stirling to DO Obuya, 1 run ",2nd innings,Duncan Allan,472153,John Mooney,24237,12.4,run,34,1,34/0,"Stirling to DO Obuya, 1 run",,,0
+367,77,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, no run ",2nd innings,David Obuya,24760,John Mooney,24237,12.5,no run,34,0,34/0,"Stirling to Allan, no run",,,0
+368,78,Duncan Allan,472153,Paul Stirling,303427,"Stirling to Allan, 1 run ",2nd innings,David Obuya,24760,John Mooney,24237,13.0,run,35,1,35/0,"Stirling to Allan, 1 run",,,0
+369,79,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,David Obuya,24760,Paul Stirling,303427,13.1,no run,35,0,35/0,"Mooney to Allan, no run",,,0
+370,80,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,David Obuya,24760,Paul Stirling,303427,13.2,no run,35,0,35/0,"Mooney to Allan, no run",,,0
+371,80,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, 1 wide ",2nd innings,David Obuya,24760,Paul Stirling,303427,13.2,wide,36,1,36/0,"Mooney to Allan, 1 wide",,,0
+372,81,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, no run ",2nd innings,David Obuya,24760,Paul Stirling,303427,13.3,no run,36,0,36/0,"Mooney to Allan, no run",,,0
+373,82,Duncan Allan,472153,John Mooney,24237,"Mooney to Allan, OUT lofted high and joyce takes an easy catch",2nd innings,David Obuya,24760,Paul Stirling,303427,13.4,out,36,0,36/1,"Mooney to Allan, OUT",,lofted high and joyce takes an easy catch,1
+374,83,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,,,Paul Stirling,303427,13.5,no run,36,0,36/1,"Mooney to DO Obuya, no run",,,1
+375,84,David Obuya,24760,John Mooney,24237,"Mooney to DO Obuya, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,14.0,no run,36,0,36/1,"Mooney to DO Obuya, no run",,,1
+376,85,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,David Obuya,24760,John Mooney,24237,14.1,run,37,1,37/1,"White to CO Obuya, 1 run",,,1
+377,86,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,Collins Obuya,24752,John Mooney,24237,14.2,no run,37,0,37/1,"White to DO Obuya, no run",,,1
+378,87,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,Collins Obuya,24752,John Mooney,24237,14.3,no run,37,0,37/1,"White to DO Obuya, no run",,,1
+379,88,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,Collins Obuya,24752,John Mooney,24237,14.4,no run,37,0,37/1,"White to DO Obuya, no run",,,1
+380,89,David Obuya,24760,Andrew White,24286,"White to DO Obuya, 2 runs ",2nd innings,Collins Obuya,24752,John Mooney,24237,14.5,run,39,2,39/1,"White to DO Obuya, 2 runs",,,1
+381,90,David Obuya,24760,Andrew White,24286,"White to DO Obuya, no run ",2nd innings,Collins Obuya,24752,John Mooney,24237,15.0,no run,39,0,39/1,"White to DO Obuya, no run",,,1
+382,91,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,David Obuya,24760,Andrew White,24286,15.1,no run,39,0,39/1,"Cusack to CO Obuya, no run",,,1
+383,92,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run ",2nd innings,David Obuya,24760,Andrew White,24286,15.2,run,40,1,40/1,"Cusack to CO Obuya, 1 run",,,1
+384,93,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, no run ",2nd innings,Collins Obuya,24752,Andrew White,24286,15.3,no run,40,0,40/1,"Cusack to DO Obuya, no run",,,1
+385,94,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, no run ",2nd innings,Collins Obuya,24752,Andrew White,24286,15.4,no run,40,0,40/1,"Cusack to DO Obuya, no run",,,1
+386,95,David Obuya,24760,Alex Cusack,293983,"Cusack to DO Obuya, 3 runs glanced to square leg",2nd innings,Collins Obuya,24752,Andrew White,24286,15.5,run,43,3,43/1,"Cusack to DO Obuya, 3 runs",,glanced to square leg,1
+387,96,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,David Obuya,24760,Andrew White,24286,16.0,no run,43,0,43/1,"Cusack to CO Obuya, no run",,,1
+388,97,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, no run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,16.1,no run,43,0,43/1,"Dockrell to DO Obuya, no run",,,1
+389,98,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, no run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,16.2,no run,43,0,43/1,"Dockrell to DO Obuya, no run",,,1
+390,99,David Obuya,24760,George Dockrell,348034,"Dockrell to DO Obuya, OUT moves back to play but he misses and is clean bowled",2nd innings,Collins Obuya,24752,Alex Cusack,293983,16.3,out,43,0,43/2,"Dockrell to DO Obuya, OUT",,moves back to play but he misses and is clean bowled,2
+391,100,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,16.4,run,44,1,44/2,"Dockrell to Mishra, 1 run",,,2
+392,101,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,16.5,no run,44,0,44/2,"Dockrell to CO Obuya, no run",,,2
+393,102,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,17.0,no run,44,0,44/2,"Dockrell to CO Obuya, no run",,,2
+394,103,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,17.1,run,45,1,45/2,"Cusack to Mishra, 1 run",,,2
+395,104,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run glanced away to fine leg",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,17.2,run,46,1,46/2,"Cusack to CO Obuya, 1 run",,glanced away to fine leg,2
+396,105,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,17.3,no run,46,0,46/2,"Cusack to Mishra, no run",,,2
+397,106,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,17.4,no run,46,0,46/2,"Cusack to Mishra, no run",,,2
+398,107,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run cut to third man",2nd innings,Collins Obuya,24752,George Dockrell,348034,17.5,run,47,1,47/2,"Cusack to Mishra, 1 run",,cut to third man,2
+399,108,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,18.0,no run,47,0,47/2,"Cusack to CO Obuya, no run",,,2
+400,109,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,18.1,no run,47,0,47/2,"Dockrell to Mishra, no run",,,2
+401,110,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,18.2,run,48,1,48/2,"Dockrell to Mishra, 1 run",,,2
+402,111,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,18.3,run,49,1,49/2,"Dockrell to CO Obuya, 1 run",,,2
+403,112,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,18.4,run,50,1,50/2,"Dockrell to Mishra, 1 run",,,2
+404,113,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run cut to point",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,18.5,run,51,1,51/2,"Dockrell to CO Obuya, 1 run",,cut to point,2
+405,114,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,19.0,run,52,1,52/2,"Dockrell to Mishra, 1 run",,,2
+406,115,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs enough timing for another boundary",2nd innings,Collins Obuya,24752,George Dockrell,348034,19.1,four,56,4,56/2,"Cusack to Mishra, FOUR runs",,enough timing for another boundary,2
+407,116,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,19.2,run,57,1,57/2,"Cusack to Mishra, 1 run",,,2
+408,117,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 2 runs cut late for two",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,19.3,run,59,2,59/2,"Cusack to CO Obuya, 2 runs",,cut late for two,2
+409,118,Collins Obuya,24752,Alex Cusack,293983,"Cusack to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,19.4,run,60,1,60/2,"Cusack to CO Obuya, 1 run",,,2
+410,119,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs another perfect timing for four",2nd innings,Collins Obuya,24752,George Dockrell,348034,19.5,four,64,4,64/2,"Cusack to Mishra, FOUR runs",,another perfect timing for four,2
+411,120,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,20.0,run,65,1,65/2,"Cusack to Mishra, 1 run",,,2
+412,121,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,20.1,run,66,1,66/2,"Dockrell to Mishra, 1 run",,,2
+413,122,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,20.2,no run,66,0,66/2,"Dockrell to CO Obuya, no run",,,2
+414,123,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,20.3,run,67,1,67/2,"Dockrell to CO Obuya, 1 run",,,2
+415,124,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Alex Cusack,293983,20.4,run,68,1,68/2,"Dockrell to Mishra, 1 run",,,2
+416,125,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,20.5,no run,68,0,68/2,"Dockrell to CO Obuya, no run",,,2
+417,126,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,21.0,no run,68,0,68/2,"Dockrell to CO Obuya, no run",,,2
+418,127,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,21.1,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
+419,128,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,21.2,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
+420,129,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,21.3,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
+421,130,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,21.4,no run,68,0,68/2,"Stirling to Mishra, no run",,,2
+422,131,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,21.5,run,69,1,69/2,"Stirling to Mishra, 1 run",,,2
+423,132,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 leg bye ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,22.0,leg bye,70,1,70/2,"Stirling to CO Obuya, 1 leg bye",,,2
+424,133,Collins Obuya,24752,George Dockrell,348034,"Dockrell to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,22.1,run,71,1,71/2,"Dockrell to CO Obuya, 1 run",,,2
+425,134,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,22.2,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
+426,135,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,22.3,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
+427,136,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,22.4,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
+428,137,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,22.5,no run,71,0,71/2,"Dockrell to Mishra, no run",,,2
+429,138,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,23.0,run,72,1,72/2,"Dockrell to Mishra, 1 run",,,2
+430,139,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,23.1,run,73,1,73/2,"Stirling to Mishra, 1 run",,,2
+431,140,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,23.2,run,74,1,74/2,"Stirling to CO Obuya, 1 run",,,2
+432,141,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,Collins Obuya,24752,George Dockrell,348034,23.3,run,75,1,75/2,"Stirling to Mishra, 1 run",,,2
+433,142,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,23.4,run,76,1,76/2,"Stirling to CO Obuya, 1 run",,,2
+434,143,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run sweeps to square leg",2nd innings,Collins Obuya,24752,George Dockrell,348034,23.5,run,77,1,77/2,"Stirling to Mishra, 1 run",,sweeps to square leg,2
+435,144,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,24.0,no run,77,0,77/2,"Stirling to CO Obuya, no run",,,2
+436,145,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, no run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,24.1,no run,77,0,77/2,"White to Mishra, no run",,,2
+437,146,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,24.2,run,78,1,78/2,"White to Mishra, 1 run",,,2
+438,147,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run defends on the off, soft hands and agood running",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,24.3,run,79,1,79/2,"White to CO Obuya, 1 run",,"defends on the off, soft hands and agood running",2
+439,148,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,24.4,run,80,1,80/2,"White to Mishra, 1 run",,,2
+440,149,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, FOUR runs ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,24.5,four,84,4,84/2,"White to CO Obuya, FOUR runs",,,2
+441,150,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,25.0,no run,84,0,84/2,"White to CO Obuya, no run",,,2
+442,151,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Andrew White,24286,25.1,run,85,1,85/2,"Stirling to Mishra, 1 run",,,2
+443,152,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Andrew White,24286,25.2,no run,85,0,85/2,"Stirling to CO Obuya, no run",,,2
+444,153,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, no run ",2nd innings,Tanmay Mishra,24790,Andrew White,24286,25.3,no run,85,0,85/2,"Stirling to CO Obuya, no run",,,2
+445,154,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 2 runs guided to fine leg",2nd innings,Tanmay Mishra,24790,Andrew White,24286,25.4,run,87,2,87/2,"Stirling to CO Obuya, 2 runs",,guided to fine leg,2
+446,155,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, FOUR runs sweep slogged to square leg",2nd innings,Tanmay Mishra,24790,Andrew White,24286,25.5,four,91,4,91/2,"Stirling to CO Obuya, FOUR runs",,sweep slogged to square leg,2
+447,156,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 2 runs cuts to point",2nd innings,Tanmay Mishra,24790,Andrew White,24286,26.0,run,93,2,93/2,"Stirling to CO Obuya, 2 runs",,cuts to point,2
+448,157,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,26.1,run,94,1,94/2,"White to Mishra, 1 run",,,2
+449,158,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,26.2,run,95,1,95/2,"White to CO Obuya, 1 run",,,2
+450,159,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 leg bye ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,26.3,leg bye,96,1,96/2,"White to Mishra, 1 leg bye",,,2
+451,160,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,26.4,run,97,1,97/2,"White to CO Obuya, 1 run",,,2
+452,161,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Paul Stirling,303427,26.5,run,98,1,98/2,"White to Mishra, 1 run",,,2
+453,162,Collins Obuya,24752,Andrew White,24286,"White to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,27.0,run,99,1,99/2,"White to CO Obuya, 1 run",,,2
+454,163,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, 1 run ",2nd innings,Tanmay Mishra,24790,Andrew White,24286,27.1,run,100,1,100/2,"Stirling to CO Obuya, 1 run",,,2
+455,164,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,Andrew White,24286,27.2,no run,100,0,100/2,"Stirling to Mishra, no run",,,2
+456,165,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Collins Obuya,24752,Andrew White,24286,27.3,no run,100,0,100/2,"Stirling to Mishra, no run",,,2
+457,166,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, 1 run ",2nd innings,Collins Obuya,24752,Andrew White,24286,27.4,run,101,1,101/2,"Stirling to Mishra, 1 run",,,2
+458,167,Collins Obuya,24752,Paul Stirling,303427,"Stirling to CO Obuya, OUT ",2nd innings,Tanmay Mishra,24790,Andrew White,24286,27.5,out,101,0,101/3,"Stirling to CO Obuya, OUT",,,3
+459,168,Tanmay Mishra,24790,Paul Stirling,303427,"Stirling to Mishra, no run ",2nd innings,Rakep Patel,267455,Andrew White,24286,28.0,no run,101,0,101/3,"Stirling to Mishra, no run",,,3
+460,169,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,28.1,run,102,1,102/3,"Rankin to Patel, 1 run",,,3
+461,170,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Paul Stirling,303427,28.2,run,103,1,103/3,"Rankin to Mishra, 1 run",,,3
+462,171,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,28.3,no run,103,0,103/3,"Rankin to Patel, no run",,,3
+463,172,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Paul Stirling,303427,28.4,run,104,1,104/3,"Rankin to Patel, 1 run",,,3
+464,173,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 2 runs ",2nd innings,Rakep Patel,267455,Paul Stirling,303427,28.5,run,106,2,106/3,"Rankin to Mishra, 2 runs",,,3
+465,174,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, no run ",2nd innings,Rakep Patel,267455,Paul Stirling,303427,29.0,no run,106,0,106/3,"Rankin to Mishra, no run",,,3
+466,175,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,29.1,run,107,1,107/3,"Dockrell to Patel, 1 run",,,3
+467,176,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,29.2,no run,107,0,107/3,"Dockrell to Mishra, no run",,,3
+468,177,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,29.3,run,108,1,108/3,"Dockrell to Mishra, 1 run",,,3
+469,178,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, no run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,29.4,no run,108,0,108/3,"Dockrell to Patel, no run",,,3
+470,179,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,29.5,run,109,1,109/3,"Dockrell to Patel, 1 run",,,3
+471,179,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 5 wides ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,29.5,wide,114,5,114/3,"Dockrell to Mishra, 5 wides",,,3
+472,180,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 3 runs ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,30.0,run,117,3,117/3,"Dockrell to Mishra, 3 runs",,,3
+473,181,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 leg bye ",2nd innings,Rakep Patel,267455,George Dockrell,348034,30.1,leg bye,118,1,118/3,"Rankin to Mishra, 1 leg bye",,,3
+474,181,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 wide ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,30.1,wide,119,1,119/3,"Rankin to Patel, 1 wide",,,3
+475,182,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,30.2,run,120,1,120/3,"Rankin to Patel, 1 run",,,3
+476,183,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, no run ",2nd innings,Rakep Patel,267455,George Dockrell,348034,30.3,no run,120,0,120/3,"Rankin to Mishra, no run",,,3
+477,184,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,Rakep Patel,267455,George Dockrell,348034,30.4,run,121,1,121/3,"Rankin to Mishra, 1 run",,,3
+478,185,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,30.5,no run,121,0,121/3,"Rankin to Patel, no run",,,3
+479,186,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,31.0,run,122,1,122/3,"Rankin to Patel, 1 run",,,3
+480,187,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,31.1,no run,122,0,122/3,"Johnston to Patel, no run",,,3
+481,188,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,31.2,no run,122,0,122/3,"Johnston to Patel, no run",,,3
+482,189,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 1 run well glanced to fine leg",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,31.3,run,123,1,123/3,"Johnston to Patel, 1 run",,well glanced to fine leg,3
+483,190,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, no run ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,31.4,no run,123,0,123/3,"Johnston to Mishra, no run",,,3
+484,191,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, 1 run driven straight to long on",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,31.5,run,124,1,124/3,"Johnston to Mishra, 1 run",,driven straight to long on,3
+485,192,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run good length and line but again well defended",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,32.0,no run,124,0,124/3,"Johnston to Patel, no run",,good length and line but again well defended,3
+486,193,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Trent Johnston,6038,32.1,run,125,1,125/3,"Rankin to Mishra, 1 run",,,3
+487,194,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,32.2,no run,125,0,125/3,"Rankin to Patel, no run",,,3
+488,195,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, 1 run cut to third man for an easy single",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,32.3,run,126,1,126/3,"Rankin to Patel, 1 run",,cut to third man for an easy single,3
+489,196,Tanmay Mishra,24790,Boyd Rankin,24599,"Rankin to Mishra, 1 run glanced to fine leg",2nd innings,Rakep Patel,267455,Trent Johnston,6038,32.4,run,127,1,127/3,"Rankin to Mishra, 1 run",,glanced to fine leg,3
+490,197,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,32.5,no run,127,0,127/3,"Rankin to Patel, no run",,,3
+491,198,Rakep Patel,267455,Boyd Rankin,24599,"Rankin to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,33.0,no run,127,0,127/3,"Rankin to Patel, no run",,,3
+492,199,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, no run ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,33.1,no run,127,0,127/3,"Johnston to Mishra, no run",,,3
+493,199,Tanmay Mishra,24790,Trent Johnston,6038,"Johnston to Mishra, (no ball) 1 run ",2nd innings,Rakep Patel,267455,Boyd Rankin,24599,33.1,run,129,2,129/3,"Johnston to Mishra, (no ball) 1 run",,,3
+494,200,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, SIX runs full and straight sent soaring over the straight boundary",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,33.2,six,135,6,135/3,"Johnston to Patel, SIX runs",,full and straight sent soaring over the straight boundary,3
+495,201,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 2 runs ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,33.3,run,137,2,137/3,"Johnston to Patel, 2 runs",,,3
+496,202,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,33.4,no run,137,0,137/3,"Johnston to Patel, no run",,,3
+497,203,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, no run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,33.5,no run,137,0,137/3,"Johnston to Patel, no run",,,3
+498,204,Rakep Patel,267455,Trent Johnston,6038,"Johnston to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Boyd Rankin,24599,34.0,run,138,1,138/3,"Johnston to Patel, 1 run",,,3
+499,205,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,34.1,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+500,206,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,34.2,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+501,207,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,34.3,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+502,208,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,34.4,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+503,209,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,34.5,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+504,210,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Trent Johnston,6038,35.0,no run,138,0,138/3,"Mooney to Patel, no run",,,3
+505,211,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Rakep Patel,267455,John Mooney,24237,35.1,no run,138,0,138/3,"Dockrell to Mishra, no run",,,3
+506,211,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 wide ",2nd innings,Rakep Patel,267455,John Mooney,24237,35.1,wide,139,1,139/3,"Dockrell to Mishra, 1 wide",,,3
+507,212,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, 1 run ",2nd innings,Rakep Patel,267455,John Mooney,24237,35.2,run,140,1,140/3,"Dockrell to Mishra, 1 run",,,3
+508,213,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, SIX runs lofted powerfully to the side screen",2nd innings,Tanmay Mishra,24790,John Mooney,24237,35.3,six,146,6,146/3,"Dockrell to Patel, SIX runs",,lofted powerfully to the side screen,3
+509,214,Rakep Patel,267455,George Dockrell,348034,"Dockrell to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,35.4,run,147,1,147/3,"Dockrell to Patel, 1 run",,,3
+510,215,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, no run ",2nd innings,Rakep Patel,267455,John Mooney,24237,35.5,no run,147,0,147/3,"Dockrell to Mishra, no run",,,3
+511,216,Tanmay Mishra,24790,George Dockrell,348034,"Dockrell to Mishra, FOUR runs exellent cover drive",2nd innings,Rakep Patel,267455,John Mooney,24237,36.0,four,151,4,151/3,"Dockrell to Mishra, FOUR runs",,exellent cover drive,3
+512,217,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,36.1,no run,151,0,151/3,"Mooney to Patel, no run",,,3
+513,218,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,36.2,no run,151,0,151/3,"Mooney to Patel, no run",,,3
+514,219,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,36.3,no run,151,0,151/3,"Mooney to Patel, no run",,,3
+515,220,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,36.4,no run,151,0,151/3,"Mooney to Patel, no run",,,3
+516,221,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,George Dockrell,348034,36.5,run,152,1,152/3,"Mooney to Patel, 1 run",,,3
+517,222,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,Rakep Patel,267455,George Dockrell,348034,37.0,no run,152,0,152/3,"Mooney to Mishra, no run",,,3
+518,223,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,37.1,run,153,1,153/3,"Cusack to Patel, 1 run",,,3
+519,224,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run glanced to square leg",2nd innings,Rakep Patel,267455,John Mooney,24237,37.2,run,154,1,154/3,"Cusack to Mishra, 1 run",,glanced to square leg,3
+520,225,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, FOUR runs lofted high to long on",2nd innings,Tanmay Mishra,24790,John Mooney,24237,37.3,four,158,4,158/3,"Cusack to Patel, FOUR runs",,lofted high to long on,3
+521,226,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,37.4,no run,158,0,158/3,"Cusack to Patel, no run",,,3
+522,227,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,37.5,no run,158,0,158/3,"Cusack to Patel, no run",,,3
+523,228,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 2 runs powerfully driven on the bounce",2nd innings,Tanmay Mishra,24790,John Mooney,24237,38.0,run,160,2,160/3,"Cusack to Patel, 2 runs",,powerfully driven on the bounce,3
+524,229,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,Rakep Patel,267455,Alex Cusack,293983,38.1,no run,160,0,160/3,"Mooney to Mishra, no run",,,3
+525,230,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, FOUR runs lofted to covers and a hearty applause for his 50",2nd innings,Rakep Patel,267455,Alex Cusack,293983,38.2,four,164,4,164/3,"Mooney to Mishra, FOUR runs",,lofted to covers and a hearty applause for his 50,3
+526,231,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,Rakep Patel,267455,Alex Cusack,293983,38.3,no run,164,0,164/3,"Mooney to Mishra, no run",,,3
+527,232,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, 1 run guided to third man",2nd innings,Rakep Patel,267455,Alex Cusack,293983,38.4,run,165,1,165/3,"Mooney to Mishra, 1 run",,guided to third man,3
+528,233,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,38.5,no run,165,0,165/3,"Mooney to Patel, no run",,,3
+529,234,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,39.0,no run,165,0,165/3,"Mooney to Patel, no run",,,3
+530,235,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,Rakep Patel,267455,John Mooney,24237,39.1,run,166,1,166/3,"Cusack to Mishra, 1 run",,,3
+531,236,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run slow delivery but well red",2nd innings,Tanmay Mishra,24790,John Mooney,24237,39.2,no run,166,0,166/3,"Cusack to Patel, no run",,slow delivery but well red,3
+532,237,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, no run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,39.3,no run,166,0,166/3,"Cusack to Patel, no run",,,3
+533,237,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 wide ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,39.3,wide,167,1,167/3,"Cusack to Patel, 1 wide",,,3
+534,238,Rakep Patel,267455,Alex Cusack,293983,"Cusack to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,39.4,run,168,1,168/3,"Cusack to Patel, 1 run",,,3
+535,239,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, FOUR runs ",2nd innings,Rakep Patel,267455,John Mooney,24237,39.5,four,172,4,172/3,"Cusack to Mishra, FOUR runs",,,3
+536,240,Tanmay Mishra,24790,Alex Cusack,293983,"Cusack to Mishra, 1 run ",2nd innings,Rakep Patel,267455,John Mooney,24237,40.0,run,173,1,173/3,"Cusack to Mishra, 1 run",,,3
+537,241,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, no run ",2nd innings,Rakep Patel,267455,Alex Cusack,293983,40.1,no run,173,0,173/3,"Mooney to Mishra, no run",,,3
+538,242,Tanmay Mishra,24790,John Mooney,24237,"Mooney to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Alex Cusack,293983,40.2,run,174,1,174/3,"Mooney to Mishra, 1 run",,,3
+539,243,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,40.3,no run,174,0,174/3,"Mooney to Patel, no run",,,3
+540,244,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 2 runs well glanced to fine leg",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,40.4,run,176,2,176/3,"Mooney to Patel, 2 runs",,well glanced to fine leg,3
+541,244,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, 5 no balls ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,40.4,no ball,181,5,181/3,"Mooney to Patel, 5 no balls",,,3
+542,245,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, no run ",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,40.5,no run,181,0,181/3,"Mooney to Patel, no run",,,3
+543,246,Rakep Patel,267455,John Mooney,24237,"Mooney to Patel, FOUR runs driven to long off for a boundary",2nd innings,Tanmay Mishra,24790,Alex Cusack,293983,41.0,four,185,4,185/3,"Mooney to Patel, FOUR runs",,driven to long off for a boundary,3
+544,247,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, no run ",2nd innings,Rakep Patel,267455,John Mooney,24237,41.1,no run,185,0,185/3,"O'Brien to Mishra, no run",,,3
+545,248,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 2 runs ",2nd innings,Rakep Patel,267455,John Mooney,24237,41.2,run,187,2,187/3,"O'Brien to Mishra, 2 runs",,,3
+546,249,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, FOUR runs ",2nd innings,Rakep Patel,267455,John Mooney,24237,41.3,four,191,4,191/3,"O'Brien to Mishra, FOUR runs",,,3
+547,250,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 1 run ",2nd innings,Rakep Patel,267455,John Mooney,24237,41.4,run,192,1,192/3,"O'Brien to Mishra, 1 run",,,3
+548,251,Rakep Patel,267455,Kevin O'Brien,24605,"O'Brien to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,John Mooney,24237,41.5,run,193,1,193/3,"O'Brien to Patel, 1 run",,,3
+549,252,Tanmay Mishra,24790,Kevin O'Brien,24605,"O'Brien to Mishra, 2 runs edged to third man",2nd innings,Rakep Patel,267455,John Mooney,24237,42.0,run,195,2,195/3,"O'Brien to Mishra, 2 runs",,edged to third man,3
+550,253,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Kevin O'Brien,24605,42.1,run,196,1,196/3,"White to Patel, 1 run",,,3
+551,253,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 wide ",2nd innings,Rakep Patel,267455,Kevin O'Brien,24605,42.1,wide,197,1,197/3,"White to Mishra, 1 wide",,,3
+552,254,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Kevin O'Brien,24605,42.2,run,198,1,198/3,"White to Mishra, 1 run",,,3
+553,255,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 run ",2nd innings,Tanmay Mishra,24790,Kevin O'Brien,24605,42.3,run,199,1,199/3,"White to Patel, 1 run",,,3
+554,256,Tanmay Mishra,24790,Andrew White,24286,"White to Mishra, 1 run ",2nd innings,Rakep Patel,267455,Kevin O'Brien,24605,42.4,run,200,1,200/3,"White to Mishra, 1 run",,,3
+555,256,Rakep Patel,267455,Andrew White,24286,"White to Patel, 1 wide ",2nd innings,Tanmay Mishra,24790,Kevin O'Brien,24605,42.4,wide,201,1,201/3,"White to Patel, 1 wide",,,3

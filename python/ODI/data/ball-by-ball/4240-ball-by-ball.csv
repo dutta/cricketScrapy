@@ -1,570 +1,570 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,1,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,0.1,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
-1,2,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,0.2,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
-2,3,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,0.3,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
-3,4,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,0.4,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
-4,4,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 wide ",1st innings,0.4,wide,1,1,1/0,"Hutchinson to Khakurel, 1 wide",,,0
-5,5,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 run ",1st innings,0.5,run,2,1,2/0,"Hutchinson to Khakurel, 1 run",,,0
-6,6,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,1.0,no run,2,0,2/0,"Hutchinson to Malla, no run",,,0
-7,7,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, 1 run ",1st innings,1.1,run,3,1,3/0,"Theron to Khakurel, 1 run",,,0
-8,8,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,1.2,no run,3,0,3/0,"Theron to Malla, no run",,,0
-9,9,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,1.3,no run,3,0,3/0,"Theron to Malla, no run",,,0
-10,10,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,1.4,no run,3,0,3/0,"Theron to Malla, no run",,,0
-11,11,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 run ",1st innings,1.5,run,4,1,4/0,"Theron to Malla, 1 run",,,0
-12,12,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, 1 run ",1st innings,2.0,run,5,1,5/0,"Theron to Khakurel, 1 run",,,0
-13,13,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,2.1,no run,5,0,5/0,"Hutchinson to Khakurel, no run",,,0
-14,14,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 leg bye ",1st innings,2.2,leg bye,6,1,6/0,"Hutchinson to Khakurel, 1 leg bye",,,0
-15,15,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,2.3,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
-16,16,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,2.4,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
-17,17,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,2.5,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
-18,18,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,3.0,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
-19,19,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, OUT ",1st innings,3.1,out,6,0,6/1,"Theron to Khakurel, OUT",,,1
-20,20,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 1 run ",1st innings,3.2,run,7,1,7/1,"Theron to Khadka, 1 run",,,1
-21,21,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,3.3,no run,7,0,7/1,"Theron to Malla, no run",,,1
-22,22,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 2 runs ",1st innings,3.4,run,9,2,9/1,"Theron to Malla, 2 runs",,,1
-23,23,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 run ",1st innings,3.5,run,10,1,10/1,"Theron to Malla, 1 run",,,1
-24,24,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,4.0,no run,10,0,10/1,"Theron to Khadka, no run",,,1
-25,25,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,4.1,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
-26,26,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,4.2,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
-27,27,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,4.3,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
-28,28,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,4.4,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
-29,29,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, FOUR runs ",1st innings,4.5,four,14,4,14/1,"Hutchinson to Malla, FOUR runs",,,1
-30,30,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,5.0,no run,14,0,14/1,"Hutchinson to Malla, no run",,,1
-31,31,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 2 runs ",1st innings,5.1,run,16,2,16/1,"Theron to Khadka, 2 runs",,,1
-32,32,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,5.2,no run,16,0,16/1,"Theron to Khadka, no run",,,1
-33,33,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,5.3,no run,16,0,16/1,"Theron to Khadka, no run",,,1
-34,34,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,5.4,no run,16,0,16/1,"Theron to Khadka, no run",,,1
-35,35,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,5.5,no run,16,0,16/1,"Theron to Khadka, no run",,,1
-36,36,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 3 runs ",1st innings,6.0,run,19,3,19/1,"Theron to Khadka, 3 runs",,,1
-37,37,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,6.1,no run,19,0,19/1,"Hutchinson to Khadka, no run",,,1
-38,38,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,6.2,no run,19,0,19/1,"Hutchinson to Khadka, no run",,,1
-39,39,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, 1 run ",1st innings,6.3,run,20,1,20/1,"Hutchinson to Khadka, 1 run",,,1
-40,40,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,6.4,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
-41,41,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,6.5,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
-42,42,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,7.0,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
-43,43,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,7.1,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-44,44,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,7.2,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-45,45,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,7.3,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-46,46,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,7.4,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-47,47,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,7.5,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-48,48,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,8.0,no run,20,0,20/1,"Theron to Khadka, no run",,,1
-49,49,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, 1 bye ",1st innings,8.1,bye,21,1,21/1,"Hutchinson to Malla, 1 bye",,,1
-50,50,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,8.2,no run,21,0,21/1,"Hutchinson to Khadka, no run",,,1
-51,51,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,8.3,no run,21,0,21/1,"Hutchinson to Khadka, no run",,,1
-52,52,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, FOUR runs ",1st innings,8.4,four,25,4,25/1,"Hutchinson to Khadka, FOUR runs",,,1
-53,53,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,8.5,no run,25,0,25/1,"Hutchinson to Khadka, no run",,,1
-54,54,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,9.0,no run,25,0,25/1,"Hutchinson to Khadka, no run",,,1
-55,55,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,9.1,no run,25,0,25/1,"Theron to Malla, no run",,,1
-56,56,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,9.2,no run,25,0,25/1,"Theron to Malla, no run",,,1
-57,57,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, FOUR runs ",1st innings,9.3,four,29,4,29/1,"Theron to Malla, FOUR runs",,,1
-58,58,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,9.4,no run,29,0,29/1,"Theron to Malla, no run",,,1
-59,59,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, FOUR runs ",1st innings,9.5,four,33,4,33/1,"Theron to Malla, FOUR runs",,,1
-60,59,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 wide ",1st innings,9.5,wide,34,1,34/1,"Theron to Malla, 1 wide",,,1
-61,60,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,10.0,no run,34,0,34/1,"Theron to Malla, no run",,,1
-62,61,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,10.1,no run,34,0,34/1,"Netravalkar to Khadka, no run",,,1
-63,62,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,10.2,no run,34,0,34/1,"Netravalkar to Khadka, no run",,,1
-64,63,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, 1 run ",1st innings,10.3,run,35,1,35/1,"Netravalkar to Khadka, 1 run",,,1
-65,64,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,10.4,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
-66,65,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,10.5,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
-67,66,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,11.0,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
-68,67,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,11.1,no run,35,0,35/1,"Stevenson to Khadka, no run",,,1
-69,68,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,11.2,no run,35,0,35/1,"Stevenson to Khadka, no run",,,1
-70,69,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, FOUR runs ",1st innings,11.3,four,39,4,39/1,"Stevenson to Khadka, FOUR runs",,,1
-71,70,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,11.4,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
-72,71,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,11.5,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
-73,72,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,12.0,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
-74,73,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,12.1,no run,39,0,39/1,"Netravalkar to Malla, no run",,,1
-75,74,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, FOUR runs ",1st innings,12.2,four,43,4,43/1,"Netravalkar to Malla, FOUR runs",,,1
-76,75,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,12.3,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
-77,76,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,12.4,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
-78,77,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,12.5,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
-79,78,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,13.0,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
-80,79,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, 1 run ",1st innings,13.1,run,44,1,44/1,"Stevenson to Khadka, 1 run",,,1
-81,80,Gyanendra Malla,233400,Cameron Stevenson,953793,"Stevenson to Malla, 1 run ",1st innings,13.2,run,45,1,45/1,"Stevenson to Malla, 1 run",,,1
-82,81,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,13.3,no run,45,0,45/1,"Stevenson to Khadka, no run",,,1
-83,82,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, 1 run ",1st innings,13.4,run,46,1,46/1,"Stevenson to Khadka, 1 run",,,1
-84,83,Gyanendra Malla,233400,Cameron Stevenson,953793,"Stevenson to Malla, OUT ",1st innings,13.5,out,46,0,46/2,"Stevenson to Malla, OUT",,,2
-85,84,Dipendra Singh Airee,794707,Cameron Stevenson,953793,"Stevenson to DS Airee, no run ",1st innings,14.0,no run,46,0,46/2,"Stevenson to DS Airee, no run",,,2
-86,85,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,14.1,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
-87,86,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,14.2,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
-88,87,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,14.3,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
-89,88,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,14.4,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
-90,89,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,14.5,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
-91,90,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, 1 run ",1st innings,15.0,run,47,1,47/2,"Netravalkar to Khadka, 1 run",,,2
-92,91,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,15.1,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-93,92,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,15.2,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-94,93,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,15.3,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-95,94,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,15.4,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-96,95,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,15.5,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-97,96,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,16.0,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
-98,97,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,"Netravalkar to DS Airee, OUT ",1st innings,16.1,out,47,0,47/3,"Netravalkar to DS Airee, OUT",,,3
-99,98,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,16.2,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
-100,99,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,16.3,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
-101,100,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,16.4,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
-102,101,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,16.5,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
-103,102,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,17.0,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
-104,103,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,17.1,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
-105,104,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,17.2,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
-106,105,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,17.3,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
-107,106,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,17.4,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
-108,107,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,17.5,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
-109,108,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, OUT ",1st innings,18.0,out,47,0,47/4,"Stevenson to Khadka, OUT",,,4
-110,109,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,18.1,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
-111,110,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,18.2,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
-112,111,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,18.3,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
-113,112,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,18.4,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
-114,113,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, 1 run ",1st innings,18.5,run,48,1,48/4,"Netravalkar to Aarif Sheikh, 1 run",,,4
-115,114,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,19.0,no run,48,0,48/4,"Netravalkar to Kushal Malla, no run",,,4
-116,115,Aarif Sheikh,701217,Cameron Stevenson,953793,"Stevenson to Aarif Sheikh, 1 run ",1st innings,19.1,run,49,1,49/4,"Stevenson to Aarif Sheikh, 1 run",,,4
-117,116,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,19.2,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
-118,117,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,19.3,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
-119,118,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,19.4,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
-120,119,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,19.5,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
-121,120,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,20.0,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
-122,121,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,20.1,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
-123,122,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,20.2,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
-124,123,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,20.3,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
-125,124,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,20.4,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
-126,125,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, OUT ",1st innings,20.5,out,49,0,49/5,"Netravalkar to Aarif Sheikh, OUT",,,5
-127,126,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,21.0,no run,49,0,49/5,"Netravalkar to B Bhandari, no run",,,5
-128,127,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, 1 run ",1st innings,21.1,run,50,1,50/5,"Stevenson to Kushal Malla, 1 run",,,5
-129,128,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,21.2,no run,50,0,50/5,"Stevenson to B Bhandari, no run",,,5
-130,129,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,21.3,run,51,1,51/5,"Stevenson to B Bhandari, 1 run",,,5
-131,130,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, FOUR runs ",1st innings,21.4,four,55,4,55/5,"Stevenson to Kushal Malla, FOUR runs",,,5
-132,131,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, SIX runs ",1st innings,21.5,six,61,6,61/5,"Stevenson to Kushal Malla, SIX runs",,,5
-133,132,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,22.0,no run,61,0,61/5,"Stevenson to Kushal Malla, no run",,,5
-134,133,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, 1 run ",1st innings,22.1,run,62,1,62/5,"Netravalkar to B Bhandari, 1 run",,,5
-135,134,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, 1 run ",1st innings,22.2,run,63,1,63/5,"Netravalkar to Kushal Malla, 1 run",,,5
-136,135,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,22.3,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
-137,136,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,22.4,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
-138,137,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,22.5,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
-139,138,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,23.0,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
-140,139,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,23.1,no run,63,0,63/5,"Stevenson to Kushal Malla, no run",,,5
-141,140,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,23.2,no run,63,0,63/5,"Stevenson to Kushal Malla, no run",,,5
-142,141,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, 1 run ",1st innings,23.3,run,64,1,64/5,"Stevenson to Kushal Malla, 1 run",,,5
-143,142,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,23.4,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
-144,143,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,23.5,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
-145,144,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,24.0,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
-146,145,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,24.1,no run,64,0,64/5,"Netravalkar to Kushal Malla, no run",,,5
-147,146,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,24.2,no run,64,0,64/5,"Netravalkar to Kushal Malla, no run",,,5
-148,147,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, SIX runs ",1st innings,24.3,six,70,6,70/5,"Netravalkar to Kushal Malla, SIX runs",,,5
-149,148,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,24.4,no run,70,0,70/5,"Netravalkar to Kushal Malla, no run",,,5
-150,149,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, 2 runs ",1st innings,24.5,run,72,2,72/5,"Netravalkar to Kushal Malla, 2 runs",,,5
-151,150,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,25.0,no run,72,0,72/5,"Netravalkar to Kushal Malla, no run",,,5
-152,151,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,25.1,no run,72,0,72/5,"Taylor to B Bhandari, no run",,,5
-153,152,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, FOUR runs ",1st innings,25.2,four,76,4,76/5,"Taylor to B Bhandari, FOUR runs",,,5
-154,153,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,25.3,run,77,1,77/5,"Taylor to B Bhandari, 1 run",,,5
-155,154,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, FOUR runs ",1st innings,25.4,four,81,4,81/5,"Taylor to Kushal Malla, FOUR runs",,,5
-156,155,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, no run ",1st innings,25.5,no run,81,0,81/5,"Taylor to Kushal Malla, no run",,,5
-157,156,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, no run ",1st innings,26.0,no run,81,0,81/5,"Taylor to Kushal Malla, no run",,,5
-158,157,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,26.1,no run,81,0,81/5,"Holland to B Bhandari, no run",,,5
-159,158,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,26.2,run,82,1,82/5,"Holland to B Bhandari, 1 run",,,5
-160,159,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,26.3,no run,82,0,82/5,"Holland to Kushal Malla, no run",,,5
-161,160,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,26.4,run,83,1,83/5,"Holland to Kushal Malla, 1 run",,,5
-162,161,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,26.5,run,84,1,84/5,"Holland to B Bhandari, 1 run",,,5
-163,162,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,27.0,no run,84,0,84/5,"Holland to Kushal Malla, no run",,,5
-164,163,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, SIX runs ",1st innings,27.1,six,90,6,90/5,"Taylor to B Bhandari, SIX runs",,,5
-165,164,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,27.2,no run,90,0,90/5,"Taylor to B Bhandari, no run",,,5
-166,165,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,27.3,no run,90,0,90/5,"Taylor to B Bhandari, no run",,,5
-167,166,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,27.4,run,91,1,91/5,"Taylor to B Bhandari, 1 run",,,5
-168,167,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, 1 leg bye ",1st innings,27.5,leg bye,92,1,92/5,"Taylor to Kushal Malla, 1 leg bye",,,5
-169,168,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,28.0,run,93,1,93/5,"Taylor to B Bhandari, 1 run",,,5
-170,169,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,28.1,no run,93,0,93/5,"Holland to B Bhandari, no run",,,5
-171,170,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,28.2,run,94,1,94/5,"Holland to B Bhandari, 1 run",,,5
-172,171,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,28.3,run,95,1,95/5,"Holland to Kushal Malla, 1 run",,,5
-173,172,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,28.4,no run,95,0,95/5,"Holland to B Bhandari, no run",,,5
-174,173,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,28.5,run,96,1,96/5,"Holland to B Bhandari, 1 run",,,5
-175,174,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,29.0,no run,96,0,96/5,"Holland to Kushal Malla, no run",,,5
-176,175,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,29.1,no run,96,0,96/5,"Theron to B Bhandari, no run",,,5
-177,176,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 2 runs ",1st innings,29.2,run,98,2,98/5,"Theron to B Bhandari, 2 runs",,,5
-178,177,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,29.3,no run,98,0,98/5,"Theron to B Bhandari, no run",,,5
-179,178,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,29.4,no run,98,0,98/5,"Theron to B Bhandari, no run",,,5
-180,179,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, FOUR runs ",1st innings,29.5,four,102,4,102/5,"Theron to B Bhandari, FOUR runs",,,5
-181,180,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,30.0,no run,102,0,102/5,"Theron to B Bhandari, no run",,,5
-182,181,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,30.1,no run,102,0,102/5,"Holland to Kushal Malla, no run",,,5
-183,182,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,30.2,no run,102,0,102/5,"Holland to Kushal Malla, no run",,,5
-184,183,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,30.3,run,103,1,103/5,"Holland to Kushal Malla, 1 run",,,5
-185,184,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,30.4,run,104,1,104/5,"Holland to B Bhandari, 1 run",,,5
-186,185,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, FOUR runs ",1st innings,30.5,four,108,4,108/5,"Holland to Kushal Malla, FOUR runs",,,5
-187,186,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,31.0,run,109,1,109/5,"Holland to Kushal Malla, 1 run",,,5
-188,187,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, 1 run ",1st innings,31.1,run,110,1,110/5,"Theron to Kushal Malla, 1 run",,,5
-189,188,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,31.2,run,111,1,111/5,"Theron to B Bhandari, 1 run",,,5
-190,189,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, FOUR runs ",1st innings,31.3,four,115,4,115/5,"Theron to Kushal Malla, FOUR runs",,,5
-191,190,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, no run ",1st innings,31.4,no run,115,0,115/5,"Theron to Kushal Malla, no run",,,5
-192,191,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, 1 run ",1st innings,31.5,run,116,1,116/5,"Theron to Kushal Malla, 1 run",,,5
-193,192,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,32.0,no run,116,0,116/5,"Theron to B Bhandari, no run",,,5
-194,193,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,32.1,run,117,1,117/5,"Holland to Kushal Malla, 1 run",,,5
-195,194,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,32.2,run,118,1,118/5,"Holland to B Bhandari, 1 run",,,5
-196,195,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, SIX runs ",1st innings,32.3,six,124,6,124/5,"Holland to Kushal Malla, SIX runs",,,5
-197,196,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,32.4,no run,124,0,124/5,"Holland to Kushal Malla, no run",,,5
-198,197,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,32.5,run,125,1,125/5,"Holland to Kushal Malla, 1 run",,,5
-199,198,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,33.0,no run,125,0,125/5,"Holland to B Bhandari, no run",,,5
-200,199,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,33.1,no run,125,0,125/5,"Gore to Kushal Malla, no run",,,5
-201,200,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, 1 run ",1st innings,33.2,run,126,1,126/5,"Gore to Kushal Malla, 1 run",,,5
-202,201,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, no run ",1st innings,33.3,no run,126,0,126/5,"Gore to B Bhandari, no run",,,5
-203,202,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, 1 run ",1st innings,33.4,run,127,1,127/5,"Gore to B Bhandari, 1 run",,,5
-204,203,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,33.5,no run,127,0,127/5,"Gore to Kushal Malla, no run",,,5
-205,204,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, 1 run ",1st innings,34.0,run,128,1,128/5,"Gore to Kushal Malla, 1 run",,,5
-206,205,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,34.1,no run,128,0,128/5,"Holland to Kushal Malla, no run",,,5
-207,206,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,34.2,no run,128,0,128/5,"Holland to Kushal Malla, no run",,,5
-208,207,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,34.3,run,129,1,129/5,"Holland to Kushal Malla, 1 run",,,5
-209,208,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,34.4,no run,129,0,129/5,"Holland to B Bhandari, no run",,,5
-210,209,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,34.5,no run,129,0,129/5,"Holland to B Bhandari, no run",,,5
-211,210,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, FOUR runs ",1st innings,35.0,four,133,4,133/5,"Holland to B Bhandari, FOUR runs",,,5
-212,211,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,35.1,no run,133,0,133/5,"Gore to Kushal Malla, no run",,,5
-213,212,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, OUT ",1st innings,35.2,out,133,0,133/6,"Gore to Kushal Malla, OUT",,,6
-214,213,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, no run ",1st innings,35.3,no run,133,0,133/6,"Gore to Karan KC, no run",,,6
-215,214,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, 1 run ",1st innings,35.4,run,134,1,134/6,"Gore to Karan KC, 1 run",,,6
-216,214,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, (no ball) 1 run ",1st innings,35.4,run,136,2,136/6,"Gore to B Bhandari, (no ball) 1 run",,,6
-217,215,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, FOUR runs ",1st innings,35.5,four,140,4,140/6,"Gore to Karan KC, FOUR runs",,,6
-218,216,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, 1 run ",1st innings,36.0,run,141,1,141/6,"Gore to Karan KC, 1 run",,,6
-219,217,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,36.1,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-220,218,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,36.2,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-221,219,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,36.3,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-222,220,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,36.4,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-223,221,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,36.5,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-224,222,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,37.0,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
-225,223,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,37.1,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
-226,224,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,37.2,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
-227,225,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,37.3,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
-228,226,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,37.4,run,142,1,142/6,"Stevenson to B Bhandari, 1 run",,,6
-229,227,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,37.5,no run,142,0,142/6,"Stevenson to Karan KC, no run",,,6
-230,228,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,38.0,no run,142,0,142/6,"Stevenson to Karan KC, no run",,,6
-231,229,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,38.1,run,143,1,143/6,"Holland to B Bhandari, 1 run",,,6
-232,230,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,38.2,no run,143,0,143/6,"Holland to Karan KC, no run",,,6
-233,231,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, FOUR runs ",1st innings,38.3,four,147,4,147/6,"Holland to Karan KC, FOUR runs",,,6
-234,232,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,38.4,no run,147,0,147/6,"Holland to Karan KC, no run",,,6
-235,233,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, 1 run ",1st innings,38.5,run,148,1,148/6,"Holland to Karan KC, 1 run",,,6
-236,234,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, FOUR runs ",1st innings,39.0,four,152,4,152/6,"Holland to B Bhandari, FOUR runs",,,6
-237,235,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,39.1,no run,152,0,152/6,"Stevenson to Karan KC, no run",,,6
-238,236,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,39.2,no run,152,0,152/6,"Stevenson to Karan KC, no run",,,6
-239,237,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, 1 run ",1st innings,39.3,run,153,1,153/6,"Stevenson to Karan KC, 1 run",,,6
-240,238,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,39.4,run,154,1,154/6,"Stevenson to B Bhandari, 1 run",,,6
-241,239,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,39.5,no run,154,0,154/6,"Stevenson to Karan KC, no run",,,6
-242,240,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, OUT ",1st innings,40.0,out,154,0,154/7,"Stevenson to Karan KC, OUT",,,7
-243,241,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,40.1,run,155,1,155/7,"Hutchinson to B Bhandari, 1 run",,,7
-244,242,Sandeep Lamichhane,960361,Elmore Hutchinson,552881,"Hutchinson to Lamichhane, no run ",1st innings,40.2,no run,155,0,155/7,"Hutchinson to Lamichhane, no run",,,7
-245,243,Sandeep Lamichhane,960361,Elmore Hutchinson,552881,"Hutchinson to Lamichhane, OUT ",1st innings,40.3,out,155,0,155/8,"Hutchinson to Lamichhane, OUT",,,8
-246,244,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,40.4,no run,155,0,155/8,"Hutchinson to B Bhandari, no run",,,8
-247,245,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,40.5,run,156,1,156/8,"Hutchinson to B Bhandari, 1 run",,,8
-248,246,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,41.0,no run,156,0,156/8,"Hutchinson to Bhari, no run",,,8
-249,247,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,41.1,no run,156,0,156/8,"Stevenson to B Bhandari, no run",,,8
-250,248,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,41.2,run,157,1,157/8,"Stevenson to B Bhandari, 1 run",,,8
-251,249,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, FOUR runs ",1st innings,41.3,four,161,4,161/8,"Stevenson to Bhari, FOUR runs",,,8
-252,250,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, no run ",1st innings,41.4,no run,161,0,161/8,"Stevenson to Bhari, no run",,,8
-253,251,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, no run ",1st innings,41.5,no run,161,0,161/8,"Stevenson to Bhari, no run",,,8
-254,252,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, 1 run ",1st innings,42.0,run,162,1,162/8,"Stevenson to Bhari, 1 run",,,8
-255,253,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,42.1,no run,162,0,162/8,"Hutchinson to Bhari, no run",,,8
-256,254,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,42.2,no run,162,0,162/8,"Hutchinson to Bhari, no run",,,8
-257,255,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, 1 run ",1st innings,42.3,run,163,1,163/8,"Hutchinson to Bhari, 1 run",,,8
-258,256,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,42.4,no run,163,0,163/8,"Hutchinson to B Bhandari, no run",,,8
-259,257,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 bye ",1st innings,42.5,bye,164,1,164/8,"Hutchinson to B Bhandari, 1 bye",,,8
-260,258,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,43.0,no run,164,0,164/8,"Hutchinson to Bhari, no run",,,8
-261,259,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,43.1,no run,164,0,164/8,"Theron to B Bhandari, no run",,,8
-262,260,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,43.2,no run,164,0,164/8,"Theron to B Bhandari, no run",,,8
-263,261,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,43.3,run,165,1,165/8,"Theron to B Bhandari, 1 run",,,8
-264,262,Sushan Bhari,633525,Rusty Theron,223642,"Theron to Bhari, no run ",1st innings,43.4,no run,165,0,165/8,"Theron to Bhari, no run",,,8
-265,263,Sushan Bhari,633525,Rusty Theron,223642,"Theron to Bhari, 1 run ",1st innings,43.5,run,166,1,166/8,"Theron to Bhari, 1 run",,,8
-266,264,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,44.0,run,167,1,167/8,"Theron to B Bhandari, 1 run",,,8
-267,265,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, FOUR runs ",1st innings,44.1,four,171,4,171/8,"Hutchinson to B Bhandari, FOUR runs",,,8
-268,266,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,44.2,no run,171,0,171/8,"Hutchinson to B Bhandari, no run",,,8
-269,267,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,44.3,no run,171,0,171/8,"Hutchinson to B Bhandari, no run",,,8
-270,268,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,44.4,run,172,1,172/8,"Hutchinson to B Bhandari, 1 run",,,8
-271,268,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, 1 wide ",1st innings,44.4,wide,173,1,173/8,"Hutchinson to Bhari, 1 wide",,,8
-272,269,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,44.5,no run,173,0,173/8,"Hutchinson to Bhari, no run",,,8
-273,270,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,45.0,no run,173,0,173/8,"Hutchinson to Bhari, no run",,,8
-274,271,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,45.1,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
-275,272,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,45.2,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
-276,273,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,45.3,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
-277,274,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 2 runs ",1st innings,45.4,run,175,2,175/8,"Theron to B Bhandari, 2 runs",,,8
-278,275,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,45.5,no run,175,0,175/8,"Theron to B Bhandari, no run",,,8
-279,276,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,46.0,run,176,1,176/8,"Theron to B Bhandari, 1 run",,,8
-280,277,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,46.1,no run,176,0,176/8,"Netravalkar to B Bhandari, no run",,,8
-281,278,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, FOUR runs ",1st innings,46.2,four,180,4,180/8,"Netravalkar to B Bhandari, FOUR runs",,,8
-282,279,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,46.3,no run,180,0,180/8,"Netravalkar to B Bhandari, no run",,,8
-283,280,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,46.4,no run,180,0,180/8,"Netravalkar to B Bhandari, no run",,,8
-284,281,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, 1 run ",1st innings,46.5,run,181,1,181/8,"Netravalkar to B Bhandari, 1 run",,,8
-285,282,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, no run ",1st innings,47.0,no run,181,0,181/8,"Netravalkar to Bhari, no run",,,8
-286,283,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,47.1,no run,181,0,181/8,"Theron to B Bhandari, no run",,,8
-287,284,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,47.2,no run,181,0,181/8,"Theron to B Bhandari, no run",,,8
-288,285,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, OUT ",1st innings,47.3,out,181,0,181/9,"Theron to B Bhandari, OUT",,,9
-289,286,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, no run ",1st innings,47.4,no run,181,0,181/9,"Theron to Bohara, no run",,,9
-290,287,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, no run ",1st innings,47.5,no run,181,0,181/9,"Theron to Bohara, no run",,,9
-291,288,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, 1 run ",1st innings,48.0,run,182,1,182/9,"Theron to Bohara, 1 run",,,9
-292,289,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 1 run ",1st innings,48.1,run,183,1,183/9,"Netravalkar to Bohara, 1 run",,,9
-293,290,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, no run ",1st innings,48.2,no run,183,0,183/9,"Netravalkar to Bhari, no run",,,9
-294,291,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, 1 run ",1st innings,48.3,run,184,1,184/9,"Netravalkar to Bhari, 1 run",,,9
-295,292,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 1 run ",1st innings,48.4,run,185,1,185/9,"Netravalkar to Bohara, 1 run",,,9
-296,293,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, 1 run ",1st innings,48.5,run,186,1,186/9,"Netravalkar to Bhari, 1 run",,,9
-297,294,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 2 runs ",1st innings,49.0,run,188,2,188/9,"Netravalkar to Bohara, 2 runs",,,9
-298,295,Sushan Bhari,633525,Ian Holland,334340,"Holland to Bhari, 2 runs ",1st innings,49.1,run,190,2,190/9,"Holland to Bhari, 2 runs",,,9
-299,296,Sushan Bhari,633525,Ian Holland,334340,"Holland to Bhari, OUT ",1st innings,49.2,out,190,0,190/10,"Holland to Bhari, OUT",,,10
-300,1,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, 1 run ",2nd innings,0.1,run,1,1,1/0,"Karan KC to Marshall, 1 run",,,0
-301,2,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,0.2,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
-302,3,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,0.3,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
-303,4,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,0.4,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
-304,5,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,0.5,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
-305,6,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, 1 run ",2nd innings,1.0,run,2,1,2/0,"Karan KC to Aaron Jones, 1 run",,,0
-306,7,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, no run ",2nd innings,1.1,no run,2,0,2/0,"Lamichhane to Aaron Jones, no run",,,0
-307,8,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, no run ",2nd innings,1.2,no run,2,0,2/0,"Lamichhane to Aaron Jones, no run",,,0
-308,9,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, FOUR runs ",2nd innings,1.3,four,6,4,6/0,"Lamichhane to Aaron Jones, FOUR runs",,,0
-309,10,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, OUT ",2nd innings,1.4,out,6,0,6/1,"Lamichhane to Aaron Jones, OUT",,,1
-310,11,Steven Taylor,348133,Sandeep Lamichhane,960361,"Lamichhane to Taylor, no run ",2nd innings,1.5,no run,6,0,6/1,"Lamichhane to Taylor, no run",,,1
-311,12,Steven Taylor,348133,Sandeep Lamichhane,960361,"Lamichhane to Taylor, no run ",2nd innings,2.0,no run,6,0,6/1,"Lamichhane to Taylor, no run",,,1
-312,13,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, 1 run ",2nd innings,2.1,run,7,1,7/1,"Karan KC to Marshall, 1 run",,,1
-313,14,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, no run ",2nd innings,2.2,no run,7,0,7/1,"Karan KC to Taylor, no run",,,1
-314,15,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, no run ",2nd innings,2.3,no run,7,0,7/1,"Karan KC to Taylor, no run",,,1
-315,16,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, OUT ",2nd innings,2.4,out,7,0,7/2,"Karan KC to Taylor, OUT",,,2
-316,16,Monank Patel,1159641,Karan KC,800675,"Karan KC to MD Patel, 2 wides ",2nd innings,2.4,wide,9,2,9/2,"Karan KC to MD Patel, 2 wides",,,2
-317,17,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, no run ",2nd innings,2.5,no run,9,0,9/2,"Karan KC to Marshall, no run",,,2
-318,18,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, OUT ",2nd innings,3.0,out,9,0,9/3,"Karan KC to Marshall, OUT",,,3
-319,19,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, FOUR runs ",2nd innings,3.1,four,13,4,13/3,"Lamichhane to MD Patel, FOUR runs",,,3
-320,20,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, no run ",2nd innings,3.2,no run,13,0,13/3,"Lamichhane to MD Patel, no run",,,3
-321,21,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, no run ",2nd innings,3.3,no run,13,0,13/3,"Lamichhane to MD Patel, no run",,,3
-322,22,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, OUT ",2nd innings,3.4,out,13,0,13/4,"Lamichhane to MD Patel, OUT",,,4
-323,23,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,3.5,no run,13,0,13/4,"Lamichhane to Akshay Homraj, no run",,,4
-324,24,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,4.0,no run,13,0,13/4,"Lamichhane to Akshay Homraj, no run",,,4
-325,25,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,4.1,no run,13,0,13/4,"Karan KC to Holland, no run",,,4
-326,26,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,4.2,no run,13,0,13/4,"Karan KC to Holland, no run",,,4
-327,27,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, 1 run ",2nd innings,4.3,run,14,1,14/4,"Karan KC to Holland, 1 run",,,4
-328,28,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,4.4,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
-329,29,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,4.5,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
-330,30,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,5.0,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
-331,31,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,5.1,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
-332,32,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,5.2,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
-333,33,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,5.3,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
-334,34,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,5.4,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
-335,35,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,5.5,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
-336,35,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 wide ",2nd innings,5.5,wide,15,1,15/4,"Lamichhane to Holland, 1 wide",,,4
-337,36,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, FOUR runs ",2nd innings,6.0,four,19,4,19/4,"Lamichhane to Holland, FOUR runs",,,4
-338,37,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, FOUR runs ",2nd innings,6.1,four,23,4,23/4,"Karan KC to Akshay Homraj, FOUR runs",,,4
-339,38,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,6.2,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
-340,39,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,6.3,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
-341,40,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,6.4,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
-342,41,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,6.5,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
-343,42,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,7.0,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
-344,43,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,7.1,no run,23,0,23/4,"Lamichhane to Holland, no run",,,4
-345,44,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,7.2,no run,23,0,23/4,"Lamichhane to Holland, no run",,,4
-346,45,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,7.3,run,24,1,24/4,"Lamichhane to Holland, 1 run",,,4
-347,46,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,7.4,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
-348,47,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,7.5,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
-349,48,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,8.0,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
-350,49,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,8.1,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
-351,50,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,8.2,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
-352,51,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,8.3,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
-353,52,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,8.4,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
-354,53,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,8.5,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
-355,54,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, 1 run ",2nd innings,9.0,run,25,1,25/4,"Karan KC to Holland, 1 run",,,4
-356,55,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,9.1,run,26,1,26/4,"Lamichhane to Holland, 1 run",,,4
-357,56,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,9.2,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
-358,57,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,9.3,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
-359,58,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,9.4,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
-360,59,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, 1 run ",2nd innings,9.5,run,27,1,27/4,"Lamichhane to Akshay Homraj, 1 run",,,4
-361,60,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,10.0,no run,27,0,27/4,"Lamichhane to Holland, no run",,,4
-362,61,Akshay Homraj,1205381,Sushan Bhari,633525,"Bhari to Akshay Homraj, OUT ",2nd innings,10.1,out,27,0,27/5,"Bhari to Akshay Homraj, OUT",,,5
-363,62,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,10.2,no run,27,0,27/5,"Bhari to Gore, no run",,,5
-364,63,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,10.3,no run,27,0,27/5,"Bhari to Gore, no run",,,5
-365,64,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,10.4,no run,27,0,27/5,"Bhari to Gore, no run",,,5
-366,65,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,10.5,no run,27,0,27/5,"Bhari to Gore, no run",,,5
-367,66,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,11.0,no run,27,0,27/5,"Bhari to Gore, no run",,,5
-368,67,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,11.1,run,28,1,28/5,"Lamichhane to Holland, 1 run",,,5
-369,68,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,11.2,no run,28,0,28/5,"Lamichhane to Gore, no run",,,5
-370,69,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, 2 runs ",2nd innings,11.3,run,30,2,30/5,"Lamichhane to Gore, 2 runs",,,5
-371,70,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,11.4,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
-372,71,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,11.5,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
-373,72,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,12.0,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
-374,73,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,12.1,no run,30,0,30/5,"Bhari to Holland, no run",,,5
-375,74,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,12.2,no run,30,0,30/5,"Bhari to Holland, no run",,,5
-376,75,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,12.3,no run,30,0,30/5,"Bhari to Holland, no run",,,5
-377,76,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,12.4,no run,30,0,30/5,"Bhari to Holland, no run",,,5
-378,77,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,12.5,no run,30,0,30/5,"Bhari to Holland, no run",,,5
-379,77,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 5 wides ",2nd innings,12.5,wide,35,5,35/5,"Bhari to Holland, 5 wides",,,5
-380,78,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 3 runs ",2nd innings,13.0,run,38,3,38/5,"Bhari to Holland, 3 runs",,,5
-381,79,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,13.1,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-382,80,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,13.2,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-383,81,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,13.3,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-384,82,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,13.4,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-385,83,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,13.5,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-386,84,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,14.0,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
-387,85,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,14.1,run,40,2,40/5,"Bhari to Gore, 2 runs",,,5
-388,86,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 1 run ",2nd innings,14.2,run,41,1,41/5,"Bhari to Gore, 1 run",,,5
-389,87,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 2 runs ",2nd innings,14.3,run,43,2,43/5,"Bhari to Holland, 2 runs",,,5
-390,88,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,14.4,run,44,1,44/5,"Bhari to Holland, 1 run",,,5
-391,89,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,14.5,run,46,2,46/5,"Bhari to Gore, 2 runs",,,5
-392,90,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,15.0,no run,46,0,46/5,"Bhari to Gore, no run",,,5
-393,91,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,15.1,no run,46,0,46/5,"Kushal Malla to Holland, no run",,,5
-394,92,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,15.2,run,47,1,47/5,"Kushal Malla to Holland, 1 run",,,5
-395,93,Karima Gore,1139028,Kushal Malla,1141934,"Kushal Malla to Gore, no run ",2nd innings,15.3,no run,47,0,47/5,"Kushal Malla to Gore, no run",,,5
-396,94,Karima Gore,1139028,Kushal Malla,1141934,"Kushal Malla to Gore, 1 run ",2nd innings,15.4,run,48,1,48/5,"Kushal Malla to Gore, 1 run",,,5
-397,95,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,15.5,no run,48,0,48/5,"Kushal Malla to Holland, no run",,,5
-398,96,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,16.0,no run,48,0,48/5,"Kushal Malla to Holland, no run",,,5
-399,97,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,16.1,no run,48,0,48/5,"Bhari to Gore, no run",,,5
-400,98,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,16.2,run,50,2,50/5,"Bhari to Gore, 2 runs",,,5
-401,99,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,16.3,no run,50,0,50/5,"Bhari to Gore, no run",,,5
-402,100,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, OUT ",2nd innings,16.4,out,50,0,50/6,"Bhari to Gore, OUT",,,6
-403,101,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,16.5,no run,50,0,50/6,"Bhari to Hutchinson, no run",,,6
-404,102,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 2 leg byes ",2nd innings,17.0,leg bye,52,2,52/6,"Bhari to Hutchinson, 2 leg byes",,,6
-405,103,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,17.1,no run,52,0,52/6,"Kushal Malla to Holland, no run",,,6
-406,104,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,17.2,run,53,1,53/6,"Kushal Malla to Holland, 1 run",,,6
-407,105,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,17.3,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
-408,106,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,17.4,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
-409,107,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,17.5,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
-410,108,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,18.0,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
-411,109,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,18.1,run,54,1,54/6,"Bhari to Holland, 1 run",,,6
-412,110,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,18.2,no run,54,0,54/6,"Bhari to Hutchinson, no run",,,6
-413,111,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 1 run ",2nd innings,18.3,run,55,1,55/6,"Bhari to Hutchinson, 1 run",,,6
-414,112,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,18.4,no run,55,0,55/6,"Bhari to Holland, no run",,,6
-415,113,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,18.5,run,56,1,56/6,"Bhari to Holland, 1 run",,,6
-416,114,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,19.0,no run,56,0,56/6,"Bhari to Hutchinson, no run",,,6
-417,115,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,19.1,no run,56,0,56/6,"Kushal Malla to Holland, no run",,,6
-418,116,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,19.2,no run,56,0,56/6,"Kushal Malla to Holland, no run",,,6
-419,117,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,19.3,run,57,1,57/6,"Kushal Malla to Holland, 1 run",,,6
-420,118,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, 1 run ",2nd innings,19.4,run,58,1,58/6,"Kushal Malla to Hutchinson, 1 run",,,6
-421,119,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,19.5,no run,58,0,58/6,"Kushal Malla to Holland, no run",,,6
-422,120,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,20.0,run,59,1,59/6,"Kushal Malla to Holland, 1 run",,,6
-423,121,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,20.1,run,60,1,60/6,"Bhari to Holland, 1 run",,,6
-424,122,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 1 run ",2nd innings,20.2,run,61,1,61/6,"Bhari to Hutchinson, 1 run",,,6
-425,123,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,20.3,no run,61,0,61/6,"Bhari to Holland, no run",,,6
-426,124,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, FOUR runs ",2nd innings,20.4,four,65,4,65/6,"Bhari to Holland, FOUR runs",,,6
-427,125,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,20.5,no run,65,0,65/6,"Bhari to Holland, no run",,,6
-428,126,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,21.0,no run,65,0,65/6,"Bhari to Holland, no run",,,6
-429,127,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, OUT ",2nd innings,21.1,out,65,0,65/7,"Kushal Malla to Hutchinson, OUT",,,7
-430,128,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,21.2,no run,65,0,65/7,"Kushal Malla to Stevenson, no run",,,7
-431,129,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,21.3,no run,65,0,65/7,"Kushal Malla to Stevenson, no run",,,7
-432,130,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, 1 run ",2nd innings,21.4,run,66,1,66/7,"Kushal Malla to Stevenson, 1 run",,,7
-433,131,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,21.5,no run,66,0,66/7,"Kushal Malla to Holland, no run",,,7
-434,132,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,22.0,run,67,1,67/7,"Kushal Malla to Holland, 1 run",,,7
-435,133,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,22.1,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
-436,134,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,22.2,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
-437,135,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,22.3,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
-438,136,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 2 runs ",2nd innings,22.4,run,69,2,69/7,"Lamichhane to Holland, 2 runs",,,7
-439,137,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,22.5,no run,69,0,69/7,"Lamichhane to Holland, no run",,,7
-440,138,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,23.0,no run,69,0,69/7,"Lamichhane to Holland, no run",,,7
-441,139,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,23.1,no run,69,0,69/7,"Kushal Malla to Stevenson, no run",,,7
-442,140,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, 1 run ",2nd innings,23.2,run,70,1,70/7,"Kushal Malla to Stevenson, 1 run",,,7
-443,141,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,23.3,no run,70,0,70/7,"Kushal Malla to Holland, no run",,,7
-444,142,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,23.4,no run,70,0,70/7,"Kushal Malla to Holland, no run",,,7
-445,143,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,23.5,run,71,1,71/7,"Kushal Malla to Holland, 1 run",,,7
-446,144,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,24.0,no run,71,0,71/7,"Kushal Malla to Stevenson, no run",,,7
-447,145,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 3 runs ",2nd innings,24.1,run,74,3,74/7,"Bhari to Holland, 3 runs",,,7
-448,146,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,24.2,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
-449,147,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,24.3,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
-450,148,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,24.4,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
-451,149,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,24.5,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
-452,150,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,25.0,run,75,1,75/7,"Bhari to Stevenson, 1 run",,,7
-453,151,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,25.1,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-454,152,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,25.2,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-455,153,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,25.3,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-456,154,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,25.4,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-457,155,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,25.5,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-458,156,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,26.0,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
-459,157,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 1 run ",2nd innings,26.1,run,76,1,76/7,"Bohara to Holland, 1 run",,,7
-460,158,Cameron Stevenson,953793,Abinash Bohara,1058508,"Bohara to Stevenson, 1 run ",2nd innings,26.2,run,77,1,77/7,"Bohara to Stevenson, 1 run",,,7
-461,159,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,26.3,no run,77,0,77/7,"Bohara to Holland, no run",,,7
-462,160,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,26.4,no run,77,0,77/7,"Bohara to Holland, no run",,,7
-463,161,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,26.5,no run,77,0,77/7,"Bohara to Holland, no run",,,7
-464,162,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 1 run ",2nd innings,27.0,run,78,1,78/7,"Bohara to Holland, 1 run",,,7
-465,163,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,27.1,no run,78,0,78/7,"Kushal Malla to Holland, no run",,,7
-466,164,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,27.2,no run,78,0,78/7,"Kushal Malla to Holland, no run",,,7
-467,165,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, FOUR runs ",2nd innings,27.3,four,82,4,82/7,"Kushal Malla to Holland, FOUR runs",,,7
-468,166,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,27.4,run,83,1,83/7,"Kushal Malla to Holland, 1 run",,,7
-469,167,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, FOUR runs ",2nd innings,27.5,four,87,4,87/7,"Kushal Malla to Stevenson, FOUR runs",,,7
-470,168,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,28.0,no run,87,0,87/7,"Kushal Malla to Stevenson, no run",,,7
-471,169,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,28.1,no run,87,0,87/7,"Bohara to Holland, no run",,,7
-472,170,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 2 runs ",2nd innings,28.2,run,89,2,89/7,"Bohara to Holland, 2 runs",,,7
-473,171,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,28.3,no run,89,0,89/7,"Bohara to Holland, no run",,,7
-474,172,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, FOUR runs ",2nd innings,28.4,four,93,4,93/7,"Bohara to Holland, FOUR runs",,,7
-475,173,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, FOUR runs ",2nd innings,28.5,four,97,4,97/7,"Bohara to Holland, FOUR runs",,,7
-476,174,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,29.0,no run,97,0,97/7,"Bohara to Holland, no run",,,7
-477,175,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,29.1,no run,97,0,97/7,"Khadka to Stevenson, no run",,,7
-478,176,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,29.2,no run,97,0,97/7,"Khadka to Stevenson, no run",,,7
-479,177,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, FOUR runs ",2nd innings,29.3,four,101,4,101/7,"Khadka to Stevenson, FOUR runs",,,7
-480,178,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,29.4,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
-481,179,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,29.5,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
-482,180,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,30.0,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
-483,181,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,30.1,run,102,1,102/7,"Bhari to Holland, 1 run",,,7
-484,182,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,30.2,no run,102,0,102/7,"Bhari to Stevenson, no run",,,7
-485,183,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,30.3,no run,102,0,102/7,"Bhari to Stevenson, no run",,,7
-486,184,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,30.4,run,103,1,103/7,"Bhari to Stevenson, 1 run",,,7
-487,185,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 2 runs ",2nd innings,30.5,run,105,2,105/7,"Bhari to Holland, 2 runs",,,7
-488,186,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,31.0,no run,105,0,105/7,"Bhari to Holland, no run",,,7
-489,187,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,31.1,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
-490,188,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,31.2,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
-491,189,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,31.3,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
-492,190,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, 1 run ",2nd innings,31.4,run,106,1,106/7,"Khadka to Stevenson, 1 run",,,7
-493,191,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,31.5,run,107,1,107/7,"Khadka to Holland, 1 run",,,7
-494,192,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,32.0,no run,107,0,107/7,"Khadka to Stevenson, no run",,,7
-495,193,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,32.1,run,108,1,108/7,"Bhari to Holland, 1 run",,,7
-496,194,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, FOUR runs ",2nd innings,32.2,four,112,4,112/7,"Bhari to Stevenson, FOUR runs",,,7
-497,195,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,32.3,run,113,1,113/7,"Bhari to Stevenson, 1 run",,,7
-498,196,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,32.4,run,114,1,114/7,"Bhari to Holland, 1 run",,,7
-499,197,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, OUT ",2nd innings,32.5,out,114,0,114/8,"Bhari to Stevenson, OUT",,,8
-500,198,Rusty Theron,223642,Sushan Bhari,633525,"Bhari to Theron, no run ",2nd innings,33.0,no run,114,0,114/8,"Bhari to Theron, no run",,,8
-501,199,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,33.1,no run,114,0,114/8,"Khadka to Holland, no run",,,8
-502,200,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, FOUR runs ",2nd innings,33.2,four,118,4,118/8,"Khadka to Holland, FOUR runs",,,8
-503,201,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,33.3,run,119,1,119/8,"Khadka to Holland, 1 run",,,8
-504,202,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,33.4,no run,119,0,119/8,"Khadka to Theron, no run",,,8
-505,203,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, 1 run ",2nd innings,33.5,run,120,1,120/8,"Khadka to Theron, 1 run",,,8
-506,204,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,34.0,run,121,1,121/8,"Khadka to Holland, 1 run",,,8
-507,205,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,34.1,no run,121,0,121/8,"Bhari to Holland, no run",,,8
-508,206,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,34.2,no run,121,0,121/8,"Bhari to Holland, no run",,,8
-509,207,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,34.3,no run,121,0,121/8,"Bhari to Holland, no run",,,8
-510,208,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,34.4,no run,121,0,121/8,"Bhari to Holland, no run",,,8
-511,209,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,34.5,no run,121,0,121/8,"Bhari to Holland, no run",,,8
-512,210,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,35.0,run,122,1,122/8,"Bhari to Holland, 1 run",,,8
-513,211,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,35.1,no run,122,0,122/8,"Khadka to Holland, no run",,,8
-514,212,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,35.2,run,123,1,123/8,"Khadka to Holland, 1 run",,,8
-515,213,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,35.3,no run,123,0,123/8,"Khadka to Theron, no run",,,8
-516,214,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,35.4,no run,123,0,123/8,"Khadka to Theron, no run",,,8
-517,215,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, 1 run ",2nd innings,35.5,run,124,1,124/8,"Khadka to Theron, 1 run",,,8
-518,216,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,36.0,no run,124,0,124/8,"Khadka to Holland, no run",,,8
-519,217,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,36.1,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-520,218,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,36.2,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-521,219,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,36.3,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-522,220,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,36.4,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-523,221,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,36.5,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-524,222,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,37.0,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
-525,223,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,37.1,no run,124,0,124/8,"Khadka to Holland, no run",,,8
-526,224,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,37.2,run,125,1,125/8,"Khadka to Holland, 1 run",,,8
-527,225,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, FOUR runs ",2nd innings,37.3,four,129,4,129/8,"Khadka to Theron, FOUR runs",,,8
-528,226,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,37.4,no run,129,0,129/8,"Khadka to Theron, no run",,,8
-529,227,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,37.5,no run,129,0,129/8,"Khadka to Theron, no run",,,8
-530,228,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,38.0,no run,129,0,129/8,"Khadka to Theron, no run",,,8
-531,229,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,38.1,no run,129,0,129/8,"Lamichhane to Holland, no run",,,8
-532,230,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,38.2,run,130,1,130/8,"Lamichhane to Holland, 1 run",,,8
-533,231,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,38.3,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
-534,232,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,38.4,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
-535,233,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,38.5,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
-536,233,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, 5 wides ",2nd innings,38.5,wide,135,5,135/8,"Lamichhane to Theron, 5 wides",,,8
-537,234,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,39.0,no run,135,0,135/8,"Lamichhane to Theron, no run",,,8
-538,235,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,39.1,no run,135,0,135/8,"Kushal Malla to Holland, no run",,,8
-539,236,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 2 runs ",2nd innings,39.2,run,137,2,137/8,"Kushal Malla to Holland, 2 runs",,,8
-540,237,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 3 runs ",2nd innings,39.3,run,140,3,140/8,"Kushal Malla to Holland, 3 runs",,,8
-541,238,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,39.4,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
-542,239,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,39.5,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
-543,240,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,40.0,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
-544,241,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, FOUR runs ",2nd innings,40.1,four,144,4,144/8,"Karan KC to Holland, FOUR runs",,,8
-545,242,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,40.2,no run,144,0,144/8,"Karan KC to Holland, no run",,,8
-546,243,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,40.3,no run,144,0,144/8,"Karan KC to Holland, no run",,,8
-547,244,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, OUT ",2nd innings,40.4,out,144,0,144/9,"Karan KC to Holland, OUT",,,9
-548,245,Saurabh Netravalkar,398513,Karan KC,800675,"Karan KC to Netravalkar, no run ",2nd innings,40.5,no run,144,0,144/9,"Karan KC to Netravalkar, no run",,,9
-549,246,Saurabh Netravalkar,398513,Karan KC,800675,"Karan KC to Netravalkar, no run ",2nd innings,41.0,no run,144,0,144/9,"Karan KC to Netravalkar, no run",,,9
-550,247,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,41.1,run,145,1,145/9,"Kushal Malla to Theron, 1 run",,,9
-551,248,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,41.2,run,146,1,146/9,"Kushal Malla to Netravalkar, 1 run",,,9
-552,249,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 leg bye ",2nd innings,41.3,leg bye,147,1,147/9,"Kushal Malla to Theron, 1 leg bye",,,9
-553,250,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 4 leg byes ",2nd innings,41.4,leg bye,151,4,151/9,"Kushal Malla to Netravalkar, 4 leg byes",,,9
-554,251,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, no run ",2nd innings,41.5,no run,151,0,151/9,"Kushal Malla to Netravalkar, no run",,,9
-555,252,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, no run ",2nd innings,42.0,no run,151,0,151/9,"Kushal Malla to Netravalkar, no run",,,9
-556,253,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,42.1,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-557,254,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,42.2,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-558,255,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,42.3,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-559,256,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,42.4,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-560,257,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,42.5,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-561,258,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,43.0,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
-562,259,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,43.1,run,152,1,152/9,"Kushal Malla to Netravalkar, 1 run",,,9
-563,260,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,43.2,no run,152,0,152/9,"Kushal Malla to Theron, no run",,,9
-564,261,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,43.3,run,153,1,153/9,"Kushal Malla to Theron, 1 run",,,9
-565,262,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,43.4,run,154,1,154/9,"Kushal Malla to Netravalkar, 1 run",,,9
-566,263,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,43.5,no run,154,0,154/9,"Kushal Malla to Theron, no run",,,9
-567,264,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,44.0,run,155,1,155/9,"Kushal Malla to Theron, 1 run",,,9
-568,265,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, OUT ",2nd innings,44.1,out,155,0,155/10,"Karan KC to Theron, OUT",,,10
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,,,,,0.1,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
+1,2,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,,,,,0.2,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
+2,3,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,,,,,0.3,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
+3,4,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,,,,,0.4,no run,0,0,0/0,"Hutchinson to Khakurel, no run",,,0
+4,4,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 wide ",1st innings,,,,,0.4,wide,1,1,1/0,"Hutchinson to Khakurel, 1 wide",,,0
+5,5,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 run ",1st innings,,,,,0.5,run,2,1,2/0,"Hutchinson to Khakurel, 1 run",,,0
+6,6,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Subash Khakurel,446807,,,1.0,no run,2,0,2/0,"Hutchinson to Malla, no run",,,0
+7,7,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, 1 run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,1.1,run,3,1,3/0,"Theron to Khakurel, 1 run",,,0
+8,8,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Subash Khakurel,446807,Elmore Hutchinson,552881,1.2,no run,3,0,3/0,"Theron to Malla, no run",,,0
+9,9,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Subash Khakurel,446807,Elmore Hutchinson,552881,1.3,no run,3,0,3/0,"Theron to Malla, no run",,,0
+10,10,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Subash Khakurel,446807,Elmore Hutchinson,552881,1.4,no run,3,0,3/0,"Theron to Malla, no run",,,0
+11,11,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 run ",1st innings,Subash Khakurel,446807,Elmore Hutchinson,552881,1.5,run,4,1,4/0,"Theron to Malla, 1 run",,,0
+12,12,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, 1 run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,2.0,run,5,1,5/0,"Theron to Khakurel, 1 run",,,0
+13,13,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,2.1,no run,5,0,5/0,"Hutchinson to Khakurel, no run",,,0
+14,14,Subash Khakurel,446807,Elmore Hutchinson,552881,"Hutchinson to Khakurel, 1 leg bye ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,2.2,leg bye,6,1,6/0,"Hutchinson to Khakurel, 1 leg bye",,,0
+15,15,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Subash Khakurel,446807,Rusty Theron,223642,2.3,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
+16,16,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Subash Khakurel,446807,Rusty Theron,223642,2.4,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
+17,17,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Subash Khakurel,446807,Rusty Theron,223642,2.5,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
+18,18,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Subash Khakurel,446807,Rusty Theron,223642,3.0,no run,6,0,6/0,"Hutchinson to Malla, no run",,,0
+19,19,Subash Khakurel,446807,Rusty Theron,223642,"Theron to Khakurel, OUT ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,3.1,out,6,0,6/1,"Theron to Khakurel, OUT",,,1
+20,20,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 1 run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,3.2,run,7,1,7/1,"Theron to Khadka, 1 run",,,1
+21,21,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,3.3,no run,7,0,7/1,"Theron to Malla, no run",,,1
+22,22,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 2 runs ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,3.4,run,9,2,9/1,"Theron to Malla, 2 runs",,,1
+23,23,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,3.5,run,10,1,10/1,"Theron to Malla, 1 run",,,1
+24,24,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,4.0,no run,10,0,10/1,"Theron to Khadka, no run",,,1
+25,25,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,4.1,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
+26,26,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,4.2,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
+27,27,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,4.3,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
+28,28,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,4.4,no run,10,0,10/1,"Hutchinson to Malla, no run",,,1
+29,29,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, FOUR runs ",1st innings,Paras Khadka,25967,Rusty Theron,223642,4.5,four,14,4,14/1,"Hutchinson to Malla, FOUR runs",,,1
+30,30,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,5.0,no run,14,0,14/1,"Hutchinson to Malla, no run",,,1
+31,31,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 2 runs ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,5.1,run,16,2,16/1,"Theron to Khadka, 2 runs",,,1
+32,32,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,5.2,no run,16,0,16/1,"Theron to Khadka, no run",,,1
+33,33,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,5.3,no run,16,0,16/1,"Theron to Khadka, no run",,,1
+34,34,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,5.4,no run,16,0,16/1,"Theron to Khadka, no run",,,1
+35,35,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,5.5,no run,16,0,16/1,"Theron to Khadka, no run",,,1
+36,36,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, 3 runs ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,6.0,run,19,3,19/1,"Theron to Khadka, 3 runs",,,1
+37,37,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,6.1,no run,19,0,19/1,"Hutchinson to Khadka, no run",,,1
+38,38,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,6.2,no run,19,0,19/1,"Hutchinson to Khadka, no run",,,1
+39,39,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, 1 run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,6.3,run,20,1,20/1,"Hutchinson to Khadka, 1 run",,,1
+40,40,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,6.4,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
+41,41,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,6.5,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
+42,42,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,7.0,no run,20,0,20/1,"Hutchinson to Malla, no run",,,1
+43,43,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,7.1,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+44,44,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,7.2,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+45,45,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,7.3,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+46,46,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,7.4,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+47,47,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,7.5,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+48,48,Paras Khadka,25967,Rusty Theron,223642,"Theron to Khadka, no run ",1st innings,Gyanendra Malla,233400,Elmore Hutchinson,552881,8.0,no run,20,0,20/1,"Theron to Khadka, no run",,,1
+49,49,Gyanendra Malla,233400,Elmore Hutchinson,552881,"Hutchinson to Malla, 1 bye ",1st innings,Paras Khadka,25967,Rusty Theron,223642,8.1,bye,21,1,21/1,"Hutchinson to Malla, 1 bye",,,1
+50,50,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,8.2,no run,21,0,21/1,"Hutchinson to Khadka, no run",,,1
+51,51,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,8.3,no run,21,0,21/1,"Hutchinson to Khadka, no run",,,1
+52,52,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, FOUR runs ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,8.4,four,25,4,25/1,"Hutchinson to Khadka, FOUR runs",,,1
+53,53,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,8.5,no run,25,0,25/1,"Hutchinson to Khadka, no run",,,1
+54,54,Paras Khadka,25967,Elmore Hutchinson,552881,"Hutchinson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,9.0,no run,25,0,25/1,"Hutchinson to Khadka, no run",,,1
+55,55,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.1,no run,25,0,25/1,"Theron to Malla, no run",,,1
+56,56,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.2,no run,25,0,25/1,"Theron to Malla, no run",,,1
+57,57,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, FOUR runs ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.3,four,29,4,29/1,"Theron to Malla, FOUR runs",,,1
+58,58,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.4,no run,29,0,29/1,"Theron to Malla, no run",,,1
+59,59,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, FOUR runs ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.5,four,33,4,33/1,"Theron to Malla, FOUR runs",,,1
+60,59,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, 1 wide ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,9.5,wide,34,1,34/1,"Theron to Malla, 1 wide",,,1
+61,60,Gyanendra Malla,233400,Rusty Theron,223642,"Theron to Malla, no run ",1st innings,Paras Khadka,25967,Elmore Hutchinson,552881,10.0,no run,34,0,34/1,"Theron to Malla, no run",,,1
+62,61,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,10.1,no run,34,0,34/1,"Netravalkar to Khadka, no run",,,1
+63,62,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,10.2,no run,34,0,34/1,"Netravalkar to Khadka, no run",,,1
+64,63,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, 1 run ",1st innings,Gyanendra Malla,233400,Rusty Theron,223642,10.3,run,35,1,35/1,"Netravalkar to Khadka, 1 run",,,1
+65,64,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,10.4,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
+66,65,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,10.5,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
+67,66,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Rusty Theron,223642,11.0,no run,35,0,35/1,"Netravalkar to Malla, no run",,,1
+68,67,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,11.1,no run,35,0,35/1,"Stevenson to Khadka, no run",,,1
+69,68,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,11.2,no run,35,0,35/1,"Stevenson to Khadka, no run",,,1
+70,69,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, FOUR runs ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,11.3,four,39,4,39/1,"Stevenson to Khadka, FOUR runs",,,1
+71,70,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,11.4,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
+72,71,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,11.5,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
+73,72,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,12.0,no run,39,0,39/1,"Stevenson to Khadka, no run",,,1
+74,73,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,12.1,no run,39,0,39/1,"Netravalkar to Malla, no run",,,1
+75,74,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, FOUR runs ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,12.2,four,43,4,43/1,"Netravalkar to Malla, FOUR runs",,,1
+76,75,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,12.3,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
+77,76,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,12.4,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
+78,77,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,12.5,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
+79,78,Gyanendra Malla,233400,Saurabh Netravalkar,398513,"Netravalkar to Malla, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,13.0,no run,43,0,43/1,"Netravalkar to Malla, no run",,,1
+80,79,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, 1 run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,13.1,run,44,1,44/1,"Stevenson to Khadka, 1 run",,,1
+81,80,Gyanendra Malla,233400,Cameron Stevenson,953793,"Stevenson to Malla, 1 run ",1st innings,Paras Khadka,25967,Saurabh Netravalkar,398513,13.2,run,45,1,45/1,"Stevenson to Malla, 1 run",,,1
+82,81,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,13.3,no run,45,0,45/1,"Stevenson to Khadka, no run",,,1
+83,82,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, 1 run ",1st innings,Gyanendra Malla,233400,Saurabh Netravalkar,398513,13.4,run,46,1,46/1,"Stevenson to Khadka, 1 run",,,1
+84,83,Gyanendra Malla,233400,Cameron Stevenson,953793,"Stevenson to Malla, OUT ",1st innings,Paras Khadka,25967,Saurabh Netravalkar,398513,13.5,out,46,0,46/2,"Stevenson to Malla, OUT",,,2
+85,84,Dipendra Singh Airee,794707,Cameron Stevenson,953793,"Stevenson to DS Airee, no run ",1st innings,Paras Khadka,25967,Saurabh Netravalkar,398513,14.0,no run,46,0,46/2,"Stevenson to DS Airee, no run",,,2
+86,85,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,14.1,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
+87,86,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,14.2,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
+88,87,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,14.3,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
+89,88,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,14.4,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
+90,89,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,14.5,no run,46,0,46/2,"Netravalkar to Khadka, no run",,,2
+91,90,Paras Khadka,25967,Saurabh Netravalkar,398513,"Netravalkar to Khadka, 1 run ",1st innings,Dipendra Singh Airee,794707,Cameron Stevenson,953793,15.0,run,47,1,47/2,"Netravalkar to Khadka, 1 run",,,2
+92,91,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,15.1,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+93,92,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,15.2,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+94,93,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,15.3,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+95,94,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,15.4,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+96,95,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,15.5,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+97,96,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,16.0,no run,47,0,47/2,"Stevenson to Khadka, no run",,,2
+98,97,Dipendra Singh Airee,794707,Saurabh Netravalkar,398513,"Netravalkar to DS Airee, OUT ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,16.1,out,47,0,47/3,"Netravalkar to DS Airee, OUT",,,3
+99,98,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,16.2,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
+100,99,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,16.3,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
+101,100,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,16.4,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
+102,101,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,16.5,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
+103,102,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Paras Khadka,25967,Cameron Stevenson,953793,17.0,no run,47,0,47/3,"Netravalkar to Aarif Sheikh, no run",,,3
+104,103,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,17.1,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
+105,104,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,17.2,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
+106,105,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,17.3,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
+107,106,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,17.4,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
+108,107,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,17.5,no run,47,0,47/3,"Stevenson to Khadka, no run",,,3
+109,108,Paras Khadka,25967,Cameron Stevenson,953793,"Stevenson to Khadka, OUT ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,18.0,out,47,0,47/4,"Stevenson to Khadka, OUT",,,4
+110,109,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,,,Cameron Stevenson,953793,18.1,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
+111,110,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,,,Cameron Stevenson,953793,18.2,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
+112,111,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,,,Cameron Stevenson,953793,18.3,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
+113,112,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,,,Cameron Stevenson,953793,18.4,no run,47,0,47/4,"Netravalkar to Aarif Sheikh, no run",,,4
+114,113,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, 1 run ",1st innings,,,Cameron Stevenson,953793,18.5,run,48,1,48/4,"Netravalkar to Aarif Sheikh, 1 run",,,4
+115,114,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Cameron Stevenson,953793,19.0,no run,48,0,48/4,"Netravalkar to Kushal Malla, no run",,,4
+116,115,Aarif Sheikh,701217,Cameron Stevenson,953793,"Stevenson to Aarif Sheikh, 1 run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,19.1,run,49,1,49/4,"Stevenson to Aarif Sheikh, 1 run",,,4
+117,116,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,19.2,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
+118,117,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,19.3,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
+119,118,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,19.4,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
+120,119,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,19.5,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
+121,120,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Aarif Sheikh,701217,Saurabh Netravalkar,398513,20.0,no run,49,0,49/4,"Stevenson to Kushal Malla, no run",,,4
+122,121,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,20.1,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
+123,122,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,20.2,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
+124,123,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,20.3,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
+125,124,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,20.4,no run,49,0,49/4,"Netravalkar to Aarif Sheikh, no run",,,4
+126,125,Aarif Sheikh,701217,Saurabh Netravalkar,398513,"Netravalkar to Aarif Sheikh, OUT ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,20.5,out,49,0,49/5,"Netravalkar to Aarif Sheikh, OUT",,,5
+127,126,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,21.0,no run,49,0,49/5,"Netravalkar to B Bhandari, no run",,,5
+128,127,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,21.1,run,50,1,50/5,"Stevenson to Kushal Malla, 1 run",,,5
+129,128,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,21.2,no run,50,0,50/5,"Stevenson to B Bhandari, no run",,,5
+130,129,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,21.3,run,51,1,51/5,"Stevenson to B Bhandari, 1 run",,,5
+131,130,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, FOUR runs ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,21.4,four,55,4,55/5,"Stevenson to Kushal Malla, FOUR runs",,,5
+132,131,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, SIX runs ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,21.5,six,61,6,61/5,"Stevenson to Kushal Malla, SIX runs",,,5
+133,132,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,22.0,no run,61,0,61/5,"Stevenson to Kushal Malla, no run",,,5
+134,133,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,22.1,run,62,1,62/5,"Netravalkar to B Bhandari, 1 run",,,5
+135,134,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,22.2,run,63,1,63/5,"Netravalkar to Kushal Malla, 1 run",,,5
+136,135,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,22.3,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
+137,136,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,22.4,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
+138,137,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,22.5,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
+139,138,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Cameron Stevenson,953793,23.0,no run,63,0,63/5,"Netravalkar to B Bhandari, no run",,,5
+140,139,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,23.1,no run,63,0,63/5,"Stevenson to Kushal Malla, no run",,,5
+141,140,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,23.2,no run,63,0,63/5,"Stevenson to Kushal Malla, no run",,,5
+142,141,Kushal Malla,1141934,Cameron Stevenson,953793,"Stevenson to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,23.3,run,64,1,64/5,"Stevenson to Kushal Malla, 1 run",,,5
+143,142,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,23.4,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
+144,143,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,23.5,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
+145,144,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,24.0,no run,64,0,64/5,"Stevenson to B Bhandari, no run",,,5
+146,145,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,24.1,no run,64,0,64/5,"Netravalkar to Kushal Malla, no run",,,5
+147,146,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,24.2,no run,64,0,64/5,"Netravalkar to Kushal Malla, no run",,,5
+148,147,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, SIX runs ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,24.3,six,70,6,70/5,"Netravalkar to Kushal Malla, SIX runs",,,5
+149,148,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,24.4,no run,70,0,70/5,"Netravalkar to Kushal Malla, no run",,,5
+150,149,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, 2 runs ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,24.5,run,72,2,72/5,"Netravalkar to Kushal Malla, 2 runs",,,5
+151,150,Kushal Malla,1141934,Saurabh Netravalkar,398513,"Netravalkar to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,25.0,no run,72,0,72/5,"Netravalkar to Kushal Malla, no run",,,5
+152,151,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,25.1,no run,72,0,72/5,"Taylor to B Bhandari, no run",,,5
+153,152,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, FOUR runs ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,25.2,four,76,4,76/5,"Taylor to B Bhandari, FOUR runs",,,5
+154,153,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Saurabh Netravalkar,398513,25.3,run,77,1,77/5,"Taylor to B Bhandari, 1 run",,,5
+155,154,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, FOUR runs ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,25.4,four,81,4,81/5,"Taylor to Kushal Malla, FOUR runs",,,5
+156,155,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,25.5,no run,81,0,81/5,"Taylor to Kushal Malla, no run",,,5
+157,156,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Saurabh Netravalkar,398513,26.0,no run,81,0,81/5,"Taylor to Kushal Malla, no run",,,5
+158,157,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,26.1,no run,81,0,81/5,"Holland to B Bhandari, no run",,,5
+159,158,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,26.2,run,82,1,82/5,"Holland to B Bhandari, 1 run",,,5
+160,159,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Steven Taylor,348133,26.3,no run,82,0,82/5,"Holland to Kushal Malla, no run",,,5
+161,160,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Steven Taylor,348133,26.4,run,83,1,83/5,"Holland to Kushal Malla, 1 run",,,5
+162,161,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,26.5,run,84,1,84/5,"Holland to B Bhandari, 1 run",,,5
+163,162,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Steven Taylor,348133,27.0,no run,84,0,84/5,"Holland to Kushal Malla, no run",,,5
+164,163,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, SIX runs ",1st innings,Kushal Malla,1141934,Ian Holland,334340,27.1,six,90,6,90/5,"Taylor to B Bhandari, SIX runs",,,5
+165,164,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,27.2,no run,90,0,90/5,"Taylor to B Bhandari, no run",,,5
+166,165,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,27.3,no run,90,0,90/5,"Taylor to B Bhandari, no run",,,5
+167,166,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,27.4,run,91,1,91/5,"Taylor to B Bhandari, 1 run",,,5
+168,167,Kushal Malla,1141934,Steven Taylor,348133,"Taylor to Kushal Malla, 1 leg bye ",1st innings,Binod Bhandari,437005,Ian Holland,334340,27.5,leg bye,92,1,92/5,"Taylor to Kushal Malla, 1 leg bye",,,5
+169,168,Binod Bhandari,437005,Steven Taylor,348133,"Taylor to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,28.0,run,93,1,93/5,"Taylor to B Bhandari, 1 run",,,5
+170,169,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,28.1,no run,93,0,93/5,"Holland to B Bhandari, no run",,,5
+171,170,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,28.2,run,94,1,94/5,"Holland to B Bhandari, 1 run",,,5
+172,171,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Steven Taylor,348133,28.3,run,95,1,95/5,"Holland to Kushal Malla, 1 run",,,5
+173,172,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,28.4,no run,95,0,95/5,"Holland to B Bhandari, no run",,,5
+174,173,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Steven Taylor,348133,28.5,run,96,1,96/5,"Holland to B Bhandari, 1 run",,,5
+175,174,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Steven Taylor,348133,29.0,no run,96,0,96/5,"Holland to Kushal Malla, no run",,,5
+176,175,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,29.1,no run,96,0,96/5,"Theron to B Bhandari, no run",,,5
+177,176,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 2 runs ",1st innings,Kushal Malla,1141934,Ian Holland,334340,29.2,run,98,2,98/5,"Theron to B Bhandari, 2 runs",,,5
+178,177,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,29.3,no run,98,0,98/5,"Theron to B Bhandari, no run",,,5
+179,178,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,29.4,no run,98,0,98/5,"Theron to B Bhandari, no run",,,5
+180,179,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, FOUR runs ",1st innings,Kushal Malla,1141934,Ian Holland,334340,29.5,four,102,4,102/5,"Theron to B Bhandari, FOUR runs",,,5
+181,180,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,30.0,no run,102,0,102/5,"Theron to B Bhandari, no run",,,5
+182,181,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,30.1,no run,102,0,102/5,"Holland to Kushal Malla, no run",,,5
+183,182,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,30.2,no run,102,0,102/5,"Holland to Kushal Malla, no run",,,5
+184,183,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,30.3,run,103,1,103/5,"Holland to Kushal Malla, 1 run",,,5
+185,184,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Rusty Theron,223642,30.4,run,104,1,104/5,"Holland to B Bhandari, 1 run",,,5
+186,185,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, FOUR runs ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,30.5,four,108,4,108/5,"Holland to Kushal Malla, FOUR runs",,,5
+187,186,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,31.0,run,109,1,109/5,"Holland to Kushal Malla, 1 run",,,5
+188,187,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,31.1,run,110,1,110/5,"Theron to Kushal Malla, 1 run",,,5
+189,188,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,31.2,run,111,1,111/5,"Theron to B Bhandari, 1 run",,,5
+190,189,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, FOUR runs ",1st innings,Binod Bhandari,437005,Ian Holland,334340,31.3,four,115,4,115/5,"Theron to Kushal Malla, FOUR runs",,,5
+191,190,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,31.4,no run,115,0,115/5,"Theron to Kushal Malla, no run",,,5
+192,191,Kushal Malla,1141934,Rusty Theron,223642,"Theron to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,31.5,run,116,1,116/5,"Theron to Kushal Malla, 1 run",,,5
+193,192,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,32.0,no run,116,0,116/5,"Theron to B Bhandari, no run",,,5
+194,193,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,32.1,run,117,1,117/5,"Holland to Kushal Malla, 1 run",,,5
+195,194,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Rusty Theron,223642,32.2,run,118,1,118/5,"Holland to B Bhandari, 1 run",,,5
+196,195,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, SIX runs ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,32.3,six,124,6,124/5,"Holland to Kushal Malla, SIX runs",,,5
+197,196,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,32.4,no run,124,0,124/5,"Holland to Kushal Malla, no run",,,5
+198,197,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,32.5,run,125,1,125/5,"Holland to Kushal Malla, 1 run",,,5
+199,198,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Rusty Theron,223642,33.0,no run,125,0,125/5,"Holland to B Bhandari, no run",,,5
+200,199,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,33.1,no run,125,0,125/5,"Gore to Kushal Malla, no run",,,5
+201,200,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,33.2,run,126,1,126/5,"Gore to Kushal Malla, 1 run",,,5
+202,201,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,33.3,no run,126,0,126/5,"Gore to B Bhandari, no run",,,5
+203,202,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, 1 run ",1st innings,Kushal Malla,1141934,Ian Holland,334340,33.4,run,127,1,127/5,"Gore to B Bhandari, 1 run",,,5
+204,203,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,33.5,no run,127,0,127/5,"Gore to Kushal Malla, no run",,,5
+205,204,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,34.0,run,128,1,128/5,"Gore to Kushal Malla, 1 run",,,5
+206,205,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,34.1,no run,128,0,128/5,"Holland to Kushal Malla, no run",,,5
+207,206,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,34.2,no run,128,0,128/5,"Holland to Kushal Malla, no run",,,5
+208,207,Kushal Malla,1141934,Ian Holland,334340,"Holland to Kushal Malla, 1 run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,34.3,run,129,1,129/5,"Holland to Kushal Malla, 1 run",,,5
+209,208,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Karima Gore,1139028,34.4,no run,129,0,129/5,"Holland to B Bhandari, no run",,,5
+210,209,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, no run ",1st innings,Kushal Malla,1141934,Karima Gore,1139028,34.5,no run,129,0,129/5,"Holland to B Bhandari, no run",,,5
+211,210,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, FOUR runs ",1st innings,Kushal Malla,1141934,Karima Gore,1139028,35.0,four,133,4,133/5,"Holland to B Bhandari, FOUR runs",,,5
+212,211,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,35.1,no run,133,0,133/5,"Gore to Kushal Malla, no run",,,5
+213,212,Kushal Malla,1141934,Karima Gore,1139028,"Gore to Kushal Malla, OUT ",1st innings,Binod Bhandari,437005,Ian Holland,334340,35.2,out,133,0,133/6,"Gore to Kushal Malla, OUT",,,6
+214,213,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,35.3,no run,133,0,133/6,"Gore to Karan KC, no run",,,6
+215,214,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,35.4,run,134,1,134/6,"Gore to Karan KC, 1 run",,,6
+216,214,Binod Bhandari,437005,Karima Gore,1139028,"Gore to B Bhandari, (no ball) 1 run ",1st innings,Karan KC,800675,Ian Holland,334340,35.4,run,136,2,136/6,"Gore to B Bhandari, (no ball) 1 run",,,6
+217,215,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, FOUR runs ",1st innings,Binod Bhandari,437005,Ian Holland,334340,35.5,four,140,4,140/6,"Gore to Karan KC, FOUR runs",,,6
+218,216,Karan KC,800675,Karima Gore,1139028,"Gore to Karan KC, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,36.0,run,141,1,141/6,"Gore to Karan KC, 1 run",,,6
+219,217,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,36.1,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+220,218,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,36.2,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+221,219,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,36.3,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+222,220,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,36.4,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+223,221,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,36.5,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+224,222,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Karima Gore,1139028,37.0,no run,141,0,141/6,"Holland to Karan KC, no run",,,6
+225,223,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Karan KC,800675,Ian Holland,334340,37.1,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
+226,224,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Karan KC,800675,Ian Holland,334340,37.2,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
+227,225,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Karan KC,800675,Ian Holland,334340,37.3,no run,141,0,141/6,"Stevenson to B Bhandari, no run",,,6
+228,226,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,Karan KC,800675,Ian Holland,334340,37.4,run,142,1,142/6,"Stevenson to B Bhandari, 1 run",,,6
+229,227,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,37.5,no run,142,0,142/6,"Stevenson to Karan KC, no run",,,6
+230,228,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,38.0,no run,142,0,142/6,"Stevenson to Karan KC, no run",,,6
+231,229,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, 1 run ",1st innings,Karan KC,800675,Cameron Stevenson,953793,38.1,run,143,1,143/6,"Holland to B Bhandari, 1 run",,,6
+232,230,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,38.2,no run,143,0,143/6,"Holland to Karan KC, no run",,,6
+233,231,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, FOUR runs ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,38.3,four,147,4,147/6,"Holland to Karan KC, FOUR runs",,,6
+234,232,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,38.4,no run,147,0,147/6,"Holland to Karan KC, no run",,,6
+235,233,Karan KC,800675,Ian Holland,334340,"Holland to Karan KC, 1 run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,38.5,run,148,1,148/6,"Holland to Karan KC, 1 run",,,6
+236,234,Binod Bhandari,437005,Ian Holland,334340,"Holland to B Bhandari, FOUR runs ",1st innings,Karan KC,800675,Cameron Stevenson,953793,39.0,four,152,4,152/6,"Holland to B Bhandari, FOUR runs",,,6
+237,235,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,39.1,no run,152,0,152/6,"Stevenson to Karan KC, no run",,,6
+238,236,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,39.2,no run,152,0,152/6,"Stevenson to Karan KC, no run",,,6
+239,237,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, 1 run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,39.3,run,153,1,153/6,"Stevenson to Karan KC, 1 run",,,6
+240,238,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,Karan KC,800675,Ian Holland,334340,39.4,run,154,1,154/6,"Stevenson to B Bhandari, 1 run",,,6
+241,239,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, no run ",1st innings,Binod Bhandari,437005,Ian Holland,334340,39.5,no run,154,0,154/6,"Stevenson to Karan KC, no run",,,6
+242,240,Karan KC,800675,Cameron Stevenson,953793,"Stevenson to Karan KC, OUT ",1st innings,Binod Bhandari,437005,Ian Holland,334340,40.0,out,154,0,154/7,"Stevenson to Karan KC, OUT",,,7
+243,241,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,,,Cameron Stevenson,953793,40.1,run,155,1,155/7,"Hutchinson to B Bhandari, 1 run",,,7
+244,242,Sandeep Lamichhane,960361,Elmore Hutchinson,552881,"Hutchinson to Lamichhane, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,40.2,no run,155,0,155/7,"Hutchinson to Lamichhane, no run",,,7
+245,243,Sandeep Lamichhane,960361,Elmore Hutchinson,552881,"Hutchinson to Lamichhane, OUT ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,40.3,out,155,0,155/8,"Hutchinson to Lamichhane, OUT",,,8
+246,244,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,,,Cameron Stevenson,953793,40.4,no run,155,0,155/8,"Hutchinson to B Bhandari, no run",,,8
+247,245,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,,,Cameron Stevenson,953793,40.5,run,156,1,156/8,"Hutchinson to B Bhandari, 1 run",,,8
+248,246,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,41.0,no run,156,0,156/8,"Hutchinson to Bhari, no run",,,8
+249,247,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,41.1,no run,156,0,156/8,"Stevenson to B Bhandari, no run",,,8
+250,248,Binod Bhandari,437005,Cameron Stevenson,953793,"Stevenson to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,41.2,run,157,1,157/8,"Stevenson to B Bhandari, 1 run",,,8
+251,249,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, FOUR runs ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,41.3,four,161,4,161/8,"Stevenson to Bhari, FOUR runs",,,8
+252,250,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, no run ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,41.4,no run,161,0,161/8,"Stevenson to Bhari, no run",,,8
+253,251,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, no run ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,41.5,no run,161,0,161/8,"Stevenson to Bhari, no run",,,8
+254,252,Sushan Bhari,633525,Cameron Stevenson,953793,"Stevenson to Bhari, 1 run ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,42.0,run,162,1,162/8,"Stevenson to Bhari, 1 run",,,8
+255,253,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,42.1,no run,162,0,162/8,"Hutchinson to Bhari, no run",,,8
+256,254,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,42.2,no run,162,0,162/8,"Hutchinson to Bhari, no run",,,8
+257,255,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, 1 run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,42.3,run,163,1,163/8,"Hutchinson to Bhari, 1 run",,,8
+258,256,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Cameron Stevenson,953793,42.4,no run,163,0,163/8,"Hutchinson to B Bhandari, no run",,,8
+259,257,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 bye ",1st innings,Sushan Bhari,633525,Cameron Stevenson,953793,42.5,bye,164,1,164/8,"Hutchinson to B Bhandari, 1 bye",,,8
+260,258,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Cameron Stevenson,953793,43.0,no run,164,0,164/8,"Hutchinson to Bhari, no run",,,8
+261,259,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,43.1,no run,164,0,164/8,"Theron to B Bhandari, no run",,,8
+262,260,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,43.2,no run,164,0,164/8,"Theron to B Bhandari, no run",,,8
+263,261,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,43.3,run,165,1,165/8,"Theron to B Bhandari, 1 run",,,8
+264,262,Sushan Bhari,633525,Rusty Theron,223642,"Theron to Bhari, no run ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,43.4,no run,165,0,165/8,"Theron to Bhari, no run",,,8
+265,263,Sushan Bhari,633525,Rusty Theron,223642,"Theron to Bhari, 1 run ",1st innings,Binod Bhandari,437005,Elmore Hutchinson,552881,43.5,run,166,1,166/8,"Theron to Bhari, 1 run",,,8
+266,264,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,44.0,run,167,1,167/8,"Theron to B Bhandari, 1 run",,,8
+267,265,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, FOUR runs ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,44.1,four,171,4,171/8,"Hutchinson to B Bhandari, FOUR runs",,,8
+268,266,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,44.2,no run,171,0,171/8,"Hutchinson to B Bhandari, no run",,,8
+269,267,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,44.3,no run,171,0,171/8,"Hutchinson to B Bhandari, no run",,,8
+270,268,Binod Bhandari,437005,Elmore Hutchinson,552881,"Hutchinson to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,44.4,run,172,1,172/8,"Hutchinson to B Bhandari, 1 run",,,8
+271,268,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, 1 wide ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,44.4,wide,173,1,173/8,"Hutchinson to Bhari, 1 wide",,,8
+272,269,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,44.5,no run,173,0,173/8,"Hutchinson to Bhari, no run",,,8
+273,270,Sushan Bhari,633525,Elmore Hutchinson,552881,"Hutchinson to Bhari, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,45.0,no run,173,0,173/8,"Hutchinson to Bhari, no run",,,8
+274,271,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,45.1,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
+275,272,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,45.2,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
+276,273,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,45.3,no run,173,0,173/8,"Theron to B Bhandari, no run",,,8
+277,274,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 2 runs ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,45.4,run,175,2,175/8,"Theron to B Bhandari, 2 runs",,,8
+278,275,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,45.5,no run,175,0,175/8,"Theron to B Bhandari, no run",,,8
+279,276,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Elmore Hutchinson,552881,46.0,run,176,1,176/8,"Theron to B Bhandari, 1 run",,,8
+280,277,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,46.1,no run,176,0,176/8,"Netravalkar to B Bhandari, no run",,,8
+281,278,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, FOUR runs ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,46.2,four,180,4,180/8,"Netravalkar to B Bhandari, FOUR runs",,,8
+282,279,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,46.3,no run,180,0,180/8,"Netravalkar to B Bhandari, no run",,,8
+283,280,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,46.4,no run,180,0,180/8,"Netravalkar to B Bhandari, no run",,,8
+284,281,Binod Bhandari,437005,Saurabh Netravalkar,398513,"Netravalkar to B Bhandari, 1 run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,46.5,run,181,1,181/8,"Netravalkar to B Bhandari, 1 run",,,8
+285,282,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, no run ",1st innings,Binod Bhandari,437005,Rusty Theron,223642,47.0,no run,181,0,181/8,"Netravalkar to Bhari, no run",,,8
+286,283,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,47.1,no run,181,0,181/8,"Theron to B Bhandari, no run",,,8
+287,284,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, no run ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,47.2,no run,181,0,181/8,"Theron to B Bhandari, no run",,,8
+288,285,Binod Bhandari,437005,Rusty Theron,223642,"Theron to B Bhandari, OUT ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,47.3,out,181,0,181/9,"Theron to B Bhandari, OUT",,,9
+289,286,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, no run ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,47.4,no run,181,0,181/9,"Theron to Bohara, no run",,,9
+290,287,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, no run ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,47.5,no run,181,0,181/9,"Theron to Bohara, no run",,,9
+291,288,Abinash Bohara,1058508,Rusty Theron,223642,"Theron to Bohara, 1 run ",1st innings,Sushan Bhari,633525,Saurabh Netravalkar,398513,48.0,run,182,1,182/9,"Theron to Bohara, 1 run",,,9
+292,289,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 1 run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,48.1,run,183,1,183/9,"Netravalkar to Bohara, 1 run",,,9
+293,290,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, no run ",1st innings,Abinash Bohara,1058508,Rusty Theron,223642,48.2,no run,183,0,183/9,"Netravalkar to Bhari, no run",,,9
+294,291,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, 1 run ",1st innings,Abinash Bohara,1058508,Rusty Theron,223642,48.3,run,184,1,184/9,"Netravalkar to Bhari, 1 run",,,9
+295,292,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 1 run ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,48.4,run,185,1,185/9,"Netravalkar to Bohara, 1 run",,,9
+296,293,Sushan Bhari,633525,Saurabh Netravalkar,398513,"Netravalkar to Bhari, 1 run ",1st innings,Abinash Bohara,1058508,Rusty Theron,223642,48.5,run,186,1,186/9,"Netravalkar to Bhari, 1 run",,,9
+297,294,Abinash Bohara,1058508,Saurabh Netravalkar,398513,"Netravalkar to Bohara, 2 runs ",1st innings,Sushan Bhari,633525,Rusty Theron,223642,49.0,run,188,2,188/9,"Netravalkar to Bohara, 2 runs",,,9
+298,295,Sushan Bhari,633525,Ian Holland,334340,"Holland to Bhari, 2 runs ",1st innings,Abinash Bohara,1058508,Saurabh Netravalkar,398513,49.1,run,190,2,190/9,"Holland to Bhari, 2 runs",,,9
+299,296,Sushan Bhari,633525,Ian Holland,334340,"Holland to Bhari, OUT ",1st innings,Abinash Bohara,1058508,Saurabh Netravalkar,398513,49.2,out,190,0,190/10,"Holland to Bhari, OUT",,,10
+300,1,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, 1 run ",2nd innings,,,,,0.1,run,1,1,1/0,"Karan KC to Marshall, 1 run",,,0
+301,2,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,,,0.2,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
+302,3,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,,,0.3,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
+303,4,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,,,0.4,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
+304,5,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,,,0.5,no run,1,0,1/0,"Karan KC to Aaron Jones, no run",,,0
+305,6,Aaron Jones,957645,Karan KC,800675,"Karan KC to Aaron Jones, 1 run ",2nd innings,Xavier Marshall,52626,,,1.0,run,2,1,2/0,"Karan KC to Aaron Jones, 1 run",,,0
+306,7,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,Karan KC,800675,1.1,no run,2,0,2/0,"Lamichhane to Aaron Jones, no run",,,0
+307,8,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, no run ",2nd innings,Xavier Marshall,52626,Karan KC,800675,1.2,no run,2,0,2/0,"Lamichhane to Aaron Jones, no run",,,0
+308,9,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, FOUR runs ",2nd innings,Xavier Marshall,52626,Karan KC,800675,1.3,four,6,4,6/0,"Lamichhane to Aaron Jones, FOUR runs",,,0
+309,10,Aaron Jones,957645,Sandeep Lamichhane,960361,"Lamichhane to Aaron Jones, OUT ",2nd innings,Xavier Marshall,52626,Karan KC,800675,1.4,out,6,0,6/1,"Lamichhane to Aaron Jones, OUT",,,1
+310,11,Steven Taylor,348133,Sandeep Lamichhane,960361,"Lamichhane to Taylor, no run ",2nd innings,Xavier Marshall,52626,Karan KC,800675,1.5,no run,6,0,6/1,"Lamichhane to Taylor, no run",,,1
+311,12,Steven Taylor,348133,Sandeep Lamichhane,960361,"Lamichhane to Taylor, no run ",2nd innings,Xavier Marshall,52626,Karan KC,800675,2.0,no run,6,0,6/1,"Lamichhane to Taylor, no run",,,1
+312,13,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, 1 run ",2nd innings,Steven Taylor,348133,Sandeep Lamichhane,960361,2.1,run,7,1,7/1,"Karan KC to Marshall, 1 run",,,1
+313,14,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, no run ",2nd innings,Xavier Marshall,52626,Sandeep Lamichhane,960361,2.2,no run,7,0,7/1,"Karan KC to Taylor, no run",,,1
+314,15,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, no run ",2nd innings,Xavier Marshall,52626,Sandeep Lamichhane,960361,2.3,no run,7,0,7/1,"Karan KC to Taylor, no run",,,1
+315,16,Steven Taylor,348133,Karan KC,800675,"Karan KC to Taylor, OUT ",2nd innings,Xavier Marshall,52626,Sandeep Lamichhane,960361,2.4,out,7,0,7/2,"Karan KC to Taylor, OUT",,,2
+316,16,Monank Patel,1159641,Karan KC,800675,"Karan KC to MD Patel, 2 wides ",2nd innings,Xavier Marshall,52626,Sandeep Lamichhane,960361,2.4,wide,9,2,9/2,"Karan KC to MD Patel, 2 wides",,,2
+317,17,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, no run ",2nd innings,Monank Patel,1159641,Sandeep Lamichhane,960361,2.5,no run,9,0,9/2,"Karan KC to Marshall, no run",,,2
+318,18,Xavier Marshall,52626,Karan KC,800675,"Karan KC to Marshall, OUT ",2nd innings,Monank Patel,1159641,Sandeep Lamichhane,960361,3.0,out,9,0,9/3,"Karan KC to Marshall, OUT",,,3
+319,19,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, FOUR runs ",2nd innings,,,Karan KC,800675,3.1,four,13,4,13/3,"Lamichhane to MD Patel, FOUR runs",,,3
+320,20,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, no run ",2nd innings,,,Karan KC,800675,3.2,no run,13,0,13/3,"Lamichhane to MD Patel, no run",,,3
+321,21,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, no run ",2nd innings,,,Karan KC,800675,3.3,no run,13,0,13/3,"Lamichhane to MD Patel, no run",,,3
+322,22,Monank Patel,1159641,Sandeep Lamichhane,960361,"Lamichhane to MD Patel, OUT ",2nd innings,Ian Holland,334340,Karan KC,800675,3.4,out,13,0,13/4,"Lamichhane to MD Patel, OUT",,,4
+323,23,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,3.5,no run,13,0,13/4,"Lamichhane to Akshay Homraj, no run",,,4
+324,24,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,4.0,no run,13,0,13/4,"Lamichhane to Akshay Homraj, no run",,,4
+325,25,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,4.1,no run,13,0,13/4,"Karan KC to Holland, no run",,,4
+326,26,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,4.2,no run,13,0,13/4,"Karan KC to Holland, no run",,,4
+327,27,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, 1 run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,4.3,run,14,1,14/4,"Karan KC to Holland, 1 run",,,4
+328,28,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,4.4,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
+329,29,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,4.5,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
+330,30,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,5.0,no run,14,0,14/4,"Karan KC to Akshay Homraj, no run",,,4
+331,31,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.1,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
+332,32,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.2,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
+333,33,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.3,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
+334,34,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.4,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
+335,35,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.5,no run,14,0,14/4,"Lamichhane to Holland, no run",,,4
+336,35,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 wide ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,5.5,wide,15,1,15/4,"Lamichhane to Holland, 1 wide",,,4
+337,36,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, FOUR runs ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,6.0,four,19,4,19/4,"Lamichhane to Holland, FOUR runs",,,4
+338,37,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, FOUR runs ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,6.1,four,23,4,23/4,"Karan KC to Akshay Homraj, FOUR runs",,,4
+339,38,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,6.2,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
+340,39,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,6.3,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
+341,40,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,6.4,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
+342,41,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,6.5,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
+343,42,Akshay Homraj,1205381,Karan KC,800675,"Karan KC to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,7.0,no run,23,0,23/4,"Karan KC to Akshay Homraj, no run",,,4
+344,43,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,7.1,no run,23,0,23/4,"Lamichhane to Holland, no run",,,4
+345,44,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,7.2,no run,23,0,23/4,"Lamichhane to Holland, no run",,,4
+346,45,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,7.3,run,24,1,24/4,"Lamichhane to Holland, 1 run",,,4
+347,46,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,7.4,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
+348,47,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,7.5,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
+349,48,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,8.0,no run,24,0,24/4,"Lamichhane to Akshay Homraj, no run",,,4
+350,49,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,8.1,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
+351,50,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,8.2,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
+352,51,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,8.3,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
+353,52,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,8.4,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
+354,53,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,8.5,no run,24,0,24/4,"Karan KC to Holland, no run",,,4
+355,54,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, 1 run ",2nd innings,Akshay Homraj,1205381,Sandeep Lamichhane,960361,9.0,run,25,1,25/4,"Karan KC to Holland, 1 run",,,4
+356,55,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,9.1,run,26,1,26/4,"Lamichhane to Holland, 1 run",,,4
+357,56,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,9.2,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
+358,57,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,9.3,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
+359,58,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, no run ",2nd innings,Ian Holland,334340,Karan KC,800675,9.4,no run,26,0,26/4,"Lamichhane to Akshay Homraj, no run",,,4
+360,59,Akshay Homraj,1205381,Sandeep Lamichhane,960361,"Lamichhane to Akshay Homraj, 1 run ",2nd innings,Ian Holland,334340,Karan KC,800675,9.5,run,27,1,27/4,"Lamichhane to Akshay Homraj, 1 run",,,4
+361,60,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Akshay Homraj,1205381,Karan KC,800675,10.0,no run,27,0,27/4,"Lamichhane to Holland, no run",,,4
+362,61,Akshay Homraj,1205381,Sushan Bhari,633525,"Bhari to Akshay Homraj, OUT ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,10.1,out,27,0,27/5,"Bhari to Akshay Homraj, OUT",,,5
+363,62,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,10.2,no run,27,0,27/5,"Bhari to Gore, no run",,,5
+364,63,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,10.3,no run,27,0,27/5,"Bhari to Gore, no run",,,5
+365,64,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,10.4,no run,27,0,27/5,"Bhari to Gore, no run",,,5
+366,65,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,10.5,no run,27,0,27/5,"Bhari to Gore, no run",,,5
+367,66,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,11.0,no run,27,0,27/5,"Bhari to Gore, no run",,,5
+368,67,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,11.1,run,28,1,28/5,"Lamichhane to Holland, 1 run",,,5
+369,68,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,11.2,no run,28,0,28/5,"Lamichhane to Gore, no run",,,5
+370,69,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, 2 runs ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,11.3,run,30,2,30/5,"Lamichhane to Gore, 2 runs",,,5
+371,70,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,11.4,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
+372,71,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,11.5,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
+373,72,Karima Gore,1139028,Sandeep Lamichhane,960361,"Lamichhane to Gore, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,12.0,no run,30,0,30/5,"Lamichhane to Gore, no run",,,5
+374,73,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.1,no run,30,0,30/5,"Bhari to Holland, no run",,,5
+375,74,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.2,no run,30,0,30/5,"Bhari to Holland, no run",,,5
+376,75,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.3,no run,30,0,30/5,"Bhari to Holland, no run",,,5
+377,76,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.4,no run,30,0,30/5,"Bhari to Holland, no run",,,5
+378,77,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.5,no run,30,0,30/5,"Bhari to Holland, no run",,,5
+379,77,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 5 wides ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,12.5,wide,35,5,35/5,"Bhari to Holland, 5 wides",,,5
+380,78,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 3 runs ",2nd innings,Karima Gore,1139028,Sandeep Lamichhane,960361,13.0,run,38,3,38/5,"Bhari to Holland, 3 runs",,,5
+381,79,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,13.1,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+382,80,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,13.2,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+383,81,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,13.3,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+384,82,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,13.4,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+385,83,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,13.5,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+386,84,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,14.0,no run,38,0,38/5,"Kushal Malla to Holland, no run",,,5
+387,85,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,14.1,run,40,2,40/5,"Bhari to Gore, 2 runs",,,5
+388,86,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 1 run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,14.2,run,41,1,41/5,"Bhari to Gore, 1 run",,,5
+389,87,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 2 runs ",2nd innings,Karima Gore,1139028,Kushal Malla,1141934,14.3,run,43,2,43/5,"Bhari to Holland, 2 runs",,,5
+390,88,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Karima Gore,1139028,Kushal Malla,1141934,14.4,run,44,1,44/5,"Bhari to Holland, 1 run",,,5
+391,89,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,14.5,run,46,2,46/5,"Bhari to Gore, 2 runs",,,5
+392,90,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,15.0,no run,46,0,46/5,"Bhari to Gore, no run",,,5
+393,91,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,15.1,no run,46,0,46/5,"Kushal Malla to Holland, no run",,,5
+394,92,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,15.2,run,47,1,47/5,"Kushal Malla to Holland, 1 run",,,5
+395,93,Karima Gore,1139028,Kushal Malla,1141934,"Kushal Malla to Gore, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,15.3,no run,47,0,47/5,"Kushal Malla to Gore, no run",,,5
+396,94,Karima Gore,1139028,Kushal Malla,1141934,"Kushal Malla to Gore, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,15.4,run,48,1,48/5,"Kushal Malla to Gore, 1 run",,,5
+397,95,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,15.5,no run,48,0,48/5,"Kushal Malla to Holland, no run",,,5
+398,96,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Karima Gore,1139028,Sushan Bhari,633525,16.0,no run,48,0,48/5,"Kushal Malla to Holland, no run",,,5
+399,97,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,16.1,no run,48,0,48/5,"Bhari to Gore, no run",,,5
+400,98,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, 2 runs ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,16.2,run,50,2,50/5,"Bhari to Gore, 2 runs",,,5
+401,99,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,16.3,no run,50,0,50/5,"Bhari to Gore, no run",,,5
+402,100,Karima Gore,1139028,Sushan Bhari,633525,"Bhari to Gore, OUT ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,16.4,out,50,0,50/6,"Bhari to Gore, OUT",,,6
+403,101,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,16.5,no run,50,0,50/6,"Bhari to Hutchinson, no run",,,6
+404,102,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 2 leg byes ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,17.0,leg bye,52,2,52/6,"Bhari to Hutchinson, 2 leg byes",,,6
+405,103,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,17.1,no run,52,0,52/6,"Kushal Malla to Holland, no run",,,6
+406,104,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,17.2,run,53,1,53/6,"Kushal Malla to Holland, 1 run",,,6
+407,105,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,17.3,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
+408,106,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,17.4,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
+409,107,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,17.5,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
+410,108,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,18.0,no run,53,0,53/6,"Kushal Malla to Hutchinson, no run",,,6
+411,109,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,18.1,run,54,1,54/6,"Bhari to Holland, 1 run",,,6
+412,110,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,18.2,no run,54,0,54/6,"Bhari to Hutchinson, no run",,,6
+413,111,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 1 run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,18.3,run,55,1,55/6,"Bhari to Hutchinson, 1 run",,,6
+414,112,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,18.4,no run,55,0,55/6,"Bhari to Holland, no run",,,6
+415,113,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,18.5,run,56,1,56/6,"Bhari to Holland, 1 run",,,6
+416,114,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,19.0,no run,56,0,56/6,"Bhari to Hutchinson, no run",,,6
+417,115,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,19.1,no run,56,0,56/6,"Kushal Malla to Holland, no run",,,6
+418,116,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,19.2,no run,56,0,56/6,"Kushal Malla to Holland, no run",,,6
+419,117,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,19.3,run,57,1,57/6,"Kushal Malla to Holland, 1 run",,,6
+420,118,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,19.4,run,58,1,58/6,"Kushal Malla to Hutchinson, 1 run",,,6
+421,119,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,19.5,no run,58,0,58/6,"Kushal Malla to Holland, no run",,,6
+422,120,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Sushan Bhari,633525,20.0,run,59,1,59/6,"Kushal Malla to Holland, 1 run",,,6
+423,121,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,20.1,run,60,1,60/6,"Bhari to Holland, 1 run",,,6
+424,122,Elmore Hutchinson,552881,Sushan Bhari,633525,"Bhari to Hutchinson, 1 run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,20.2,run,61,1,61/6,"Bhari to Hutchinson, 1 run",,,6
+425,123,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,20.3,no run,61,0,61/6,"Bhari to Holland, no run",,,6
+426,124,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, FOUR runs ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,20.4,four,65,4,65/6,"Bhari to Holland, FOUR runs",,,6
+427,125,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,20.5,no run,65,0,65/6,"Bhari to Holland, no run",,,6
+428,126,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Elmore Hutchinson,552881,Kushal Malla,1141934,21.0,no run,65,0,65/6,"Bhari to Holland, no run",,,6
+429,127,Elmore Hutchinson,552881,Kushal Malla,1141934,"Kushal Malla to Hutchinson, OUT ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,21.1,out,65,0,65/7,"Kushal Malla to Hutchinson, OUT",,,7
+430,128,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,21.2,no run,65,0,65/7,"Kushal Malla to Stevenson, no run",,,7
+431,129,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,21.3,no run,65,0,65/7,"Kushal Malla to Stevenson, no run",,,7
+432,130,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,21.4,run,66,1,66/7,"Kushal Malla to Stevenson, 1 run",,,7
+433,131,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sushan Bhari,633525,21.5,no run,66,0,66/7,"Kushal Malla to Holland, no run",,,7
+434,132,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Sushan Bhari,633525,22.0,run,67,1,67/7,"Kushal Malla to Holland, 1 run",,,7
+435,133,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,22.1,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
+436,134,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,22.2,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
+437,135,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,22.3,no run,67,0,67/7,"Lamichhane to Holland, no run",,,7
+438,136,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 2 runs ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,22.4,run,69,2,69/7,"Lamichhane to Holland, 2 runs",,,7
+439,137,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,22.5,no run,69,0,69/7,"Lamichhane to Holland, no run",,,7
+440,138,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,23.0,no run,69,0,69/7,"Lamichhane to Holland, no run",,,7
+441,139,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,23.1,no run,69,0,69/7,"Kushal Malla to Stevenson, no run",,,7
+442,140,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,23.2,run,70,1,70/7,"Kushal Malla to Stevenson, 1 run",,,7
+443,141,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,23.3,no run,70,0,70/7,"Kushal Malla to Holland, no run",,,7
+444,142,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,23.4,no run,70,0,70/7,"Kushal Malla to Holland, no run",,,7
+445,143,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,23.5,run,71,1,71/7,"Kushal Malla to Holland, 1 run",,,7
+446,144,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,24.0,no run,71,0,71/7,"Kushal Malla to Stevenson, no run",,,7
+447,145,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 3 runs ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,24.1,run,74,3,74/7,"Bhari to Holland, 3 runs",,,7
+448,146,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,24.2,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
+449,147,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,24.3,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
+450,148,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,24.4,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
+451,149,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,24.5,no run,74,0,74/7,"Bhari to Stevenson, no run",,,7
+452,150,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Kushal Malla,1141934,25.0,run,75,1,75/7,"Bhari to Stevenson, 1 run",,,7
+453,151,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,25.1,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+454,152,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,25.2,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+455,153,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,25.3,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+456,154,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,25.4,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+457,155,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,25.5,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+458,156,Cameron Stevenson,953793,Sandeep Lamichhane,960361,"Lamichhane to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,26.0,no run,75,0,75/7,"Lamichhane to Stevenson, no run",,,7
+459,157,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,26.1,run,76,1,76/7,"Bohara to Holland, 1 run",,,7
+460,158,Cameron Stevenson,953793,Abinash Bohara,1058508,"Bohara to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,26.2,run,77,1,77/7,"Bohara to Stevenson, 1 run",,,7
+461,159,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,26.3,no run,77,0,77/7,"Bohara to Holland, no run",,,7
+462,160,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,26.4,no run,77,0,77/7,"Bohara to Holland, no run",,,7
+463,161,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,26.5,no run,77,0,77/7,"Bohara to Holland, no run",,,7
+464,162,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Sandeep Lamichhane,960361,27.0,run,78,1,78/7,"Bohara to Holland, 1 run",,,7
+465,163,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Cameron Stevenson,953793,Abinash Bohara,1058508,27.1,no run,78,0,78/7,"Kushal Malla to Holland, no run",,,7
+466,164,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Cameron Stevenson,953793,Abinash Bohara,1058508,27.2,no run,78,0,78/7,"Kushal Malla to Holland, no run",,,7
+467,165,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, FOUR runs ",2nd innings,Cameron Stevenson,953793,Abinash Bohara,1058508,27.3,four,82,4,82/7,"Kushal Malla to Holland, FOUR runs",,,7
+468,166,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Abinash Bohara,1058508,27.4,run,83,1,83/7,"Kushal Malla to Holland, 1 run",,,7
+469,167,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, FOUR runs ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,27.5,four,87,4,87/7,"Kushal Malla to Stevenson, FOUR runs",,,7
+470,168,Cameron Stevenson,953793,Kushal Malla,1141934,"Kushal Malla to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,28.0,no run,87,0,87/7,"Kushal Malla to Stevenson, no run",,,7
+471,169,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,28.1,no run,87,0,87/7,"Bohara to Holland, no run",,,7
+472,170,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, 2 runs ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,28.2,run,89,2,89/7,"Bohara to Holland, 2 runs",,,7
+473,171,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,28.3,no run,89,0,89/7,"Bohara to Holland, no run",,,7
+474,172,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, FOUR runs ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,28.4,four,93,4,93/7,"Bohara to Holland, FOUR runs",,,7
+475,173,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, FOUR runs ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,28.5,four,97,4,97/7,"Bohara to Holland, FOUR runs",,,7
+476,174,Ian Holland,334340,Abinash Bohara,1058508,"Bohara to Holland, no run ",2nd innings,Cameron Stevenson,953793,Kushal Malla,1141934,29.0,no run,97,0,97/7,"Bohara to Holland, no run",,,7
+477,175,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,29.1,no run,97,0,97/7,"Khadka to Stevenson, no run",,,7
+478,176,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,29.2,no run,97,0,97/7,"Khadka to Stevenson, no run",,,7
+479,177,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, FOUR runs ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,29.3,four,101,4,101/7,"Khadka to Stevenson, FOUR runs",,,7
+480,178,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,29.4,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
+481,179,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,29.5,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
+482,180,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Abinash Bohara,1058508,30.0,no run,101,0,101/7,"Khadka to Stevenson, no run",,,7
+483,181,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Paras Khadka,25967,30.1,run,102,1,102/7,"Bhari to Holland, 1 run",,,7
+484,182,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,30.2,no run,102,0,102/7,"Bhari to Stevenson, no run",,,7
+485,183,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,30.3,no run,102,0,102/7,"Bhari to Stevenson, no run",,,7
+486,184,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,30.4,run,103,1,103/7,"Bhari to Stevenson, 1 run",,,7
+487,185,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 2 runs ",2nd innings,Cameron Stevenson,953793,Paras Khadka,25967,30.5,run,105,2,105/7,"Bhari to Holland, 2 runs",,,7
+488,186,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Cameron Stevenson,953793,Paras Khadka,25967,31.0,no run,105,0,105/7,"Bhari to Holland, no run",,,7
+489,187,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,31.1,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
+490,188,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,31.2,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
+491,189,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,31.3,no run,105,0,105/7,"Khadka to Stevenson, no run",,,7
+492,190,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,31.4,run,106,1,106/7,"Khadka to Stevenson, 1 run",,,7
+493,191,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Sushan Bhari,633525,31.5,run,107,1,107/7,"Khadka to Holland, 1 run",,,7
+494,192,Cameron Stevenson,953793,Paras Khadka,25967,"Khadka to Stevenson, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,32.0,no run,107,0,107/7,"Khadka to Stevenson, no run",,,7
+495,193,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Paras Khadka,25967,32.1,run,108,1,108/7,"Bhari to Holland, 1 run",,,7
+496,194,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, FOUR runs ",2nd innings,Ian Holland,334340,Paras Khadka,25967,32.2,four,112,4,112/7,"Bhari to Stevenson, FOUR runs",,,7
+497,195,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, 1 run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,32.3,run,113,1,113/7,"Bhari to Stevenson, 1 run",,,7
+498,196,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Cameron Stevenson,953793,Paras Khadka,25967,32.4,run,114,1,114/7,"Bhari to Holland, 1 run",,,7
+499,197,Cameron Stevenson,953793,Sushan Bhari,633525,"Bhari to Stevenson, OUT ",2nd innings,Ian Holland,334340,Paras Khadka,25967,32.5,out,114,0,114/8,"Bhari to Stevenson, OUT",,,8
+500,198,Rusty Theron,223642,Sushan Bhari,633525,"Bhari to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,33.0,no run,114,0,114/8,"Bhari to Theron, no run",,,8
+501,199,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,33.1,no run,114,0,114/8,"Khadka to Holland, no run",,,8
+502,200,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, FOUR runs ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,33.2,four,118,4,118/8,"Khadka to Holland, FOUR runs",,,8
+503,201,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,33.3,run,119,1,119/8,"Khadka to Holland, 1 run",,,8
+504,202,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,33.4,no run,119,0,119/8,"Khadka to Theron, no run",,,8
+505,203,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,33.5,run,120,1,120/8,"Khadka to Theron, 1 run",,,8
+506,204,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,34.0,run,121,1,121/8,"Khadka to Holland, 1 run",,,8
+507,205,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,34.1,no run,121,0,121/8,"Bhari to Holland, no run",,,8
+508,206,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,34.2,no run,121,0,121/8,"Bhari to Holland, no run",,,8
+509,207,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,34.3,no run,121,0,121/8,"Bhari to Holland, no run",,,8
+510,208,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,34.4,no run,121,0,121/8,"Bhari to Holland, no run",,,8
+511,209,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,34.5,no run,121,0,121/8,"Bhari to Holland, no run",,,8
+512,210,Ian Holland,334340,Sushan Bhari,633525,"Bhari to Holland, 1 run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,35.0,run,122,1,122/8,"Bhari to Holland, 1 run",,,8
+513,211,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,35.1,no run,122,0,122/8,"Khadka to Holland, no run",,,8
+514,212,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,35.2,run,123,1,123/8,"Khadka to Holland, 1 run",,,8
+515,213,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,35.3,no run,123,0,123/8,"Khadka to Theron, no run",,,8
+516,214,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,35.4,no run,123,0,123/8,"Khadka to Theron, no run",,,8
+517,215,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, 1 run ",2nd innings,Ian Holland,334340,Sushan Bhari,633525,35.5,run,124,1,124/8,"Khadka to Theron, 1 run",,,8
+518,216,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,Rusty Theron,223642,Sushan Bhari,633525,36.0,no run,124,0,124/8,"Khadka to Holland, no run",,,8
+519,217,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,36.1,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+520,218,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,36.2,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+521,219,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,36.3,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+522,220,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,36.4,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+523,221,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,36.5,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+524,222,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,37.0,no run,124,0,124/8,"Lamichhane to Theron, no run",,,8
+525,223,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, no run ",2nd innings,Rusty Theron,223642,Sandeep Lamichhane,960361,37.1,no run,124,0,124/8,"Khadka to Holland, no run",,,8
+526,224,Ian Holland,334340,Paras Khadka,25967,"Khadka to Holland, 1 run ",2nd innings,Rusty Theron,223642,Sandeep Lamichhane,960361,37.2,run,125,1,125/8,"Khadka to Holland, 1 run",,,8
+527,225,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, FOUR runs ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,37.3,four,129,4,129/8,"Khadka to Theron, FOUR runs",,,8
+528,226,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,37.4,no run,129,0,129/8,"Khadka to Theron, no run",,,8
+529,227,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,37.5,no run,129,0,129/8,"Khadka to Theron, no run",,,8
+530,228,Rusty Theron,223642,Paras Khadka,25967,"Khadka to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,38.0,no run,129,0,129/8,"Khadka to Theron, no run",,,8
+531,229,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, no run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,38.1,no run,129,0,129/8,"Lamichhane to Holland, no run",,,8
+532,230,Ian Holland,334340,Sandeep Lamichhane,960361,"Lamichhane to Holland, 1 run ",2nd innings,Rusty Theron,223642,Paras Khadka,25967,38.2,run,130,1,130/8,"Lamichhane to Holland, 1 run",,,8
+533,231,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,38.3,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
+534,232,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,38.4,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
+535,233,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,38.5,no run,130,0,130/8,"Lamichhane to Theron, no run",,,8
+536,233,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, 5 wides ",2nd innings,Ian Holland,334340,Paras Khadka,25967,38.5,wide,135,5,135/8,"Lamichhane to Theron, 5 wides",,,8
+537,234,Rusty Theron,223642,Sandeep Lamichhane,960361,"Lamichhane to Theron, no run ",2nd innings,Ian Holland,334340,Paras Khadka,25967,39.0,no run,135,0,135/8,"Lamichhane to Theron, no run",,,8
+538,235,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, no run ",2nd innings,Rusty Theron,223642,Sandeep Lamichhane,960361,39.1,no run,135,0,135/8,"Kushal Malla to Holland, no run",,,8
+539,236,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 2 runs ",2nd innings,Rusty Theron,223642,Sandeep Lamichhane,960361,39.2,run,137,2,137/8,"Kushal Malla to Holland, 2 runs",,,8
+540,237,Ian Holland,334340,Kushal Malla,1141934,"Kushal Malla to Holland, 3 runs ",2nd innings,Rusty Theron,223642,Sandeep Lamichhane,960361,39.3,run,140,3,140/8,"Kushal Malla to Holland, 3 runs",,,8
+541,238,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,39.4,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
+542,239,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,39.5,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
+543,240,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,Ian Holland,334340,Sandeep Lamichhane,960361,40.0,no run,140,0,140/8,"Kushal Malla to Theron, no run",,,8
+544,241,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, FOUR runs ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,40.1,four,144,4,144/8,"Karan KC to Holland, FOUR runs",,,8
+545,242,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,40.2,no run,144,0,144/8,"Karan KC to Holland, no run",,,8
+546,243,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, no run ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,40.3,no run,144,0,144/8,"Karan KC to Holland, no run",,,8
+547,244,Ian Holland,334340,Karan KC,800675,"Karan KC to Holland, OUT ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,40.4,out,144,0,144/9,"Karan KC to Holland, OUT",,,9
+548,245,Saurabh Netravalkar,398513,Karan KC,800675,"Karan KC to Netravalkar, no run ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,40.5,no run,144,0,144/9,"Karan KC to Netravalkar, no run",,,9
+549,246,Saurabh Netravalkar,398513,Karan KC,800675,"Karan KC to Netravalkar, no run ",2nd innings,Rusty Theron,223642,Kushal Malla,1141934,41.0,no run,144,0,144/9,"Karan KC to Netravalkar, no run",,,9
+550,247,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,41.1,run,145,1,145/9,"Kushal Malla to Theron, 1 run",,,9
+551,248,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,Rusty Theron,223642,Karan KC,800675,41.2,run,146,1,146/9,"Kushal Malla to Netravalkar, 1 run",,,9
+552,249,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 leg bye ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,41.3,leg bye,147,1,147/9,"Kushal Malla to Theron, 1 leg bye",,,9
+553,250,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 4 leg byes ",2nd innings,Rusty Theron,223642,Karan KC,800675,41.4,leg bye,151,4,151/9,"Kushal Malla to Netravalkar, 4 leg byes",,,9
+554,251,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, no run ",2nd innings,Rusty Theron,223642,Karan KC,800675,41.5,no run,151,0,151/9,"Kushal Malla to Netravalkar, no run",,,9
+555,252,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, no run ",2nd innings,Rusty Theron,223642,Karan KC,800675,42.0,no run,151,0,151/9,"Kushal Malla to Netravalkar, no run",,,9
+556,253,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,42.1,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+557,254,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,42.2,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+558,255,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,42.3,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+559,256,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,42.4,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+560,257,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,42.5,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+561,258,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,43.0,no run,151,0,151/9,"Karan KC to Theron, no run",,,9
+562,259,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,Rusty Theron,223642,Karan KC,800675,43.1,run,152,1,152/9,"Kushal Malla to Netravalkar, 1 run",,,9
+563,260,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,43.2,no run,152,0,152/9,"Kushal Malla to Theron, no run",,,9
+564,261,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,43.3,run,153,1,153/9,"Kushal Malla to Theron, 1 run",,,9
+565,262,Saurabh Netravalkar,398513,Kushal Malla,1141934,"Kushal Malla to Netravalkar, 1 run ",2nd innings,Rusty Theron,223642,Karan KC,800675,43.4,run,154,1,154/9,"Kushal Malla to Netravalkar, 1 run",,,9
+566,263,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, no run ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,43.5,no run,154,0,154/9,"Kushal Malla to Theron, no run",,,9
+567,264,Rusty Theron,223642,Kushal Malla,1141934,"Kushal Malla to Theron, 1 run ",2nd innings,Saurabh Netravalkar,398513,Karan KC,800675,44.0,run,155,1,155/9,"Kushal Malla to Theron, 1 run",,,9
+568,265,Rusty Theron,223642,Karan KC,800675,"Karan KC to Theron, OUT ",2nd innings,Saurabh Netravalkar,398513,Kushal Malla,1141934,44.1,out,155,0,155/10,"Karan KC to Theron, OUT",,,10

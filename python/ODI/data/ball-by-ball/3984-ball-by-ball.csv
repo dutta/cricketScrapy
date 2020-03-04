@@ -1,453 +1,453 @@
-,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
-0,1,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,0.1,no run,0,0,0/0,"Nao to Rohan Mustafa, no run",,,0
-1,2,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,0.2,run,1,1,1/0,"Nao to Rohan Mustafa, 1 run",,,0
-2,3,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,0.3,no run,1,0,1/0,"Nao to Ashfaq Ahmed, no run",,,0
-3,4,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 1 run ",1st innings,0.4,run,2,1,2/0,"Nao to Ashfaq Ahmed, 1 run",,,0
-4,5,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,0.5,no run,2,0,2/0,"Nao to Rohan Mustafa, no run",,,0
-5,6,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,1.0,no run,2,0,2/0,"Nao to Rohan Mustafa, no run",,,0
-6,7,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,1.1,run,3,1,3/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
-7,8,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,1.2,run,4,1,4/0,"Vanua to Rohan Mustafa, 1 run",,,0
-8,9,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 2 leg byes ",1st innings,1.3,leg bye,6,2,6/0,"Vanua to Ashfaq Ahmed, 2 leg byes",,,0
-9,10,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 2 runs ",1st innings,1.4,run,8,2,8/0,"Vanua to Ashfaq Ahmed, 2 runs",,,0
-10,11,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, FOUR runs ",1st innings,1.5,four,12,4,12/0,"Vanua to Ashfaq Ahmed, FOUR runs",,,0
-11,12,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,2.0,run,13,1,13/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
-12,13,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,2.1,no run,13,0,13/0,"Nao to Ashfaq Ahmed, no run",,,0
-13,14,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,2.2,no run,13,0,13/0,"Nao to Ashfaq Ahmed, no run",,,0
-14,15,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 1 leg bye ",1st innings,2.3,leg bye,14,1,14/0,"Nao to Ashfaq Ahmed, 1 leg bye",,,0
-15,16,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,2.4,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
-16,17,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,2.5,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
-17,18,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,3.0,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
-18,19,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,3.1,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-19,20,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,3.2,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-20,21,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,3.3,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-21,22,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,3.4,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-22,23,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,3.5,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-23,24,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,4.0,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
-24,25,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,4.1,run,15,1,15/0,"Nao to Rohan Mustafa, 1 run",,,0
-25,26,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,4.2,no run,15,0,15/0,"Nao to Ashfaq Ahmed, no run",,,0
-26,27,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 2 runs ",1st innings,4.3,run,17,2,17/0,"Nao to Ashfaq Ahmed, 2 runs",,,0
-27,28,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,4.4,no run,17,0,17/0,"Nao to Ashfaq Ahmed, no run",,,0
-28,29,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, SIX runs ",1st innings,4.5,six,23,6,23/0,"Nao to Ashfaq Ahmed, SIX runs",,,0
-29,30,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,5.0,no run,23,0,23/0,"Nao to Ashfaq Ahmed, no run",,,0
-30,31,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 leg bye ",1st innings,5.1,leg bye,24,1,24/0,"Dai to Rohan Mustafa, 1 leg bye",,,0
-31,32,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, FOUR runs ",1st innings,5.2,four,28,4,28/0,"Dai to Ashfaq Ahmed, FOUR runs",,,0
-32,33,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, 1 run ",1st innings,5.3,run,29,1,29/0,"Dai to Ashfaq Ahmed, 1 run",,,0
-33,34,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,5.4,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
-34,35,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,5.5,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
-35,36,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,6.0,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
-36,37,,,Chad Soper,574287,"Soper to Ashfaq Ahmed, 1 run ",1st innings,6.1,run,30,1,30/0,"Soper to Ashfaq Ahmed, 1 run",,,0
-37,38,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,6.2,no run,30,0,30/0,"Soper to Rohan Mustafa, no run",,,0
-38,38,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 wide ",1st innings,6.2,wide,31,1,31/0,"Soper to Rohan Mustafa, 1 wide",,,0
-39,39,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,6.3,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
-40,40,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,6.4,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
-41,41,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,6.5,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
-42,42,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,7.0,run,32,1,32/0,"Soper to Rohan Mustafa, 1 run",,,0
-43,43,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,7.1,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
-44,44,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,7.2,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
-45,45,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,7.3,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
-46,46,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,7.4,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
-47,47,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,7.5,run,33,1,33/0,"Dai to Rohan Mustafa, 1 run",,,0
-48,48,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, no run ",1st innings,8.0,no run,33,0,33/0,"Dai to Ashfaq Ahmed, no run",,,0
-49,49,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, SIX runs ",1st innings,8.1,six,39,6,39/0,"Soper to Rohan Mustafa, SIX runs",,,0
-50,50,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,8.2,four,43,4,43/0,"Soper to Rohan Mustafa, FOUR runs",,,0
-51,51,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,8.3,no run,43,0,43/0,"Soper to Rohan Mustafa, no run",,,0
-52,52,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,8.4,four,47,4,47/0,"Soper to Rohan Mustafa, FOUR runs",,,0
-53,53,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,8.5,no run,47,0,47/0,"Soper to Rohan Mustafa, no run",,,0
-54,54,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,9.0,no run,47,0,47/0,"Soper to Rohan Mustafa, no run",,,0
-55,55,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, FOUR runs ",1st innings,9.1,four,51,4,51/0,"Dai to Ashfaq Ahmed, FOUR runs",,,0
-56,56,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, no run ",1st innings,9.2,no run,51,0,51/0,"Dai to Ashfaq Ahmed, no run",,,0
-57,57,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, 1 run ",1st innings,9.3,run,52,1,52/0,"Dai to Ashfaq Ahmed, 1 run",,,0
-58,58,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,9.4,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
-59,59,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,9.5,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
-60,60,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,10.0,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
-61,61,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, 1 run ",1st innings,10.1,run,53,1,53/0,"Kila to Ashfaq Ahmed, 1 run",,,0
-62,62,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 1 run ",1st innings,10.2,run,54,1,54/0,"Kila to Rohan Mustafa, 1 run",,,0
-63,63,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, no run ",1st innings,10.3,no run,54,0,54/0,"Kila to Ashfaq Ahmed, no run",,,0
-64,64,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, 1 run ",1st innings,10.4,run,55,1,55/0,"Kila to Ashfaq Ahmed, 1 run",,,0
-65,65,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 1 run ",1st innings,10.5,run,56,1,56/0,"Kila to Rohan Mustafa, 1 run",,,0
-66,65,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, (no ball) 1 run ",1st innings,10.5,run,58,2,58/0,"Kila to Ashfaq Ahmed, (no ball) 1 run",,,0
-67,66,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 2 runs ",1st innings,11.0,run,60,2,60/0,"Kila to Rohan Mustafa, 2 runs",,,0
-68,67,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,11.1,no run,60,0,60/0,"Vala to Ashfaq Ahmed, no run",,,0
-69,68,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, FOUR runs ",1st innings,11.2,four,64,4,64/0,"Vala to Ashfaq Ahmed, FOUR runs",,,0
-70,69,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,11.3,no run,64,0,64/0,"Vala to Ashfaq Ahmed, no run",,,0
-71,70,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,11.4,no run,64,0,64/0,"Vala to Ashfaq Ahmed, no run",,,0
-72,71,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, FOUR runs ",1st innings,11.5,four,68,4,68/0,"Vala to Ashfaq Ahmed, FOUR runs",,,0
-73,72,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,12.0,run,69,1,69/0,"Vala to Ashfaq Ahmed, 1 run",,,0
-74,73,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,12.1,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
-75,74,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,12.2,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
-76,75,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,12.3,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
-77,76,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,12.4,run,70,1,70/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
-78,77,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,12.5,no run,70,0,70/0,"Vanua to Rohan Mustafa, no run",,,0
-79,78,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,13.0,no run,70,0,70/0,"Vanua to Rohan Mustafa, no run",,,0
-80,79,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,13.1,no run,70,0,70/0,"Vala to Ashfaq Ahmed, no run",,,0
-81,80,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,13.2,run,71,1,71/0,"Vala to Ashfaq Ahmed, 1 run",,,0
-82,80,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 wide ",1st innings,13.2,wide,72,1,72/0,"Vala to Rohan Mustafa, 1 wide",,,0
-83,81,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,13.3,no run,72,0,72/0,"Vala to Rohan Mustafa, no run",,,0
-84,82,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,13.4,no run,72,0,72/0,"Vala to Rohan Mustafa, no run",,,0
-85,83,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,13.5,run,73,1,73/0,"Vala to Rohan Mustafa, 1 run",,,0
-86,84,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,14.0,run,74,1,74/0,"Vala to Ashfaq Ahmed, 1 run",,,0
-87,85,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,14.1,no run,74,0,74/0,"Vanua to Ashfaq Ahmed, no run",,,0
-88,86,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,14.2,run,75,1,75/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
-89,87,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, SIX runs ",1st innings,14.3,six,81,6,81/0,"Vanua to Rohan Mustafa, SIX runs",,,0
-90,88,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,14.4,run,82,1,82/0,"Vanua to Rohan Mustafa, 1 run",,,0
-91,89,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,14.5,run,83,1,83/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
-92,90,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,15.0,no run,83,0,83/0,"Vanua to Rohan Mustafa, no run",,,0
-93,91,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,15.1,run,84,1,84/0,"Vala to Ashfaq Ahmed, 1 run",,,0
-94,92,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,15.2,run,85,1,85/0,"Vala to Rohan Mustafa, 1 run",,,0
-95,93,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,15.3,no run,85,0,85/0,"Vala to Ashfaq Ahmed, no run",,,0
-96,94,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,15.4,no run,85,0,85/0,"Vala to Ashfaq Ahmed, no run",,,0
-97,95,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,15.5,run,86,1,86/0,"Vala to Ashfaq Ahmed, 1 run",,,0
-98,96,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,16.0,no run,86,0,86/0,"Vala to Rohan Mustafa, no run",,,0
-99,97,,,Charles Amini,332980,"Amini to Ashfaq Ahmed, 2 runs ",1st innings,16.1,run,88,2,88/0,"Amini to Ashfaq Ahmed, 2 runs",,,0
-100,98,,,Charles Amini,332980,"Amini to Ashfaq Ahmed, 1 run ",1st innings,16.2,run,89,1,89/0,"Amini to Ashfaq Ahmed, 1 run",,,0
-101,99,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,16.3,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
-102,100,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,16.4,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
-103,101,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,16.5,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
-104,102,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,17.0,run,90,1,90/0,"Amini to Rohan Mustafa, 1 run",,,0
-105,103,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,17.1,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
-106,104,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,17.2,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
-107,105,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,17.3,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
-108,106,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,17.4,run,91,1,91/0,"Nao to Rohan Mustafa, 1 run",,,0
-109,107,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,17.5,no run,91,0,91/0,"Nao to Ashfaq Ahmed, no run",,,0
-110,108,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, OUT ",1st innings,18.0,out,91,0,91/1,"Nao to Ashfaq Ahmed, OUT",,,1
-111,109,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,18.1,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-112,110,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,18.2,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-113,111,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,18.3,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-114,112,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,18.4,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-115,113,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,18.5,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-116,114,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,19.0,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
-117,115,Ghulam Shabber,950303,Alei Nao,524247,"Nao to Ghulam Shabber, OUT ",1st innings,19.1,out,91,0,91/2,"Nao to Ghulam Shabber, OUT",,,2
-118,116,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, 2 runs ",1st innings,19.2,run,93,2,93/2,"Nao to Rameez Shahzad, 2 runs",,,2
-119,117,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,19.3,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
-120,118,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,19.4,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
-121,119,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,19.5,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
-122,120,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, 1 run ",1st innings,20.0,run,94,1,94/2,"Nao to Rameez Shahzad, 1 run",,,2
-123,121,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,20.1,no run,94,0,94/2,"Dai to Rameez Shahzad, no run",,,2
-124,122,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 2 runs ",1st innings,20.2,run,96,2,96/2,"Dai to Rameez Shahzad, 2 runs",,,2
-125,123,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,20.3,no run,96,0,96/2,"Dai to Rameez Shahzad, no run",,,2
-126,124,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,20.4,no run,96,0,96/2,"Dai to Rameez Shahzad, no run",,,2
-127,125,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 1 run ",1st innings,20.5,run,97,1,97/2,"Dai to Rameez Shahzad, 1 run",,,2
-128,126,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,21.0,no run,97,0,97/2,"Dai to Rohan Mustafa, no run",,,2
-129,127,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,21.1,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-130,128,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,21.2,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-131,129,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,21.3,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-132,130,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,21.4,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-133,131,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,21.5,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-134,132,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,22.0,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
-135,133,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,22.1,no run,97,0,97/2,"Dai to Rohan Mustafa, no run",,,2
-136,134,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,22.2,run,98,1,98/2,"Dai to Rohan Mustafa, 1 run",,,2
-137,135,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,22.3,no run,98,0,98/2,"Dai to Rameez Shahzad, no run",,,2
-138,136,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 1 run ",1st innings,22.4,run,99,1,99/2,"Dai to Rameez Shahzad, 1 run",,,2
-139,137,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,22.5,no run,99,0,99/2,"Dai to Rohan Mustafa, no run",,,2
-140,138,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,23.0,no run,99,0,99/2,"Dai to Rohan Mustafa, no run",,,2
-141,139,Rameez Shahzad,220519,Chad Soper,574287,"Soper to Rameez Shahzad, 1 run, OUT ",1st innings,23.1,run,100,1,100/3,"Soper to Rameez Shahzad, 1 run, OUT",,,3
-142,140,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,23.2,no run,100,0,100/3,"Soper to Shaiman Anwar, no run",,,3
-143,141,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,23.3,no run,100,0,100/3,"Soper to Shaiman Anwar, no run",,,3
-144,142,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, 1 run ",1st innings,23.4,run,101,1,101/3,"Soper to Shaiman Anwar, 1 run",,,3
-145,143,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,23.5,no run,101,0,101/3,"Soper to Rohan Mustafa, no run",,,3
-146,144,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,24.0,no run,101,0,101/3,"Soper to Rohan Mustafa, no run",,,3
-147,145,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, FOUR runs ",1st innings,24.1,four,105,4,105/3,"Dai to Shaiman Anwar, FOUR runs",,,3
-148,146,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, 1 run ",1st innings,24.2,run,106,1,106/3,"Dai to Shaiman Anwar, 1 run",,,3
-149,147,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,24.3,run,107,1,107/3,"Dai to Rohan Mustafa, 1 run",,,3
-150,148,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, 1 run ",1st innings,24.4,run,108,1,108/3,"Dai to Shaiman Anwar, 1 run",,,3
-151,149,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,24.5,run,109,1,109/3,"Dai to Rohan Mustafa, 1 run",,,3
-152,150,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, no run ",1st innings,25.0,no run,109,0,109/3,"Dai to Shaiman Anwar, no run",,,3
-153,151,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,25.1,no run,109,0,109/3,"Soper to Rohan Mustafa, no run",,,3
-154,152,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,25.2,run,110,1,110/3,"Soper to Rohan Mustafa, 1 run",,,3
-155,153,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,25.3,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
-156,154,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,25.4,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
-157,155,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,25.5,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
-158,156,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, 1 run ",1st innings,26.0,run,111,1,111/3,"Soper to Shaiman Anwar, 1 run",,,3
-159,157,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,26.1,no run,111,0,111/3,"Amini to Shaiman Anwar, no run",,,3
-160,158,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,26.2,no run,111,0,111/3,"Amini to Shaiman Anwar, no run",,,3
-161,159,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 1 run ",1st innings,26.3,run,112,1,112/3,"Amini to Shaiman Anwar, 1 run",,,3
-162,160,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,26.4,no run,112,0,112/3,"Amini to Rohan Mustafa, no run",,,3
-163,161,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,26.5,no run,112,0,112/3,"Amini to Rohan Mustafa, no run",,,3
-164,162,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,27.0,run,113,1,113/3,"Amini to Rohan Mustafa, 1 run",,,3
-165,163,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 2 runs ",1st innings,27.1,run,115,2,115/3,"Soper to Rohan Mustafa, 2 runs",,,3
-166,164,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,27.2,no run,115,0,115/3,"Soper to Rohan Mustafa, no run",,,3
-167,165,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,27.3,no run,115,0,115/3,"Soper to Rohan Mustafa, no run",,,3
-168,166,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,27.4,four,119,4,119/3,"Soper to Rohan Mustafa, FOUR runs",,,3
-169,167,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 2 runs ",1st innings,27.5,run,121,2,121/3,"Soper to Rohan Mustafa, 2 runs",,,3
-170,168,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,28.0,run,122,1,122/3,"Soper to Rohan Mustafa, 1 run",,,3
-171,169,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,28.1,no run,122,0,122/3,"Amini to Rohan Mustafa, no run",,,3
-172,170,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,28.2,run,123,1,123/3,"Amini to Rohan Mustafa, 1 run",,,3
-173,171,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,28.3,no run,123,0,123/3,"Amini to Shaiman Anwar, no run",,,3
-174,172,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,28.4,no run,123,0,123/3,"Amini to Shaiman Anwar, no run",,,3
-175,173,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 2 runs ",1st innings,28.5,run,125,2,125/3,"Amini to Shaiman Anwar, 2 runs",,,3
-176,174,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,29.0,no run,125,0,125/3,"Amini to Shaiman Anwar, no run",,,3
-177,175,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,29.1,no run,125,0,125/3,"Vala to Rohan Mustafa, no run",,,3
-178,176,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,29.2,no run,125,0,125/3,"Vala to Rohan Mustafa, no run",,,3
-179,177,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 2 runs ",1st innings,29.3,run,127,2,127/3,"Vala to Rohan Mustafa, 2 runs",,,3
-180,178,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,29.4,no run,127,0,127/3,"Vala to Rohan Mustafa, no run",,,3
-181,179,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,29.5,run,128,1,128/3,"Vala to Rohan Mustafa, 1 run",,,3
-182,180,Shaiman Anwar,43121,Assad Vala,25056,"Vala to Shaiman Anwar, 1 run ",1st innings,30.0,run,129,1,129/3,"Vala to Shaiman Anwar, 1 run",,,3
-183,181,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,30.1,no run,129,0,129/3,"Amini to Shaiman Anwar, no run",,,3
-184,182,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,30.2,no run,129,0,129/3,"Amini to Shaiman Anwar, no run",,,3
-185,183,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 2 runs ",1st innings,30.3,run,131,2,131/3,"Amini to Shaiman Anwar, 2 runs",,,3
-186,184,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, OUT ",1st innings,30.4,out,131,0,131/4,"Amini to Shaiman Anwar, OUT",,,4
-187,185,Adnan Mufti,281653,Charles Amini,332980,"Amini to Adnan Mufti, 1 run ",1st innings,30.5,run,132,1,132/4,"Amini to Adnan Mufti, 1 run",,,4
-188,186,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,31.0,no run,132,0,132/4,"Amini to Rohan Mustafa, no run",,,4
-189,187,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 1 run ",1st innings,31.1,run,133,1,133/4,"Vala to Adnan Mufti, 1 run",,,4
-190,188,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,31.2,run,134,1,134/4,"Vala to Rohan Mustafa, 1 run",,,4
-191,189,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 2 runs ",1st innings,31.3,run,136,2,136/4,"Vala to Adnan Mufti, 2 runs",,,4
-192,190,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,31.4,no run,136,0,136/4,"Vala to Adnan Mufti, no run",,,4
-193,191,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,31.5,no run,136,0,136/4,"Vala to Adnan Mufti, no run",,,4
-194,192,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 1 run ",1st innings,32.0,run,137,1,137/4,"Vala to Adnan Mufti, 1 run",,,4
-195,193,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,32.1,run,138,1,138/4,"Dai to Adnan Mufti, 1 run",,,4
-196,194,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,32.2,run,139,1,139/4,"Dai to Rohan Mustafa, 1 run",,,4
-197,195,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,32.3,no run,139,0,139/4,"Dai to Adnan Mufti, no run",,,4
-198,196,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,32.4,run,140,1,140/4,"Dai to Adnan Mufti, 1 run",,,4
-199,197,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,32.5,no run,140,0,140/4,"Dai to Rohan Mustafa, no run",,,4
-200,197,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 wide ",1st innings,32.5,wide,141,1,141/4,"Dai to Rohan Mustafa, 1 wide",,,4
-201,198,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,33.0,no run,141,0,141/4,"Dai to Rohan Mustafa, no run",,,4
-202,199,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,33.1,run,142,1,142/4,"Vanua to Adnan Mufti, 1 run",,,4
-203,200,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,33.2,no run,142,0,142/4,"Vanua to Rohan Mustafa, no run",,,4
-204,201,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,33.3,no run,142,0,142/4,"Vanua to Rohan Mustafa, no run",,,4
-205,202,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,33.4,run,143,1,143/4,"Vanua to Rohan Mustafa, 1 run",,,4
-206,203,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, no run ",1st innings,33.5,no run,143,0,143/4,"Vanua to Adnan Mufti, no run",,,4
-207,204,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,34.0,run,144,1,144/4,"Vanua to Adnan Mufti, 1 run",,,4
-208,205,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,34.1,run,145,1,145/4,"Dai to Adnan Mufti, 1 run",,,4
-209,206,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,34.2,run,146,1,146/4,"Dai to Rohan Mustafa, 1 run",,,4
-210,207,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,34.3,no run,146,0,146/4,"Dai to Adnan Mufti, no run",,,4
-211,208,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 2 runs ",1st innings,34.4,run,148,2,148/4,"Dai to Adnan Mufti, 2 runs",,,4
-212,209,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,34.5,no run,148,0,148/4,"Dai to Adnan Mufti, no run",,,4
-213,210,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,35.0,no run,148,0,148/4,"Dai to Adnan Mufti, no run",,,4
-214,211,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,35.1,run,149,1,149/4,"Vanua to Rohan Mustafa, 1 run",,,4
-215,212,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,35.2,run,150,1,150/4,"Vanua to Adnan Mufti, 1 run",,,4
-216,212,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 wide ",1st innings,35.2,wide,151,1,151/4,"Vanua to Rohan Mustafa, 1 wide",,,4
-217,213,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,35.3,no run,151,0,151/4,"Vanua to Rohan Mustafa, no run",,,4
-218,214,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,35.4,no run,151,0,151/4,"Vanua to Rohan Mustafa, no run",,,4
-219,215,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,35.5,run,152,1,152/4,"Vanua to Rohan Mustafa, 1 run",,,4
-220,216,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, no run ",1st innings,36.0,no run,152,0,152/4,"Vanua to Adnan Mufti, no run",,,4
-221,217,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,36.1,run,153,1,153/4,"Dai to Rohan Mustafa, 1 run",,,4
-222,218,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,36.2,run,154,1,154/4,"Dai to Adnan Mufti, 1 run",,,4
-223,219,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 2 runs ",1st innings,36.3,run,156,2,156/4,"Dai to Rohan Mustafa, 2 runs",,,4
-224,220,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,36.4,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
-225,221,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,36.5,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
-226,222,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,37.0,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
-227,223,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,37.1,run,157,1,157/4,"Vanua to Adnan Mufti, 1 run",,,4
-228,224,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,37.2,no run,157,0,157/4,"Vanua to Rohan Mustafa, no run",,,4
-229,225,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, FOUR runs ",1st innings,37.3,four,161,4,161/4,"Vanua to Rohan Mustafa, FOUR runs",,,4
-230,226,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,37.4,no run,161,0,161/4,"Vanua to Rohan Mustafa, no run",,,4
-231,227,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,37.5,no run,161,0,161/4,"Vanua to Rohan Mustafa, no run",,,4
-232,228,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,38.0,run,162,1,162/4,"Vanua to Rohan Mustafa, 1 run",,,4
-233,229,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,38.1,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
-234,230,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,38.2,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
-235,231,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,38.3,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
-236,232,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 2 runs ",1st innings,38.4,run,164,2,164/4,"Vala to Rohan Mustafa, 2 runs",,,4
-237,233,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,38.5,run,165,1,165/4,"Vala to Rohan Mustafa, 1 run",,,4
-238,234,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,39.0,no run,165,0,165/4,"Vala to Adnan Mufti, no run",,,4
-239,235,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,39.1,run,166,1,166/4,"Soper to Rohan Mustafa, 1 run",,,4
-240,236,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, no run ",1st innings,39.2,no run,166,0,166/4,"Soper to Adnan Mufti, no run",,,4
-241,237,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, 1 run ",1st innings,39.3,run,167,1,167/4,"Soper to Adnan Mufti, 1 run",,,4
-242,238,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,39.4,no run,167,0,167/4,"Soper to Rohan Mustafa, no run",,,4
-243,239,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,39.5,run,168,1,168/4,"Soper to Rohan Mustafa, 1 run",,,4
-244,240,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, no run ",1st innings,40.0,no run,168,0,168/4,"Soper to Adnan Mufti, no run",,,4
-245,241,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run, OUT ",1st innings,40.1,run,169,1,169/5,"Vala to Rohan Mustafa, 1 run, OUT",,,5
-246,242,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,40.2,no run,169,0,169/5,"Vala to Rohan Mustafa, no run",,,5
-247,243,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,40.3,run,170,1,170/5,"Vala to Rohan Mustafa, 1 run",,,5
-248,244,Muhammad Usman,974719,Assad Vala,25056,"Vala to Muhammad Usman, 1 run ",1st innings,40.4,run,171,1,171/5,"Vala to Muhammad Usman, 1 run",,,5
-249,245,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,40.5,run,172,1,172/5,"Vala to Rohan Mustafa, 1 run",,,5
-250,246,Muhammad Usman,974719,Assad Vala,25056,"Vala to Muhammad Usman, 1 run ",1st innings,41.0,run,173,1,173/5,"Vala to Muhammad Usman, 1 run",,,5
-251,247,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 1 run ",1st innings,41.1,run,174,1,174/5,"Soper to Muhammad Usman, 1 run",,,5
-252,248,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,41.2,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
-253,249,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,41.3,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
-254,250,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,41.4,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
-255,251,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,41.5,run,175,1,175/5,"Soper to Rohan Mustafa, 1 run",,,5
-256,252,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 1 run ",1st innings,42.0,run,176,1,176/5,"Soper to Muhammad Usman, 1 run",,,5
-257,263,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, no run ",1st innings,43.5,no run,0,0,0/0,"Soper to Muhammad Usman, no run",,,0
-258,264,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 2 runs ",1st innings,43.6,run,195,2,195/5,"Soper to Muhammad Usman, 2 runs",,,5
-259,265,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,44.1,run,196,1,196/5,"Nao to Rohan Mustafa, 1 run",,,5
-260,266,Muhammad Usman,974719,Alei Nao,524247,"Nao to Muhammad Usman, 1 run ",1st innings,44.2,run,197,1,197/5,"Nao to Muhammad Usman, 1 run",,,5
-261,267,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, SIX runs ",1st innings,44.3,six,203,6,203/5,"Nao to Rohan Mustafa, SIX runs",,,5
-262,268,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 2 runs ",1st innings,44.4,run,205,2,205/5,"Nao to Rohan Mustafa, 2 runs",,,5
-263,269,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,44.5,run,206,1,206/5,"Nao to Rohan Mustafa, 1 run",,,5
-264,270,Muhammad Usman,974719,Alei Nao,524247,"Nao to Muhammad Usman, 1 run ",1st innings,44.6,run,207,1,207/5,"Nao to Muhammad Usman, 1 run",,,5
-265,271,Muhammad Usman,974719,Norman Vanua,524253,"Vanua to Muhammad Usman, no run ",1st innings,45.1,no run,207,0,207/5,"Vanua to Muhammad Usman, no run",,,5
-266,272,Muhammad Usman,974719,Norman Vanua,524253,"Vanua to Muhammad Usman, 1 run ",1st innings,45.2,run,208,1,208/5,"Vanua to Muhammad Usman, 1 run",,,5
-267,273,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, OUT ",1st innings,45.3,out,208,0,208/6,"Vanua to Rohan Mustafa, OUT",,,6
-268,274,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, OUT ",1st innings,45.4,out,208,0,208/7,"Vanua to Rohan Mustafa, OUT",,,7
-269,275,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, no run ",1st innings,45.5,no run,208,0,208/7,"Vanua to Ahmed Raza, no run",,,7
-270,276,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,45.6,run,209,1,209/7,"Vanua to Ahmed Raza, 1 run",,,7
-271,277,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,46.1,no run,209,0,209/7,"Nao to Ahmed Raza, no run",,,7
-272,278,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, 1 run ",1st innings,46.2,run,210,1,210/7,"Nao to Ahmed Raza, 1 run",,,7
-273,279,Amir Hayat,1126253,Alei Nao,524247,"Nao to Amir Hayat, 1 run ",1st innings,46.3,run,211,1,211/7,"Nao to Amir Hayat, 1 run",,,7
-274,280,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,46.4,no run,211,0,211/7,"Nao to Ahmed Raza, no run",,,7
-275,281,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, 1 run ",1st innings,46.5,run,212,1,212/7,"Nao to Ahmed Raza, 1 run",,,7
-276,282,Amir Hayat,1126253,Alei Nao,524247,"Nao to Amir Hayat, 1 run ",1st innings,46.6,run,213,1,213/7,"Nao to Amir Hayat, 1 run",,,7
-277,283,Amir Hayat,1126253,Norman Vanua,524253,"Vanua to Amir Hayat, no run ",1st innings,47.1,no run,213,0,213/7,"Vanua to Amir Hayat, no run",,,7
-278,284,Amir Hayat,1126253,Norman Vanua,524253,"Vanua to Amir Hayat, OUT ",1st innings,47.2,out,213,0,213/8,"Vanua to Amir Hayat, OUT",,,8
-279,285,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,47.3,run,214,1,214/8,"Vanua to Ahmed Raza, 1 run",,,8
-280,285,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 wide ",1st innings,47.3,wide,215,1,215/8,"Vanua to Imran Haider, 1 wide",,,8
-281,286,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 run ",1st innings,47.4,run,216,1,216/8,"Vanua to Imran Haider, 1 run",,,8
-282,287,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,47.5,run,217,1,217/8,"Vanua to Ahmed Raza, 1 run",,,8
-283,288,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 run ",1st innings,47.6,run,218,1,218/8,"Vanua to Imran Haider, 1 run",,,8
-284,289,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,48.1,no run,218,0,218/8,"Nao to Imran Haider, no run",,,8
-285,290,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,48.2,no run,218,0,218/8,"Nao to Imran Haider, no run",,,8
-286,291,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, 2 runs ",1st innings,48.3,run,220,2,220/8,"Nao to Imran Haider, 2 runs",,,8
-287,292,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,48.4,no run,220,0,220/8,"Nao to Imran Haider, no run",,,8
-288,293,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, 1 run ",1st innings,48.5,run,221,1,221/8,"Nao to Imran Haider, 1 run",,,8
-289,294,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,48.6,no run,221,0,221/8,"Nao to Ahmed Raza, no run",,,8
-290,295,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, no run ",1st innings,49.1,no run,221,0,221/8,"Vanua to Imran Haider, no run",,,8
-291,296,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, no run ",1st innings,49.2,no run,221,0,221/8,"Vanua to Imran Haider, no run",,,8
-292,297,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, OUT ",1st innings,49.3,out,221,0,221/9,"Vanua to Imran Haider, OUT",,,9
-293,298,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, OUT ",1st innings,49.4,out,221,0,221/9,"Vanua to Ahmed Raza, OUT",,,9
-294,1,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,0.1,no run,0,0,0/0,"Mohammad Naveed to Morea, no run",,,0
-295,2,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 2 runs ",2nd innings,0.2,run,2,2,2/0,"Mohammad Naveed to Morea, 2 runs",,,0
-296,3,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,0.3,no run,2,0,2/0,"Mohammad Naveed to Morea, no run",,,0
-297,4,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,0.4,run,3,1,3/0,"Mohammad Naveed to Morea, 1 run",,,0
-298,5,Lega Siaka,440990,Mohammad Naveed,533862,"Mohammad Naveed to Siaka, OUT ",2nd innings,0.5,out,3,0,3/1,"Mohammad Naveed to Siaka, OUT",,,1
-299,6,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, no run ",2nd innings,0.6,no run,3,0,3/1,"Mohammad Naveed to Vala, no run",,,1
-300,7,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, no run ",2nd innings,1.1,no run,3,0,3/1,"Amir Hayat to Morea, no run",,,1
-301,8,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, 3 runs ",2nd innings,1.2,run,6,3,6/1,"Amir Hayat to Morea, 3 runs",,,1
-302,9,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, no run ",2nd innings,1.3,no run,6,0,6/1,"Amir Hayat to Vala, no run",,,1
-303,10,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, no run ",2nd innings,1.4,no run,6,0,6/1,"Amir Hayat to Vala, no run",,,1
-304,11,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, 1 run ",2nd innings,1.5,run,7,1,7/1,"Amir Hayat to Vala, 1 run",,,1
-305,12,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, no run ",2nd innings,1.6,no run,7,0,7/1,"Amir Hayat to Morea, no run",,,1
-306,12,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, 1 wide ",2nd innings,2.0,wide,8,1,8/1,"Mohammad Naveed to Vala, 1 wide",,,1
-307,13,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, 1 run ",2nd innings,2.1,run,9,1,9/1,"Mohammad Naveed to Vala, 1 run",,,1
-308,14,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, FOUR runs ",2nd innings,2.2,four,13,4,13/1,"Mohammad Naveed to Morea, FOUR runs",,,1
-309,15,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,2.3,run,14,1,14/1,"Mohammad Naveed to Morea, 1 run",,,1
-310,16,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, OUT ",2nd innings,2.4,out,14,0,14/2,"Mohammad Naveed to Vala, OUT",,,2
-311,17,Sese Bau,420427,Mohammad Naveed,533862,"Mohammad Naveed to Bau, OUT ",2nd innings,2.5,out,14,0,14/3,"Mohammad Naveed to Bau, OUT",,,3
-312,18,Mahuru Dai,25051,Mohammad Naveed,533862,"Mohammad Naveed to Dai, 1 run ",2nd innings,2.6,run,15,1,15/3,"Mohammad Naveed to Dai, 1 run",,,3
-313,19,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,3.1,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
-314,20,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,3.2,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
-315,21,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,3.3,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
-316,22,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,3.4,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
-317,23,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, FOUR runs ",2nd innings,3.5,four,19,4,19/3,"Amir Hayat to Dai, FOUR runs",,,3
-318,24,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,3.6,no run,19,0,19/3,"Amir Hayat to Dai, no run",,,3
-319,25,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,4.1,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
-320,26,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,4.2,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
-321,27,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,4.3,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
-322,28,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,4.4,run,20,1,20/3,"Mohammad Naveed to Morea, 1 run",,,3
-323,29,Mahuru Dai,25051,Mohammad Naveed,533862,"Mohammad Naveed to Dai, 3 runs ",2nd innings,4.5,run,23,3,23/3,"Mohammad Naveed to Dai, 3 runs",,,3
-324,30,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, OUT ",2nd innings,4.6,out,23,0,23/4,"Mohammad Naveed to Morea, OUT",,,4
-325,31,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.1,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-326,32,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.2,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-327,33,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.3,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-328,34,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.4,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-329,35,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.5,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-330,36,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,5.6,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
-331,37,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,6.1,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
-332,38,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,6.2,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
-333,39,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,6.3,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
-334,40,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,6.4,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
-335,41,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, 2 runs ",2nd innings,6.5,run,25,2,25/4,"Mohammad Naveed to Amini, 2 runs",,,4
-336,42,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,6.6,no run,25,0,25/4,"Mohammad Naveed to Amini, no run",,,4
-337,43,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,7.1,run,26,1,26/4,"Rohan Mustafa to Dai, 1 run",,,4
-338,44,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,7.2,no run,26,0,26/4,"Rohan Mustafa to Amini, no run",,,4
-339,45,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,7.3,run,27,1,27/4,"Rohan Mustafa to Amini, 1 run",,,4
-340,46,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,7.4,run,28,1,28/4,"Rohan Mustafa to Dai, 1 run",,,4
-341,47,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,7.5,no run,28,0,28/4,"Rohan Mustafa to Amini, no run",,,4
-342,48,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,7.6,run,29,1,29/4,"Rohan Mustafa to Amini, 1 run",,,4
-343,49,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.1,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-344,50,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.2,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-345,51,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.3,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-346,52,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.4,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-347,53,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.5,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-348,54,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,8.6,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
-349,55,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,9.1,no run,29,0,29/4,"Rohan Mustafa to Dai, no run",,,4
-350,56,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,9.2,run,30,1,30/4,"Rohan Mustafa to Dai, 1 run",,,4
-351,57,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,9.3,no run,30,0,30/4,"Rohan Mustafa to Amini, no run",,,4
-352,57,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 wide ",2nd innings,9.3,wide,31,1,31/4,"Rohan Mustafa to Amini, 1 wide",,,4
-353,58,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,9.4,run,32,1,32/4,"Rohan Mustafa to Amini, 1 run",,,4
-354,59,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,9.5,no run,32,0,32/4,"Rohan Mustafa to Dai, no run",,,4
-355,60,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,9.6,no run,32,0,32/4,"Rohan Mustafa to Dai, no run",,,4
-356,61,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, 2 runs ",2nd innings,10.1,run,34,2,34/4,"Ahmed Raza to Amini, 2 runs",,,4
-357,62,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, 1 run ",2nd innings,10.2,run,35,1,35/4,"Ahmed Raza to Amini, 1 run",,,4
-358,63,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,10.3,no run,35,0,35/4,"Ahmed Raza to Dai, no run",,,4
-359,64,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, 1 run ",2nd innings,10.4,run,36,1,36/4,"Ahmed Raza to Dai, 1 run",,,4
-360,65,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, FOUR runs ",2nd innings,10.5,four,40,4,40/4,"Ahmed Raza to Amini, FOUR runs",,,4
-361,67,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, OUT ",2nd innings,11.1,out,40,0,40/5,"Rohan Mustafa to Dai, OUT",,,5
-362,68,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,11.2,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
-363,69,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,11.3,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
-364,70,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,11.4,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
-365,71,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,11.5,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
-366,72,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,11.6,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
-367,73,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run ",2nd innings,12.1,run,41,1,41/5,"Imran Haider to Amini, 1 run",,,5
-368,74,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, FOUR runs ",2nd innings,12.2,four,45,4,45/5,"Imran Haider to Kila, FOUR runs",,,5
-369,75,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, 1 run ",2nd innings,12.3,run,46,1,46/5,"Imran Haider to Kila, 1 run",,,5
-370,76,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run ",2nd innings,12.4,run,47,1,47/5,"Imran Haider to Amini, 1 run",,,5
-371,77,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,12.5,no run,47,0,47/5,"Imran Haider to Kila, no run",,,5
-372,78,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, 1 run ",2nd innings,12.6,run,48,1,48/5,"Imran Haider to Kila, 1 run",,,5
-373,79,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,13.1,run,49,1,49/5,"Shaiman Anwar to Kila, 1 run",,,5
-374,80,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 2 runs ",2nd innings,13.2,run,51,2,51/5,"Shaiman Anwar to Amini, 2 runs",,,5
-375,81,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, no run ",2nd innings,13.3,no run,51,0,51/5,"Shaiman Anwar to Amini, no run",,,5
-376,82,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,13.4,run,52,1,52/5,"Shaiman Anwar to Amini, 1 run",,,5
-377,83,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, no run ",2nd innings,13.5,no run,52,0,52/5,"Shaiman Anwar to Kila, no run",,,5
-378,84,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,13.6,run,53,1,53/5,"Shaiman Anwar to Kila, 1 run",,,5
-379,85,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.1,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-380,86,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.2,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-381,87,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.3,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-382,88,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.4,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-383,89,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.5,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-384,90,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,14.6,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
-385,91,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, FOUR runs ",2nd innings,15.1,four,57,4,57/5,"Shaiman Anwar to Amini, FOUR runs",,,5
-386,92,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,15.2,run,58,1,58/5,"Shaiman Anwar to Amini, 1 run",,,5
-387,93,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, FOUR runs ",2nd innings,15.3,four,62,4,62/5,"Shaiman Anwar to Kila, FOUR runs",,,5
-388,94,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,15.4,run,63,1,63/5,"Shaiman Anwar to Kila, 1 run",,,5
-389,95,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, no run ",2nd innings,15.5,no run,63,0,63/5,"Shaiman Anwar to Amini, no run",,,5
-390,96,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,15.6,run,64,1,64/5,"Shaiman Anwar to Amini, 1 run",,,5
-391,97,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run, OUT ",2nd innings,16.1,run,65,1,65/6,"Imran Haider to Amini, 1 run, OUT",,,6
-392,98,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,16.2,run,66,1,66/6,"Imran Haider to Vare, 1 run",,,6
-393,99,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, OUT ",2nd innings,16.3,out,66,0,66/7,"Imran Haider to Kila, OUT",,,7
-394,100,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,16.4,no run,66,0,66/7,"Imran Haider to Vare, no run",,,7
-395,101,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,16.5,run,67,1,67/7,"Imran Haider to Vare, 1 run",,,7
-396,102,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, no run ",2nd innings,16.6,no run,67,0,67/7,"Imran Haider to Soper, no run",,,7
-397,103,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,17.1,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
-398,104,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,17.2,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
-399,105,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,17.3,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
-400,106,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,17.4,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
-401,107,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, 1 run ",2nd innings,17.5,run,68,1,68/7,"Ahmed Raza to Vare, 1 run",,,7
-402,108,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, no run ",2nd innings,17.6,no run,68,0,68/7,"Ahmed Raza to Soper, no run",,,7
-403,109,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,18.1,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
-404,110,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,18.2,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
-405,111,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,18.3,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
-406,112,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,18.4,run,69,1,69/7,"Imran Haider to Vare, 1 run",,,7
-407,113,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 1 run ",2nd innings,18.5,run,70,1,70/7,"Imran Haider to Soper, 1 run",,,7
-408,114,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, OUT ",2nd innings,18.6,out,70,0,70/8,"Imran Haider to Vare, OUT",,,8
-409,115,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, no run ",2nd innings,19.1,no run,70,0,70/8,"Ahmed Raza to Soper, no run",,,8
-410,116,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, 1 run ",2nd innings,19.2,run,71,1,71/8,"Ahmed Raza to Soper, 1 run",,,8
-411,117,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,19.3,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
-412,118,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,19.4,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
-413,119,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,19.5,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
-414,120,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,19.6,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
-415,121,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, 1 run ",2nd innings,20.1,run,72,1,72/8,"Mohammad Naveed to Soper, 1 run",,,8
-416,122,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, no run ",2nd innings,20.2,no run,72,0,72/8,"Mohammad Naveed to Vanua, no run",,,8
-417,123,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, 1 run ",2nd innings,20.3,run,73,1,73/8,"Mohammad Naveed to Vanua, 1 run",,,8
-418,124,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, no run ",2nd innings,20.4,no run,73,0,73/8,"Mohammad Naveed to Soper, no run",,,8
-419,125,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, SIX runs ",2nd innings,20.5,six,79,6,79/8,"Mohammad Naveed to Soper, SIX runs",,,8
-420,126,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, 2 runs ",2nd innings,20.6,run,81,2,81/8,"Mohammad Naveed to Soper, 2 runs",,,8
-421,126,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 wide ",2nd innings,21.0,wide,82,1,82/8,"Ahmed Raza to Vanua, 1 wide",,,8
-422,127,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 2 runs ",2nd innings,21.1,run,84,2,84/8,"Ahmed Raza to Vanua, 2 runs",,,8
-423,128,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 run ",2nd innings,21.2,run,85,1,85/8,"Ahmed Raza to Vanua, 1 run",,,8
-424,129,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, 1 run ",2nd innings,21.3,run,86,1,86/8,"Ahmed Raza to Soper, 1 run",,,8
-425,130,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,21.4,no run,86,0,86/8,"Ahmed Raza to Vanua, no run",,,8
-426,131,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, SIX runs ",2nd innings,21.5,six,92,6,92/8,"Ahmed Raza to Vanua, SIX runs",,,8
-427,131,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 wide ",2nd innings,21.5,wide,93,1,93/8,"Ahmed Raza to Vanua, 1 wide",,,8
-428,132,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 run ",2nd innings,21.6,run,94,1,94/8,"Ahmed Raza to Vanua, 1 run",,,8
-429,133,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, FOUR runs ",2nd innings,22.1,four,98,4,98/8,"Imran Haider to Vanua, FOUR runs",,,8
-430,134,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, 1 run ",2nd innings,22.2,run,99,1,99/8,"Imran Haider to Vanua, 1 run",,,8
-431,135,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 2 runs ",2nd innings,22.3,run,101,2,101/8,"Imran Haider to Soper, 2 runs",,,8
-432,136,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 1 run ",2nd innings,22.4,run,102,1,102/8,"Imran Haider to Soper, 1 run",,,8
-433,137,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, no run ",2nd innings,22.5,no run,102,0,102/8,"Imran Haider to Vanua, no run",,,8
-434,138,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, no run ",2nd innings,22.6,no run,102,0,102/8,"Imran Haider to Vanua, no run",,,8
-435,139,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,23.1,run,103,1,103/8,"Rohan Mustafa to Soper, 1 run",,,8
-436,140,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, no run ",2nd innings,23.2,no run,103,0,103/8,"Rohan Mustafa to Vanua, no run",,,8
-437,141,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, 1 bye ",2nd innings,23.3,bye,104,1,104/8,"Rohan Mustafa to Vanua, 1 bye",,,8
-438,142,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,23.4,run,105,1,105/8,"Rohan Mustafa to Soper, 1 run",,,8
-439,143,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, 1 run ",2nd innings,23.5,run,106,1,106/8,"Rohan Mustafa to Vanua, 1 run",,,8
-440,144,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,23.6,run,107,1,107/8,"Rohan Mustafa to Soper, 1 run",,,8
-441,145,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, 1 run ",2nd innings,24.1,run,108,1,108/8,"Amir Hayat to Soper, 1 run",,,8
-442,146,Norman Vanua,524253,Amir Hayat,1126253,"Amir Hayat to Vanua, 1 run ",2nd innings,24.2,run,109,1,109/8,"Amir Hayat to Vanua, 1 run",,,8
-443,147,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, no run ",2nd innings,24.3,no run,109,0,109/8,"Amir Hayat to Soper, no run",,,8
-444,148,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, OUT ",2nd innings,24.4,out,109,0,109/9,"Amir Hayat to Soper, OUT",,,9
-445,149,Alei Nao,524247,Amir Hayat,1126253,"Amir Hayat to Nao, 1 run ",2nd innings,24.5,run,110,1,110/9,"Amir Hayat to Nao, 1 run",,,9
-446,150,Norman Vanua,524253,Amir Hayat,1126253,"Amir Hayat to Vanua, 2 runs ",2nd innings,24.6,run,112,2,112/9,"Amir Hayat to Vanua, 2 runs",,,9
-447,151,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, no run ",2nd innings,25.1,no run,112,0,112/9,"Mohammad Naveed to Nao, no run",,,9
-448,152,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, no run ",2nd innings,25.2,no run,112,0,112/9,"Mohammad Naveed to Nao, no run",,,9
-449,153,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, 1 run ",2nd innings,25.3,run,113,1,113/9,"Mohammad Naveed to Nao, 1 run",,,9
-450,154,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, no run ",2nd innings,25.4,no run,113,0,113/9,"Mohammad Naveed to Vanua, no run",,,9
-451,155,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, OUT ",2nd innings,25.5,out,113,0,113/10,"Mohammad Naveed to Vanua, OUT",,,10
+,ball,batsman,batsman_id,bowler,bowler_id,commentary,innings,otherBatsman,otherBatsman_id,otherBowler,otherBowler_id,overs,playType,runs,runs_scored,score,shortText,speed,text,wickets
+0,1,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,,,0.1,no run,0,0,0/0,"Nao to Rohan Mustafa, no run",,,0
+1,2,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,,,,,0.2,run,1,1,1/0,"Nao to Rohan Mustafa, 1 run",,,0
+2,3,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,,,0.3,no run,1,0,1/0,"Nao to Ashfaq Ahmed, no run",,,0
+3,4,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,,,0.4,run,2,1,2/0,"Nao to Ashfaq Ahmed, 1 run",,,0
+4,5,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,,,0.5,no run,2,0,2/0,"Nao to Rohan Mustafa, no run",,,0
+5,6,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,,,1.0,no run,2,0,2/0,"Nao to Rohan Mustafa, no run",,,0
+6,7,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,1.1,run,3,1,3/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
+7,8,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,,,Alei Nao,524247,1.2,run,4,1,4/0,"Vanua to Rohan Mustafa, 1 run",,,0
+8,9,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 2 leg byes ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,1.3,leg bye,6,2,6/0,"Vanua to Ashfaq Ahmed, 2 leg byes",,,0
+9,10,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 2 runs ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,1.4,run,8,2,8/0,"Vanua to Ashfaq Ahmed, 2 runs",,,0
+10,11,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, FOUR runs ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,1.5,four,12,4,12/0,"Vanua to Ashfaq Ahmed, FOUR runs",,,0
+11,12,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,2.0,run,13,1,13/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
+12,13,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,2.1,no run,13,0,13/0,"Nao to Ashfaq Ahmed, no run",,,0
+13,14,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,2.2,no run,13,0,13/0,"Nao to Ashfaq Ahmed, no run",,,0
+14,15,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 1 leg bye ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,2.3,leg bye,14,1,14/0,"Nao to Ashfaq Ahmed, 1 leg bye",,,0
+15,16,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,2.4,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
+16,17,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,2.5,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
+17,18,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,3.0,no run,14,0,14/0,"Nao to Rohan Mustafa, no run",,,0
+18,19,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,3.1,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+19,20,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,3.2,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+20,21,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,3.3,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+21,22,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,3.4,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+22,23,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,3.5,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+23,24,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,4.0,no run,14,0,14/0,"Vanua to Ashfaq Ahmed, no run",,,0
+24,25,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,,,Norman Vanua,524253,4.1,run,15,1,15/0,"Nao to Rohan Mustafa, 1 run",,,0
+25,26,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,4.2,no run,15,0,15/0,"Nao to Ashfaq Ahmed, no run",,,0
+26,27,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, 2 runs ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,4.3,run,17,2,17/0,"Nao to Ashfaq Ahmed, 2 runs",,,0
+27,28,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,4.4,no run,17,0,17/0,"Nao to Ashfaq Ahmed, no run",,,0
+28,29,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, SIX runs ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,4.5,six,23,6,23/0,"Nao to Ashfaq Ahmed, SIX runs",,,0
+29,30,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,5.0,no run,23,0,23/0,"Nao to Ashfaq Ahmed, no run",,,0
+30,31,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 leg bye ",1st innings,,,Alei Nao,524247,5.1,leg bye,24,1,24/0,"Dai to Rohan Mustafa, 1 leg bye",,,0
+31,32,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, FOUR runs ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,5.2,four,28,4,28/0,"Dai to Ashfaq Ahmed, FOUR runs",,,0
+32,33,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,5.3,run,29,1,29/0,"Dai to Ashfaq Ahmed, 1 run",,,0
+33,34,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,5.4,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
+34,35,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,5.5,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
+35,36,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,6.0,no run,29,0,29/0,"Dai to Rohan Mustafa, no run",,,0
+36,37,,,Chad Soper,574287,"Soper to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,6.1,run,30,1,30/0,"Soper to Ashfaq Ahmed, 1 run",,,0
+37,38,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,6.2,no run,30,0,30/0,"Soper to Rohan Mustafa, no run",,,0
+38,38,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 wide ",1st innings,,,Mahuru Dai,25051,6.2,wide,31,1,31/0,"Soper to Rohan Mustafa, 1 wide",,,0
+39,39,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,6.3,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
+40,40,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,6.4,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
+41,41,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,6.5,no run,31,0,31/0,"Soper to Rohan Mustafa, no run",,,0
+42,42,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,,,Mahuru Dai,25051,7.0,run,32,1,32/0,"Soper to Rohan Mustafa, 1 run",,,0
+43,43,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,7.1,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
+44,44,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,7.2,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
+45,45,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,7.3,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
+46,46,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,7.4,no run,32,0,32/0,"Dai to Rohan Mustafa, no run",,,0
+47,47,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,,,Chad Soper,574287,7.5,run,33,1,33/0,"Dai to Rohan Mustafa, 1 run",,,0
+48,48,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,8.0,no run,33,0,33/0,"Dai to Ashfaq Ahmed, no run",,,0
+49,49,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, SIX runs ",1st innings,,,Mahuru Dai,25051,8.1,six,39,6,39/0,"Soper to Rohan Mustafa, SIX runs",,,0
+50,50,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,,,Mahuru Dai,25051,8.2,four,43,4,43/0,"Soper to Rohan Mustafa, FOUR runs",,,0
+51,51,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,8.3,no run,43,0,43/0,"Soper to Rohan Mustafa, no run",,,0
+52,52,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,,,Mahuru Dai,25051,8.4,four,47,4,47/0,"Soper to Rohan Mustafa, FOUR runs",,,0
+53,53,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,8.5,no run,47,0,47/0,"Soper to Rohan Mustafa, no run",,,0
+54,54,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,,,Mahuru Dai,25051,9.0,no run,47,0,47/0,"Soper to Rohan Mustafa, no run",,,0
+55,55,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, FOUR runs ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,9.1,four,51,4,51/0,"Dai to Ashfaq Ahmed, FOUR runs",,,0
+56,56,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,9.2,no run,51,0,51/0,"Dai to Ashfaq Ahmed, no run",,,0
+57,57,,,Mahuru Dai,25051,"Dai to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,9.3,run,52,1,52/0,"Dai to Ashfaq Ahmed, 1 run",,,0
+58,58,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,9.4,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
+59,59,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,9.5,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
+60,60,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,10.0,no run,52,0,52/0,"Dai to Rohan Mustafa, no run",,,0
+61,61,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,10.1,run,53,1,53/0,"Kila to Ashfaq Ahmed, 1 run",,,0
+62,62,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 1 run ",1st innings,,,Mahuru Dai,25051,10.2,run,54,1,54/0,"Kila to Rohan Mustafa, 1 run",,,0
+63,63,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,10.3,no run,54,0,54/0,"Kila to Ashfaq Ahmed, no run",,,0
+64,64,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,10.4,run,55,1,55/0,"Kila to Ashfaq Ahmed, 1 run",,,0
+65,65,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 1 run ",1st innings,,,Mahuru Dai,25051,10.5,run,56,1,56/0,"Kila to Rohan Mustafa, 1 run",,,0
+66,65,,,Jason Kila,302875,"Kila to Ashfaq Ahmed, (no ball) 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,10.5,run,58,2,58/0,"Kila to Ashfaq Ahmed, (no ball) 1 run",,,0
+67,66,Rohan Mustafa,307808,Jason Kila,302875,"Kila to Rohan Mustafa, 2 runs ",1st innings,,,Mahuru Dai,25051,11.0,run,60,2,60/0,"Kila to Rohan Mustafa, 2 runs",,,0
+68,67,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,11.1,no run,60,0,60/0,"Vala to Ashfaq Ahmed, no run",,,0
+69,68,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, FOUR runs ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,11.2,four,64,4,64/0,"Vala to Ashfaq Ahmed, FOUR runs",,,0
+70,69,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,11.3,no run,64,0,64/0,"Vala to Ashfaq Ahmed, no run",,,0
+71,70,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,11.4,no run,64,0,64/0,"Vala to Ashfaq Ahmed, no run",,,0
+72,71,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, FOUR runs ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,11.5,four,68,4,68/0,"Vala to Ashfaq Ahmed, FOUR runs",,,0
+73,72,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Jason Kila,302875,12.0,run,69,1,69/0,"Vala to Ashfaq Ahmed, 1 run",,,0
+74,73,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,12.1,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
+75,74,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,12.2,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
+76,75,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,12.3,no run,69,0,69/0,"Vanua to Ashfaq Ahmed, no run",,,0
+77,76,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,12.4,run,70,1,70/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
+78,77,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,12.5,no run,70,0,70/0,"Vanua to Rohan Mustafa, no run",,,0
+79,78,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,13.0,no run,70,0,70/0,"Vanua to Rohan Mustafa, no run",,,0
+80,79,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,13.1,no run,70,0,70/0,"Vala to Ashfaq Ahmed, no run",,,0
+81,80,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,13.2,run,71,1,71/0,"Vala to Ashfaq Ahmed, 1 run",,,0
+82,80,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 wide ",1st innings,,,Norman Vanua,524253,13.2,wide,72,1,72/0,"Vala to Rohan Mustafa, 1 wide",,,0
+83,81,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,13.3,no run,72,0,72/0,"Vala to Rohan Mustafa, no run",,,0
+84,82,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,13.4,no run,72,0,72/0,"Vala to Rohan Mustafa, no run",,,0
+85,83,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,,,Norman Vanua,524253,13.5,run,73,1,73/0,"Vala to Rohan Mustafa, 1 run",,,0
+86,84,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,14.0,run,74,1,74/0,"Vala to Ashfaq Ahmed, 1 run",,,0
+87,85,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,14.1,no run,74,0,74/0,"Vanua to Ashfaq Ahmed, no run",,,0
+88,86,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,14.2,run,75,1,75/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
+89,87,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, SIX runs ",1st innings,,,Assad Vala,25056,14.3,six,81,6,81/0,"Vanua to Rohan Mustafa, SIX runs",,,0
+90,88,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,,,Assad Vala,25056,14.4,run,82,1,82/0,"Vanua to Rohan Mustafa, 1 run",,,0
+91,89,,,Norman Vanua,524253,"Vanua to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,14.5,run,83,1,83/0,"Vanua to Ashfaq Ahmed, 1 run",,,0
+92,90,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,15.0,no run,83,0,83/0,"Vanua to Rohan Mustafa, no run",,,0
+93,91,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,15.1,run,84,1,84/0,"Vala to Ashfaq Ahmed, 1 run",,,0
+94,92,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,,,Norman Vanua,524253,15.2,run,85,1,85/0,"Vala to Rohan Mustafa, 1 run",,,0
+95,93,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,15.3,no run,85,0,85/0,"Vala to Ashfaq Ahmed, no run",,,0
+96,94,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,15.4,no run,85,0,85/0,"Vala to Ashfaq Ahmed, no run",,,0
+97,95,,,Assad Vala,25056,"Vala to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,15.5,run,86,1,86/0,"Vala to Ashfaq Ahmed, 1 run",,,0
+98,96,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,,,Norman Vanua,524253,16.0,no run,86,0,86/0,"Vala to Rohan Mustafa, no run",,,0
+99,97,,,Charles Amini,332980,"Amini to Ashfaq Ahmed, 2 runs ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,16.1,run,88,2,88/0,"Amini to Ashfaq Ahmed, 2 runs",,,0
+100,98,,,Charles Amini,332980,"Amini to Ashfaq Ahmed, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,16.2,run,89,1,89/0,"Amini to Ashfaq Ahmed, 1 run",,,0
+101,99,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,16.3,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
+102,100,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,16.4,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
+103,101,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,,,Assad Vala,25056,16.5,no run,89,0,89/0,"Amini to Rohan Mustafa, no run",,,0
+104,102,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,,,Assad Vala,25056,17.0,run,90,1,90/0,"Amini to Rohan Mustafa, 1 run",,,0
+105,103,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Charles Amini,332980,17.1,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
+106,104,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Charles Amini,332980,17.2,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
+107,105,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, no run ",1st innings,,,Charles Amini,332980,17.3,no run,90,0,90/0,"Nao to Rohan Mustafa, no run",,,0
+108,106,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,,,Charles Amini,332980,17.4,run,91,1,91/0,"Nao to Rohan Mustafa, 1 run",,,0
+109,107,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, no run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,17.5,no run,91,0,91/0,"Nao to Ashfaq Ahmed, no run",,,0
+110,108,,,Alei Nao,524247,"Nao to Ashfaq Ahmed, OUT ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,18.0,out,91,0,91/1,"Nao to Ashfaq Ahmed, OUT",,,1
+111,109,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,18.1,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+112,110,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,18.2,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+113,111,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,18.3,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+114,112,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,18.4,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+115,113,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,,,Alei Nao,524247,18.5,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+116,114,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Ghulam Shabber,950303,Alei Nao,524247,19.0,no run,91,0,91/1,"Dai to Rohan Mustafa, no run",,,1
+117,115,Ghulam Shabber,950303,Alei Nao,524247,"Nao to Ghulam Shabber, OUT ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,19.1,out,91,0,91/2,"Nao to Ghulam Shabber, OUT",,,2
+118,116,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, 2 runs ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,19.2,run,93,2,93/2,"Nao to Rameez Shahzad, 2 runs",,,2
+119,117,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,19.3,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
+120,118,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,19.4,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
+121,119,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,19.5,no run,93,0,93/2,"Nao to Rameez Shahzad, no run",,,2
+122,120,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,20.0,run,94,1,94/2,"Nao to Rameez Shahzad, 1 run",,,2
+123,121,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,20.1,no run,94,0,94/2,"Dai to Rameez Shahzad, no run",,,2
+124,122,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 2 runs ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,20.2,run,96,2,96/2,"Dai to Rameez Shahzad, 2 runs",,,2
+125,123,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,20.3,no run,96,0,96/2,"Dai to Rameez Shahzad, no run",,,2
+126,124,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,20.4,no run,96,0,96/2,"Dai to Rameez Shahzad, no run",,,2
+127,125,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,20.5,run,97,1,97/2,"Dai to Rameez Shahzad, 1 run",,,2
+128,126,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Rameez Shahzad,220519,Alei Nao,524247,21.0,no run,97,0,97/2,"Dai to Rohan Mustafa, no run",,,2
+129,127,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,21.1,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+130,128,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,21.2,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+131,129,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,21.3,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+132,130,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,21.4,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+133,131,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,21.5,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+134,132,Rameez Shahzad,220519,Alei Nao,524247,"Nao to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,22.0,no run,97,0,97/2,"Nao to Rameez Shahzad, no run",,,2
+135,133,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Rameez Shahzad,220519,Alei Nao,524247,22.1,no run,97,0,97/2,"Dai to Rohan Mustafa, no run",,,2
+136,134,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Rameez Shahzad,220519,Alei Nao,524247,22.2,run,98,1,98/2,"Dai to Rohan Mustafa, 1 run",,,2
+137,135,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,22.3,no run,98,0,98/2,"Dai to Rameez Shahzad, no run",,,2
+138,136,Rameez Shahzad,220519,Mahuru Dai,25051,"Dai to Rameez Shahzad, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,22.4,run,99,1,99/2,"Dai to Rameez Shahzad, 1 run",,,2
+139,137,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Rameez Shahzad,220519,Alei Nao,524247,22.5,no run,99,0,99/2,"Dai to Rohan Mustafa, no run",,,2
+140,138,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Rameez Shahzad,220519,Alei Nao,524247,23.0,no run,99,0,99/2,"Dai to Rohan Mustafa, no run",,,2
+141,139,Rameez Shahzad,220519,Chad Soper,574287,"Soper to Rameez Shahzad, 1 run, OUT ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,23.1,run,100,1,100/3,"Soper to Rameez Shahzad, 1 run, OUT",,,3
+142,140,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,23.2,no run,100,0,100/3,"Soper to Shaiman Anwar, no run",,,3
+143,141,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,23.3,no run,100,0,100/3,"Soper to Shaiman Anwar, no run",,,3
+144,142,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,23.4,run,101,1,101/3,"Soper to Shaiman Anwar, 1 run",,,3
+145,143,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Mahuru Dai,25051,23.5,no run,101,0,101/3,"Soper to Rohan Mustafa, no run",,,3
+146,144,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Mahuru Dai,25051,24.0,no run,101,0,101/3,"Soper to Rohan Mustafa, no run",,,3
+147,145,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, FOUR runs ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,24.1,four,105,4,105/3,"Dai to Shaiman Anwar, FOUR runs",,,3
+148,146,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,24.2,run,106,1,106/3,"Dai to Shaiman Anwar, 1 run",,,3
+149,147,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,24.3,run,107,1,107/3,"Dai to Rohan Mustafa, 1 run",,,3
+150,148,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,24.4,run,108,1,108/3,"Dai to Shaiman Anwar, 1 run",,,3
+151,149,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,24.5,run,109,1,109/3,"Dai to Rohan Mustafa, 1 run",,,3
+152,150,Shaiman Anwar,43121,Mahuru Dai,25051,"Dai to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,25.0,no run,109,0,109/3,"Dai to Shaiman Anwar, no run",,,3
+153,151,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Mahuru Dai,25051,25.1,no run,109,0,109/3,"Soper to Rohan Mustafa, no run",,,3
+154,152,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Mahuru Dai,25051,25.2,run,110,1,110/3,"Soper to Rohan Mustafa, 1 run",,,3
+155,153,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,25.3,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
+156,154,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,25.4,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
+157,155,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,25.5,no run,110,0,110/3,"Soper to Shaiman Anwar, no run",,,3
+158,156,Shaiman Anwar,43121,Chad Soper,574287,"Soper to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,26.0,run,111,1,111/3,"Soper to Shaiman Anwar, 1 run",,,3
+159,157,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,26.1,no run,111,0,111/3,"Amini to Shaiman Anwar, no run",,,3
+160,158,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,26.2,no run,111,0,111/3,"Amini to Shaiman Anwar, no run",,,3
+161,159,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,26.3,run,112,1,112/3,"Amini to Shaiman Anwar, 1 run",,,3
+162,160,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,26.4,no run,112,0,112/3,"Amini to Rohan Mustafa, no run",,,3
+163,161,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,26.5,no run,112,0,112/3,"Amini to Rohan Mustafa, no run",,,3
+164,162,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,27.0,run,113,1,113/3,"Amini to Rohan Mustafa, 1 run",,,3
+165,163,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 2 runs ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,27.1,run,115,2,115/3,"Soper to Rohan Mustafa, 2 runs",,,3
+166,164,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,27.2,no run,115,0,115/3,"Soper to Rohan Mustafa, no run",,,3
+167,165,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,27.3,no run,115,0,115/3,"Soper to Rohan Mustafa, no run",,,3
+168,166,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, FOUR runs ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,27.4,four,119,4,119/3,"Soper to Rohan Mustafa, FOUR runs",,,3
+169,167,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 2 runs ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,27.5,run,121,2,121/3,"Soper to Rohan Mustafa, 2 runs",,,3
+170,168,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,28.0,run,122,1,122/3,"Soper to Rohan Mustafa, 1 run",,,3
+171,169,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,28.1,no run,122,0,122/3,"Amini to Rohan Mustafa, no run",,,3
+172,170,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Chad Soper,574287,28.2,run,123,1,123/3,"Amini to Rohan Mustafa, 1 run",,,3
+173,171,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,28.3,no run,123,0,123/3,"Amini to Shaiman Anwar, no run",,,3
+174,172,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,28.4,no run,123,0,123/3,"Amini to Shaiman Anwar, no run",,,3
+175,173,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 2 runs ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,28.5,run,125,2,125/3,"Amini to Shaiman Anwar, 2 runs",,,3
+176,174,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,29.0,no run,125,0,125/3,"Amini to Shaiman Anwar, no run",,,3
+177,175,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,29.1,no run,125,0,125/3,"Vala to Rohan Mustafa, no run",,,3
+178,176,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,29.2,no run,125,0,125/3,"Vala to Rohan Mustafa, no run",,,3
+179,177,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 2 runs ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,29.3,run,127,2,127/3,"Vala to Rohan Mustafa, 2 runs",,,3
+180,178,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,29.4,no run,127,0,127/3,"Vala to Rohan Mustafa, no run",,,3
+181,179,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,Shaiman Anwar,43121,Charles Amini,332980,29.5,run,128,1,128/3,"Vala to Rohan Mustafa, 1 run",,,3
+182,180,Shaiman Anwar,43121,Assad Vala,25056,"Vala to Shaiman Anwar, 1 run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,30.0,run,129,1,129/3,"Vala to Shaiman Anwar, 1 run",,,3
+183,181,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,30.1,no run,129,0,129/3,"Amini to Shaiman Anwar, no run",,,3
+184,182,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,30.2,no run,129,0,129/3,"Amini to Shaiman Anwar, no run",,,3
+185,183,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, 2 runs ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,30.3,run,131,2,131/3,"Amini to Shaiman Anwar, 2 runs",,,3
+186,184,Shaiman Anwar,43121,Charles Amini,332980,"Amini to Shaiman Anwar, OUT ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,30.4,out,131,0,131/4,"Amini to Shaiman Anwar, OUT",,,4
+187,185,Adnan Mufti,281653,Charles Amini,332980,"Amini to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,30.5,run,132,1,132/4,"Amini to Adnan Mufti, 1 run",,,4
+188,186,Rohan Mustafa,307808,Charles Amini,332980,"Amini to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,31.0,no run,132,0,132/4,"Amini to Rohan Mustafa, no run",,,4
+189,187,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,31.1,run,133,1,133/4,"Vala to Adnan Mufti, 1 run",,,4
+190,188,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Charles Amini,332980,31.2,run,134,1,134/4,"Vala to Rohan Mustafa, 1 run",,,4
+191,189,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 2 runs ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,31.3,run,136,2,136/4,"Vala to Adnan Mufti, 2 runs",,,4
+192,190,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,31.4,no run,136,0,136/4,"Vala to Adnan Mufti, no run",,,4
+193,191,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,31.5,no run,136,0,136/4,"Vala to Adnan Mufti, no run",,,4
+194,192,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Charles Amini,332980,32.0,run,137,1,137/4,"Vala to Adnan Mufti, 1 run",,,4
+195,193,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,32.1,run,138,1,138/4,"Dai to Adnan Mufti, 1 run",,,4
+196,194,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,32.2,run,139,1,139/4,"Dai to Rohan Mustafa, 1 run",,,4
+197,195,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,32.3,no run,139,0,139/4,"Dai to Adnan Mufti, no run",,,4
+198,196,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,32.4,run,140,1,140/4,"Dai to Adnan Mufti, 1 run",,,4
+199,197,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,32.5,no run,140,0,140/4,"Dai to Rohan Mustafa, no run",,,4
+200,197,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 wide ",1st innings,Adnan Mufti,281653,Assad Vala,25056,32.5,wide,141,1,141/4,"Dai to Rohan Mustafa, 1 wide",,,4
+201,198,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,33.0,no run,141,0,141/4,"Dai to Rohan Mustafa, no run",,,4
+202,199,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,33.1,run,142,1,142/4,"Vanua to Adnan Mufti, 1 run",,,4
+203,200,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,33.2,no run,142,0,142/4,"Vanua to Rohan Mustafa, no run",,,4
+204,201,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,33.3,no run,142,0,142/4,"Vanua to Rohan Mustafa, no run",,,4
+205,202,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,33.4,run,143,1,143/4,"Vanua to Rohan Mustafa, 1 run",,,4
+206,203,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,33.5,no run,143,0,143/4,"Vanua to Adnan Mufti, no run",,,4
+207,204,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,34.0,run,144,1,144/4,"Vanua to Adnan Mufti, 1 run",,,4
+208,205,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,34.1,run,145,1,145/4,"Dai to Adnan Mufti, 1 run",,,4
+209,206,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,34.2,run,146,1,146/4,"Dai to Rohan Mustafa, 1 run",,,4
+210,207,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,34.3,no run,146,0,146/4,"Dai to Adnan Mufti, no run",,,4
+211,208,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 2 runs ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,34.4,run,148,2,148/4,"Dai to Adnan Mufti, 2 runs",,,4
+212,209,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,34.5,no run,148,0,148/4,"Dai to Adnan Mufti, no run",,,4
+213,210,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,35.0,no run,148,0,148/4,"Dai to Adnan Mufti, no run",,,4
+214,211,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,35.1,run,149,1,149/4,"Vanua to Rohan Mustafa, 1 run",,,4
+215,212,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,35.2,run,150,1,150/4,"Vanua to Adnan Mufti, 1 run",,,4
+216,212,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 wide ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,35.2,wide,151,1,151/4,"Vanua to Rohan Mustafa, 1 wide",,,4
+217,213,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,35.3,no run,151,0,151/4,"Vanua to Rohan Mustafa, no run",,,4
+218,214,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,35.4,no run,151,0,151/4,"Vanua to Rohan Mustafa, no run",,,4
+219,215,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,35.5,run,152,1,152/4,"Vanua to Rohan Mustafa, 1 run",,,4
+220,216,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,36.0,no run,152,0,152/4,"Vanua to Adnan Mufti, no run",,,4
+221,217,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,36.1,run,153,1,153/4,"Dai to Rohan Mustafa, 1 run",,,4
+222,218,Adnan Mufti,281653,Mahuru Dai,25051,"Dai to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,36.2,run,154,1,154/4,"Dai to Adnan Mufti, 1 run",,,4
+223,219,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, 2 runs ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,36.3,run,156,2,156/4,"Dai to Rohan Mustafa, 2 runs",,,4
+224,220,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,36.4,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
+225,221,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,36.5,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
+226,222,Rohan Mustafa,307808,Mahuru Dai,25051,"Dai to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,37.0,no run,156,0,156/4,"Dai to Rohan Mustafa, no run",,,4
+227,223,Adnan Mufti,281653,Norman Vanua,524253,"Vanua to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Mahuru Dai,25051,37.1,run,157,1,157/4,"Vanua to Adnan Mufti, 1 run",,,4
+228,224,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,37.2,no run,157,0,157/4,"Vanua to Rohan Mustafa, no run",,,4
+229,225,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, FOUR runs ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,37.3,four,161,4,161/4,"Vanua to Rohan Mustafa, FOUR runs",,,4
+230,226,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,37.4,no run,161,0,161/4,"Vanua to Rohan Mustafa, no run",,,4
+231,227,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,37.5,no run,161,0,161/4,"Vanua to Rohan Mustafa, no run",,,4
+232,228,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Mahuru Dai,25051,38.0,run,162,1,162/4,"Vanua to Rohan Mustafa, 1 run",,,4
+233,229,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,38.1,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
+234,230,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,38.2,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
+235,231,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,38.3,no run,162,0,162/4,"Vala to Rohan Mustafa, no run",,,4
+236,232,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 2 runs ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,38.4,run,164,2,164/4,"Vala to Rohan Mustafa, 2 runs",,,4
+237,233,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Norman Vanua,524253,38.5,run,165,1,165/4,"Vala to Rohan Mustafa, 1 run",,,4
+238,234,Adnan Mufti,281653,Assad Vala,25056,"Vala to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Norman Vanua,524253,39.0,no run,165,0,165/4,"Vala to Adnan Mufti, no run",,,4
+239,235,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,39.1,run,166,1,166/4,"Soper to Rohan Mustafa, 1 run",,,4
+240,236,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,39.2,no run,166,0,166/4,"Soper to Adnan Mufti, no run",,,4
+241,237,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,39.3,run,167,1,167/4,"Soper to Adnan Mufti, 1 run",,,4
+242,238,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,39.4,no run,167,0,167/4,"Soper to Rohan Mustafa, no run",,,4
+243,239,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,Adnan Mufti,281653,Assad Vala,25056,39.5,run,168,1,168/4,"Soper to Rohan Mustafa, 1 run",,,4
+244,240,Adnan Mufti,281653,Chad Soper,574287,"Soper to Adnan Mufti, no run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,40.0,no run,168,0,168/4,"Soper to Adnan Mufti, no run",,,4
+245,241,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run, OUT ",1st innings,Adnan Mufti,281653,Chad Soper,574287,40.1,run,169,1,169/5,"Vala to Rohan Mustafa, 1 run, OUT",,,5
+246,242,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, no run ",1st innings,,,Chad Soper,574287,40.2,no run,169,0,169/5,"Vala to Rohan Mustafa, no run",,,5
+247,243,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,,,Chad Soper,574287,40.3,run,170,1,170/5,"Vala to Rohan Mustafa, 1 run",,,5
+248,244,Muhammad Usman,974719,Assad Vala,25056,"Vala to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,40.4,run,171,1,171/5,"Vala to Muhammad Usman, 1 run",,,5
+249,245,Rohan Mustafa,307808,Assad Vala,25056,"Vala to Rohan Mustafa, 1 run ",1st innings,Muhammad Usman,974719,Chad Soper,574287,40.5,run,172,1,172/5,"Vala to Rohan Mustafa, 1 run",,,5
+250,246,Muhammad Usman,974719,Assad Vala,25056,"Vala to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,41.0,run,173,1,173/5,"Vala to Muhammad Usman, 1 run",,,5
+251,247,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,41.1,run,174,1,174/5,"Soper to Muhammad Usman, 1 run",,,5
+252,248,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Muhammad Usman,974719,Assad Vala,25056,41.2,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
+253,249,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Muhammad Usman,974719,Assad Vala,25056,41.3,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
+254,250,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, no run ",1st innings,Muhammad Usman,974719,Assad Vala,25056,41.4,no run,174,0,174/5,"Soper to Rohan Mustafa, no run",,,5
+255,251,Rohan Mustafa,307808,Chad Soper,574287,"Soper to Rohan Mustafa, 1 run ",1st innings,Muhammad Usman,974719,Assad Vala,25056,41.5,run,175,1,175/5,"Soper to Rohan Mustafa, 1 run",,,5
+256,252,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Assad Vala,25056,42.0,run,176,1,176/5,"Soper to Muhammad Usman, 1 run",,,5
+257,263,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, no run ",1st innings,Rohan Mustafa,307808,,,43.5,no run,0,0,0/0,"Soper to Muhammad Usman, no run",,,0
+258,264,Muhammad Usman,974719,Chad Soper,574287,"Soper to Muhammad Usman, 2 runs ",1st innings,Rohan Mustafa,307808,,,43.6,run,195,2,195/5,"Soper to Muhammad Usman, 2 runs",,,5
+259,265,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,Muhammad Usman,974719,Chad Soper,574287,44.1,run,196,1,196/5,"Nao to Rohan Mustafa, 1 run",,,5
+260,266,Muhammad Usman,974719,Alei Nao,524247,"Nao to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,44.2,run,197,1,197/5,"Nao to Muhammad Usman, 1 run",,,5
+261,267,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, SIX runs ",1st innings,Muhammad Usman,974719,Chad Soper,574287,44.3,six,203,6,203/5,"Nao to Rohan Mustafa, SIX runs",,,5
+262,268,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 2 runs ",1st innings,Muhammad Usman,974719,Chad Soper,574287,44.4,run,205,2,205/5,"Nao to Rohan Mustafa, 2 runs",,,5
+263,269,Rohan Mustafa,307808,Alei Nao,524247,"Nao to Rohan Mustafa, 1 run ",1st innings,Muhammad Usman,974719,Chad Soper,574287,44.5,run,206,1,206/5,"Nao to Rohan Mustafa, 1 run",,,5
+264,270,Muhammad Usman,974719,Alei Nao,524247,"Nao to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Chad Soper,574287,44.6,run,207,1,207/5,"Nao to Muhammad Usman, 1 run",,,5
+265,271,Muhammad Usman,974719,Norman Vanua,524253,"Vanua to Muhammad Usman, no run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,45.1,no run,207,0,207/5,"Vanua to Muhammad Usman, no run",,,5
+266,272,Muhammad Usman,974719,Norman Vanua,524253,"Vanua to Muhammad Usman, 1 run ",1st innings,Rohan Mustafa,307808,Alei Nao,524247,45.2,run,208,1,208/5,"Vanua to Muhammad Usman, 1 run",,,5
+267,273,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, OUT ",1st innings,Muhammad Usman,974719,Alei Nao,524247,45.3,out,208,0,208/6,"Vanua to Rohan Mustafa, OUT",,,6
+268,274,Rohan Mustafa,307808,Norman Vanua,524253,"Vanua to Rohan Mustafa, OUT ",1st innings,Ahmed Raza,245490,Alei Nao,524247,45.4,out,208,0,208/7,"Vanua to Rohan Mustafa, OUT",,,7
+269,275,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, no run ",1st innings,Amir Hayat,1126253,Alei Nao,524247,45.5,no run,208,0,208/7,"Vanua to Ahmed Raza, no run",,,7
+270,276,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,Amir Hayat,1126253,Alei Nao,524247,45.6,run,209,1,209/7,"Vanua to Ahmed Raza, 1 run",,,7
+271,277,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,Amir Hayat,1126253,Norman Vanua,524253,46.1,no run,209,0,209/7,"Nao to Ahmed Raza, no run",,,7
+272,278,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, 1 run ",1st innings,Amir Hayat,1126253,Norman Vanua,524253,46.2,run,210,1,210/7,"Nao to Ahmed Raza, 1 run",,,7
+273,279,Amir Hayat,1126253,Alei Nao,524247,"Nao to Amir Hayat, 1 run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,46.3,run,211,1,211/7,"Nao to Amir Hayat, 1 run",,,7
+274,280,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,Amir Hayat,1126253,Norman Vanua,524253,46.4,no run,211,0,211/7,"Nao to Ahmed Raza, no run",,,7
+275,281,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, 1 run ",1st innings,Amir Hayat,1126253,Norman Vanua,524253,46.5,run,212,1,212/7,"Nao to Ahmed Raza, 1 run",,,7
+276,282,Amir Hayat,1126253,Alei Nao,524247,"Nao to Amir Hayat, 1 run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,46.6,run,213,1,213/7,"Nao to Amir Hayat, 1 run",,,7
+277,283,Amir Hayat,1126253,Norman Vanua,524253,"Vanua to Amir Hayat, no run ",1st innings,Ahmed Raza,245490,Alei Nao,524247,47.1,no run,213,0,213/7,"Vanua to Amir Hayat, no run",,,7
+278,284,Amir Hayat,1126253,Norman Vanua,524253,"Vanua to Amir Hayat, OUT ",1st innings,Ahmed Raza,245490,Alei Nao,524247,47.2,out,213,0,213/8,"Vanua to Amir Hayat, OUT",,,8
+279,285,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,Imran Haider,943275,Alei Nao,524247,47.3,run,214,1,214/8,"Vanua to Ahmed Raza, 1 run",,,8
+280,285,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 wide ",1st innings,Ahmed Raza,245490,Alei Nao,524247,47.3,wide,215,1,215/8,"Vanua to Imran Haider, 1 wide",,,8
+281,286,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 run ",1st innings,Ahmed Raza,245490,Alei Nao,524247,47.4,run,216,1,216/8,"Vanua to Imran Haider, 1 run",,,8
+282,287,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, 1 run ",1st innings,Imran Haider,943275,Alei Nao,524247,47.5,run,217,1,217/8,"Vanua to Ahmed Raza, 1 run",,,8
+283,288,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, 1 run ",1st innings,Ahmed Raza,245490,Alei Nao,524247,47.6,run,218,1,218/8,"Vanua to Imran Haider, 1 run",,,8
+284,289,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,48.1,no run,218,0,218/8,"Nao to Imran Haider, no run",,,8
+285,290,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,48.2,no run,218,0,218/8,"Nao to Imran Haider, no run",,,8
+286,291,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, 2 runs ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,48.3,run,220,2,220/8,"Nao to Imran Haider, 2 runs",,,8
+287,292,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, no run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,48.4,no run,220,0,220/8,"Nao to Imran Haider, no run",,,8
+288,293,Imran Haider,943275,Alei Nao,524247,"Nao to Imran Haider, 1 run ",1st innings,Ahmed Raza,245490,Norman Vanua,524253,48.5,run,221,1,221/8,"Nao to Imran Haider, 1 run",,,8
+289,294,Ahmed Raza,245490,Alei Nao,524247,"Nao to Ahmed Raza, no run ",1st innings,Imran Haider,943275,Norman Vanua,524253,48.6,no run,221,0,221/8,"Nao to Ahmed Raza, no run",,,8
+290,295,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, no run ",1st innings,Ahmed Raza,245490,Alei Nao,524247,49.1,no run,221,0,221/8,"Vanua to Imran Haider, no run",,,8
+291,296,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, no run ",1st innings,Ahmed Raza,245490,Alei Nao,524247,49.2,no run,221,0,221/8,"Vanua to Imran Haider, no run",,,8
+292,297,Imran Haider,943275,Norman Vanua,524253,"Vanua to Imran Haider, OUT ",1st innings,Ahmed Raza,245490,Alei Nao,524247,49.3,out,221,0,221/9,"Vanua to Imran Haider, OUT",,,9
+293,298,Ahmed Raza,245490,Norman Vanua,524253,"Vanua to Ahmed Raza, OUT ",1st innings,Mohammad Naveed,533862,Alei Nao,524247,49.4,out,221,0,221/9,"Vanua to Ahmed Raza, OUT",,,9
+294,1,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,Lega Siaka,440990,,,0.1,no run,0,0,0/0,"Mohammad Naveed to Morea, no run",,,0
+295,2,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 2 runs ",2nd innings,Lega Siaka,440990,,,0.2,run,2,2,2/0,"Mohammad Naveed to Morea, 2 runs",,,0
+296,3,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,Lega Siaka,440990,,,0.3,no run,2,0,2/0,"Mohammad Naveed to Morea, no run",,,0
+297,4,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,Lega Siaka,440990,,,0.4,run,3,1,3/0,"Mohammad Naveed to Morea, 1 run",,,0
+298,5,Lega Siaka,440990,Mohammad Naveed,533862,"Mohammad Naveed to Siaka, OUT ",2nd innings,Vani Morea,387435,,,0.5,out,3,0,3/1,"Mohammad Naveed to Siaka, OUT",,,1
+299,6,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, no run ",2nd innings,Vani Morea,387435,,,0.6,no run,3,0,3/1,"Mohammad Naveed to Vala, no run",,,1
+300,7,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, no run ",2nd innings,Assad Vala,25056,Mohammad Naveed,533862,1.1,no run,3,0,3/1,"Amir Hayat to Morea, no run",,,1
+301,8,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, 3 runs ",2nd innings,Assad Vala,25056,Mohammad Naveed,533862,1.2,run,6,3,6/1,"Amir Hayat to Morea, 3 runs",,,1
+302,9,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,1.3,no run,6,0,6/1,"Amir Hayat to Vala, no run",,,1
+303,10,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,1.4,no run,6,0,6/1,"Amir Hayat to Vala, no run",,,1
+304,11,Assad Vala,25056,Amir Hayat,1126253,"Amir Hayat to Vala, 1 run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,1.5,run,7,1,7/1,"Amir Hayat to Vala, 1 run",,,1
+305,12,Vani Morea,387435,Amir Hayat,1126253,"Amir Hayat to Morea, no run ",2nd innings,Assad Vala,25056,Mohammad Naveed,533862,1.6,no run,7,0,7/1,"Amir Hayat to Morea, no run",,,1
+306,12,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, 1 wide ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,2.0,wide,8,1,8/1,"Mohammad Naveed to Vala, 1 wide",,,1
+307,13,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, 1 run ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,2.1,run,9,1,9/1,"Mohammad Naveed to Vala, 1 run",,,1
+308,14,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, FOUR runs ",2nd innings,Assad Vala,25056,Amir Hayat,1126253,2.2,four,13,4,13/1,"Mohammad Naveed to Morea, FOUR runs",,,1
+309,15,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,Assad Vala,25056,Amir Hayat,1126253,2.3,run,14,1,14/1,"Mohammad Naveed to Morea, 1 run",,,1
+310,16,Assad Vala,25056,Mohammad Naveed,533862,"Mohammad Naveed to Vala, OUT ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,2.4,out,14,0,14/2,"Mohammad Naveed to Vala, OUT",,,2
+311,17,Sese Bau,420427,Mohammad Naveed,533862,"Mohammad Naveed to Bau, OUT ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,2.5,out,14,0,14/3,"Mohammad Naveed to Bau, OUT",,,3
+312,18,Mahuru Dai,25051,Mohammad Naveed,533862,"Mohammad Naveed to Dai, 1 run ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,2.6,run,15,1,15/3,"Mohammad Naveed to Dai, 1 run",,,3
+313,19,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.1,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
+314,20,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.2,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
+315,21,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.3,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
+316,22,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.4,no run,15,0,15/3,"Amir Hayat to Dai, no run",,,3
+317,23,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, FOUR runs ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.5,four,19,4,19/3,"Amir Hayat to Dai, FOUR runs",,,3
+318,24,Mahuru Dai,25051,Amir Hayat,1126253,"Amir Hayat to Dai, no run ",2nd innings,Vani Morea,387435,Mohammad Naveed,533862,3.6,no run,19,0,19/3,"Amir Hayat to Dai, no run",,,3
+319,25,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,Mahuru Dai,25051,Amir Hayat,1126253,4.1,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
+320,26,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,Mahuru Dai,25051,Amir Hayat,1126253,4.2,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
+321,27,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, no run ",2nd innings,Mahuru Dai,25051,Amir Hayat,1126253,4.3,no run,19,0,19/3,"Mohammad Naveed to Morea, no run",,,3
+322,28,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, 1 run ",2nd innings,Mahuru Dai,25051,Amir Hayat,1126253,4.4,run,20,1,20/3,"Mohammad Naveed to Morea, 1 run",,,3
+323,29,Mahuru Dai,25051,Mohammad Naveed,533862,"Mohammad Naveed to Dai, 3 runs ",2nd innings,Vani Morea,387435,Amir Hayat,1126253,4.5,run,23,3,23/3,"Mohammad Naveed to Dai, 3 runs",,,3
+324,30,Vani Morea,387435,Mohammad Naveed,533862,"Mohammad Naveed to Morea, OUT ",2nd innings,Mahuru Dai,25051,Amir Hayat,1126253,4.6,out,23,0,23/4,"Mohammad Naveed to Morea, OUT",,,4
+325,31,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.1,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+326,32,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.2,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+327,33,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.3,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+328,34,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.4,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+329,35,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.5,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+330,36,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,5.6,no run,23,0,23/4,"Ahmed Raza to Dai, no run",,,4
+331,37,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.1,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
+332,38,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.2,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
+333,39,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.3,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
+334,40,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.4,no run,23,0,23/4,"Mohammad Naveed to Amini, no run",,,4
+335,41,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, 2 runs ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.5,run,25,2,25/4,"Mohammad Naveed to Amini, 2 runs",,,4
+336,42,Charles Amini,332980,Mohammad Naveed,533862,"Mohammad Naveed to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,6.6,no run,25,0,25/4,"Mohammad Naveed to Amini, no run",,,4
+337,43,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,7.1,run,26,1,26/4,"Rohan Mustafa to Dai, 1 run",,,4
+338,44,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,Mahuru Dai,25051,Mohammad Naveed,533862,7.2,no run,26,0,26/4,"Rohan Mustafa to Amini, no run",,,4
+339,45,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,Mahuru Dai,25051,Mohammad Naveed,533862,7.3,run,27,1,27/4,"Rohan Mustafa to Amini, 1 run",,,4
+340,46,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,Charles Amini,332980,Mohammad Naveed,533862,7.4,run,28,1,28/4,"Rohan Mustafa to Dai, 1 run",,,4
+341,47,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,Mahuru Dai,25051,Mohammad Naveed,533862,7.5,no run,28,0,28/4,"Rohan Mustafa to Amini, no run",,,4
+342,48,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,Mahuru Dai,25051,Mohammad Naveed,533862,7.6,run,29,1,29/4,"Rohan Mustafa to Amini, 1 run",,,4
+343,49,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.1,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+344,50,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.2,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+345,51,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.3,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+346,52,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.4,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+347,53,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.5,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+348,54,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, no run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,8.6,no run,29,0,29/4,"Ahmed Raza to Amini, no run",,,4
+349,55,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,9.1,no run,29,0,29/4,"Rohan Mustafa to Dai, no run",,,4
+350,56,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, 1 run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,9.2,run,30,1,30/4,"Rohan Mustafa to Dai, 1 run",,,4
+351,57,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, no run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,9.3,no run,30,0,30/4,"Rohan Mustafa to Amini, no run",,,4
+352,57,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 wide ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,9.3,wide,31,1,31/4,"Rohan Mustafa to Amini, 1 wide",,,4
+353,58,Charles Amini,332980,Rohan Mustafa,307808,"Rohan Mustafa to Amini, 1 run ",2nd innings,Mahuru Dai,25051,Ahmed Raza,245490,9.4,run,32,1,32/4,"Rohan Mustafa to Amini, 1 run",,,4
+354,59,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,9.5,no run,32,0,32/4,"Rohan Mustafa to Dai, no run",,,4
+355,60,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,9.6,no run,32,0,32/4,"Rohan Mustafa to Dai, no run",,,4
+356,61,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, 2 runs ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,10.1,run,34,2,34/4,"Ahmed Raza to Amini, 2 runs",,,4
+357,62,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, 1 run ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,10.2,run,35,1,35/4,"Ahmed Raza to Amini, 1 run",,,4
+358,63,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, no run ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,10.3,no run,35,0,35/4,"Ahmed Raza to Dai, no run",,,4
+359,64,Mahuru Dai,25051,Ahmed Raza,245490,"Ahmed Raza to Dai, 1 run ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,10.4,run,36,1,36/4,"Ahmed Raza to Dai, 1 run",,,4
+360,65,Charles Amini,332980,Ahmed Raza,245490,"Ahmed Raza to Amini, FOUR runs ",2nd innings,Mahuru Dai,25051,Rohan Mustafa,307808,10.5,four,40,4,40/4,"Ahmed Raza to Amini, FOUR runs",,,4
+361,67,Mahuru Dai,25051,Rohan Mustafa,307808,"Rohan Mustafa to Dai, OUT ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.1,out,40,0,40/5,"Rohan Mustafa to Dai, OUT",,,5
+362,68,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.2,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
+363,69,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.3,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
+364,70,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.4,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
+365,71,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.5,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
+366,72,Jason Kila,302875,Rohan Mustafa,307808,"Rohan Mustafa to Kila, no run ",2nd innings,Charles Amini,332980,Ahmed Raza,245490,11.6,no run,40,0,40/5,"Rohan Mustafa to Kila, no run",,,5
+367,73,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run ",2nd innings,Jason Kila,302875,Rohan Mustafa,307808,12.1,run,41,1,41/5,"Imran Haider to Amini, 1 run",,,5
+368,74,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, FOUR runs ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,12.2,four,45,4,45/5,"Imran Haider to Kila, FOUR runs",,,5
+369,75,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, 1 run ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,12.3,run,46,1,46/5,"Imran Haider to Kila, 1 run",,,5
+370,76,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run ",2nd innings,Jason Kila,302875,Rohan Mustafa,307808,12.4,run,47,1,47/5,"Imran Haider to Amini, 1 run",,,5
+371,77,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,12.5,no run,47,0,47/5,"Imran Haider to Kila, no run",,,5
+372,78,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, 1 run ",2nd innings,Charles Amini,332980,Rohan Mustafa,307808,12.6,run,48,1,48/5,"Imran Haider to Kila, 1 run",,,5
+373,79,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,Charles Amini,332980,Imran Haider,943275,13.1,run,49,1,49/5,"Shaiman Anwar to Kila, 1 run",,,5
+374,80,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 2 runs ",2nd innings,Jason Kila,302875,Imran Haider,943275,13.2,run,51,2,51/5,"Shaiman Anwar to Amini, 2 runs",,,5
+375,81,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, no run ",2nd innings,Jason Kila,302875,Imran Haider,943275,13.3,no run,51,0,51/5,"Shaiman Anwar to Amini, no run",,,5
+376,82,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,Jason Kila,302875,Imran Haider,943275,13.4,run,52,1,52/5,"Shaiman Anwar to Amini, 1 run",,,5
+377,83,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, no run ",2nd innings,Charles Amini,332980,Imran Haider,943275,13.5,no run,52,0,52/5,"Shaiman Anwar to Kila, no run",,,5
+378,84,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,Charles Amini,332980,Imran Haider,943275,13.6,run,53,1,53/5,"Shaiman Anwar to Kila, 1 run",,,5
+379,85,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.1,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+380,86,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.2,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+381,87,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.3,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+382,88,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.4,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+383,89,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.5,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+384,90,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, no run ",2nd innings,Charles Amini,332980,Shaiman Anwar,43121,14.6,no run,53,0,53/5,"Imran Haider to Kila, no run",,,5
+385,91,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, FOUR runs ",2nd innings,Jason Kila,302875,Imran Haider,943275,15.1,four,57,4,57/5,"Shaiman Anwar to Amini, FOUR runs",,,5
+386,92,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,Jason Kila,302875,Imran Haider,943275,15.2,run,58,1,58/5,"Shaiman Anwar to Amini, 1 run",,,5
+387,93,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, FOUR runs ",2nd innings,Charles Amini,332980,Imran Haider,943275,15.3,four,62,4,62/5,"Shaiman Anwar to Kila, FOUR runs",,,5
+388,94,Jason Kila,302875,Shaiman Anwar,43121,"Shaiman Anwar to Kila, 1 run ",2nd innings,Charles Amini,332980,Imran Haider,943275,15.4,run,63,1,63/5,"Shaiman Anwar to Kila, 1 run",,,5
+389,95,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, no run ",2nd innings,Jason Kila,302875,Imran Haider,943275,15.5,no run,63,0,63/5,"Shaiman Anwar to Amini, no run",,,5
+390,96,Charles Amini,332980,Shaiman Anwar,43121,"Shaiman Anwar to Amini, 1 run ",2nd innings,Jason Kila,302875,Imran Haider,943275,15.6,run,64,1,64/5,"Shaiman Anwar to Amini, 1 run",,,5
+391,97,Charles Amini,332980,Imran Haider,943275,"Imran Haider to Amini, 1 run, OUT ",2nd innings,Jason Kila,302875,Shaiman Anwar,43121,16.1,run,65,1,65/6,"Imran Haider to Amini, 1 run, OUT",,,6
+392,98,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,Jason Kila,302875,Shaiman Anwar,43121,16.2,run,66,1,66/6,"Imran Haider to Vare, 1 run",,,6
+393,99,Jason Kila,302875,Imran Haider,943275,"Imran Haider to Kila, OUT ",2nd innings,Jack Vare,25065,Shaiman Anwar,43121,16.3,out,66,0,66/7,"Imran Haider to Kila, OUT",,,7
+394,100,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,Chad Soper,574287,Shaiman Anwar,43121,16.4,no run,66,0,66/7,"Imran Haider to Vare, no run",,,7
+395,101,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,Chad Soper,574287,Shaiman Anwar,43121,16.5,run,67,1,67/7,"Imran Haider to Vare, 1 run",,,7
+396,102,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, no run ",2nd innings,Jack Vare,25065,Shaiman Anwar,43121,16.6,no run,67,0,67/7,"Imran Haider to Soper, no run",,,7
+397,103,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,17.1,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
+398,104,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,17.2,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
+399,105,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,17.3,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
+400,106,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,17.4,no run,67,0,67/7,"Ahmed Raza to Vare, no run",,,7
+401,107,Jack Vare,25065,Ahmed Raza,245490,"Ahmed Raza to Vare, 1 run ",2nd innings,Chad Soper,574287,Imran Haider,943275,17.5,run,68,1,68/7,"Ahmed Raza to Vare, 1 run",,,7
+402,108,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, no run ",2nd innings,Jack Vare,25065,Imran Haider,943275,17.6,no run,68,0,68/7,"Ahmed Raza to Soper, no run",,,7
+403,109,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,18.1,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
+404,110,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,18.2,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
+405,111,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,18.3,no run,68,0,68/7,"Imran Haider to Vare, no run",,,7
+406,112,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, 1 run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,18.4,run,69,1,69/7,"Imran Haider to Vare, 1 run",,,7
+407,113,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 1 run ",2nd innings,Jack Vare,25065,Ahmed Raza,245490,18.5,run,70,1,70/7,"Imran Haider to Soper, 1 run",,,7
+408,114,Jack Vare,25065,Imran Haider,943275,"Imran Haider to Vare, OUT ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,18.6,out,70,0,70/8,"Imran Haider to Vare, OUT",,,8
+409,115,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, no run ",2nd innings,Norman Vanua,524253,Imran Haider,943275,19.1,no run,70,0,70/8,"Ahmed Raza to Soper, no run",,,8
+410,116,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, 1 run ",2nd innings,Norman Vanua,524253,Imran Haider,943275,19.2,run,71,1,71/8,"Ahmed Raza to Soper, 1 run",,,8
+411,117,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,19.3,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
+412,118,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,19.4,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
+413,119,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,19.5,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
+414,120,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,19.6,no run,71,0,71/8,"Ahmed Raza to Vanua, no run",,,8
+415,121,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, 1 run ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,20.1,run,72,1,72/8,"Mohammad Naveed to Soper, 1 run",,,8
+416,122,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,20.2,no run,72,0,72/8,"Mohammad Naveed to Vanua, no run",,,8
+417,123,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, 1 run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,20.3,run,73,1,73/8,"Mohammad Naveed to Vanua, 1 run",,,8
+418,124,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, no run ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,20.4,no run,73,0,73/8,"Mohammad Naveed to Soper, no run",,,8
+419,125,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, SIX runs ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,20.5,six,79,6,79/8,"Mohammad Naveed to Soper, SIX runs",,,8
+420,126,Chad Soper,574287,Mohammad Naveed,533862,"Mohammad Naveed to Soper, 2 runs ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,20.6,run,81,2,81/8,"Mohammad Naveed to Soper, 2 runs",,,8
+421,126,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 wide ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.0,wide,82,1,82/8,"Ahmed Raza to Vanua, 1 wide",,,8
+422,127,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 2 runs ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.1,run,84,2,84/8,"Ahmed Raza to Vanua, 2 runs",,,8
+423,128,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 run ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.2,run,85,1,85/8,"Ahmed Raza to Vanua, 1 run",,,8
+424,129,Chad Soper,574287,Ahmed Raza,245490,"Ahmed Raza to Soper, 1 run ",2nd innings,Norman Vanua,524253,Mohammad Naveed,533862,21.3,run,86,1,86/8,"Ahmed Raza to Soper, 1 run",,,8
+425,130,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, no run ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.4,no run,86,0,86/8,"Ahmed Raza to Vanua, no run",,,8
+426,131,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, SIX runs ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.5,six,92,6,92/8,"Ahmed Raza to Vanua, SIX runs",,,8
+427,131,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 wide ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.5,wide,93,1,93/8,"Ahmed Raza to Vanua, 1 wide",,,8
+428,132,Norman Vanua,524253,Ahmed Raza,245490,"Ahmed Raza to Vanua, 1 run ",2nd innings,Chad Soper,574287,Mohammad Naveed,533862,21.6,run,94,1,94/8,"Ahmed Raza to Vanua, 1 run",,,8
+429,133,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, FOUR runs ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,22.1,four,98,4,98/8,"Imran Haider to Vanua, FOUR runs",,,8
+430,134,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, 1 run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,22.2,run,99,1,99/8,"Imran Haider to Vanua, 1 run",,,8
+431,135,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 2 runs ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,22.3,run,101,2,101/8,"Imran Haider to Soper, 2 runs",,,8
+432,136,Chad Soper,574287,Imran Haider,943275,"Imran Haider to Soper, 1 run ",2nd innings,Norman Vanua,524253,Ahmed Raza,245490,22.4,run,102,1,102/8,"Imran Haider to Soper, 1 run",,,8
+433,137,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,22.5,no run,102,0,102/8,"Imran Haider to Vanua, no run",,,8
+434,138,Norman Vanua,524253,Imran Haider,943275,"Imran Haider to Vanua, no run ",2nd innings,Chad Soper,574287,Ahmed Raza,245490,22.6,no run,102,0,102/8,"Imran Haider to Vanua, no run",,,8
+435,139,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,Norman Vanua,524253,Imran Haider,943275,23.1,run,103,1,103/8,"Rohan Mustafa to Soper, 1 run",,,8
+436,140,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, no run ",2nd innings,Chad Soper,574287,Imran Haider,943275,23.2,no run,103,0,103/8,"Rohan Mustafa to Vanua, no run",,,8
+437,141,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, 1 bye ",2nd innings,Chad Soper,574287,Imran Haider,943275,23.3,bye,104,1,104/8,"Rohan Mustafa to Vanua, 1 bye",,,8
+438,142,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,Norman Vanua,524253,Imran Haider,943275,23.4,run,105,1,105/8,"Rohan Mustafa to Soper, 1 run",,,8
+439,143,Norman Vanua,524253,Rohan Mustafa,307808,"Rohan Mustafa to Vanua, 1 run ",2nd innings,Chad Soper,574287,Imran Haider,943275,23.5,run,106,1,106/8,"Rohan Mustafa to Vanua, 1 run",,,8
+440,144,Chad Soper,574287,Rohan Mustafa,307808,"Rohan Mustafa to Soper, 1 run ",2nd innings,Norman Vanua,524253,Imran Haider,943275,23.6,run,107,1,107/8,"Rohan Mustafa to Soper, 1 run",,,8
+441,145,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, 1 run ",2nd innings,Norman Vanua,524253,Rohan Mustafa,307808,24.1,run,108,1,108/8,"Amir Hayat to Soper, 1 run",,,8
+442,146,Norman Vanua,524253,Amir Hayat,1126253,"Amir Hayat to Vanua, 1 run ",2nd innings,Chad Soper,574287,Rohan Mustafa,307808,24.2,run,109,1,109/8,"Amir Hayat to Vanua, 1 run",,,8
+443,147,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, no run ",2nd innings,Norman Vanua,524253,Rohan Mustafa,307808,24.3,no run,109,0,109/8,"Amir Hayat to Soper, no run",,,8
+444,148,Chad Soper,574287,Amir Hayat,1126253,"Amir Hayat to Soper, OUT ",2nd innings,Norman Vanua,524253,Rohan Mustafa,307808,24.4,out,109,0,109/9,"Amir Hayat to Soper, OUT",,,9
+445,149,Alei Nao,524247,Amir Hayat,1126253,"Amir Hayat to Nao, 1 run ",2nd innings,Norman Vanua,524253,Rohan Mustafa,307808,24.5,run,110,1,110/9,"Amir Hayat to Nao, 1 run",,,9
+446,150,Norman Vanua,524253,Amir Hayat,1126253,"Amir Hayat to Vanua, 2 runs ",2nd innings,Alei Nao,524247,Rohan Mustafa,307808,24.6,run,112,2,112/9,"Amir Hayat to Vanua, 2 runs",,,9
+447,151,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, no run ",2nd innings,Norman Vanua,524253,Amir Hayat,1126253,25.1,no run,112,0,112/9,"Mohammad Naveed to Nao, no run",,,9
+448,152,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, no run ",2nd innings,Norman Vanua,524253,Amir Hayat,1126253,25.2,no run,112,0,112/9,"Mohammad Naveed to Nao, no run",,,9
+449,153,Alei Nao,524247,Mohammad Naveed,533862,"Mohammad Naveed to Nao, 1 run ",2nd innings,Norman Vanua,524253,Amir Hayat,1126253,25.3,run,113,1,113/9,"Mohammad Naveed to Nao, 1 run",,,9
+450,154,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, no run ",2nd innings,Alei Nao,524247,Amir Hayat,1126253,25.4,no run,113,0,113/9,"Mohammad Naveed to Vanua, no run",,,9
+451,155,Norman Vanua,524253,Mohammad Naveed,533862,"Mohammad Naveed to Vanua, OUT ",2nd innings,Alei Nao,524247,Amir Hayat,1126253,25.5,out,113,0,113/10,"Mohammad Naveed to Vanua, OUT",,,10
