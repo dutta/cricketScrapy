@@ -4,8 +4,11 @@ import json
 import re
 import pathlib
 
+
 """
 Gets all ball_by_ball context from a given match (also requires the seriesID, it is possible there are two matches with the same number)
+REQUIRES: 
+    ROSTERS AND GAME_INFO TO BE LOADED
 """
 def game_ball_by_ball(series_id, match_id):
     a = requests.get('http://site.api.espn.com/apis/site/v2/sports/cricket/%s/playbyplay?contentorigin=espn&event=%s' % (series_id,match_id))

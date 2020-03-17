@@ -31,7 +31,6 @@ def ODI_get_all_ball_by_ball_as_csv(startYear, endYear):
     for year in range(startYear,endYear+1):
         curr_df = ODI_games_meta(year)
         for row in curr_df.itertuples():
-            
             get_ball_by_ball(row)
             
 
@@ -45,4 +44,4 @@ def multiprocesses_ODI_get_all_ball_by_ball_as_csv(startYear, endYear):
         pool.close()
         print('That took {} seconds'.format(time.time() - starttime))
 
-multiprocesses_ODI_get_all_ball_by_ball_as_csv(2016,2020)
+multiprocesses_ODI_get_all_ball_by_ball_as_csv(2020,2020)
